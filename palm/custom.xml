@@ -1,0 +1,45 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Palm, Inc"
+			text.fr="Constructeur: Palm, Inc"
+			text.de="Hersteller: Palm, Inc"
+			text.es="Fabricante: Palm, Inc"
+			text.it="Produttore: Palm, Inc"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 2002"
+			text.fr="Année de sortie: 2002"
+			text.de="Erscheinungsjahr: 2002"
+			text.es="Año de lanzamiento: 2002"
+			text.it="Anno di sortita: 2002"/>
+
+		<text name="info3" extra="true" text="OS : Palm OS version 4.1"/>
+
+		<text name="info4" extra="true" text="CPU : Motorola DragonBall VZ MC68VZ328 @ 33 MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 16 MB RAM"
+			text.fr="RAM : 16 Mo RAM"/>
+
+		<text name="info6" extra="true"
+			text="ROM : 4 MB Flash"
+			text.fr="ROM : 4 Mo Flash"/>
+
+		<text name="info7" extra="true"
+			text="Display : 160×160 pixel (65,000+ colors)"
+			text.fr="Affichage : 160×160 pixels (plus de 65 000 couleurs)"
+			text.de="Display: 160×160 Pixel (mehr als 65.000 Farben)"
+			text.es="Pantalla: 160×160 píxeles (más de 65.000 colores)"
+			text.it="Display: 160×160 pixel (più di 65.000 colori)"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="B2AFAC"/>
+		<image name="band2" color="242443"/>
+		<image name="band3" color="345A89"/>
+		<image name="band4" color="363636"/>
+	</view>
+</theme>

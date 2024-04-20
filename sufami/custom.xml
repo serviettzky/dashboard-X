@@ -1,0 +1,76 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Bandai"
+			text.fr="Constructeur: Bandai"
+			text.de="Hersteller: Bandai"
+			text.es="Fabricante: Bandai"
+			text.it="Produttore: Bandai"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1983"
+			text.fr="Année de sortie: 1983"
+			text.de="Erscheinungsjahr: 1983"
+			text.es="Año de lanzamiento: 1983"
+			text.it="Anno di sortita: 1983"/>
+
+		<text name="info3" extra="true"
+			text="Media : SuFami Turbo Application Cartridge +  Game Cartridges"
+			text.fr="Média : Cartouche d'application SuFami Turbo + Cartouches de jeu"
+			text.de="Medien: SuFami Turbo App-Cartridge + Game-Cartridges"
+			text.es="Medios: Cartucho de aplicación SuFami Turbo + Cartuchos de juego"
+			text.it="Supporti: cartuccia dell'app SuFami Turbo + cartucce di gioco"/>
+
+		<text name="info4" extra="true"
+			text="Bandai's SuFami Turbo gave developers cheaper ways to produce and"
+			text.fr="SuFami Turbo de Bandai a offert aux développeurs des moyens moins"
+			text.de="Bandais SuFami Turbo bot Entwicklern weniger"
+			text.es="SuFami Turbo de Bandai ofreció menos a los desarrolladores"
+			text.it="SuFami Turbo di Bandai ha offerto agli sviluppatori meno"/>
+
+		<text name="info5" extra="true"
+			text="expensive to produce and release a small handful of games"
+			text.fr="coûteux de produire et sortir une petite poignée de jeux"
+			text.de="Es ist teuer, eine kleine Handvoll Spiele zu produzieren und zu veröffentlichen"
+			text.es="caro producir y lanzar un pequeño puñado de juegos"
+			text.it="costoso produrre e rilasciare una manciata di giochi"/>
+
+		<text name="info6" extra="true"
+			text="The two cartridge slots are designed to share data between the games."
+			text.fr="Les deux emplacements pour cartouches sont conçus pour partager des"
+			text.de="Die beiden Kassettensteckplätze sind so konzipiert, dass sie gemeinsam genutzt werden können"
+			text.es="Las dos ranuras para cartuchos están diseñadas para compartir"
+			text.it="I due slot per cartucce sono progettati per essere condivisi"/>
+
+		<text name="info7" extra="true"
+			text="data between games."
+			text.fr="données entre les jeux."
+			text.de="Daten zwischen Spielen."
+			text.es="datos entre juegos."
+			text.it="dati tra i giochi."/>
+
+		<text name="info8" extra="true"
+			text="Slot A will be played, while slot B provides"
+			text.fr="Le slot A sera joué, tandis que le slot B fournit"
+			text.de="Slot A wird gespielt, während Slot B zur Verfügung stellt"
+			text.es="Se jugará en la ranura A, mientras que la ranura B proporciona"
+			text.it="Verrà riprodotto lo slot A, mentre lo slot B prevede"/>
+
+		<text name="info9" extra="true"
+			text="additional data"
+			text.fr="des données supplémentaires."
+			text.de="zusätzliche Daten"
+			text.es="datos adicionales"
+			text.it="dati aggiuntivi"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="FF0000"/>
+		<image name="band2" color="EDDFDE"/>
+		<image name="band3" color="A0C0CF"/>
+		<image name="band4" color="1E2881"/>
+	</view>
+	
+</theme>

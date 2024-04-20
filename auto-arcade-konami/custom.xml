@@ -1,0 +1,48 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true"
+			text="Founded in 1969"
+			text.fr="Fondée en 1969"
+			text.de="Gegründet 1969"
+			text.es="Fundada en 1969"
+			text.it="Fondata nel 1969"/>
+
+		<text name="info2" extra="true"
+			text="Notable Systems: Bemani, GX, TMNT Based,..."
+			text.fr="Systemes Notables: Bemani, GX, TMNT Based..."
+			text.de="Bemerkenswerte Systeme: Bemani, GX, TMNT Based..."
+			text.es="Sistemas notables: Bemani, GX, TMNT Based..."
+			text.it="Sistemi notevoli: Bemani, GX, TMNT Based..."/>
+
+		<text name="info3" extra="true"
+			text="First Game: Time Pilot"
+			text.fr="Premier Jeu: Time Pilot"
+			text.de="Erstes Spiel: Time Pilot"
+			text.es="Primer juego: Time Pilot"
+			text.it="Primo gioco: Time Pilot"/>
+
+		<text name="info4" extra="true"
+			text="Popular Games: Beatmania; Pop'n usic, TwinBee, Escape Kids..."
+			text.fr="Jeux Populaires: Beatmania; Pop'n usic, TwinBee, Escape Kids..."
+			text.de="Beliebte Spiele: Beatmania; Pop'n usic, TwinBee, Escape Kids..."
+			text.es="Juegos populares: Beatmania; Pop'n usic, TwinBee, Escape Kids..."
+			text.it="Giochi popolari: Beatmania; Pop'n usic, TwinBee, Escape Kids..."/>
+
+		<text name="info6" extra="true"
+			text="Find all KONAMI Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade KONAMI."
+			text.de="Hier finden Sie alle KONAMI Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de KONAMI."
+			text.it="Hier finden Sie alle KONAMI Arcade-Spiele."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="bc0224"/>
+		<image name="band2" extra="true" color="000000"/>
+		<image name="band3" extra="true" color="fcfefc"/>
+		<image name="band4" extra="true" color="959595"/>
+	</view>	
+</theme>

@@ -1,0 +1,36 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">		
+		<text name="info1" extra="true"
+			text="Manufacturer : Sega"
+			text.fr="Constructeur: Sega"
+			text.de="Hersteller: Sega"
+			text.es="Fabricante: Sega"
+			text.it="Produttore: Sega"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1993"
+			text.fr="Année de sortie: 1993"
+			text.de="Erscheinungsjahr: 1993"
+			text.es="Año de lanzamiento: 1993"
+			text.it="Anno di sortita: 1993"/>
+
+		<text name="info3" extra="true" text="CPU : 16-bit Motorola 68000 @ 7.6 MHz"/>
+
+		<text name="info4" extra="true"
+			text="Resolution : 320×224 pixels NTSC, 320x240 PAL"
+			text.fr="Resolution : 320×224 pixels NTSC, 320x240 PAL"
+			text.de="Auflösung: 320 x 224 Pixel NTSC, 320 x 240 PAL"
+			text.es="Resolución: 320x224 píxeles NTSC, 320x240 PAL"
+			text.it="Risoluzione: 320x224 pixel NTSC, 320x240 PAL"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="6C378B"/>
+		<image name="band2" color="25BCC1"/>
+		<image name="band3" color="FAC367"/>
+		<image name="band4" color="DB324C"/>
+	</view>
+
+</theme>

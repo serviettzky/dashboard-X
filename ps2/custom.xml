@@ -1,0 +1,63 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Sony Computer Entertainment"
+			text.fr="Constructeur: Sony Computer Entertainment"
+			text.de="Hersteller: Sony Computer Entertainment"
+			text.es="Fabricante: Sony Computer Entertainment"
+			text.it="Produttore: Sony Computer Entertainment"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 2000"
+			text.fr="Année de sortie: 2000"
+			text.de="Erscheinungsjahr: 2000"
+			text.es="Año de lanzamiento: 2000"
+			text.it="Anno di sortita: 2000"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 158 million"
+			text.fr="Unités Vendues : 158 millions"
+			text.de="Verkaufte Einheiten: 158 Millionen"
+			text.es="Unidades vendidas: 158 millones"
+			text.it="Unità vendute: 158 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Grand Theft Auto: San Andreas"
+			text.fr="Jeu le Plus Vendu : Grand Theft Auto: San Andreas"
+			text.de="Meistverkauftes Spiel: Grand Theft Auto: San Andreas"
+			text.es="Juego más vendido: Grand Theft Auto: San Andreas"
+			text.it="Il gioco più venduto: Grand Theft Auto: San Andreas"/>
+
+		<text name="info5" extra="true" text="CPU : R5900-based 'Emotion Engine' @ 294-299 MHz"/>
+
+		<text name="info6" extra="true" text="GPU : 'Graphics Synthesizer' @ 149 MHz"/>
+
+		<text name="info7" extra="true"
+			text="RAM : 32 MB PC800 32-bit dual-channel RDRAM @ 400 MHz"
+			text.fr="RAM : 32 Mo PC800 32-bit dual-channel RDRAM @ 400 MHz"/>
+
+		<text name="info8" extra="true"
+			text="Video RAM : 4 MB"
+			text.fr="Video RAM : 4 Mo"
+			text.de="Video-RAM: 4 MB"
+			text.es="RAM de vídeo: 4 MB"
+			text.it="RAM video: 4 MB"/>
+
+		<text name="info9" extra="true"
+			text="Resolution : 256x224 to 1920x1080"
+			text.fr="Resolution : 256x224 a 1920x1080"
+			text.de="Auflösung: 256x224 bis 1920x1080"
+			text.es="Resolución: 256x224 a 1920x1080"
+			text.it="Risoluzione: da 256x224 a 1920x1080"/>
+		<text name="info10" extra="true" text="Media : DVD, CD"/>		
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="33438A"/>
+		<image name="band2" color="0098DF"/>
+		<image name="band3" color="40A9A8"/>
+		<image name="band4" color="849DCA"/>
+	</view>
+</theme>

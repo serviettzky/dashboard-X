@@ -1,0 +1,76 @@
+<theme>
+	<formatVersion>5</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true"	
+			text="CPU: Hitachi FD1094 & Motorola 68000 @ 10 MHz (16 & 32-bit @ 1.75 MIPS)"
+			text.fr="CPU: Hitachi FD1094 & Motorola 68000 @ 10 MHz (16 & 32-bit @ 1.75 MIPS)"
+			text.de="CPU: Hitachi FD1094 & Motorola 68000 @ 10 MHz (16 & 32-bit @ 1.75 MIPS)"
+			text.es="CPU: Hitachi FD1094 & Motorola 68000 @ 10 MHz (16 & 32-bit @ 1.75 MIPS)"
+			text.it="CPU: Hitachi FD1094 & Motorola 68000 @ 10 MHz (16 & 32-bit @ 1.75 MIPS)"/>
+			
+		<text name="info2" extra="true"	
+			text="Sound: Yamaha YM2151 @ 4 MHz (8 FM synthesis channels)"
+			text.fr="Sound: Yamaha YM2151 @ 4 MHz (8 FM synthesis channels)"
+			text.de="Sound: Yamaha YM2151 @ 4 MHz (8 FM-Synthesekanäle)"
+			text.es="Sonido: Yamaha YM2151 @ 4 MHz (8 canales de síntesis FM)"
+			text.it="Suono: Yamaha YM2151 @ 4 MHz (8 canali di sintesi FM)"/>
+			
+		<text name="info3" extra="true"	
+			text="Resolution: 320×224"
+			text.fr="Resolution: 320×224"
+			text.de="Auflösung: 320×224"
+			text.es="Resolución: 320×224"
+			text.it="Risoluzione: 320×224"/>
+
+		<text name="info4" extra="true"	
+			text="System 16 is a PCB format for arcade machines created by Sega"
+			text.fr="Le System 16 est un format de PCB pour borne d'arcade créé par Sega"
+			text.de="System 16 ist ein von Sega entwickeltes PCB-Format für Arcade-Automaten"
+			text.es="System 16 es un formato PCB para máquinas arcade creado por Sega"
+			text.it="System 16 è un formato PCB per macchine arcade creato da Sega"/>
+
+		<text name="info5" extra="true"
+			text="and released in 1985. Around forty games available have"
+			text.fr="et sorti en 1985. Une quarantaine de jeux disponibles ont"
+			text.de="und 1985 veröffentlicht. Es sind rund vierzig Spiele verfügbar"
+			text.es="y lanzado en 1985. Alrededor de cuarenta juegos disponibles tienen"
+			text.it="e pubblicato nel 1985. Sono disponibili circa quaranta giochi"/>
+
+		<text name="info6" extra="true"
+			text="largely to Sega's popularity in arcades"
+			text.fr="largement à la popularité de Sega dans les salles d'arcade"
+			text.de="Dies ist vor allem auf Segas Beliebtheit in Spielhallen zurückzuführen"
+			text.es="en gran parte a la popularidad de Sega en las salas de juegos"
+			text.it="in gran parte alla popolarità di Sega nelle sale giochi"/>
+
+		<text name="info7" extra="true"
+			text="and ensured the sustainability of the support, which served as the basic architecture for the"
+			text.fr="et assuré la pérennité du support, qui servit d'architecture de base à la"
+			text.de="und stellte die Nachhaltigkeit der Unterstützung sicher, die als grundlegende Architektur für das diente"
+			text.es="y aseguró la sostenibilidad del soporte, que sirvió como arquitectura básica para el"
+			text.it="e ha garantito la sostenibilità del supporto, che fungeva da architettura di base per il"/>
+
+		<text name="info8" extra="true"
+			text="MegaDrive. System 16 comes in two versions, System 16A and System 16B."
+			text.fr="Mega Drive. Le System 16 se décline en deux versions, le System 16A et 16B."
+			text.de="MegaDrive. System 16 gibt es in zwei Versionen, System 16A und System 16B."
+			text.es="MegaDrive. El Sistema 16 viene en dos versiones, el Sistema 16A y el Sistema 16B."
+			text.it="MegaDrive. Il Sistema 16 è disponibile in due versioni, Sistema 16A e Sistema 16B."/>
+
+		<text name="info10" extra="true"
+			text="Find all the SEGA system 16 Arcade Games"
+			text.fr="Retrouvez tous les Jeux d'Arcade SEGA system 16"
+			text.de="Hier finden Sie alle Arcade-Spiele des SEGA-Systems 16"
+			text.es="Encuentra todos los juegos Arcade del sistema SEGA 16"
+			text.it="Trova tutti i giochi arcade del sistema SEGA 16"/>
+	</view>
+	
+	<view name="system, detailed, gameclip"> 
+		<image name="band1" extra="true" color="0060a8"/>
+		<image name="band2" extra="true" color="0084e4"/>
+		<image name="band3" extra="true" color="FF0000"/>
+		<image name="band4" extra="true" color="FFFFFF"/>
+	</view>	
+</theme>

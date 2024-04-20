@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Action RPG games!"
+			text.fr="Jeux d'action-RPG!"
+			text.de="Action-RPG-Spiele!"
+			text.es="¡Juegos de rol y acción!"
+			text.it="Giochi di ruolo e d'azione!"/>
+
+		<text name="info2" extra="true"	text="ex: Chrono Trigger, Secret of Mana, ... "/>
+
+
+		<text name="info3" extra="true"
+			text="Move and Talk, Explore and Fight, Quest and Collect!"
+			text.fr="Bougez et parlez, explorez et combattez, recherchez et collectionnez!"
+			text.de="„Bewegen und reden, erkunden und kämpfen, suchen und sammeln!“"
+			text.es="¡Muévete y habla, explora y lucha, busca y colecciona!"
+			text.it="Muoviti e parla, esplora e combatti, cerca e colleziona!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

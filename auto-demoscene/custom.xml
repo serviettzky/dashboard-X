@@ -1,0 +1,33 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Demos from the Demo Scene"
+			text.fr="Démos de la scène de démonstration"
+			text.de="Demo-Bühnendemos"
+			text.es="Demostraciones de la etapa de demostración"
+			text.it="Demo della fase dimostrativa"/>
+
+		<text name="info2" extra="true"
+			text="Mainly Amiga demos, but also from many other platforms"
+			text.fr="Principalement des démos Amiga, mais aussi de nombreuses autres plateformes"
+			text.de="Hauptsächlich Amiga-Demos, aber auch viele andere Plattformen"
+			text.es="Principalmente demostraciones de Amiga, pero también muchas otras plataformas."
+			text.it="Principalmente demo Amiga, ma anche molte altre piattaforme"/>
+
+		<text name="info3" extra="true"
+			text="Never though this machine could do it! A-w-e-s-o-me!"
+			text.fr="Je n'aurais jamais pensé que cette machine puisse le faire ! G-é-n-i-a-l!"
+			text.de="„Ich hätte nie gedacht, dass diese Maschine das kann! Großartig!“"
+			text.es="¡Nunca pensé que esta máquina pudiera hacerlo! ¡Impresionante!"
+			text.it="Non avrei mai pensato che questa macchina potesse farlo! Fantastico!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

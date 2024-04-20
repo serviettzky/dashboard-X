@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="MMO-RPG games!"
+			text.fr="Jeux de role Massivement Multijoueur MMORPG"
+			text.de="MMO-RPG-Spiele!"
+			text.es="¡Juegos MMO-RPG!"
+			text.it="Giochi MMO-RPG!"/>
+
+		<text name="info2" extra="true"	text="ex: Everquest, World of Warcraft ... "/>
+
+		<text name="info3" extra="true"
+			text="Team up with worldwild players!"
+			text.fr="Faites équipe avec des joueurs du monde entier!"
+			text.de="„Tun Sie sich mit Spielern aus der ganzen Welt zusammen!“"
+			text.es="¡Únete a jugadores de todo el mundo!"
+			text.it="Fai squadra con giocatori da tutto il mondo!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

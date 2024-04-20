@@ -1,0 +1,48 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Founded in 1982"
+			text.fr="Fondée en 1982"
+			text.de="Gegründet 1982"
+			text.es="Fundada en 1982"
+			text.it="Fondata nel 1982"/>
+
+		<text name="info2" extra="true"
+			text="Production: 1983 - 2007"
+			text.fr="Production: 1983 - 2007"
+			text.de="Produktion: 1983 - 2007"
+			text.es="Producción: 1983 - 2007"
+			text.it="Produzione: 1983 - 2007"/>
+
+		<text name="info3" extra="true"
+			text="First Game: Stinger"
+			text.fr="Premier Jeu: Stinger"
+			text.de="Erstes Spiel: Stinger"
+			text.es="Primer juego: Stinger"
+			text.it="Primo gioco: Stinger"/>
+
+		<text name="info4" extra="true"
+			text="Popular Games: Raiden, Dynamite Duke"
+			text.fr="Jeux Populaires: Raiden, Dynamite Duke"
+			text.de="Beliebte Spiele: Raiden, Dynamite Duke"
+			text.es="Juegos populares: Raiden, Dynamite Duke"
+			text.it="Giochi popolari: Raiden, Dynamite Duke"/>
+
+		<text name="info6" extra="true"
+			text="Find all the Seibu Kaihatsu Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade Seibu Kaihatsu."
+			text.de="Hier finden Sie alle Seibu Kaihatsu Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de Seibu Kaihatsu."
+			text.it="Trova tutti i giochi arcade Seibu Kaihatsu."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="193591"/>
+		<image name="band2" extra="true" color="F03190"/>
+		<image name="band3" extra="true" color="FFFFFF"/>
+		<image name="band4" extra="true" color="9C9C9A"/>
+	</view>	
+</theme>

@@ -1,0 +1,48 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Sammy Corporation"
+			text.fr="Constructeur: Sammy Corporation"
+			text.de="Hersteller: Sammy Corporation"
+			text.es="Fabricante: Sammy Corporation"
+			text.it="Produttore: Sammy Corporation"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 2003"
+			text.fr="Annee de Sortie : 2003"
+			text.de="Erscheinungsjahr: 2003"
+			text.es="Año de lanzamiento: 2003"
+			text.it="Anno di uscita: 2003"/>
+
+		<text name="info3" extra="true" text="CPU : Hitachi SH-4 32-bit RISC CPU (@ 200 MHz 360 MIPS / 1.4 GFLOPS)"/>
+
+		<text name="info4" extra="true" text="GPU : NEC-Videologic PowerVR (PVR2DC/CLX2) @ 100 MHz"/>
+
+		<text name="info5" extra="true"
+			text="Sound : ARM7 Yamaha AICA 45 MHZ (with internal 32-bit RISC CPU, 64 channel ADPCM)"
+			text.fr="Son: ARM7 Yamaha AICA 45MHZ (RISC 32 bits interne, ADPCM 64 canaux)"
+			text.de="Sound: ARM7 Yamaha AICA 45 MHz (mit interner 32-Bit-RISC-CPU, 64-Kanal-ADPCM)"
+			text.es="Sonido: ARM7 Yamaha AICA 45 MHZ (con CPU RISC interna de 32 bits, ADPCM de 64 canales)"
+			text.it="Suono: ARM7 Yamaha AICA 45 MHZ (con CPU RISC interna a 32 bit, ADPCM a 64 canali)"/>
+		
+		<text name="info6" extra="true"
+			text="RAM : 40 MB"
+			text.fr="RAM: 40 Mo"/>
+
+		<text name="info7" extra="true"
+			text="Media : ROM Board (max. size of 168 MB)"
+			text.fr="Media: Carte ROM (taille maximale de 168 Mo)"
+			text.de="Medien: ROM-Karte (max. Größe 168 MB)"
+			text.es="Medios: Placa ROM (tamaño máximo de 168 MB)"
+			text.it="Supporto: scheda ROM (dimensione massima 168 MB)"/>
+		</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C11127"/>
+		<image name="band2" extra="true" color="FF6B00"/>
+		<image name="band3" extra="true" color="04EF94"/>
+		<image name="band4" extra="true" color="029205"/>
+	</view>
+</theme>

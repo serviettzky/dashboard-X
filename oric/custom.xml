@@ -1,0 +1,65 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Developer : Tangerine Computer Systems"
+			text.fr="Developpeur: Tangerine Computer Systems"
+			text.de="Entwickler: Tangerine Computer Systems"
+			text.es="Desarrollador: Tangerine Computer Systems"
+			text.it="Sviluppatore: Tangerine Computer Systems"/>
+
+		<text name="info2" extra="true"
+			text="Manufacturer : Tangerine Computer Systems"
+			text.fr="Constructeur: Tangerine Computer Systems"
+			text.de="Hersteller: Tangerine Computer Systems"
+			text.es="Fabricante: Tangerine Computer Systems"
+			text.it="Produttore: Tangerine Computer Systems"/>
+
+		<text name="info3" extra="true" text="OS : Tangerine/Microsoft Extended Basic v1.0"/>
+
+		<text name="info4" extra="true"
+			text="Year of Release : 1982"
+			text.fr="Année de sortie: 1982"
+			text.de="Erscheinungsjahr: 1982"
+			text.es="Año de lanzamiento: 1982"
+			text.it="Anno di sortita: 1982"/>
+
+		<text name="info5" extra="true"
+			text="Units sold : 210000"
+			text.fr="Unités Vendues : 210000"
+			text.de="Verkaufte Einheiten: 210000"
+			text.es="Unidades vendidas: 210000"
+			text.it="Unità vendute: 210000"/>
+
+		<text name="info6" extra="true" text="CPU : MOS 6502A @ 1 MHz"/>
+
+		<text name="info7" extra="true"
+			text="Memory : 16 KB / 48 KB"
+			text.fr="Memoire : 16 Ko / 48 Ko"
+			text.de="Speicher: 16 KB / 48 KB"
+			text.es="Memoria: 16 KB / 48 KB"
+			text.it="Memoria: 16KB/48KB"/>
+
+		<text name="info8" extra="true"
+			text="Storage : Tape recorder, 300 and 2400 baud"
+			text.fr="Stockage : Magnétophone, 300 et 2400 bauds"
+			text.de="Speicherung: Tonbandgerät, 300 und 2400 Baud"
+			text.es="Almacenamiento: Grabadora, 300 y 2400 baudios"
+			text.it="Memorizzazione: registratore a nastro, 300 e 2400 baud"/>
+
+		<text name="info9" extra="true"
+			text="Graphics : 40×28 text characters/ 240×200 pixels, 8 colours"
+			text.fr="Graphiques : 40×28 caractères de texte/ 240×200 pixels, 8 couleurs"
+			text.de="Grafiken: 40×28 Textzeichen/240×200 Pixel, 8 Farben"
+			text.es="Gráficos: 40×28 caracteres de texto/240×200 píxeles, 8 colores"
+			text.it="Grafica: 40×28 caratteri di testo/240×200 pixel, 8 colori"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="BFB8A8"/>
+		<image name="band2" color="207EA4"/>
+		<image name="band3" color="77776D"/>
+		<image name="band4" color="9E9C8F"/>
+	</view>
+</theme>

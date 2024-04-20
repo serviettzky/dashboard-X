@@ -1,0 +1,68 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"
+			text="Manufacturer : Nintendo"
+			text.fr="Constructeur: Nintendo"
+			text.de="Hersteller: Nintendo"
+			text.es="Fabricante: Nintendo"
+			text.it="Produttore: Nintendo"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1986"
+			text.fr="Année de sortie: 1986"
+			text.de="Erscheinungsjahr: 1986"
+			text.es="Año de lanzamiento: 1986"
+			text.it="Anno di sortita: 1986"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 4.44 million"
+			text.fr="Unités Vendues : 4.44 millions"
+			text.de="Verkaufte Einheiten: 4.44 Millionen"
+			text.es="Unidades vendidas: 4.44 millones"
+			text.it="Unità vendute: 4.44 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Super Mario Bros. 2"
+			text.fr="Jeu le Plus Vendu : Super Mario Bros. 2"
+			text.de="Meistverkauftes Spiel: Super Mario Bros. 2"
+			text.es="Juego más vendido: Super Mario Bros. 2"
+			text.it="Il gioco più venduto: Super Mario Bros. 2"/>
+
+		<text name="info5" extra="true" text="CPU : Ricoh 2A03 8 Bit processor"/>
+
+		<text name="info6" extra="true"
+			text="RAM : 32 KB"
+			text.fr="RAM : 32Ko"/>
+
+		<text name="info7" extra="true"
+			text="Disk space : 112 Ko"
+			text.fr="Espace Disque : 112 Ko"
+			text.de="Speicherplatz: 112 KB"
+			text.es="Espacio en disco: 112 KB"
+			text.it="Spazio su disco: 112 KB"/>
+
+		<text name="info8" extra="true"
+			text="Audio/Video processor : Uses Famicom hardware"
+			text.fr="Processeur audio/vidéo: utilise le matériel Famicom"
+			text.de="Audio-/Videoprozessor: Verwendet Famicom-Hardware"
+			text.es="Procesador de audio/vídeo: utiliza hardware Famicom"
+			text.it="Processore audio/video: utilizza l'hardware Famicom"/>
+
+		<text name="info9" extra="true"
+			text="Ports : Uses Famicom hardware"
+			text.fr="Ports: Utilise le matériel Famicom"
+			text.de="Ports: Verwendet Famicom-Hardware"
+			text.es="Puertos: Utiliza hardware Famicom"
+			text.it="Porte: utilizza l'hardware Famicom"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="A71636"/>
+		<image name="band2" color="C7AF89"/>
+		<image name="band3" color="3C3C3B"/>
+		<image name="band4" color="F4B600"/>
+	</view>
+</theme>

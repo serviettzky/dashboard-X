@@ -1,0 +1,76 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Developer: Joel Berez and Marc Blank"
+			text.fr="Developeur: Joel Berez and Marc Blank"
+			text.de="Entwickler: Joel Perez und Max Blank"
+			text.es="Desarrollador: Joel Pérez y Max Blank"
+			text.it="Sviluppatore: Joel Perez e Max Blank"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1979"
+			text.fr="Année de sortie: 1979"
+			text.de="Erscheinungsjahr: 1979"
+			text.es="Año de lanzamiento: 1979"
+			text.it="Anno di sortita: 1979"/>
+
+		<text name="info3" extra="true"
+			text="Device: Keyboard"
+			text.fr="Péripherique:Clavier"
+			text.de="Gerät: Tastatur"
+			text.es="Dispositivo: teclado"
+			text.it="Dispositivo: tastiera"/>
+
+		<text name="info4" extra="true"
+			text="Display: 640x480 pixels"
+			text.fr="Affichage: 640x480 pixels"
+			text.de="Anzeige: 640 x 480 Pixel"
+			text.es="Pantalla: 640x480 píxeles"
+			text.it="Visualizzazione: 640x480 pixel"/>
+
+		<text name="info5" extra="true"
+			text="Z-Machine is a virtual machine used by Infocom"
+			text.fr="Z-Machine est une machine virtuelle utilisée par Infocom"
+			text.de="Z-Machine ist eine virtuelle Maschine, die von Infocom verwendet wird"
+			text.es="Z-Machine es una máquina virtual utilizada por Infocom"
+			text.it="Z-Machine è una macchina virtuale utilizzata da Infocom"/>
+
+		<text name="info6" extra="true"
+			text="for its text adventure games. Infocom compiled game code"
+			text.fr="pour ses jeux d'aventure textuels. Code de jeu compilé par Infocom"
+			text.de="für seine Text-Adventure-Spiele. Von Infocom zusammengestellter Spielcode"
+			text.es="por sus juegos de aventuras de texto. Código de juego compilado por Infocom"
+			text.it="per i suoi giochi di avventure testuali. Codice del gioco compilato da Infocom"/>
+
+		<text name="info7" extra="true"
+			text="to files containing Z-machine instructions and could therefore"
+			text.fr="aux fichiers contenant des instructions Z-machine et pourrait donc"
+			text.de="auf Dateien mit Z-Maschinenanweisungen und könnte daher"
+			text.es="a archivos que contienen instrucciones de la máquina Z y, por lo tanto, podrían"
+			text.it="per i suoi giochi di avventure testuali. Codice del gioco compilato da Infocom"/>
+
+		<text name="info8" extra="true"
+			text="port its text adventures to a new platform simply by"
+			text.fr="porter ses aventures textuelles sur une nouvelle plateforme simplement en"
+			text.de="Bringen Sie seine Textabenteuer einfach auf eine neue Plattform"
+			text.es="lleva sus aventuras de texto a una nueva plataforma simplemente"
+			text.it="porta le sue avventure testuali su una nuova piattaforma semplicemente"/>
+
+		<text name="info9" extra="true"
+			text="writing a Z-machine implementation for that platform."
+			text.fr="écrire une implémentation de machine Z pour cette plate-forme."
+			text.de="Schreiben Sie eine A-Maschinen-Implementierung für diese Plattform."
+			text.es="Escriba una implementación de máquina A para esta plataforma."
+			text.it="Scrivi un'implementazione di una macchina per questa piattaforma."/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="EEF5F8"/>
+		<image name="band2" color="81F2CC"/>
+		<image name="band3" color="3A3A3A"/>
+		<image name="band4" color="488EAA"/>
+	</view>
+
+</theme>

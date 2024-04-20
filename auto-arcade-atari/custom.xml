@@ -1,0 +1,41 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"
+			text="Founded in 1972"
+			text.fr="Fondée en 1972"
+			text.de="Gegründet 1972"
+			text.es="Fundada en 1972"
+			text.it="Fondata nel 1972"/>
+
+		<text name="info2" extra="true"
+			text="First Game: Anti-Aircraft "
+			text.fr="Premier Jeu: Anti-Aircraft "
+			text.de="Erstes Spiel: Anti-Aircraft "
+			text.es="Primer juego: Anti-Aircraft "
+			text.it="Primo gioco: Anti-Aircraft "/>
+
+		<text name="info3" extra="true"
+			text="Known games: Breakout, Pong, Asteroids, Paperboy"
+			text.fr="Jeux connus: Breakout, Pong, Asteroids, Paperboy"
+			text.de="Bekannte Spiele: Breakout, Pong, Asteroids, Paperboy"
+			text.es="Juegos conocidos: Breakout, Pong, Asteroids, Paperboy"
+			text.it="Giochi conosciuti: Breakout, Pong, Asteroids, Paperboy"/>
+
+		<text name="info5" extra="true"
+			text="Find all ATARI Arcade games."
+			text.fr="Retrouvez tous les jeux d'Arcade ATARI."
+			text.de="Hier finden Sie alle ATARI Arcade-Spiele."
+			text.es="Encuentra todos los juegos de ATARI Arcade."
+			text.it="Trova tutti i giochi ATARI Arcade."/>
+	</view>
+
+	<view name="system, detailed, gameclip">		
+		<image name="band1" extra="true" color="B30000"/>
+		<image name="band2" extra="true" color="000000"/>
+		<image name="band3" extra="true" color="FFFFFF"/>
+		<image name="band4" extra="true" color="B30000"/>
+	</view>	
+</theme>

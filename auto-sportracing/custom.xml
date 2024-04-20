@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Racing Sport Simulation games!"
+			text.fr="Jeux de simulation de sport de course!"
+			text.de="Rennsport-Simulatorspiele!"
+			text.es="¡Juegos de simuladores de deportes de carreras!"
+			text.it="Giochi di simulazione di sport da corsa!<"/>
+
+		<text name="info2" extra="true"	text="ex: Daytona USA, Sega Rally, Indy 500, ..."/>
+
+		<text name="info3" extra="true"
+			text="I'm faster than fast. Quicker than quick!"
+			text.fr="Je suis plus rapide que rapide. Plus vite que vite!"
+			text.de="„Ich bin schneller als schnell. Schneller als schnell!“"
+			text.es="Soy más rápido que rápido. ¡Más rápido que rápido!"
+			text.it="Sono più veloce che veloce. Più veloce che veloce!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

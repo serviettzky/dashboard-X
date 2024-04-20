@@ -1,0 +1,42 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Sci-Fi Simulation games!"
+			text.fr="Jeux de simulation de science-fiction!"
+			text.de="Science-Fiction-Simulationsspiele!"
+			text.es="¡Juegos de simulación de ciencia ficción!"
+			text.it="Giochi di simulazione fantascientifici!"/>
+
+		<text name="info2" extra="true"	text="ex: Deuteros, Elite, Homeworld ..."/>
+
+		<text name="info3" extra="true"
+			text="To explore strange new worlds,"
+			text.fr="Explorer de nouveaux mondes étranges,"
+			text.de="„Erkunde seltsame neue Welten,"
+			text.es="Explora mundos nuevos y extraños,"
+			text.it="Esplora strani nuovi mondi,"/>
+
+		<text name="info4" extra="true"
+			text="to seek out new life and new civilizations,"
+			text.fr="rechercher une nouvelle vie et de nouvelles civilisations"
+			text.de="Suche nach neuem Leben und neuen Zivilisationen"
+			text.es="búsqueda de nueva vida y nuevas civilizaciones"
+			text.it="ricerca di nuova vita e nuove civiltà"/>
+
+		<text name="info5" extra="true"
+			text="to go where no man has gone before!"
+			text.fr="aller là où aucun homme n'est allé auparavant!"
+			text.de="dorthin zu gehen, wo noch kein Mensch zuvor gewesen ist!"
+			text.es="¡Ir a donde ningún hombre ha ido antes!"
+			text.it="per andare dove nessun uomo è mai giunto prima!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

@@ -1,0 +1,67 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Epyx / Atari"
+			text.fr="Constructeur : Epyx / Atari"
+			text.de="Hersteller: Epyx / Atari"
+			text.es="Fabricante : Epyx / Atari"
+			text.it="Produttore: Epyx / Atari"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1989"
+			text.fr="Annee de Sortie : 1989"
+			text.de="Erscheinungsjahr: 1989"
+			text.es="Año de lanzamiento: 1989"
+			text.it="Anno di uscita: 1989"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 1 million"
+			text.fr="Unité Vendues : 1 millions"
+			text.de="Verkaufte Einheiten: 1 Millionen"
+			text.es="Unidades vendidas: 1 millones"
+			text.it="Unità vendute: 1 milioni"/>
+
+		<text name="info4" extra="true"
+			text="CPU : 8-bit with 16-bit address space"
+			text.fr="CPU : 8 bits avec un espace d'adressage de 16 bits"
+			text.de="CPU: 8-Bit mit 16-Bit-Adressraum"
+			text.es="CPU: 8 bits con espacio de direcciones de 16 bits"
+			text.it="CPU: 8 bit con spazio indirizzi a 16 bit"/>
+
+		<text name="info5" extra="true"
+			text="Co-Processors : Mikey and Suzy 2 x 16-bit"
+			text.fr="Co-Processeurs : Mikey et Suzy 2 x 16-bit"
+			text.de="Co-Prozessoren: Mikey und Suzy 2 x 16-Bit"
+			text.es="Coprocesadores: Mikey y Suzy 2 x 16 bits"
+			text.it="Co-processori: Mikey e Suzy 2 x 16 bit"/>
+
+		<text name="info6" extra="true" text="RAM : 64K 120 ns DRAM"/>
+
+		<text name="info7" extra="true"
+			text="ROM : 512 bytes"
+			text.fr="ROM : 512 octets"/>
+
+		<text name="info8" extra="true"
+			text="Resolution : 160 x 102 pixels"
+			text.fr="Resolution : 160 x 102 pixels"
+			text.de="Auflösung: 160 x 102 Pixel"
+			text.es="Resolución: 160 x 102 píxeles"
+			text.it="Risoluzione: 160 x 102 pixel"/>
+
+		<text name="info9" extra="true"
+			text="Sound :  4 channels, 8-bit DAC"
+			text.fr="Son : 4 canaux, 8-bit DAC"
+			text.de="Ton: 4 Kanäle, 8-Bit-DAC"
+			text.es="Sonido: 4 canales, DAC de 8 bits"
+			text.it="Suono: 4 canali, DAC a 8 bit"/>
+	</view>	
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="FD6420"/>
+		<image name="band2" color="404040"/>
+		<image name="band3" color="F38900"/>
+		<image name="band4" color="262626"/>	
+	</view>
+</theme>

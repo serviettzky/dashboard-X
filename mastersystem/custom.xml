@@ -1,0 +1,80 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Sega"
+			text.fr="Constructeur : Sega"
+			text.de="Hersteller: Sega"
+			text.es="Fabricante : Sega"
+			text.it="Produttore: Sega"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1985"
+			text.fr="Annee de Sortie : 1985"
+			text.de="Erscheinungsjahr: 1985"
+			text.es="Año de lanzamiento: 1985"
+			text.it="Anno di uscita: 1985"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 13 million"
+			text.fr="Unité Vendues : 13 millions"
+			text.de="Verkaufte Einheiten: 13 Millionen"
+			text.es="Unidades vendidas: 13 millones"
+			text.it="Unità vendute: 13 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Alex Kidd in Miracle World"
+			text.fr="Jeu le Plus Vendu : Alex Kidd in Miracle World"
+			text.de="Meistverkauftes Spiel: Alex Kidd in Miracle World"
+			text.es="Juego más vendido: Alex Kidd in Miracle World"
+			text.it="Il gioco più venduto: Alex Kidd in Miracle World"/>
+
+		<text name="info5" extra="true" text="CPU : 8-Bit Zilog Z80 @ 3.58 MHz"/>
+
+		<text name="info6" extra="true"
+			text="RAM : 8kB / VRAM : 16kB"
+			text.fr="RAM : 8ko / VRAM : 16ko"/>
+
+		<text name="info7" extra="true"
+			text="Video : Sega VDP (custom Texas Instruments TMS9918)"
+			text.fr="Vidéo : Sega VDP (Texas Instruments TMS9918 personnalisé)"
+			text.de="Video: Sega VDP (kundenspezifisches Texas Instruments TMS9918)"
+			text.es="Vídeo: Sega VDP (Texas Instruments TMS9918 personalizado)"
+			text.it="Video: Sega VDP (custom Texas Instruments TMS9918)"/>
+
+		<text name="info8" extra="true"
+			text="Resolution : 256 × 192 pixels, 32 colors (64 colors palette)"
+			text.fr="Resolution : 256 × 192 pixels, 32 couleurs (Palette de 64 couleurs)"
+			text.de="Auflösung: 256 × 192 Pixel, 32 Farben (64-Farben-Palette)"
+			text.es="Resolución: 256 × 192 píxeles, 32 colores (paleta de 64 colores)"
+			text.it="Risoluzione: 256 × 192 pixel, 32 colori (tavolozza di 64 colori)"/>
+
+		<text name="info9" extra="true"
+			text="Sound : TI SN76489 PSG / add-on module YM2413 FM"
+			text.fr="Son : TI SN76489 PSG / module complémentaire YM2413 FM"
+			text.de="Sound: TI SN76489 PSG / YM2413 FM-Add-on"
+			text.es="Sonido: complemento TI SN76489 PSG / YM2413 FM"
+			text.it="Suono: componente aggiuntivo TI SN76489 PSG / YM2413 FM"/>
+
+		<text name="info10" extra="true"
+			text="Cart Size : 32kB - 1MB"
+			text.fr="Taille des Cartouches : 32Ko - 1Mo"
+			text.de="Patronengröße: 32 KB - 1 MB"
+			text.es="Tamaño del cartucho: 32 KB - 1 MB"
+			text.it="Dimensioni cartuccia: 32KB - 1MB"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="CBCBCB"/>
+		<image name="band2" color="165193"/>
+		<image name="band3" color="E60000"/>
+		<image name="band4" color="1A1A1A"/>
+	</view>
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="C6C6BB" region="jp"/>
+		<image name="band2" color="94A079" region="jp"/>
+		<image name="band3" color="1A82C5" region="jp"/>
+		<image name="band4" color="EED98E" region="jp"/>
+	</view>
+</theme>

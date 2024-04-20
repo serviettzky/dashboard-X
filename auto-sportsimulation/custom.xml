@@ -1,0 +1,29 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Sport Simulation games!"
+			text.fr="Jeux de simulation sportive!"
+			text.de="Sportsimulationsspiele!"
+			text.es="¡Juegos de simulación deportiva!"
+			text.it="Giochi di simulazione sportiva!<"/>
+
+		<text name="info2" extra="true"	
+			text="ex: FIFA Soccer, Passing Shot, NHL Series, ... "/>
+
+		<text name="info3" extra="true"
+			text="Who said video-games are not sports?!"
+			text.fr="Qui a dit que les jeux vidéo n'étaient pas du sport ??!"
+			text.de="„Wer hat gesagt, dass Videospiele kein Sport sind?!“"
+			text.es="“¿¿Quién dijo que los videojuegos no eran deportes??”"
+			text.it="“Chi ha detto che i videogiochi non sono sport?!”"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

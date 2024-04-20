@@ -1,0 +1,55 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Founded in 1992"
+			text.fr="Fondée en 1992"
+			text.de="Gegründet 1992"
+			text.es="Fundada en 1992"
+			text.it="Fondata nel 1992"/>
+
+		<text name="info2" extra="true" 	
+			text="Production: 1993 - 2005"
+			text.fr="Production: 1993 - 2005"
+			text.de="Produktion: 1993 - 2005"
+			text.es="Producción: 1993 - 2005"
+			text.it="Produzione: 1993 - 2005"/>
+			
+		<text name="info3" extra="true" 	
+			text="Systems: Psikyo 1st Generation, Psikyo SH2"
+			text.fr="Systemes: Psikyo 1st Generation, Psikyo SH2"
+			text.de="Systeme: Psikyo 1. Generation, Psikyo SH2"
+			text.es="Sistemas: Psikyo 1ª Generación, Psikyo SH2"
+			text.it="Sistemi: Psikyo 1a generazione, Psikyo SH2"/>
+
+		<text name="info4" extra="true"
+			text="First Game: Sengoku Ace"
+			text.fr="Premier Jeu: Sengoku Ace"
+			text.de="Erstes Spiel: Sengoku Ace"
+			text.es="Primer juego: Sengoku Ace"
+			text.it="Primo gioco: Sengoku Ace"/>
+
+		<text name="info5" extra="true"
+			text="Popular games: Gunbird, Strikers 1945,Zero Gunner 2"
+			text.fr="Jeux populaires: Gunbird, Strikers 1945,Zero Gunner 2"
+			text.de="Beliebte Spiele: Gunbird, Strikers 1945,Zero Gunner 2"
+			text.es="Juegos populares: Gunbird, Strikers 1945,Zero Gunner 2"
+			text.it="Giochi popolari: Gunbird, Strikers 1945,Zero Gunner 2"/>
+
+		<text name="info7" extra="true"
+			text="Find all the Psikyo Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade Psikyo."
+			text.de="Hier finden Sie alle Arcade-Spiele von Psikyo."
+			text.es="Encuentra todos los juegos arcade de Psikyo."
+			text.it="Trova tutti i giochi arcade Psikyo."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="000000"/>
+		<image name="band2" extra="true" color="ff2100"/>
+		<image name="band3" extra="true" color="ffffff"/>
+		<image name="band4" extra="true" color="959595"/>
+	</view>	
+</theme>

@@ -1,0 +1,33 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Sport Simulation games!"
+			text.fr="Jeux de stratégie génériques"
+			text.de="Allgemeine Strategiespiele"
+			text.es="Juegos de estrategia genéricos."
+			text.it="Giochi di strategia generici<"/>
+
+		<text name="info2" extra="true"	
+			text="that do no fit any of"
+			text.fr="qui ne correspondent à aucun des"
+			text.de="die keinem der entsprechen"
+			text.es="que no corresponden a ninguno de los"
+			text.it="che non corrispondono a nessuno dei"/>
+
+		<text name="info3" extra="true"
+			text="other Strategy genres!"
+			text.fr="autres genres de stratégie!"
+			text.de="andere Arten von Strategie!"
+			text.es="¡Otros tipos de estrategia!"
+			text.it="altri tipi di strategia!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

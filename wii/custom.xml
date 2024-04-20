@@ -1,0 +1,64 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Developer / Manufacturer : Nintendo / Foxconn"
+			text.fr="Développeur / Fabricant : Nintendo / Foxconn"
+			text.de="Entwickler/Hersteller: Nintendo/Foxconn"
+			text.es="Desarrollador / Fabricante: Nintendo / Foxconn"
+			text.it="Sviluppatore/Produttore: Nintendo/Foxconn"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 2006"
+			text.fr="Année de sortie: 2006"
+			text.de="Erscheinungsjahr: 2006"
+			text.es="Año de lanzamiento: 2006"
+			text.it="Anno di sortita: 2006"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 101.63 million"
+			text.fr="Unités Vendues : 101.63 millions"
+			text.de="Verkaufte Einheiten: 101.63 Millionen"
+			text.es="Unidades vendidas: 101.63 millones"
+			text.it="Unità vendute: 101.63 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Wii Sports"
+			text.fr="Jeu le Plus Vendu : Wii Sports"
+			text.de="Meistverkauftes Spiel: Wii Sports"
+			text.es="Juego más vendido: Wii Sports"
+			text.it="Il gioco più venduto: Wii Sports"/>
+
+		<text name="info5" extra="true" text="CPU : IBM PowerPC 'Broadway' @ 729 MHz"/>
+
+		<text name="info6" extra="true"
+			text="RAM : 88 MB"
+			text.fr="RAM : 88 Mo"/>
+
+		<text name="info7" extra="true" text="Video : ATI 'Hollywood' @ 243 MHz"/>
+
+		<text name="info8" extra="true"
+			text="Resolution : 480i/p (PAL/NTSC)or 576i (PAL/SECAM), 4:3 and 16:9"
+			text.fr="Résolution : 480i/p (PAL/NTSC)ou 576i (PAL/SECAM), 4:3 et 16:9"
+			text.de="Auflösung: 480i/p (PAL/NTSC) oder 576i (PAL/SECAM), 4:3 und 16:9"
+			text.es="Resolución: 480i/p (PAL/NTSC) o 576i (PAL/SECAM), 4:3 y 16:9"
+			text.it="Risoluzione: 480i/p (PAL/NTSC) o 576i (PAL/SECAM), 4:3 e 16:9"/>
+
+		<text name="info9" extra="true"
+			text="Sound : Stereo - Dolby Pro Logic II-capable"
+			text.fr="Son : Stéréo - Compatible Dolby Pro Logic II"
+			text.de="Ton: Stereo – Dolby Pro Logic II-kompatibel"
+			text.es="Sonido: Estéreo - compatible con Dolby Pro Logic II"
+			text.it="Suono: Stereo - Compatibile con Dolby Pro Logic II"/>
+
+		<text name="info10" extra="true" text="Media : 4.7/8.54 GB DVD"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="24A9E2"/>
+		<image name="band2" color="D1D1D1"/>
+		<image name="band3" color="005C9A"/>
+		<image name="band4" color="1E1C1A"/>
+	</view>	
+</theme>

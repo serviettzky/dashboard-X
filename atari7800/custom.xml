@@ -1,0 +1,60 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Atari Corporation"
+			text.fr="Constructeur : Atari Corporation"
+			text.de="Hersteller: Atari Corporation"
+			text.es="Fabricante: Atari Corporation"
+			text.it="Produttore: Atari Corporation"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1986"
+			text.fr="Annee de Sortie : 1986"
+			text.de="Erscheinungsjahr: 1986"
+			text.es="Año de lanzamiento: 1986"
+			text.it="Anno di uscita: 1986"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 3,77 million"
+			text.fr="Unité Vendues : 3,77 millions"
+			text.de="Verkaufte Einheiten: 3,77 Millionen"
+			text.es="Unidades vendidas: 3,77 millones"
+			text.it="Unità vendute: 3,77 milioni"/>
+
+		<text name="info4" extra="true" text="CPU : Atari SALLY 6502 ('6502C') @ 1.19-1.79MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 4KB"
+			text.fr="RAM : 4Ko"/>
+
+		<text name="info6" extra="true"
+			text="Cartridge ROM : 48KB"
+			text.fr="artouche ROM : 48Ko"
+			text.de="ROM-Kassette: 48 KB"
+			text.es="Cartucho ROM: 48 KB"
+			text.it="Cartuccia ROM: 48KB"/>
+
+		<text name="info7" extra="true"
+			text="Audio/Video Processor : TIA/MARIA custom graphics controller"
+			text.fr="Audio/Video Processeur : Contrôleur graphique personnalisé TIA/MARIA"
+			text.de="Audio-/Videoprozessor: Benutzerdefinierter TIA/MARIA-Grafikcontroller"
+			text.es="Procesador de audio/vídeo: controlador de gráficos personalizado TIA/MARIA"
+			text.it="Processore audio/video: controller grafico personalizzato TIA/MARIA"/>
+
+		<text name="info8" extra="true"
+			text="Ports : 2 joystick ports, 1 cartridge port, 1 expansion connector, power in, RF output"
+			text.fr="Ports : 2 joystick, 1 cartouche, 1 connecteur d'extension, sortie RF"
+			text.de="Anschlüsse: 2 Joysticks, 1 Kartusche, 1 Erweiterungsanschluss, HF-Ausgang"
+			text.es="Puertos: 2 joystick, 1 cartucho, 1 conector de expansión, salida RF"
+			text.it="Porte: 2 joystick, 1 cartuccia, 1 connettore di espansione, uscita RF"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="BABBBD"/>
+		<image name="band2" extra="true" color="AA2C39"/>
+		<image name="band3" extra="true" color="A7B0B5"/>
+		<image name="band4" extra="true" color="333333"/>
+	</view>
+</theme>

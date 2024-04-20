@@ -1,0 +1,81 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"
+			text="Manufacturer : Atari Corporation"
+			text.fr="Constructeur : Atari Corporation"
+			text.de="Hersteller: Atari Corporation"
+			text.es="Fabricante : Atari Corporation"
+			text.it="Produttore: Atari Corporation"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1977"
+			text.fr="Annee de Sortie : 1977"
+			text.de="Erscheinungsjahr: 1977"
+			text.es="Año de lanzamiento: 1977"
+			text.it="Anno di uscita: 1977"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 30 million"
+			text.fr="Unité Vendues : 30 millions"
+			text.de="Verkaufte Einheiten: 30 Millionen"
+			text.es="Unidades vendidas: 30 millones"
+			text.it="Unità vendute: 30 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Pac-Man"
+			text.fr="Jeu le plus vendu : Pac-Man"
+			text.de="Meistverkauftes Spiel: Pac-Man"
+			text.es="Juego más vendido: Pac-Man"
+			text.it="Gioco più venduto: Pac-Man"/>
+
+		<text name="info5" extra="true" text="CPU : 8-bit MOS 6507 @ 1.19 MHz"/>
+		
+		<text name="info6" extra="true"
+			text="RAM : 128 bytes"
+			text.fr="RAM : 8 ko"/>
+
+		<text name="info7" extra="true"
+			text="Audio/Video Processor : TIA"
+			text.fr="Processeur Audio/Video: TIA"
+			text.de="Audio-/Videoprozessor: TIA"
+			text.es="Procesador de audio/vídeo: TIA"
+			text.it="Processore audio/video: TIA"/>
+			
+		<text name="info8" extra="true"
+			text="Resolution : 160 x 192 pixels, 4 colors per line (128 colors)"
+			text.fr="Resolution : 160 x 192 pixels, 4 couleurs par ligne (128 couleurs)"
+			text.de="Auflösung: 160 x 192 Pixel, 4 Farben pro Zeile (128-Farben)"
+			text.es="Resolución: 160 x 192 píxeles, 4 colores por línea (128 colores)"
+			text.it="Risoluzione: 160 x 192 pixel, 4 colori per linea (128 colori)"/>
+
+		<text name="info9" extra="true"
+			text="Sound : 2 channels of 1-bit monaural sound with 4-bit volume control"
+			text.fr="Son : 2 canaux de son monaural 1 bit avec contrôle du volume 4 bits"
+			text.de="Ton: 2 Kanäle mit 1-Bit-Monoton mit 4-Bit-Lautstärkeregelung"
+			text.es="Sonido: 2 canales de sonido monoaural de 1 bit con control de volumen de 4 bits"
+			text.it="Suono: 2 canali di audio mono a 1 bit con controllo del volume a 4 bit"/>
+
+		<text name="info10" extra="true"
+			text="Cart Size : 2kB - 32kB"
+			text.fr="Taille des Cartouches : 2Ko - 32Ko"
+			text.de="Warenkorbgröße: 2kB - 32kB"
+			text.es="Tamaño del carrito: 2kB - 32kB"
+			text.it="Dimensioni carrello: 2kB - 32kB"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="E6CC33"/>
+		<image name="band2" color="B63738"/>
+		<image name="band3" color="2F8FBA"/>
+		<image name="band4" color="7EAA66"/>
+	</view>
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="C1272A" region="jp"/>
+		<image name="band2" color="651966" region="jp"/>
+		<image name="band3" color="1C267D" region="jp"/>
+		<image name="band4" color="0B562F" region="jp"/>
+	</view>
+</theme>

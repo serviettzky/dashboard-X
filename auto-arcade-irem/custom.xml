@@ -1,0 +1,54 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Founded in 1974"
+			text.fr="Fondée en 1974"
+			text.de="Gegründet 1974"
+			text.es="Fundada en 1974"
+			text.it="Fondata nel 1974"/>
+
+		<text name="info2" extra="true"
+			text="Production: 1979 - 1995"
+			text.fr="Production: 1979 - 1995"
+			text.de="Produktion: 1979 - 1995"
+			text.es="Producción: 1979 - 1995"
+			text.it="Produzione: 1979 - 1995"/>
+
+		<text name="info3" extra="true" 	
+			text="Irem brings together 17 systems ranging from M10 to M107"
+			text.fr="Irem regroupe 17 systemes Allant de M10 a M107"
+			text.de="Irem vereint 17 Systeme von M10 bis M107"
+			text.es="Irem reúne 17 sistemas que van desde M10 hasta M107"
+			text.it="Irem riunisce 17 sistemi che vanno da M10 a M107"/>
+		
+		<text name="info4" extra="true"
+			text="First Game: Andromeda"
+			text.fr="Premier Jeu: Andromeda"
+			text.de="Erstes Spiel: Andromeda"
+			text.es="Primer juego: Andrómeda"
+			text.it="Primo gioco: Andromeda"/>
+
+		<text name="info5" extra="true"
+			text="Popular Games: R-Type, In the Hunt, Spelunker"
+			text.fr="Jeux Populaires: R-Type, In the Hunt, Spelunker"
+			text.de="Beliebte Spiele: R-Type, In the Hunt, Spelunker"
+			text.es="Juegos populares: R-Type, In the Hunt, Spelunker"
+			text.it="Giochi popolari: R-Type, In the Hunt, Spelunker"/>
+
+		<text name="info7" extra="true"
+			text="Find all IREM Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade IREM."
+			text.de="Finden Sie alle IREM Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de IREM."
+			text.it="Trova tutti i giochi Arcade IREM."/>
+	</view>
+	
+	<view name="system, detailed, gameclip"> 
+		<image name="band1" extra="true" color="e94b46"/>
+		<image name="band2" extra="true" color="3a459a"/>
+		<image name="band3" extra="true" color="000000"/>
+		<image name="band4" extra="true" color="FFFFFF"/>
+	</view>	
+</theme>

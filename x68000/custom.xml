@@ -1,0 +1,70 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Sharp"
+			text.fr="Constructeur: Sharp"
+			text.de="Hersteller: Sharp"
+			text.es="Fabricante: Sharp"
+			text.it="Produttore: Sharp"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1987"
+			text.fr="Année de sortie: 1987"
+			text.de="Erscheinungsjahr: 1987"
+			text.es="Año de lanzamiento: 1987"
+			text.it="Anno di sortita: 1987"/>
+
+		<text name="info3" extra="true" text="OS : Human68k"/>
+
+		<text name="info4" extra="true"
+			text="CPU : Motorola 68000 running @ 10 MHz"
+			text.fr="CPU : Motorola 68000 cadencé @ 10 MHz"
+			text.de="CPU: Motorola 68000 getaktet mit 10 MHz"
+			text.es="CPU: Motorola 68000 con frecuencia de 10 MHz"
+			text.it="CPU: Motorola 68000 con clock a 10 MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 1-4 MB (expandable up to 12 MB) / VRAM : 1056 KB"
+			text.fr="RAM : 1-4 Mo (extensible jusqu'à 12 Mo) / VRAM : 1056 Ko"
+			text.de="RAM: 1–4 MB (erweiterbar auf bis zu 12 MB) / VRAM: 1056 KB"
+			text.es="RAM: 1-4 MB (ampliable hasta 12 MB) / VRAM: 1056 KB"
+			text.it="RAM: 1-4 MB (espandibile fino a 12 MB) / VRAM: 1056 KB"/>
+
+		<text name="info6" extra="true"
+			text="ROM : 1 MB (128 KB BIOS, 768 KB Character Generator)"
+			text.fr="ROM : 1 Mo (BIOS 128 Ko, Générateur de caractères 768 Ko)"
+			text.de="ROM: 1 MB (BIOS 128 KB, Zeichengenerator 768 KB)"
+			text.es="ROM: 1 MB (BIOS 128 KB, Generador de caracteres 768 KB)"
+			text.it="ROM: 1 MB (BIOS 128 KB, generatore di caratteri 768 KB)"/>
+
+		<text name="info7" extra="true"
+			text="GPU : Sharp-Hudson Custom Chipset"
+			text.fr="GPU : Chipset personnalisé Sharp-Hudson"
+			text.de="GPU: Spezieller Chipsatz von Sharp-Hudson"
+			text.es="GPU: chipset personalizado Sharp-Hudson"
+			text.it="GPU: chipset personalizzato Sharp-Hudson"/>
+
+		<text name="info8" extra="true"
+			text="Sound chip : Yamaha YM2151"
+			text.fr="Puce Audio : Yamaha YM2151"
+			text.de="Audiochip: Yamaha YM2151"
+			text.es="Chip de audio: Yamaha YM2151"
+			text.it="Chip audio: Yamaha YM2151"/>
+
+		<text name="info9" extra="true"
+			text="Resolution : 512x512 (65536 colours)"
+			text.fr="Resolution : 512x512 (65536 couleurs)"
+			text.de="Auflösung: 512x512 (65536 Farben)"
+			text.es="Resolución: 512x512 (65536 colores)"
+			text.it="Risoluzione: 512x512 (65536 colori)"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="2b3138"/>
+		<image name="band2" color="686670"/>
+		<image name="band3" color="C25F7F"/>
+		<image name="band4" color="41BC83"/>
+	</view>
+</theme>

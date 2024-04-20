@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Nintendo"
+			text.fr="Constructeur: Nintendo"
+			text.de="Hersteller: Nintendo"
+			text.es="Fabricante: Nintendo"
+			text.it="Produttore: Nintendo"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1996"
+			text.fr="Année de sortie: 1996"
+			text.de="Erscheinungsjahr: 1996"
+			text.es="Año de lanzamiento: 1996"
+			text.it="Anno di sortita: 1996"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 32.93 million"
+			text.fr="Unités Vendues : 32.93 millions"
+			text.de="Verkaufte Einheiten: 32.93 Millionen"
+			text.es="Unidades vendidas: 32.93 millones"
+			text.it="Unità vendute: 32.93 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Super Mario 64"
+			text.fr="Jeu le Plus Vendu : Super Mario 64"
+			text.de="Meistverkauftes Spiel: Super Mario 64"
+			text.es="Juego más vendido: Super Mario 64"
+			text.it="Il gioco più venduto: Super Mario 64"/>
+
+		<text name="info5" extra="true" text="CPU : 64-bit NEC VR432.930 @ 93.75 MHz"/>
+
+		<text name="info6" extra="true" text="Co-CPU : 64-bit MIPS RISC 'Reality Immersion' RCP @ 62.5 MHz"/>
+
+		<text name="info7" extra="true"
+			text="RAM : 4 MB RAMBUS RDRAM (expandable up to 8 MB)"
+			text.fr="RAM : 4 Mo RAMBUS RDRAM (extensible jusqu'à 8 Mo)"
+			text.de="RAM: 4 MB RAMBUS RDRAM (erweiterbar auf bis zu 8 MB)"
+			text.es="RAM: 4 MB RAMBUS RDRAM (ampliable hasta 8 MB)"
+			text.it="RAM: 4 MB RAMBUS RDRAM (espandibile fino a 8 MB)"/>
+
+		<text name="info8" extra="true"
+			text="Sound  : Stereo 16-Bit and 48 kHz"
+			text.fr="Son  : Stéréo 16 bits et 48 kHz"
+			text.de="Ton: 16-Bit, 48 kHz Stereo"
+			text.es="Sonido: estéreo de 16 bits y 48 kHz"
+			text.it="Suono: stereo a 16 bit, 48 kHz"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="233387"/>
+		<image name="band2" color="238B41"/>
+		<image name="band3" color="C33D3A"/>
+		<image name="band4" color="E6B531"/>
+	</view>
+</theme>

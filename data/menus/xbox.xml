@@ -1,0 +1,16 @@
+<theme>
+
+<view name="menu">
+		<menuText name="menufooter" fontPath="./data/arts/fonts/SST Ultra Light.ttf" fontSize="0.025" color="a8db7f"/>
+		
+		<menuText name="menutext" fontPath="./data/arts/fonts/SST Roman.ttf" fontSize="0.035" color="a8db7f"
+		separatorColor="1a650a" selectorColor="1a650a" selectedColor="8ca700"/>
+		
+		<menuTextSmall name="menutextsmall" fontPath="./data/arts/fonts/SST Roman.ttf" fontSize="0.028" color="a8db7f"/>
+		
+		<menuText name="menutitle" fontPath="./data/arts/fonts/XboxOriginalBold.ttf" fontSize="0.04" color="a8db7f"/>
+		
+		<menuBackground name="menubg" color="0d4403AA" path="./data/arts/borderframe.png" fadePath="./data/arts/fade.png"/>
+	</view>
+	
+</theme>

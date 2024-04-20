@@ -1,0 +1,73 @@
+<theme>
+	<formatVersion>5</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : SNK"
+			text.fr="Constructeur: SNK"
+			text.de="Hersteller: SNK"
+			text.es="Fabricante: SNK"
+			text.it="Produttore: SNK"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1999"
+			text.fr="Année de sortie: 1999"
+			text.de="Erscheinungsjahr: 1999"
+			text.es="Año de lanzamiento: 1999"
+			text.it="Anno di sortita: 1999"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 2 million, including no color version"
+			text.fr="Unités Vendues : 2 millions, inclus version sans couleur"
+			text.de="Verkaufte Einheiten: 2 Millionen, einschließlich der farblosen Version"
+			text.es="Unidades vendidas: 2 millones, incluida la versión incolora"
+			text.it="Unità vendute: 2 milioni, inclusa la versione incolore"/>
+
+		<text name="info4" extra="true" text="CPUs : Toshiba TLCS900H @ 6.144 MHz, Z80 @ 3.072 MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 12K for 900H, 4K for Z80"
+			text.fr="RAM : 12K pour 900H, 4K pour Z80"
+			text.de="RAM: 12K für 900H, 4K für Z80"
+			text.es="RAM: 12K para 900H, 4K para Z80"
+			text.it="RAM: 12K per 900H, 4K per Z80"/>
+
+		<text name="info6" extra="true"
+			text="RAM : 64 Kbytes"
+			text.fr="RAM : 64 Ko"/>
+
+		<text name="info7" extra="true" text="Picture Processor Unit : 16-bit"/>
+
+		<text name="info8" extra="true"
+			text="Resolution : 160x152 146 colors (256×256 virtual screen)"
+			text.fr="Resolution : 160x152 146 couleurs (Écran virtuel 256×256)"
+			text.de="Auflösung: 160x152 146 Farben (Virtueller Bildschirm 256×256)"
+			text.es="Resolución: 160x152 146 colores (Pantalla virtual 256×256)"
+			text.it="Risoluzione: 160x152 146 colori (schermo virtuale 256×256)"/>
+
+		<text name="info9" extra="true"
+			text="Media : ROM cartridge 4 MB max"
+			text.fr="Media : Cartouche ROM 4 Mo maximum"
+			text.de="Medien: ROM-Kassette maximal 4 MB"
+			text.es="Medios: cartucho ROM de 4 MB como máximo"
+			text.it="Supporto: cartuccia ROM da 4 MB massimo"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="E92A30"/>
+		<image name="band2" color="18A94E"/>
+		<image name="band3" color="1D9ED8"/>
+		<image name="band4" color="25374A"/>
+	</view>
+	
+	<view name="detailed">
+	
+	<image name="consolegame" extra="true" disabled="true"/>
+	<video name="md_video" pos="0.50 0.46" size="0.201 0.318" origin="0.5 0.5" zIndex="8"/>
+	<image name="md_image" pos="0.858 0.810" maxSize="0.26 0.26" origin="0.5 0.5" zIndex="8"/>	
+	<image name="bezel" extra="true" disabled="true"/>
+	<image name="console" extra="true" pos="0.5 0.5" maxSize="0.5 0.6" origin="0.5 0.5" path="./data/console.svg" zIndex="9"/>
+	
+	</view>
+	
+</theme>

@@ -1,0 +1,57 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Commodore International"
+			text.fr="Constructeur : Commodore International"
+			text.de="Konstrukteur : Commodore International"
+			text.es="constructor : Commodore International"
+			text.it="Costruttore : Commodore International"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1993"
+			text.fr="Année de Sortie : 1993"
+			text.de="Erscheinungsjahr: 1993"
+			text.es="Año de lanzamiento: 1993"
+			text.it="Anno di uscita: 1993"/>
+
+		<text name="info3" extra="true" text="OS : AmigaOS 3.1"/>
+
+		<text name="info4" extra="true" text="CPU : Motorola 68EC020 @ 14.32 MHz (NTSC), 14.18 MHz (PAL)"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 2 MB"
+			text.fr="RAM : 2Mo"/>
+
+		<text name="info6" extra="true"
+			text="ROM : 1 MB Kickstart w/ CD32 firmware, 1 KB EEPROM for game saves"
+			text.fr="ROM : 1Mo Kickstart w/ CD32 firmware, 1Ko EEPROM pour les sauvegardes"
+			text.de="ROM: 1Mo Kickstart mit CD32-Firmware, 1Ko EEPROM für Sicherungen"
+			text.es="ROM: 1Mo Kickstart con firmware CD32, 1Ko EEPROM para salvaguardias"
+			text.it="ROM: Kickstart da 1 Mo con firmware CD32, EEPROM da 1 Ko per i salvaguardie"/>
+
+		<text name="info7" extra="true" text="GPU : Advanced Graphics Architecture (AGA)"/>
+
+		<text name="info8" extra="true"
+			text="Sound chip : 4 × 8-bit PCM channels"
+			text.fr="Puce Audio :Quatre Canaux PCM 8 bits"
+			text.de="Soundchip: 4× 8-Bit PCM-Kanäle"
+			text.es="Chip de sonido: 4 canales PCM de 8 bits"
+			text.it="Chip audio: 4 canali PCM a 8 bit"/>
+
+		<text name="info9" extra="true"
+			text="Resolution : 320x200 to 1280x400i (NTSC), 320x256 to 1280x512i (PAL)"
+			text.fr="Resolution :De 320x200 à 1280x400i (NTSC), de 320x256 à 1280x512i (PAL)"
+			text.de="Auflösung: 320x200 bis 1280x400i (NTSC), 320x256 bis 1280x512i (PAL)"
+			text.es="Resolución: 320x200 a 1280x400i (NTSC), 320x256 a 1280x512i (PAL)"
+			text.it="Risoluzione: da 320x200 a 1280x400i (NTSC), da 320x256 a 1280x512i (PAL)"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="FF5853"/>
+		<image name="band2" extra="true" color="47DEBA"/>
+		<image name="band3" extra="true" color="FFDF46"/>
+		<image name="band4" extra="true" color="4A9BE4"/>
+	</view>
+</theme>

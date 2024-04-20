@@ -1,0 +1,44 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"
+			text="Manufacturer : Dragon Data, Ltd. / Tano Corp."
+			text.fr="Constructeur: Dragon Data, Ltd. / Tano Corp."
+			text.de="Hersteller: Dragon Data, Ltd. / Tano Corp."
+			text.es="Fabricante: Dragon Data, Ltd. / Tano Corp."
+			text.it="Produttore: Dragon Data, Ltd. / Tano Corp."/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1982"
+			text.fr="Année de sortie: 1982"
+			text.de="Erscheinungsjahr: 1982"
+			text.es="Año de lanzamiento: 1982"
+			text.it="Anno di sortita: 1982"/>
+
+		<text name="info3" extra="true" text="OS : Microsoft Extended BASIC"/>
+
+		<text name="info4" extra="true" text="CPU : Motorola 6809E @ 0.89 MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 32/64 KB"
+			text.fr="RAM : 32/64 Ko"/>
+
+		<text name="info6" extra="true" text="Resolution : max 256 x 192, 8 colours"/>
+
+		<text name="info7" extra="true"
+			text="Sound : 1 voice, 5 octaves with the Basic / 4 voices, 7 octaves with machine code"
+			text.fr="Son: 1 voix, 5 octaves en Basic / 4 voix, 7 octaves en code machine"
+			text.de="Klang: 1 Stimme, 5 Oktaven im Basic / 4 Stimmen, 7 Oktaven im Maschinencode"
+			text.es="Sonido: 1 voz, 5 octavas en Básico / 4 voces, 7 octavas en código máquina"
+			text.it="Suono: 1 voce, 5 ottave in Basic / 4 voci, 7 ottave in codice macchina"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="F50019"/>
+		<image name="band2" extra="true" color="FBFA35"/>
+		<image name="band3" extra="true" color="74B719"/>
+		<image name="band4" extra="true" color="3262D9"/>
+	</view>
+</theme>

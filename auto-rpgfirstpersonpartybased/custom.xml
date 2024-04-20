@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Team RPG games!"
+			text.fr="Jeux RPG en coopération!"
+			text.de="Koop-RPG-Spiele!"
+			text.es="¡Juegos de rol cooperativos!"
+			text.it="Giochi di ruolo cooperativi!"/>
+
+		<text name="info2" extra="true"	text="ex: Bard's Tale, Ishar trilogy, Tales ofc ..."/>
+
+		<text name="info3" extra="true"
+			text="Dungeons are dangerous... Team up and explore together!"
+			text.fr="Les donjons sont dangereux... Faites équipe et explorez ensemble!"
+			text.de="„Dungeons sind gefährlich ... Schließe dich zusammen und erkunde sie gemeinsam!“"
+			text.es="Las mazmorras son peligrosas... ¡Únete y explorad juntos!"
+			text.it="I dungeon sono pericolosi... Unisciti ed esplora insieme!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

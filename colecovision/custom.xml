@@ -1,0 +1,69 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Coleco"
+			text.fr="Constructeur: Coleco"
+			text.de="Hersteller: Coleco"
+			text.es="Fabricante: Coleco"
+			text.it="Produttore: Coleco"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1982"
+			text.fr="Année de sortie: 1982"
+			text.de="Erscheinungsjahr: 1982"
+			text.es="Año de lanzamiento: 1982"
+			text.it="Anno di sortita: 1982"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 2+ million"
+			text.fr="Unités vendus:+ 2 millions"
+			text.de="Verkaufte Einheiten: + 2 Millionen"
+			text.es="Unidades vendidas: + 2 millones"
+			text.it="Unità vendute:+ 2 millions"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Donkey Kong"
+			text.fr="Jeu le plus vendu : Donkey Kong"
+			text.de="Bestseller-Spiel: Donkey Kong"
+			text.es="Juego más vendido: Donkey Kong"
+			text.it="Il gioco più venduto: Donkey Kong"/>
+
+		<text name="info5" extra="true" text="CPU : Zilog Z80 @ 3.58 MHz"/>
+
+		<text name="info6" extra="true" 
+			text="RAM : 1kB / VRAM : 16kB"
+			text.fr="RAM : 1Ko / VRAM : 16Ko"/>
+
+		<text name="info7" extra="true" text="Video : Texas Instruments TMS9928A"/>
+
+		<text name="info8" extra="true"
+			text="Resolution : 256x192, 16 colors"
+			text.fr="Resolution : 256x192, 16 couleurs"
+			text.de="Auflösung: 256x192, 16 Farben"
+			text.es="Resolución: 256x192, 16 colores"
+			text.it="Risoluzione: 256x192, 16 colori"/>
+
+		<text name="info9" extra="true"
+			text="Sound : Texas Instruments SN76489A"
+			text.fr="Son : Texas Instruments SN76489A"
+			text.de="Ton: Texas Instruments SN76489A"
+			text.es="Sonido: Texas Instruments SN76489A"
+			text.it="Suono: Texas Instruments SN76489A"/>
+
+		<text name="info10" extra="true"
+			text="Cart Size : 8kB - 32kB"
+			text.fr="Taille des Cartouches : 8Ko - 32Ko"
+			text.de="Patronengröße: 8 KB - 32 KB"
+			text.es="Tamaño del cartucho: 8 KB - 32 KB"
+			text.it="Dimensioni cartuccia: 8KB - 32KB"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="EF8185"/>
+		<image name="band2" extra="true" color="F3994B"/>
+		<image name="band3" extra="true" color="FADD2F"/>
+		<image name="band4" extra="true" color="A4DDF0"/>
+	</view>
+</theme>

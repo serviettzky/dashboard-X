@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Party games!"
+			text.fr="Mini jeux!"
+			text.de="Minispiele!"
+			text.es="¡Mini juegos!"
+			text.it="Mini giochi!"/>
+
+		<text name="info2" extra="true"	text="ex: Mario Party, Sonic Shuffle, Wii Party ..."/>
+
+		<text name="info3" extra="true"
+			text="Challenge your friends, play, laugh!"
+			text.fr="Défiez vos amis, jouez, riez!"
+			text.de="„Fordere deine Freunde heraus, spiele, lache!"
+			text.es="“¡Desafía a tus amigos, juega, ríe!”"
+			text.it="“Sfida i tuoi amici, gioca, ridi!”"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

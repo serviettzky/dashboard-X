@@ -1,0 +1,67 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+			<text name="info1" extra="true"
+			text="Manufacturer : Nintendo"
+			text.fr="Constructeur: Nintendo"
+			text.de="Hersteller: Nintendo"
+			text.es="Fabricante: Nintendo"
+			text.it="Produttore: Nintendo"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 2001"
+			text.fr="Année de sortie: 2001"
+			text.de="Erscheinungsjahr: 2001"
+			text.es="Año de lanzamiento: 2001"
+			text.it="Anno di sortita: 2001"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 21.74 million"
+			text.fr="Unités Vendues : 21.74 millions"
+			text.de="Verkaufte Einheiten: 21.74 Millionen"
+			text.es="Unidades vendidas: 21.74 millones"
+			text.it="Unità vendute: 21.74 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Super Smash Bros. Melee"
+			text.fr="Jeu le Plus Vendu : Super Smash Bros. Melee"
+			text.de="Meistverkauftes Spiel: Super Smash Bros. Melee"
+			text.es="Juego más vendido: Super Smash Bros. Melee"
+			text.it="Il gioco più venduto: Super Smash Bros. Melee"/>
+
+		<text name="info5" extra="true" text="CPU : 128-bit IBM Gekko PowerPC @ 485 MHz"/>
+
+		<text name="info6" extra="true"
+			text="RAM : 43 MB total non-unified RAM"
+			text.fr="RAM : 43MB de RAM non unifiée au total"
+			text.de="RAM: Insgesamt 43 MB einheitlicher RAM"
+			text.es="RAM: 43 MB de RAM unificada en total"
+			text.it="RAM: 43 MB di RAM unificata in totale"/>
+
+		<text name="info7" extra="true" text="Video : 162 MHz Flipper LSI"/>
+
+		<text name="info8" extra="true"
+			text="Resolution : 640×480 480i or 480p - 60 Hz"
+			text.fr="Resolution : 640×480 480i ou 480p - 60 Hz"
+			text.de="Auflösung: 640×480 480i oder 480p – 60 Hz"
+			text.es="Resolución: 640×480 480i o 480p – 60 Hz"
+			text.it="Risoluzione: 640×480 480i o 480p – 60 Hz"/>
+
+		<text name="info9" extra="true"
+			text="Sound : 16-bit Dolby Pro Logic II"
+			text.fr="Son : Dolby Pro Logic II 16 bits"
+			text.de="Ton: Dolby Pro Logic II 16-Bit"
+			text.es="Sonido: Dolby Pro Logic II de 16 bits"
+			text.it="Suono: Dolby Pro Logic II a 16 bit"/>
+
+		<text name="info10" extra="true" text="Media : 1.5 GB miniDVD"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="7b79aa"/>
+		<image name="band2" color="524c82"/>
+		<image name="band3" color="cbc9e0"/>
+		<image name="band4" color="1e1c1a"/>
+	</view>
+</theme>

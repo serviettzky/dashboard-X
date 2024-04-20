@@ -1,0 +1,62 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Panasonic"
+			text.fr="Constructeur : Panasonic"
+			text.de="Hersteller: Panasonic"
+			text.es="Fabricante : Panasonic"
+			text.it="Produttore: Panasonic"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1990"
+			text.fr="Annee de Sortie : 1990"
+			text.de="Erscheinungsjahr: 1990"
+			text.es="Año de lanzamiento: 1990"
+			text.it="Anno di uscita: 1990"/>
+
+		<text name="info3" extra="true" text="OS : MSX BASIC V4.0 (32 kB)"/>
+
+		<text name="info4" extra="true"
+			text="CPU : R800 (DAR800-X0G) @ 28.64 MHz and Z80A @ 3.58"
+			text.fr="CPU : R800 (DAR800-X0G) @ 28.64 MHz et Z80A @ 3.58"
+			text.de="CPU: R800 (DAR800-X0G) bei 28,64 MHz und Z80A bei 3,58"
+			text.es="CPU: R800 (DAR800-X0G) a 28,64 MHz y Z80A a 3,58"
+			text.it="CPU: R800 (DAR800-X0G) a 28,64 MHz e Z80A a 3,58"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 256 KB (FS-A1ST) or 512 KB (FS-A1GT) / VRAM : 128 KB"
+			text.fr="RAM : 256 Ko (FS-A1ST) ou 512 Ko (FS-A1GT) / VRAM : 128 Ko"
+			text.de="RAM: 256 KB (FS-A1ST) oder 512 KB (FS-A1GT) / VRAM: 128 KB"
+			text.es="RAM: 256 KB (FS-A1ST) o 512 KB (FS-A1GT) / VRAM: 128 KB"
+			text.it="RAM: 256 KB (FS-A1ST) o 512 KB (FS-A1GT) / VRAM: 128 KB"/>
+
+		<text name="info6" extra="true"
+			text="ROM : 96 KB"
+			text.fr="ROM : 96 Ko"/>
+
+		<text name="info7" extra="true" text="GPU : Yamaha V9958"/>
+
+		<text name="info8" extra="true"
+			text="Sound chip : PSG (AY-3-8910 compatible), MSX-MUSIC, PCM, MSX-MIDI"
+			text.fr="Puce Audio : PSG (AY-3-8910 compatible), MSX-MUSIC, PCM, MSX-MIDI"
+			text.de="Audiochip: PSG (AY-3-8910 kompatibel), MSX-MUSIC, PCM, MSX-MIDI"
+			text.es="Chip de audio: PSG (compatible con AY-3-8910), MSX-MUSIC, PCM, MSX-MIDI"
+			text.it="Chip audio: PSG (compatibile AY-3-8910), MSX-MUSIC, PCM, MSX-MIDI"/>
+
+		<text name="info9" extra="true"
+			text="Resolution : 512 x 212 (4 or 16 colors) and 256 x 212 (16 to 19268 colors)"
+			text.fr="Resolution: 512x212(4 à 16 couleurs) et 256x212(16 à 19268 couleurs)"
+			text.de="Auflösung: 512x212 (4 bis 16 Farben) und 256x212 (16 bis 19268 Farben)"
+			text.es="Resolución: 512x212 (de 4 a 16 colores) y 256x212 (de 16 a 19268 colores)"
+			text.it="Risoluzione: 512x212 (da 4 a 16 colori) e 256x212 (da 16 a 19268 colori)"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="637080"/>
+		<image name="band2" color="28292b"/>
+		<image name="band3" color="99784b"/>
+		<image name="band4" color="32100f"/>
+	</view>
+</theme>

@@ -1,0 +1,62 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Magnavox/Philips"
+			text.fr="Constructeur: Magnavox/Philips"
+			text.de="Hersteller: Magnavox/Philips"
+			text.es="Fabricante: Magnavox/Philips"
+			text.it="Produttore: Magnavox/Philips"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1978"
+			text.fr="Année de sortie: 1978"
+			text.de="Erscheinungsjahr: 1978"
+			text.es="Año de lanzamiento: 1978"
+			text.it="Anno di sortita: 1978"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 2 million"
+			text.fr="Unités Vendues : 2 millions"
+			text.de="Verkaufte Einheiten: 2 Millionen"
+			text.es="Unidades vendidas: 2 millones"
+			text.it="Unità vendute: 2 milioni"/>
+
+		<text name="info4" extra="true" text="CPU : Intel 8048 @ 1.79 MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 64 bytes"
+			text.fr="RAM : 64 octets"/>
+
+		<text name="info6" extra="true"
+			text="Audio/Video RAM : 128 bytes"
+			text.fr="RAM Audio/Vidéo : 128 octets"
+			text.de="Audio-/Video-RAM: 128 Byte"
+			text.es="RAM de audio/vídeo: 128 bytes"
+			text.it="RAM audio/video: 128 byte"/>
+
+		<text name="info7" extra="true" text="ROM : 1024 bytes"/>
+
+		<text name="info8" extra="true"
+			text="Resolution : 160×200 pixels with 12 colors"
+			text.fr="Resolution : 160×200 pixels avec 12 couleurs"
+			text.de="Auflösung: 160×200 Pixel mit 12 Farben"
+			text.es="Resolución: 160×200 píxeles con 12 colores"
+			text.it="Risoluzione: 160×200 pixel con 12 colori"/>
+
+		<text name="info9" extra="true"
+			text="Display : 16-color fixed palette; sprites may only use 8 of these colors"
+			text.fr="Ecran: palette fixe de 16 couleurs,8 couleurs à la fois"
+			text.de="Bildschirm: Feste Palette mit 16 Farben, jeweils 8 Farben"
+			text.es="Pantalla: paleta fija de 16 colores, 8 colores a la vez"
+			text.it="Schermo: tavolozza fissa di 16 colori, 8 colori alla volta"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="8C1914"/>
+		<image name="band2" color="89918F"/>
+		<image name="band3" color="DC3114"/>
+		<image name="band4" color="F8D239"/>
+	</view>
+</theme>

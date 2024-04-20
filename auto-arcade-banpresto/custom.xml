@@ -1,0 +1,41 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"
+			text="Founded in 1977"
+			text.fr="Fondée en 1977"
+			text.de="Gegründet 1977"
+			text.es="Fundada en 1977"
+			text.it="Fondata nel 1977"/>
+
+		<text name="info2" extra="true"
+			text="First Game: SD Gundam Neo Battling"
+			text.fr="Premier Jeu: SD Gundam Neo Battling"
+			text.de="Erstes Spiel: SD Gundam Neo Battling"
+			text.es="Primer juego: SD Gundam Neo Battling"
+			text.it="Primo gioco: SD Gundam Neo Battling"/>
+
+		<text name="info3" extra="true"
+			text="Known games: Mazinger Z, Bishoujo Senshi Sailor Moon"
+			text.fr="Jeux connus: Mazinger Z, Bishoujo Senshi Sailor Moon"
+			text.de="Bekannte Spiele: Mazinger Z, Bishoujo Senshi Sailor Moon"
+			text.es="Juegos conocidos: Mazinger Z, Bishoujo Senshi Sailor Moon"
+			text.it="Giochi conosciuti: Mazinger Z, Bishoujo Senshi Sailor Moon"/>
+
+		<text name="info5" extra="true"
+			text="Find all the Banpresto Arcade games."
+			text.fr="Retrouvez tous les jeux d'Arcade Banpresto."
+			text.de="Hier finden Sie alle Banpresto Arcade-Spiele."
+			text.es="Encuentra todos los juegos de Banpresto Arcade."
+			text.it="Trova tutti i giochi Banpresto Arcade."/>
+	</view>
+
+	<view name="system, detailed, gameclip">		
+		<image name="band1" extra="true" color="FF0000"/>
+		<image name="band2" extra="true" color="000000"/>
+		<image name="band3" extra="true" color="FFFFFF"/>
+		<image name="band4" extra="true" color="FF0000"/>
+	</view>	
+</theme>

@@ -1,0 +1,65 @@
+<theme>
+	<formatVersion>5</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Developer : Belogic Software"
+			text.fr="Developeur : Belogic Software"
+			text.de="Entwickler: Logic Software"
+			text.es="Desarrollador: Software lógico"
+			text.it="Sviluppatore: Logic Software"/>
+	
+		<text name="info2" extra="true"
+			text="Year of Release : 2008"
+			text.fr="Année de sortie: 2008"
+			text.de="Erscheinungsjahr: 2008"
+			text.es="Año de lanzamiento: 2008"
+			text.it="Anno di sortita: 2008"/>
+
+		<text name="info3" extra="true" text="CPU : Amtel ATmega644 microcontroller @ 28.6 Mhz"/>
+
+		<text name="info4" extra="true" text="RAM : 4 K"/>
+
+		<text name="info5" extra="true"
+			text="Program Memory : 64 Kb"
+			text.fr="Mémoire du programme : 64 Ko"
+			text.de="Programmspeicher: 64 KB"
+			text.es="Memoria del programa: 64 KB"
+			text.it="Memoria del programma: 64 KB"/>
+
+		<text name="info6" extra="true"
+			text="Sound: 5-channel wavetable synthesis, 8-bit mono at ~15Khz, PWM output"
+			text.fr="Son: synthèse de table d'onde 5 canaux, mono 8 bits à ~15Khz, sortie PWM"
+			text.de="Sound: 5-Kanal-Wavetable-Synthese, 8-Bit-Mono bei ~15 kHz, PWM-Ausgang"
+			text.es="Sonido: Síntesis de tabla de ondas de 5 canales, mono de 8 bits a ~15 Khz, salida PWM"
+			text.it="Suono: sintesi wavetable a 5 canali, mono a 8 bit a ~15Khz, uscita PWM"/>
+
+		<text name="info7" extra="true"
+			text="Resolution : Various video modes supporting up to 360x224 pixels in tiles-only mode"
+			text.fr="Résolution :jusqu'à 360 x 224 pixels en mode mosaïque uniquement"
+			text.de="Auflösung: bis zu 360 x 224 Pixel nur im Mosaikmodus"
+			text.es="Resolución: hasta 360 x 224 píxeles solo en modo mosaico"
+			text.it="Risoluzione: fino a 360 x 224 pixel solo in modalità mosaico"/>
+
+		<text name="info8" extra="true"
+			text="Colors : 256 simultaneous colors arranged in a 3:3:2 color space"
+			text.fr="Couleurs : 256 simultanées disposées dans un espace colorimétrique 3:3:2"
+			text.de="Farben: 256 gleichzeitig im 3:3:2-Farbraum angeordnet"
+			text.es="Colores: 256 simultáneos dispuestos en un espacio de color 3:3:2"
+			text.it="Colori: 256 simultanei disposti in uno spazio colore 3:3:2"/>
+
+		<text name="info9" extra="true"
+			text="Media : SD Memory Card"
+			text.fr="Média : Carte mémoire SD"
+			text.de="Medien: SD-Speicherkarte"
+			text.es="Medios: tarjeta de memoria SD"
+			text.it="Supporto: scheda di memoria SD"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="C43F32"/>
+		<image name="band2" color="EDC63D"/>
+		<image name="band3" color="C9C2BF"/>
+		<image name="band4" color="07336A"/>
+	</view>
+</theme>

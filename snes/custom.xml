@@ -1,0 +1,86 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Nintendo"
+			text.fr="Constructeur: Nintendo"
+			text.de="Hersteller: Nintendo"
+			text.es="Fabricante: Nintendo"
+			text.it="Produttore: Nintendo"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1990"
+			text.fr="Année de sortie: 1990"
+			text.de="Erscheinungsjahr: 1990"
+			text.es="Año de lanzamiento: 1990"
+			text.it="Anno di sortita: 1990"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 49.10 million"
+			text.fr="Unités Vendues : 49.10 millions"
+			text.de="Verkaufte Einheiten: 49.10 Millionen"
+			text.es="Unidades vendidas: 49.10 millones"
+			text.it="Unità vendute: 49.10 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Super Mario World"
+			text.fr="Jeu le Plus Vendu : Super Mario World"
+			text.de="Meistverkauftes Spiel: Super Mario World"
+			text.es="Juego más vendido: Super Mario World"
+			text.it="Il gioco più venduto: Super Mario World"/>
+
+		<text name="info5" extra="true"
+			text="CPU : 16-bit Custom 65C816 @ 3.58 MHz"
+			text.fr="Processeur : 16 bits personnalisé 65C816 à 3,58 MHz"
+			text.de="CPU: 16-Bit Custom 65C816 bei 3,58 MHz"
+			text.es="CPU: 16 bits personalizado 65C816 a 3,58 MHz"
+			text.it="CPU: 65C816 personalizzato a 16 bit a 3,58 MHz"/>
+
+		<text name="info6" extra="true"
+			text="RAM : 128kB / VRAM : 64kB"
+			text.fr="RAM : 128ko / VRAM : 64Ko"/>
+
+		<text name="info7" extra="true" text="Video : 16-bit PPU (Picture Processor Unit)"/>
+
+		<text name="info8" extra="true"
+			text="Resolution : 256x224, 256 colors (32768 colors palette)"
+			text.fr="Résolution : 256x224, 256 couleurs (palette de 32768 couleurs)"
+			text.de="Auflösung: 256x224, 256 Farben (32768 Farbpalette)"
+			text.es="Resolución: 256x224, 256 colores (paleta de colores 32768)"
+			text.it="Risoluzione: 256x224, 256 colori (tavolozza di colori 32768)"/>
+
+		<text name="info9" extra="true"
+			text="Sound : 8-bit Sony SPC700, 8 channels"
+			text.fr="Son : Sony SPC700 8 bits, 8 canaux"
+			text.de="Ton: Sony SPC700 8-Bit, 8 Kanäle"
+			text.es="Sonido: Sony SPC700 de 8 bits, 8 canales"
+			text.it="Suono: Sony SPC700 8 bit, 8 canali"/>
+
+		<text name="info10" extra="true"
+			text="Cart Size : 256kB - 6MB"
+			text.fr="Taille des Cartouches : 256Ko - 6Mo"
+			text.de="Patronengröße: 256 KB – 6 MB"
+			text.es="Tamaño del cartucho: 256 KB - 6 MB"
+			text.it="Dimensioni cartuccia: 256KB - 6MB"/>
+	</view>	
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="FED01B" region="eu"/>
+		<image name="band2" color="BA2318" region="eu"/>
+		<image name="band3" color="0A2A8D" region="eu"/>
+		<image name="band4" color="007544" region="eu"/>
+	</view>	
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="F9EC2B" region="jp"/>
+		<image name="band2" color="01954B" region="jp"/>
+		<image name="band3" color="EB2D2F" region="jp"/>
+		<image name="band4" color="323B98" region="jp"/>
+	</view>	
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="A59EF7" region="us"/>
+		<image name="band2" color="47449E" region="us"/>
+		<image name="band3" color="CCCCCC" region="us"/>
+		<image name="band4" color="4C4C4C" region="us"/>
+	</view>
+</theme>

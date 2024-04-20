@@ -1,0 +1,82 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : IBM"
+			text.fr="Constructeur: IBM"
+			text.de="Hersteller: IBM"
+			text.es="Fabricante: IBM"
+			text.it="Produttore: IBM"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1981"
+			text.fr="Année de sortie: 1981"
+			text.de="Erscheinungsjahr: 1981"
+			text.es="Año de lanzamiento: 1981"
+			text.it="Anno di sortita: 1981"/>
+
+		<text name="info3" extra="true"
+			text="The IBM Personal Computer, commonly known as the IBM PC,"
+			text.fr="L'ordinateur personnel IBM, communément appelé IBM PC,"
+			text.de="Der IBM-Personalcomputer, allgemein bekannt als IBM-PC,"
+			text.es="La computadora personal IBM, comúnmente conocida como IBM PC,"
+			text.it="Il personal computer IBM, comunemente noto come PC IBM,"/>
+
+		<text name="info4" extra="true"
+			text="is the original version and progenitor of"
+			text.fr="est la version originale et l'ancêtre de"
+			text.de="ist die Originalversion und der Vorfahre von"
+			text.es="es la versión original y el antepasado de"
+			text.it="è la versione originale e l'antenato di"/>
+
+		<text name="info5" extra="true"
+			text="the IBM PC compatible hardware platform."
+			text.fr="la plate-forme matérielle compatible IBM PC."
+			text.de="die IBM PC-kompatible Hardwareplattform."
+			text.es="la plataforma de hardware compatible con IBM PC."
+			text.it="la piattaforma hardware compatibile con PC IBM."/>
+
+		<text name="info6" extra="true"
+			text="It is IBM model number 5150,"
+			text.fr="Il s'agit du modèle IBM numéro 5150."
+			text.de="Dies ist die IBM-Modellnummer 5150."
+			text.es="Este es el modelo IBM número 5150."
+			text.it="Questo è il modello IBM numero 5150."/>
+
+		<text name="info7" extra="true"
+			text="and was introduced on August 12, 1981."
+			text.fr="et a été introduit le 12 août 1981."
+			text.de="und wurde am 12. August 1981 eingeführt."
+			text.es="y fue introducido el 12 de agosto de 1981."
+			text.it="ed è stato introdotto il 12 agosto 1981."/>
+
+		<text name="info8" extra="true"
+			text="It was created by a team of engineers and designers"
+			text.fr="Il a été créé par une équipe d'ingénieurs et de designers"
+			text.de="Es wurde von einem Team aus Ingenieuren und Designern erstellt"
+			text.es="Fue creado por un equipo de ingenieros y diseñadores."
+			text.it="È stato creato da un team di ingegneri e designer"/>
+
+		<text name="info9" extra="true"
+			text="under the direction of Don Estridge"
+			text.fr="sous la direction de Don Estridge"
+			text.de="unter der Leitung von Don Estridge"
+			text.es="bajo la dirección de Don Estridge"
+			text.it="sotto la direzione di Don Estridge"/>
+
+		<text name="info10" extra="true"
+			text="of the IBM Entry Systems Division in Boca Raton, Florida."
+			text.fr="de la division IBM Entry Systems à Boca Raton, Floride."
+			text.de="der IBM Entry Systems-Abteilung in Boca Raton, Florida."
+			text.es="de la división IBM Entry Systems en Boca Ratón, Florida."
+			text.it="della divisione IBM Entry Systems a Boca Raton, in Florida."/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="1F70C1"/>
+		<image name="band2" color="FFFFFF"/>
+		<image name="band3" color="666870"/>
+		<image name="band4" color="201D1D"/>
+	</view>
+</theme>

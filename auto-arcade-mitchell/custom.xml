@@ -1,0 +1,48 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+	     <text name="info1" extra="true"	
+			text="Founded in 1960"
+			text.fr="Fondée en 1960"
+			text.de="Gegründet 1960"
+			text.es="Fundada en 1960"
+			text.it="Fondata nel 1960"/>
+
+		<text name="info2" extra="true" 	
+			text="Production: 1989 - 2003"
+			text.fr="Production: 1989 - 2003"
+			text.de="Produktion: 1989 - 2003"
+			text.es="Producción: 1989 - 2003"
+			text.it="Produzione: 1989 - 2003"/>
+
+		<text name="info3" extra="true"
+			text="First Game: Mad Motor, Pang, Poker Ladies"
+			text.fr="Premier Jeu: Mad Motor, Pang, Poker Ladies"
+			text.de="Erstes Spiel: Mad Motor, Pang, Poker Ladies"
+			text.es="Primer juego: Mad Motor, Pang, Poker Ladies"
+			text.it="Primo gioco: Mad Motor, Pang, Poker Ladies"/>
+
+		<text name="info4" extra="true"
+			text="Popular Games: Charlie Ninja, Puzzle Loop, Pang"
+			text.fr="Jeux Connus: Charlie Ninja, Puzzle Loop, Pang"
+			text.de="Beliebte Spiele: Charlie Ninja, Puzzle Loop, Pang"
+			text.es="Juegos populares: Charlie Ninja, Puzzle Loop, Pang"
+			text.it="Giochi popolari: Charlie Ninja, Puzzle Loop, Pang"/>
+
+		<text name="info6" extra="true"
+			text="Find all Mitchell Corporation Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade Mitchell Corporation."
+			text.de="Hier finden Sie alle Arcade-Spiele der Mitchell Corporation."
+			text.es="Encuentra todos los juegos arcade de Mitchell Corporation."
+			text.it="Trova tutti i giochi arcade di Mitchell Corporation."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">	
+		<image name="band1" extra="true" color="3c409a"/>
+		<image name="band2" extra="true" color="3dc0f0"/>
+		<image name="band3" extra="true" color="000000"/>
+		<image name="band4" extra="true" color="9fa5a3"/>
+	</view>	
+</theme>

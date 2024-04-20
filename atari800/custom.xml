@@ -1,0 +1,52 @@
+<theme>
+	<formatVersion>5</formatVersion>
+
+	<view name="system">
+			<text name="info1" extra="true"
+				text="Manufacturer : Atari, Inc."
+				text.fr="Constructeur : Atari, Inc."
+				text.de="Hersteller: Atari, Inc."
+				text.es="Fabricante : Atari, Inc."
+				text.it="Produttore : Atari, Inc."/>
+
+			<text name="info2" extra="true"
+				text="Year of Release : 1979"
+				text.fr="Annee de Sortie : 1979"
+				text.de="Erscheinungsjahr: 1979"
+				text.es="Año de lanzamiento: 1979"
+				text.it="Anno di uscita: 1979"/>
+
+			<text name="info3" extra="true" text="OS : Atari OS"/>
+
+			<text name="info4" extra="true" text="CPU : MOS Technology 6502B @ 1.8 Mhz"/>
+
+			<text name="info5" extra="true"
+				text="RAM : 8kB base, 48 kB max."
+				text.fr="RAM : 8Ko base, 48 Ko max."/>
+
+			<text name="info6" extra="true"
+				text="ROM : 8KB (Atari Basic)"
+				text.fr="ROM : 8Ko (Atari Basic)"/>
+
+			<text name="info7" extra="true"
+				text="Sound : 4× oscillators with noise mixing"
+				text.fr="Son : 4 oscillateurs avec mixage du bruit"
+				text.de="Sound: 4× Oszillatoren mit Rauschmischung"
+				text.es="Sonido: 4× osciladores con mezcla de ruido.<"
+				text.it="Suono: oscillatori 4× con miscelazione del rumore"/>
+
+			<text name="info8" extra="true"
+				text="Display : 320x192 monochrome, 160x96 with 128 colors"
+				text.fr="Affichage : 320x192 monochrome, 160x96 avec 128 couleurs"
+				text.de="Anzeige: 320 x 192 monochrom, 160 x 96 mit 128 Farben"
+				text.es="Pantalla: 320x192 monocromática, 160x96 con 128 colores"
+				text.it="Display: 320x192 monocromatico, 160x96 con 128 colori"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="b6b896"/>
+		<image name="band2" extra="true" color="ebd335"/>
+		<image name="band3" extra="true" color="5d3615"/>
+		<image name="band4" extra="true" color="bf9438"/>
+	</view>
+</theme>

@@ -1,0 +1,20 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info11" extra="true"
+			text="Final Burn Neo (FB Neo or FBN) is commonly known originally as an arcade game emulator. FB Neo is originally based on the FinalBurn emulator created by Dave (also known under the nickname FinalDave) on August 31, 2000."
+			text.fr="Final Burn Neo (FB Neo ou FBN) est communément connu à l'origine comme un émulateur de jeux d'arcade. FB Neo est basée à l'origine sur l'émulateur FinalBurn créé par Dave (connu aussi sous le pseudo de FinalDave) le 31 aout 2000."
+			text.de="Final Burn Neo (FB Neo oder FBN) war ursprünglich allgemein als Emulator für Arcade-Spiele bekannt. FB Neo basiert ursprünglich auf dem FinalBurn-Emulator, der am 31. August 2000 von Dave (auch bekannt unter dem Spitznamen FinalDave) erstellt wurde."
+			text.es="Final Burn Neo (FB Neo o FBN) se conoce comúnmente originalmente como un emulador de juegos arcade. FB Neo se basa originalmente en el emulador FinalBurn creado por Dave (también conocido con el sobrenombre de FinalDave) el 31 de agosto de 2000."
+			text.it="Final Burn Neo (FB Neo o FBN) è comunemente noto originariamente come emulatore di giochi arcade. FB Neo è originariamente basato sull'emulatore FinalBurn creato da Dave (conosciuto anche con il soprannome di FinalDave) il 31 agosto 2000."/>
+	</view>
+
+	<view name="system, detailed, gameclip">		
+		<image name="band1" color="B7151D"/>
+		<image name="band2" color="00BAFF"/>
+		<image name="band3" color="FF8200"/>
+		<image name="band4" color="FFDBA1"/>
+	</view>
+</theme>

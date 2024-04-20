@@ -1,0 +1,52 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Apple Computer, Inc."
+			text.fr="Constructeur : Apple Computer, Inc."
+			text.de="Hersteller: Apple Computer, Inc."
+			text.es="Fabricante : Apple Computer, Inc."
+			text.it="Produttore : Apple Computer, Inc."/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1977"
+			text.fr="Année de Sortie : 1977"
+			text.de="Erscheinungsjahr: 1977"
+			text.es="Año de lanzamiento: 1977"
+			text.it="Anno di uscita: 1977"/>
+
+		<text name="info3" extra="true" text="OS : Integer BASIC"/>
+
+		<text name="info4" extra="true" text="CPU : MOS Technology 6502 @ 1 Mhz"/>
+		
+		<text name="info5" extra="true"
+			text="RAM : 4KB to 64KB"
+			text.fr="RAM : 4Ko à 64Ko"/>
+
+		<text name="info6" extra="true"
+			text="ROM : 8KB (Basic Integer)"
+			text.fr="ROM : 8Ko (Entier de base)"/>
+
+		<text name="info7" extra="true"
+			text="Sound : 1-bit speaker (built-in)"
+			text.fr="Son : Haut-parleur 1 bit (intégré)"
+			text.de="Sound: 1-Bit-Lautsprecher (eingebaut)"
+			text.es="Sonido: altavoz de 1 bit (integrado)"
+			text.it="Suono: altoparlante a 1 bit (integrato)"/>
+
+		<text name="info8" extra="true"
+			text="Display : Lo-res (40×48, 16-color) Hi-res (280×192, 6 color)"
+			text.fr="Affichage : Lo-res (40×48, 16-couleurs) Hi-res (280×192, 6 couleurs)"
+			text.de="Anzeige: Niedrigauflösend (40×48, 16 Farben) Hochauflösend (280×192, 6 Farben)"
+			text.es="Pantalla: Baja resolución (40×48, 16 colores) Alta resolución (280×192, 6 colores)"
+			text.it="Display: Lo-res (40×48, 16 colori) Hi-res (280×192, 6 colori)"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="009ddc"/>
+		<image name="band2" extra="true" color="e03a3e"/>
+		<image name="band3" extra="true" color="fdb827"/>
+		<image name="band4" extra="true" color="61bb46"/>
+	</view>
+</theme>

@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Auto-battler tactical games!"
+			text.fr="Jeux tactiques de combat automatique!"
+			text.de="Auto-Kampf-Taktikspiele!"
+			text.es="¡Juegos de tácticas de batalla automática!"
+			text.it="Giochi di tattiche di battaglia automatica!"/>
+
+		<text name="info2" extra="true"	text="ex: Dota Underlords, Heartstone Battlegrounds ..."/>
+
+		<text name="info3" extra="true"
+			text="Recuit & Strategize to Win!"
+			text.fr="Recrutez et élaborez une stratégie pour gagner!"
+			text.de="„Rekrutieren Sie und entwickeln Sie Strategien, um zu gewinnen!“"
+			text.es="¡Recluta y elabora estrategias para ganar!"
+			text.it="Recluta e crea strategie per vincere!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

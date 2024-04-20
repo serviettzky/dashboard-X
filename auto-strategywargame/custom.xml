@@ -1,0 +1,35 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Wargame Strategy games!"
+			text.fr="Jeux de guerre stratégique !"
+			text.de="Strategische Kriegsspiele!"
+			text.es="¡Juegos de guerra estratégicos!"
+			text.it="Giochi di guerra strategici!"/>
+
+		<text name="info2" extra="true"	text="ex: Eastern Front, North Atlantic Convoy Raider, Panzer General ..."/>
+
+		<text name="info3" extra="true"
+			text="Find the best military strategies and beat your opponents!"
+			text.fr="Trouvez les meilleures stratégies militaires et"
+			text.de="„Finden Sie die besten militärischen Strategien und"
+			text.es="Encuentra las mejores estrategias militares y"
+			text.it="Trova le migliori strategie militari e"/>
+		
+		<text name="info4" extra="true"
+			text="beat your opponents!"
+			text.fr="battez vos adversaires!"
+			text.de="Besiege deine Gegner!“"
+			text.es="¡Derrota a tus oponentes!"
+			text.it="sconfiggi i tuoi avversari!”"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

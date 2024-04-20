@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Pinball games!"
+			text.fr="Jeux de Flipper!"
+			text.de="Flipperspiele!"
+			text.es="¡Juegos de pinball!"
+			text.it="Giochi di flipper!"/>
+
+		<text name="info2" extra="true"	text="ex: Macadam Bumper, Pinball Fantasies, ..."/>
+
+		<text name="info3" extra="true"
+			text="Aim at the target... Oh no, not the hole! TILT!"
+			text.fr="Visez la cible... Oh non, pas le trou ! TILT!"
+			text.de="„Zielen Sie auf das Ziel... Oh nein, nicht auf das Loch! TILT!“"
+			text.es="Apunta al objetivo... ¡Oh, no, al agujero no! ¡INCLINACIÓN!"
+			text.it="Mira al bersaglio... Oh no, non al buco! TILT!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

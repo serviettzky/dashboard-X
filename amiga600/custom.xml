@@ -1,0 +1,64 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Commodore"
+			text.fr="Constructeur : Commodore"
+			text.de="Konstrukteur : Commodore"
+			text.es="constructor : Commodore"
+			text.it="Costruttore : Commodore"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1992"
+			text.fr="Année de Sortie : 1992"
+			text.de="Erscheinungsjahr: 1992"
+			text.es="Año de lanzamiento: 1992"
+			text.it="Anno di uscita: 1992"/>
+
+		<text name="info3" extra="true">
+			<text>OS : AmigaOS 2.05</text>
+		</text>
+		
+		<text name="info4" extra="true"
+			text="CPU : Motorola 68000 running @ 7.16 MHz</text>"
+			text.fr="Processeur : Motorola 68000 fonctionnant à 7,16 MHz"
+			text.de="CPU: Motorola 68000 mit 7,16 MHz"
+			text.es="CPU: Motorola 68000 funcionando a 7,16 MHz"
+			text.it="CPU: Motorola 68000 in esecuzione a 7,16 MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 1 MB (expandable up to 6 MB officially) / VRAM 1024 KB"
+			text.fr="RAM : 1 Mo (extensible jusqu'à 6 Mo officiellement) / VRAM 1024 Ko"
+			text.de="RAM: 1 MB (offiziell erweiterbar auf bis zu 6 MB) / VRAM 1024 KB"
+			text.es="RAM: 1 MB (ampliable hasta 6 MB oficialmente) / VRAM 1024 KB"
+			text.it="RAM: 1 MB (espandibile ufficialmente fino a 6 MB) / VRAM 1024 KB"/>
+
+		<text name="info6" extra="true"
+			text="ROM : 512 KB Kickstart 2.05"
+			text.fr="ROM : 512 Ko Kickstart 2.05"/>
+
+		<text name="info7" extra="true" text="GPU : Commodore's Enhanced Chip Set (ECS)"/>
+
+		<text name="info8" extra="true"
+			text="Sound chip : 4 DMA-driven 8-bit channels"
+			text.fr="Puce Audio : 4 canaux 8 bits pilotés par DMA"
+			text.de="Soundchip: 4 DMA-gesteuerte 8-Bit-Kanäle"
+			text.es="Chip de sonido: 4 canales de 8 bits controlados por DMA"
+			text.it="Chip audio: 4 canali a 8 bit gestiti da DMA"/>
+
+		<text name="info9" extra="true"
+			text="Resolution : 320x200 to 1280x512 (4096 colours at lower display resolutions)"
+			text.fr="Resolution :De 320x200 à 1280x512 (4096 couleurs à basses résolution)"
+			text.de="Auflösung: 320 x 200 bis 1280 x 512 (4096 Farben bei niedrigeren Bildschirmauflösungen)"
+			text.es="Resolución: 320x200 a 1280x512 (4096 colores en resoluciones de pantalla más bajas)"
+			text.it="Risoluzione: da 320x200 a 1280x512 (4096 colori con risoluzioni dello schermo inferiori)"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="192753"/>
+		<image name="band2" extra="true" color="5BA079"/>
+		<image name="band3" extra="true" color="F9EA38"/>
+		<image name="band4" extra="true" color="ED2224"/>
+	</view>
+</theme>

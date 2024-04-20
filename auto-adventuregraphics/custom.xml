@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Graphical adventure games!"
+			text.fr="Jeux d'aventure graphiques!"
+			text.de="Grafische Abenteuerspiele!"
+			text.es="¡Juegos de aventuras gráficas!"
+			text.it="Giochi di avventure grafiche!"/>
+
+		<text name="info2" extra="true" text="ex: like Maniac Mansion, Sam & Max, ..."/>
+
+		<text name="info3" extra="true"
+			text="Explore & Solve Enigmas..."
+			text.fr="Explorez et résolvez des énigmes..."
+			text.de="„Erforsche und löse Rätsel…“"
+			text.es="Explora y resuelve acertijos..."
+			text.it="Esplora e risolvi enigmi..."/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

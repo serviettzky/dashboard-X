@@ -1,0 +1,56 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Sinclair Research"
+			text.fr="Constructeur: Sinclair Research"
+			text.de="Hersteller: Sinclair Research"
+			text.es="Fabricante: Sinclair Research"
+			text.it="Produttore: Sinclair Research"/>
+
+		<text name="info2" extra="true" text="OS : Sinclair BASIC"/>
+
+		<text name="info3" extra="true"
+			text="Year of Release : 1982"
+			text.fr="Année de sortie: 1982"
+			text.de="Erscheinungsjahr: 1982"
+			text.es="Año de lanzamiento: 1982"
+			text.it="Anno di sortita: 1982"/>
+
+		<text name="info4" extra="true"
+			text="Units sold : 5 million"
+			text.fr="Unités Vendues : 5 millions"
+			text.de="Verkaufte Einheiten: 5 Millionen"
+			text.es="Unidades vendidas: 5 millones"
+			text.it="Unità vendute: 5 milioni"/>
+
+		<text name="info5" extra="true"
+			text="CPU : Z80 @ 3.5 MHz and equivalent"
+			text.fr="CPU : Z80 à 3,5 MHz et équivalent"
+			text.de="CPU: Z80 mit 3,5 MHz und gleichwertig"
+			text.es="CPU: Z80 a 3,5 MHz y equivalente"
+			text.it="CPU: Z80 a 3,5 MHz ed equivalente"/>
+
+		<text name="info6" extra="true"
+			text="Memory : 16 KB / 48 KB / 128 KB"
+			text.fr="Mémoire : 16 Ko / 48 Ko / 128 Ko"
+			text.de="Speicher: 16 KB / 48 KB / 128 KB"
+			text.es="Memoria: 16 KB / 48 KB / 128 KB"
+			text.it="Memoria: 16KB/48KB/128KB"/>
+
+		<text name="info7" extra="true"
+			text="Media : Cassette tape, 3-inch floppy disk on Spectrum +3"
+			text.fr="Support : Cassette, disquette 3 pouces sur Spectrum+3"
+			text.de="Medien: Kassette, 3-Zoll-Diskette bei Spectrum+3"
+			text.es="Medios: casete, disquete de 3 pulgadas en Spectrum+3"
+			text.it="Supporti: cassetta, floppy disk da 3 pollici su Spectrum+3"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="CA2825"/>
+		<image name="band2" color="EDBA01"/>
+		<image name="band3" color="009C37"/>
+		<image name="band4" color="02559C"/>
+	</view>
+</theme>

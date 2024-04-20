@@ -1,0 +1,26 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+				text="Lutro is an experimental lua game framework"
+				text.fr="Lutro est un framework de jeu Lua expérimental"
+				text.de="Lutro ist ein experimentelles Lua-Gaming-Framework"
+				text.es="Lutro es un marco de juego experimental de Lua"
+				text.it="Lutro è un framework di gioco Lua sperimentale"/>
+
+		<text name="info2" extra="true"
+				text="for libretro following the LÖVE API."
+				text.fr="pour libretro suivant l'API LÖVE."
+				text.de="per libretro seguendo l'API LÖVE."
+				text.es="para libretro siguiendo la API LÖVE."
+				text.it="per libretro seguendo l'API LÖVE."/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="74282b"/>
+		<image name="band2" color="ae353a"/>
+		<image name="band3" color="F2D8B5"/>
+		<image name="band4" color="00007f"/>
+	</view>
+</theme>

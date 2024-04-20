@@ -1,0 +1,50 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Philips"
+			text.fr="Constructeur: Philips"
+			text.de="Hersteller: Philips"
+			text.es="Fabricante: Philips"
+			text.it="Produttore: Philips"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1983"
+			text.fr="Année de sortie: 1983"
+			text.de="Erscheinungsjahr: 1983"
+			text.es="Año de lanzamiento: 1983"
+			text.it="Anno di sortita: 1983"/>
+
+		<text name="info3" extra="true" text="CPU : Intel 8048 @ 5.91MHz"/>
+
+		<text name="info4" extra="true"
+			text="RAM : 6 KB + 192 Bytes"
+			text.fr="RAM : 6 Ko + 192 Octets"/>
+
+		<text name="info5" extra="true"
+			text="Audio : 1 channel, 8 sounds"
+			text.fr="Audio : 1 canal, 8 sons"
+			text.de="Audio: 1 Kanal, 8 Sounds"
+			text.es="Audio: 1 canal, 8 sonidos"
+			text.it="Audio: 1 canale, 8 suoni"/>
+
+		<text name="info6" extra="true"
+			text="ROM : 1024 bytes"
+			text.fr="ROM : 1024 octets"/>
+
+		<text name="info7" extra="true"
+			text="Resolution : 320×238 pixels with 16 colors"
+			text.fr="Résolution : 320×238 pixels avec 16 couleurs"
+			text.de="Auflösung: 320×238 Pixel mit 16 Farben"
+			text.es="Resolución: 320×238 píxeles con 16 colores"
+			text.it="Risoluzione: 320×238 pixel con 16 colori"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="F6C514"/>
+		<image name="band2" color="EF6F4E"/>
+		<image name="band3" color="E0286B"/>
+		<image name="band4" color="BDB9A6"/>
+	</view>
+</theme>

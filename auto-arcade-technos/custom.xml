@@ -1,0 +1,41 @@
+<theme>
+	<formatVersion>5</formatVersion>
+	
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Founded in 1981"
+			text.fr="Fondée en 1981"
+			text.de="Gegründet 1981"
+			text.es="Fundada en 1981"
+			text.it="Fondata nel 1981"/>
+
+		<text name="info2" extra="true"
+			text="First Game: Minky Monkey"
+			text.fr="Premier Jeu: Minky Monkey"
+			text.de="Erstes Spiel: Minky Monkey"
+			text.es="Primer juego: Minky Monkey"
+			text.it="Primo gioco: Minky Monkey"/>
+
+		<text name="info3" extra="true"
+			text="Popular games: Double Dragon, Renegade, Voltage Fighter: Gowcaizer"
+			text.fr="Jeux connus:Double Dragon, Renegade, Voltage Fighter: Gowcaizer"
+			text.de="Beliebte Spiele: Double Dragon, Renegade, Voltage Fighter: Gowcaizer"
+			text.es="Juegos populares: Double Dragon, Renegade, Voltage Fighter: Gowcaizer"
+			text.it="Giochi popolari: Double Dragon, Renegade, Voltaggio Fighter: Gowcaizer"/>
+
+		<text name="info5" extra="true"
+			text="Find all the TECHNOS Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade TECHNOS."
+			text.de="Finden Sie alle TECHNOS Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de TECHNOS."
+			text.it="Trova tutti i giochi arcade TECHNOS."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="94532c"/>
+		<image name="band2" extra="true" color="ebba87"/>
+		<image name="band3" extra="true" color="0369a6"/>
+		<image name="band4" extra="true" color="000000"/>
+	</view>	
+</theme>

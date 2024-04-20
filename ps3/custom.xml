@@ -1,0 +1,72 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Sony, Foxconn, Asus"
+			text.fr="Constructeur: Sony, Foxconn, Asus"
+			text.de="Hersteller: Sony, Foxconn, Asus"
+			text.es="Fabricante: Sony, Foxconn, Asus"
+			text.it="Produttore: Sony, Foxconn, Asus"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 2006"
+			text.fr="Année de sortie: 2006"
+			text.de="Erscheinungsjahr: 2006"
+			text.es="Año de lanzamiento: 2006"
+			text.it="Anno di sortita: 2006"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 83.8 million"
+			text.fr="Unités Vendues : 83.8 millions"
+			text.de="Verkaufte Einheiten: 83.8 Millionen"
+			text.es="Unidades vendidas: 83.8 millones"
+			text.it="Unità vendute: 83.8 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Grand Theft Auto V"
+			text.fr="Jeu le Plus Vendu : Grand Theft Auto V"
+			text.de="Meistverkauftes Spiel: Grand Theft Auto V"
+			text.es="Juego más vendido: Grand Theft Auto V"
+			text.it="Il gioco più venduto: Grand Theft Auto V"/>
+
+		<text name="info5" extra="true" text="CPU : Cell Broadband Engine @ 3.2 GHz"/>
+
+		<text name="info6" extra="true" text="GPU : RSX 'Reality Synthesizer' @ 500MHz"/>
+
+		<text name="info7" extra="true"
+			text="RAM : 256MB XDR @ 3.2 GHz"
+			text.fr="RAM : 256Mo XDR @ 3.2 GHz"
+			text.de="RAM: 256 MB XDR bei 3,2 GHz"
+			text.es="RAM: 256 MB XDR @ 3,2 GHz"
+			text.it="RAM: 256 MB XDR @ 3,2 GHz"/>
+
+		<text name="info8" extra="true"
+			text="Video RAM : 256MB GDDR3 @ 700 MHz"
+			text.fr="Video RAM : 256Mo GDDR3 @ 700 MHz"
+			text.de="Video-RAM: 256 MB GDDR3 bei 700 MHz"
+			text.es="RAM de vídeo: 256 MB GDDR3 @ 700 MHz"
+			text.it="RAM video: 256 MB GDDR3 @ 700 MHz"/>
+
+		<text name="info9" extra="true"
+			text="Resolution: 480i, 480p, 720p, 1080i, 1080p"
+			text.fr="Resolution : 480i, 480p, 720p, 1080i, 1080p"
+			text.de="Auflösung: 480i, 480p, 720p, 1080i, 1080p"
+			text.es="Resolución: 480i, 480p, 720p, 1080i, 1080p"
+			text.it="Risoluzione: 480i, 480p, 720p, 1080i, 1080p"/>
+
+		<text name="info10" extra="true"
+			text="Media : Blu-Ray, DVD, Compact Disc, PlayStation 1 and 2 discs, Super Audio CD"
+			text.fr="Media : Blu-Ray, DVD, CD, Jeux PS1 et PS2, Super Audio CD"
+			text.de="Medien: Blu-Ray, DVD, CD, PS1- und PS2-Spiele, Super Audio CD"
+			text.es="Medios: Blu-Ray, DVD, CD, juegos de PS1 y PS2, Super Audio CD"
+			text.it="Supporti: Blu-Ray, DVD, CD, giochi PS1 e PS2, Super Audio CD"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="94B8F2"/>
+		<image name="band2" color="1A15FF"/>
+		<image name="band3" color="0095D5"/>
+		<image name="band4" color="3DD3C8"/>
+	</view>
+</theme>

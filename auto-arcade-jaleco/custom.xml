@@ -1,0 +1,55 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true"
+			text="Founded in 1982"
+			text.fr="Fondée en 1982"
+			text.de="Gegründet 1982"
+			text.es="Fundada en 1982"
+			text.it="Fondata nel 1982"/>
+
+		<text name="info2" extra="true"
+			text="Systems: Mega System 1, Mega System 32"
+			text.fr="Systemes: Mega System 1, Mega System 32"
+			text.de="Systeme: Mega-System 1, Mega-System 32"
+			text.es="Sistemas: Mega Sistema 1, Mega Sistema 32"
+			text.it="Sistemi: Mega Sistema 1, Mega Sistema 32"/>
+
+		<text name="info3" extra="true"
+			text="Production: 1983 - 1999"
+			text.fr="Production: 1983 - 1999"
+			text.de="Produktion: 1983 - 1999"
+			text.es="Producción: 1983 - 1999"
+			text.it="Produzione: 1983 - 1999"/>
+
+		<text name="info4" extra="true"
+			text="First Game: Saturn"
+			text.fr="Premier Jeu: Saturn"
+			text.de="Erstes Spiel: Saturn"
+			text.es="Primer juego: Saturn"
+			text.it="Primo gioco: Saturn"/>
+
+		<text name="info5" extra="true"
+			text="Popular Games: Bases Loaded, Tetris Plus"
+			text.fr="Jeux Populaires: Bases Loaded, Tetris Plus"
+			text.de="Beliebte Spiele: Bases Loaded, Tetris Plus"
+			text.es="Juegos populares: Bases Loaded, Tetris Plus"
+			text.it="Giochi popolari: Bases Loaded, Tetris Plus"/>
+
+		<text name="info7" extra="true"
+			text="Find all the JALECO Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade JALECO."
+			text.de="Finden Sie alle JALECO Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de JALECO."
+			text.it="Trova tutti i giochi arcade JALECO."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="010205"/>
+		<image name="band2" extra="true" color="246bbd"/>
+		<image name="band3" extra="true" color="498ddd"/>
+		<image name="band4" extra="true" color="f7fafd"/>
+	</view>	
+</theme>

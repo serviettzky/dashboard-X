@@ -1,0 +1,48 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Several developers have released the source code to many of their legacy"
+			text.fr="Plusieurs développeurs ont publié le code source de plusieurs de leurs anciens logiciels,"
+			text.de="Mehrere Entwickler haben den Quellcode für mehrere ihrer älteren Softwareprogramme veröffentlicht."
+			text.es="Varios desarrolladores han publicado el código fuente de varios de sus programas de software más antiguos."
+			text.it="Diversi sviluppatori hanno rilasciato il codice sorgente per molti dei loro vecchi programmi software."/>
+
+		<text name="info2" extra="true"
+			text="titles, allowing them to be run as native applications on many"
+			text.fr="titres, leur permettant d'être exécutés en tant qu'applications natives sur de nombreuses"
+			text.de="Titel, sodass sie als native Anwendungen auf vielen "
+			text.es="títulos, lo que les permite ejecutarse como aplicaciones nativas en muchas"
+			text.it="titoli, consentendo loro di essere eseguiti come applicazioni native su molte"/>
+
+		<text name="info3" extra="true"
+			text="alternative platforms, including Linux."
+			text.fr="plates-formes alternatives, y compris Linux."
+			text.de="alternativen Plattformen, einschließlich Linux, ausgeführt werden können."
+			text.es="plataformas alternativas, incluido Linux."
+			text.it="piattaforme alternative, incluso Linux."/>
+			
+		<text name="info4" extra="true"
+			text="Several game titles that were previously released for Linux were also able"
+			text.fr="Plusieurs titres de jeux précédemment publiés pour Linux ont également pu"
+			text.de="Mehrere zuvor veröffentlichte Spieletitel für Linux konnten dies ebenfalls"
+			text.es="Varios títulos de juegos lanzados anteriormente para Linux también pudieron"
+			text.it="Anche diversi titoli di giochi rilasciati in precedenza per Linux sono stati in grado di farlo"/>
+
+			<text name="info5" extra="true"
+			text="to be expanded or updated because of the availability of game code."
+			text.fr="à étendre ou à mettre à jour en raison de la disponibilité du code du jeu."
+			text.de="Mehrere zuvor veröffentlichte Spieletitel für Linux konnten dies ebenfalls"
+			text.es="Varios títulos de juegos lanzados anteriormente para Linux también pudieron"
+			text.it="Anche diversi titoli di giochi rilasciati in precedenza per Linux sono stati in grado di farlo"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="FF69B4"/>
+		<image name="band2" color="36D7B7"/>
+		<image name="band3" color="4B77BE"/>
+		<image name="band4" color="BE90D4"/>
+	</view>
+</theme>
+

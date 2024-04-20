@@ -1,0 +1,48 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Texas Instruments"
+			text.fr="Constructeur: Texas Instruments"
+			text.de="Hersteller: Texas Instruments"
+			text.es="Fabricante: Texas Instruments"
+			text.it="Produttore: Texas Instruments"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1981"
+			text.fr="Année de sortie: 1981"
+			text.de="Erscheinungsjahr: 1981"
+			text.es="Año de lanzamiento: 1981"
+			text.it="Anno di sortita: 1981"/>
+
+		<text name="info3" extra="true" text="OS : Basic owner"/>
+
+		<text name="info4" extra="true" text="CPU : Texas Instruments TMS9900 @ 3.3 MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 16/24 KB"
+			text.fr="RAM : 16/24 Ko"/>
+
+		<text name="info6" extra="true"
+			text="Resolution : max 256 x 192, 16 colours"
+			text.fr="Résolution : max 256 x 192, 16 couleurs"
+			text.de="Auflösung: max. 256 x 192, 16 Farben"
+			text.es="Resolución: máx. 256 x 192, 16 colores"
+			text.it="Risoluzione: max 256 x 192, 16 colori"/>
+
+		<text name="info7" extra="true"
+			text="Sound : 3 voices on 5 octaves and noise channel"
+			text.fr="Son : 3 voix sur 5 octaves et canal bruit"
+			text.de="Klang: 3 Stimmen auf 5 Oktaven und Rauschkanal"
+			text.es="Sonido: 3 voces en 5 octavas y canal de ruido."
+			text.it="Suono: 3 voci su 5 ottave e canale noise"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="ffffff"/>
+		<image name="band2" color="333333"/>
+		<image name="band3" color="aa0404"/>
+		<image name="band4" color="1a1a1a"/>
+	</view>	
+</theme>

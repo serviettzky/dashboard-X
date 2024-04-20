@@ -1,0 +1,70 @@
+﻿<theme>
+	<formatVersion>(</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true" 
+			text="Manufacturer : Panasonic, Sanyo, GoldStar" 
+			text.fr="Constructeur : Panasonic, Sanyo, GoldStar"
+			text.de="Hersteller : Panasonic, Sanyo, GoldStar"
+			text.es="Fabricante : Panasonic, Sanyo, GoldStar"
+			text.it="Produttore : Panasonic, Sanyo, GoldStar"/>
+		
+		<text name="info2" extra="true"
+			text="Year of Release : 1993"
+			text.fr="Année de Sortie : 1993"
+			text.de="Jahr der Veröffentlichung : 1993"
+			text.es="Año de lanzamiento : 1993"
+			text.it="Anno di rilascio : 1993"/>
+
+		<text name="info3" extra="true"
+			text="OS : Multitasking 32-bit OS"
+			text.fr="OS: OS multitâche 32 bits"
+			text.de="Betriebssystem: Multitasking-32-Bit-Betriebssystem"
+			text.es="SO: SO multitarea de 32 bits"
+			text.it="Sistema operativo: sistema operativo multitasking a 32 bit"/>
+			
+		<text name="info4" extra="true"
+			text="CPU : 32-bit RISC (ARM60) running @ 12.5 MHz"
+			text.fr="CPU : 32-bit RISC (ARM60) cadencé @ 12.5 MHz"
+			text.de="CPU: 32-Bit-RISC (ARM60) mit 12,5 MHz"
+			text.es="CPU: RISC de 32 bits (ARM60) funcionando a 12,5 MHz"
+			text.it="CPU: RISC a 32 bit (ARM60) in esecuzione a 12,5 MHz"/>
+		
+		<text name="info5" extra="true"
+			text="RAM : 2 MB / VRAM : 1 MB"
+			text.fr="RAM : 2 Mo / VRAM : 1 Mo"/>
+
+		<text name="info6" extra="true"
+			text="ROM : 1 MB"
+			text.fr="ROM : 1 Mo"/>
+		
+		<text name="info7" extra="true"
+			text="GPU : 2 Accelerated Video Co-Processors @25MHz"
+			text.fr="GPU : 2 coprocesseurs vidéo accélérés @25MHz"
+			text.de="GPU: 2 beschleunigte Video-Coprozessoren mit 25 MHz"
+			text.es="GPU: 2 coprocesadores de vídeo acelerados a 25 MHz"
+			text.it="GPU: 2 coprocessori video accelerati a 25 MHz"/>
+		
+		<text name="info8" extra="true"
+			text="Sound chip : 16-bit Stereo Sound with 44.1 KHz Sound Sampling Rate"
+			text.fr="Puce Audio :Son stéréo 16-bit à 44,1 KHz"
+			text.de="Soundchip: 16-Bit-Stereoton mit 44,1 kHz Tonabtastrate"
+			text.es="Chip de sonido: sonido estéreo de 16 bits con frecuencia de muestreo de sonido de 44,1 KHz"
+			text.it="Chip audio: audio stereo a 16 bit con frequenza di campionamento audio di 44,1 KHz"/>
+		
+		<text name="info9" extra="true"
+			text="Resolution : 640x480 (16.7 million colours)"
+			text.fr="Resolution : 640x480 (16.7 millions de couleurs)"
+			text.de="Auflösung: 640x480 (16,7 Millionen Farben)"
+			text.es="Resolución: 640x480 (16,7 millones de colores)"
+			text.it="Risoluzione: 640x480 (16,7 milioni di colori)"/>		
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="FF0000"/>
+		<image name="band2" extra="true" color="0000A0"/>
+		<image name="band3" extra="true" color="FFE41B"/>
+		<image name="band4" extra="true" color="23B14D"/>		
+	</view>
+</theme>

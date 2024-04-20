@@ -1,0 +1,35 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Real-Time Strategy games!"
+			text.fr="Jeux de stratégie en temps réel!"
+			text.de="Echtzeit-Strategiespiele!"
+			text.es="¡Juegos de estrategia en tiempo real!"
+			text.it="Giochi di strategia in tempo reale!"/>
+
+		<text name="info2" extra="true"	text="ex: Starcraft, Command & Conquer, Dune, Warcraft, ..."/>
+
+		<text name="info3" extra="true"
+			text="Time is against you! Grow quickly and crush your enemies"
+			text.fr="Le temps est contre vous ! Grandissez rapidement"
+			text.de="„Die Zeit ist gegen dich! Werde schnell erwachsen.“"
+			text.es="¡El tiempo está en tu contra! Crece rápido"
+			text.it="Il tempo è contro di te! Cresci in fretta"/>
+		
+		<text name="info4" extra="true"
+			text="and crush your enemies"
+			text.fr="et écrasez vos ennemis"
+			text.de="und vernichte deine Feinde"
+			text.es="y aplastar a tus enemigos"
+			text.it="e schiaccia i tuoi nemici"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

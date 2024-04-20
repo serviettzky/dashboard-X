@@ -1,0 +1,56 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+	<text name="info1" extra="true"
+			text="Manufacturer : Acorn Computers"
+			text.fr="Constructeur: Acorn Computers"
+			text.de="Hersteller: Acorn Computers"
+			text.es="Fabricante: Computadoras Bellota"
+			text.it="Produttore: Acorn Computer"/>
+
+	<text name="info2" extra="true"
+			text="Year of Release : 1981"
+			text.fr="Année de sortie: 1981"
+			text.de="Erscheinungsjahr: 1981"
+			text.es="Año de lanzamiento: 1981"
+			text.it="Anno di uscita: 1981"/>
+
+	<text name="info3" extra="true"	text="OS : Acorn MOS"/>
+
+	<text name="info4" extra="true"	text="CPU : MOS Technology 6502/6512 @ 2 MHz"/>
+
+	<text name="info5" extra="true"
+			text="RAM : 64KB - 128KB"
+			text.fr="RAM: 64Ko - 128Ko"/>
+
+		<text name="info6" extra="true"
+			text="Drive : Cassette tape, Floppy disk 5¼' or 3½', Hard disk, Laserdisc (BBC Domesday Project)"
+			text.fr="Lecteur: Cassette, Disquette 5¼' ou 3½', Disque dur, Laserdisc"
+			text.de="Player: Kassette, 5¼'- oder 3½'-Diskette, Festplatte, Laserdisc"
+			text.es="Reproductor: casete, disquete de 5¼' o 3½', disco duro, disco láser"
+			text.it="Lettore: Cassette, floppy disk da 5¼' o 3½', Hard disk, Laserdisc"/>
+
+		<text name="info7" extra="true"	
+			text="Sound Chip : Texas Instruments SN76489, 4 channels, mono"
+			text.fr="Puce sonore: Texas Instruments SN76489, 4 canaux, mono"
+			text.de="Soundchip: Texas Instruments SN76489, 4 Kanäle, Mono"
+			text.es="Chip de sonido: Texas Instruments SN76489, 4 canales, mono"
+			text.it="Chip audio: Texas Instruments SN76489, 4 canali, mono"/>
+
+		<text name="info8" extra="true"
+			text="Resolution: 640×256, 8 colours (various framebuffer modes)"
+			text.fr="Résolution: 640 × 256, 8 couleurs (différents modes framebuffer)"
+			text.de="Auflösung: 640 × 256, 8 Farben (verschiedene Framebuffer-Modi)"
+			text.es="Resolución: 640 × 256, 8 colores (diferentes modos de framebuffer)"
+			text.it="Risoluzione: 640 × 256, 8 colori (diverse modalità framebuffer)"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="DAD6CA"/>
+		<image name="band2" extra="true" color="BDB7A7"/>
+		<image name="band3" extra="true" color="EE7670"/>
+		<image name="band4" extra="true" color="444544"/>
+	</view>
+</theme>

@@ -1,0 +1,69 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Mattel Electronics"
+			text.fr="Constructeur: Mattel Electronics"
+			text.de="Hersteller: Mattel Electronics"
+			text.es="Fabricante: Mattel Electronics"
+			text.it="Produttore: Mattel Electronics"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1979"
+			text.fr="Année de sortie: 1979"
+			text.de="Erscheinungsjahr: 1979"
+			text.es="Año de lanzamiento: 1979"
+			text.it="Anno di sortita: 1979"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 3 million"
+			text.fr="Unités Vendues : +3 millions"
+			text.de="Verkaufte Einheiten: +3 Millionen"
+			text.es="Unidades vendidas: +3 millones"
+			text.it="Unità vendute: +3 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Las Vegas Poker & Blackjack"
+			text.fr="Jeu le Plus Vendu : Las Vegas Poker & Blackjack"
+			text.de="Meistverkauftes Spiel: Las Vegas Poker & Blackjack"
+			text.es="Juego más vendido: Las Vegas Poker & Blackjack"
+			text.it="Il gioco più venduto: Las Vegas Poker & Blackjack"/>
+
+		<text name="info5" extra="true" text="CPU : GI CP1610 @ 894.886 kHz"/>
+
+		<text name="info6" extra="true"
+			text="RAM : 1kB"
+			text.fr="RAM : 1ko"/>
+
+		<text name="info7" extra="true" text="Video : General Instrument AY-3-8900-1"/>
+
+		<text name="info8" extra="true"
+			text="Resolution : 159x96, 16 colors"
+			text.fr="Resolution : 159x96, 16 couleurs"
+			text.de="Auflösung: 159x96, 16 Farben"
+			text.es="Resolución: 159x96, 16 colores"
+			text.it="Risoluzione: 159x96, 16 colorié"/>
+
+		<text name="info9" extra="true"
+			text="Sound : General Instrument AY-3-8914"
+			text.fr="Son : General Instrument AY-3-8914"
+			text.de="Ton: Allgemeines Instrument AY-3-8914"
+			text.es="Sonido: Instrumento general AY-3-8914"
+			text.it="Suono: strumento generale AY-3-8914"/>
+
+		<text name="info10" extra="true"
+			text="Cart Size : 8kB - 32kB"
+			text.fr="Taille des Cartouches : 8Ko - 32Ko"
+			text.de="Patronengröße: 8 KB - 32 KB"
+			text.es="Tamaño del cartucho: 8 KB - 32 KB"
+			text.it="Dimensioni cartuccia: 8KB - 32KB"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="d4c1a0"/>
+		<image name="band2" color="2b201d"/>
+		<image name="band3" color="c81a7c"/>
+		<image name="band4" color="c8d463"/>
+	</view>
+</theme>

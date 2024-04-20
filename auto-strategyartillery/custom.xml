@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Multiplayer Artillery games!"
+			text.fr="Jeux d'artillerie multijoueurs!"
+			text.de="Multiplayer-Artilleriespiele!"
+			text.es="¡Juegos de artillería multijugador!"
+			text.it="Giochi di artiglieria multigiocatore!"/>
+
+		<text name="info2" extra="true"	text="ex: Worms, Scortched Tanks, Angry Birds ..."/>
+
+		<text name="info3" extra="true"
+			text="Take aim!.... FIRE!"
+			text.fr="Visez!.... FEU!"
+			text.de="Zielfeuer!"
+			text.es="¡Apunta!.... ¡FUEGO!"
+			text.it="Mira!... FUOCO!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

@@ -1,0 +1,89 @@
+<theme>
+	<formatVersion>5</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Nintendo"
+			text.fr="Constructeur: Nintendo"
+			text.de="Hersteller: Nintendo"
+			text.es="Fabricante: Nintendo"
+			text.it="Produttore: Nintendo"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1980"
+			text.fr="Année de sortie: 1980"
+			text.de="Erscheinungsjahr: 1980"
+			text.es="Año de lanzamiento: 1980"
+			text.it="Anno di sortita: 1980"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 43.4 million"
+			text.fr="Unités Vendues : 43.4 millions"
+			text.de="Verkaufte Einheiten: 43.4 Millionen"
+			text.es="Unidades vendidas: 43.4 millones"
+			text.it="Unità vendute: 43.4 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Donkey Kong"
+			text.fr="Jeu le Plus Vendu : Donkey Kong"
+			text.de="Meistverkauftes Spiel: Donkey Kong"
+			text.es="Juego más vendido: Donkey Kong"
+			text.it="Il gioco più venduto: Donkey Kong"/>
+
+		<text name="info5" extra="true"
+			text="Created by game designer Gunpei Yokoi, Game and Watch offers"
+			text.fr="Créé par le concepteur de jeux Gunpei Yokoi, Game and Watch propose"
+			text.de="Game and Watch wurde vom Spieledesigner Gunpei Yokoi entwickelt und bietet"
+			text.es="Creado por el diseñador de juegos Gunpei Yokoi, Game and Watch ofrece"
+			text.it="Creato dal game designer Gunpei Yokoi, Game and Watch offre"/>
+
+		<text name="info6" extra="true"
+			text="a game with a clock, an alarm or both. It's about"
+			text.fr="un jeu avec une horloge, une alarme ou les deux. Il s'agit du"
+			text.de="ein Spiel mit einer Uhr, einem Wecker oder beidem. Es geht um"
+			text.es="un juego con reloj, alarma o ambos. Se trata de"
+			text.it="un gioco con un orologio, una sveglia o entrambi. Riguarda"/>
+
+		<text name="info7" extra="true"
+			text="first highly successful Nintendo product"
+			text.fr="premier produit Nintendo à connaître un grand succès"
+			text.de="erstes äußerst erfolgreiches Nintendo-Produkt"
+			text.es="primer producto de Nintendo de gran éxito"
+			text.it="primo prodotto Nintendo di grande successo"/>
+
+		<text name="info8" extra="true"
+			text="among players.. 59 GW games have been published and only one is"
+			text.fr="auprès des joueurs.. 59 jeux GW ont été publiés et un seul est "
+			text.de="unter den Spielern. 59 GW-Spiele wurden veröffentlicht und nur eines ist es"
+			text.es=""
+			text.it="tra i giocatori.. Sono stati pubblicati 59 giochi GW e solo uno lo è<"/>
+
+		<text name="info9" extra="true"
+			text="available as a competition prize. Mr GW is a character often"
+			text.fr="disponible comme prix du concours. Mr GW est un personnage souvent"
+			text.de="als Wettbewerbspreis erhältlich. Herr GW ist oft eine Figur"
+			text.es="Disponible como premio del concurso. El señor GW es un personaje que a menudo"
+			text.it="disponibile come premio del concorso. Mr GW è un personaggio spesso<"/>
+
+		<text name="info10" extra="true"
+			text="considered the mascot of the GW series."
+			text.fr="considéré comme la mascotte de la série GW."
+			text.de="gilt als das Maskottchen der GW-Serie."
+			text.es="considerada la mascota de la serie GW."
+			text.it="considerata la mascotte della serie GW."/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="C4353D"/>
+		<image name="band2" color="C2904A"/>
+		<image name="band3" color="853641"/>
+		<image name="band4" color="4C301C"/>
+	</view>
+	
+	<view name="detailed">	
+	
+	<image name="bezel" extra="true" disabled="true"/>
+	
+	</view>
+	
+</theme>

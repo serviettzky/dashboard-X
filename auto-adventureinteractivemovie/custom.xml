@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Interactive movie games!"
+			text.fr="Jeux de cinéma interactifs!"
+			text.de="Interaktive Filmspiele!"
+			text.es="¡Juegos de películas interactivos!"
+			text.it="Giochi cinematografici interattivi!"/>
+
+		<text name="info2" extra="true" text="ex: Murphy, fahrenheit..."/>
+
+		<text name="info3" extra="true"
+			text="Watch & Act at the right time!"
+			text.fr="Regarder et agir au bon moment!"
+			text.de="„Schauen und handeln Sie zur richtigen Zeit!“"
+			text.es="“¡Mira y actúa en el momento adecuado!”"
+			text.it="“Guarda e agisci al momento giusto!”"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

@@ -1,0 +1,85 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Sega"
+			text.fr="Constructeur : Sega"
+			text.de="Hersteller: Sega"
+			text.es="Fabricante : Sega"
+			text.it="Produttore: Sega"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1988"
+			text.fr="Annee de Sortie : 1988"
+			text.de="Erscheinungsjahr: 1988"
+			text.es="Año de lanzamiento: 1988"
+			text.it="Anno di uscita: 1988"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 30 million"
+			text.fr="Unité Vendues : 30 millions"
+			text.de="Verkaufte Einheiten: 30 Millionen"
+			text.es="Unidades vendidas: 30 millones"
+			text.it="Unità vendute: 30 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Sonic the Hedgehog"
+			text.fr="Jeu le Plus Vendu : Sonic the Hedgehog"
+			text.de="Meistverkauftes Spiel: Sonic the Hedgehog"
+			text.es="Juego más vendido: Sonic the Hedgehog"
+			text.it="Il gioco più venduto: Sonic the Hedgehog"/>
+
+		<text name="info5" extra="true" text="CPU : 16-bit Motorola 68000 @ 7.6 MHz"/>
+
+		<text name="info6" extra="true"
+			text="CPU2 : 8-bit Zilog Z80 @ 3.58 Mhz (sound CPU)"
+			text.fr="CPU2 : Zilog Z80 8 bits à 3,58 Mhz (processeur sonore)"
+			text.de="CPU2: Zilog Z80 8-Bit bei 3,58 MHz (Soundprozessor)"
+			text.es="CPU2: Zilog Z80 de 8 bits a 3,58 MHz (procesador de sonido)"
+			text.it="CPU2: Zilog Z80 8 bit a 3,58 MHz (processore audio)"/>
+
+		<text name="info7" extra="true"
+			text="RAM : 64 kB / VRAM : 64kB / sound RAM : 8kB"
+			text.fr="RAM : 64 Ko / VRAM : 64Ko / RAM son : 8Ko"
+			text.de="RAM: 64 KB / VRAM: 64 KB / Sound-RAM: 8 KB"
+			text.es="RAM: 64 KB / VRAM: 64 KB / RAM de sonido: 8 KB"
+			text.it="RAM: 64 KB / VRAM: 64 KB / RAM audio: 8 KB"/>
+
+		<text name="info8" extra="true" text="Video : 16-bit Sega VDP"/>
+
+		<text name="info9" extra="true"
+			text="Resolution : 320×224 pixels, 64 colors (512 colors palette)"
+			text.fr="Resolution : 320×224 pixels, 64 couleurs (Palette de 512 couleurs)"
+			text.de="Auflösung: 320×224 Pixel, 64 Farben (512 Farbpalette)"
+			text.es="Resolución: 320×224 píxeles, 64 colores (paleta de 512 colores)"
+			text.it="Risoluzione: 320×224 pixel, 64 colori (tavolozza di 512 colori)"/>
+
+		<text name="info10" extra="true"
+			text="Sound : Yamaha YM2612 FM and TI SN76489 PSG"
+			text.fr="Son : Yamaha YM2612 FM et TI SN76489 PSG"
+			text.de="Sound: Yamaha YM2612 FM und TI SN76489 PSG"
+			text.es="Sonido: Yamaha YM2612 FM y TI SN76489 PSG"
+			text.it="Suono: Yamaha YM2612 FM e TI SN76489 PSG"/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="DCE3E6" region="eu"/>
+		<image name="band2" color="884A52" region="eu"/>
+		<image name="band3" color="D4AA6F" region="eu"/>
+		<image name="band4" color="212122" region="eu"/>
+	</view>
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="D2D2D2" region="jp"/>
+		<image name="band2" color="A02B59" region="jp"/>
+		<image name="band3" color="0069B4" region="jp"/>
+		<image name="band4" color="00AA00" region="jp"/>
+	</view>
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="181C4E" region="us"/>
+		<image name="band2" color="811B15" region="us"/>
+		<image name="band3" color="D2D2D2" region="us"/>
+		<image name="band4" color="20211D" region="us"/>
+	</view>
+
+</theme>

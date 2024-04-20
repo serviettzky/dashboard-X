@@ -1,0 +1,74 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Nintendo"
+			text.fr="Constructeur: Nintendo"
+			text.de="Hersteller: Nintendo"
+			text.es="Fabricante: Nintendo"
+			text.it="Produttore: Nintendo"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1995"
+			text.fr="Année de sortie: 1995"
+			text.de="Erscheinungsjahr: 1995"
+			text.es="Año de lanzamiento: 1995"
+			text.it="Anno di sortita: 1995"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 800 000"
+			text.fr="Unités Vendues : 800 000"
+			text.de="Verkaufte Einheiten: 800 000"
+			text.es="Unidades vendidas: 800 000"
+			text.it="Unità vendute: 800 000"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : VB Wario Land"
+			text.fr="Jeu le Plus Vendu : VB Wario Land"
+			text.de="Meistverkauftes Spiel: VB Wario Land"
+			text.es="Juego más vendido: VB Wario Land"
+			text.it="Il gioco più venduto: VB Wario Land"/>
+
+		<text name="info5" extra="true" text="CPU : 32Bit NEC V810 RISC @ 20MHz"/>
+
+		<text name="info6" extra="true"
+			text="RAM : 1Mbits DRAM 512kb P-SRAM"
+			text.fr="RAM : 1Mo DRAM 512Ko P-SRAM"/>
+
+		<text name="info7" extra="true"
+			text="Colors : 4 colors / 32 intensity levels"
+			text.fr="Couleurs : 4 couleurs / 32 niveaux d'intensité"
+			text.de="Farben: 4 Farben / 32 Intensitätsstufen"
+			text.es="Colores: 4 colores / 32 niveles de intensidad"
+			text.it="Colori: 4 colori/32 livelli di intensità"/>
+
+		<text name="info8" extra="true"
+			text="Resolution : 384 x 224 pixels"
+			text.fr="Résolution : 384 x 224 pixels"
+			text.de="Auflösung: 384 x 224 Pixel"
+			text.es="Resolución: 384 x 224 píxeles"
+			text.it="Risoluzione: 384 x 224 pixel"/>
+
+		<text name="info9" extra="true"
+			text="Screen : 2 RTI light-emitting LEDs"
+			text.fr="Écran : 2 LEDs électroluminescentes RTI"
+			text.de="Bildschirm: 2 RTI-Elektrolumineszenz-LEDs"
+			text.es="Pantalla: 2 LED electroluminiscentes RTI"
+			text.it="Schermo: 2 LED elettroluminescenti RTI"/>
+
+		<text name="info10" extra="true"
+			text="Sound : 16Bits stereo"
+			text.fr="Son :stereo 16Bits"
+			text.de="Ton: 16-Bit-Stereo"
+			text.es="Sonido: estéreo de 16 bits"
+			text.it="Suono: stereo a 16 bit"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="363636"/>
+		<image name="band2" color="FE0016"/>
+		<image name="band3" color="8A8C8E"/>
+		<image name="band4" color="232323"/>
+	</view>
+</theme>

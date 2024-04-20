@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Battle Royale survival games!"
+			text.fr="Jeux de survie Battle Royale"
+			text.de="Battle Royale-Überlebensspiele="
+			text.es="Juegos de supervivencia Battle Royale"
+			text.it="Giochi di sopravvivenza Battle Royale"/>
+
+		<text name="info2" extra="true" text="ex: Fortnite, Apex Lengend, etc."/>
+
+		<text name="info3" extra="true"
+			text="Kill or be killed!"
+			text.fr="Tuer ou être tué!"
+			text.de="Töten oder getötet werden!"
+			text.es="¡Matar o morir!"
+			text.it="Uccidere o essere ucciso!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

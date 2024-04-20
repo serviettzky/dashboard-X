@@ -1,0 +1,69 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Nintendo"
+			text.fr="Constructeur: Nintendo"
+			text.de="Hersteller: Nintendo"
+			text.es="Fabricante: Nintendo"
+			text.it="Produttore: Nintendo"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1983"
+			text.fr="Année de sortie: 1983"
+			text.de="Erscheinungsjahr: 1983"
+			text.es="Año de lanzamiento: 1983"
+			text.it="Anno di sortita: 1983"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 2 million"
+			text.fr="Unités Vendues : 2 millions"
+			text.de="Verkaufte Einheiten: 2 Millionen"
+			text.es="Unidades vendidas: 2 millones"
+			text.it="Unità vendute: 2 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Media : BS-X Application Cartridge + optional 8MB Memory Pak"
+			text.fr="Media: Cartouche d'application BS-X + pack mémoire de 8 Mo en option"
+			text.de="Medien: BS-X-Anwendungskassette + optionales 8-MB-Speicherpaket"
+			text.es="Medios: cartucho de aplicación BS-X + paquete de memoria opcional de 8 MB"
+			text.it="Supporti: cartuccia applicativa BS-X + memory pack opzionale da 8 MB"/>
+
+		<text name="info5" extra="true"
+			text="The Satellaview is a satellite modem peripheral for Nintendo"
+			text.fr="Le Satellaview est un périphérique modem satellite pour Nintendo"
+			text.de="Das Satellaview ist ein Satellitenmodemgerät für Nintendo"
+			text.es="Satellaview es un dispositivo módem satelital para Nintendo"
+			text.it="Il Satellaview è un dispositivo modem satellitare per Nintendo"/>
+			
+		<text name="info6" extra="true"
+			text="Super Famicom system. Bundled with the Satellaview"
+			text.fr="Système Super Famicom. Livré avec le Satellaview"
+			text.de="Super Famicom-System. Kommt mit Satellaview"
+			text.es="Sistema Súper Famicom. Viene con Satellaview"
+			text.it="Sistema Super Famicom. Viene fornito con Satellaview"/>
+
+		<text name="info7" extra="true"
+			text="came a slotted application cartridge with the title"
+			text.fr="est venue une cartouche d'application à fente avec le titre"
+			text.de="Im Lieferumfang war eine Applikationskassette mit Schlitz und dem Titel enthalten"
+			text.es="vino un cartucho de aplicación ranurado con el título"
+			text.it="è arrivata una cartuccia dell'applicazione scanalata con il titolo"/>
+
+		<text name="info8" extra="true"
+			text="BS-X : The Story of The Town Whose Name Was Stolen."
+			text.fr="BS-X : L'histoire de la ville dont le nom a été volé."
+			text.de="BS-X: Die Geschichte der Stadt, deren Name gestohlen wurde."
+			text.es="BS-X: La historia de la ciudad cuyo nombre fue robado."
+			text.it="BS-X: La storia della città il cui nome è stato rubato."/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="37336C"/>
+		<image name="band2" color="CD2943"/>
+		<image name="band3" color="FFDF68"/>
+		<image name="band4" color="647A54"/>
+	</view>
+	
+</theme>

@@ -1,0 +1,65 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Developer : Miles Gordon Technology"
+			text.fr="Developeur : Miles Gordon Technology"
+			text.de="Entwickler: Miles Gordon Technology"
+			text.es="Desarrollador: Tecnología Miles Gordon"
+			text.it="Sviluppatore: Miles Gordon Technology"/>
+
+		<text name="info2" extra="true"
+			text="Manufacturer : Miles Gordon Technology"
+			text.fr="Constructeur: Miles Gordon Technology"
+			text.de="Hersteller: Miles Gordon Technology"
+			text.es="Fabricante: Miles Gordon Technology"
+			text.it="Produttore: Miles Gordon Technology"/>
+
+		<text name="info3" extra="true" text="OS : SAM BASIC"/>
+
+		<text name="info4" extra="true"
+			text="Year of Release : 1989"
+			text.fr="Année de sortie: 1989"
+			text.de="Erscheinungsjahr: 1989"
+			text.es="Año de lanzamiento: 1989"
+			text.it="Anno di sortita: 1989"/>
+
+		<text name="info5" extra="true"
+			text="Units sold : 12000"
+			text.fr="Unités Vendues : 12000"
+			text.de="Verkaufte Einheiten: 12000"
+			text.es="Unidades vendidas: 12000"
+			text.it="Unità vendute: 12000"/>
+
+		<text name="info6" extra="true" text="CPU : Zilog Z80B @ 6 MHz"/>
+
+		<text name="info7" extra="true"
+			text="Memory : 256 KB/512 KB (4.5 MB max.)"
+			text.fr="Memoire : 256 Ko/512 Ko (4.5 Mo max.)"
+			text.de="Speicher: 256 KB/512 KB (max. 4,5 MB)"
+			text.es="Memoria: 256 KB/512 KB (4,5 MB máx.)"
+			text.it="Memoria: 256 KB/512 KB (4,5 MB massimo)"/>
+
+		<text name="info8" extra="true"
+			text="Storage : Cassette recorder, 3.5 inch floppy disk"
+			text.fr="Stockage : Magnétophone, disquette 3,5 pouces"
+			text.de="Lagerung: Tonbandgerät, 3,5-Zoll-Diskette"
+			text.es="Almacenamiento: grabadora, disquete de 3,5 pulgadas"
+			text.it="Memorizzazione: registratore, floppy disk da 3,5 pollici"/>
+
+		<text name="info9" extra="true"
+			text="Graphics : 4 Modes (256×192 / 512×192) and 128 colour palette"
+			text.fr="Graphiques: 4 modes (256×192 / 512×192) et palette de 128 couleurs"
+			text.de="Grafik: 4 Modi (256×192 / 512×192) und 128 Farbpalette"
+			text.es="Gráficos: 4 modos (256×192 / 512×192) y paleta de 128 colores"
+			text.it="Grafica: 4 modalità (256×192 / 512×192) e tavolozza di 128 colori"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="2A46A5"/>
+		<image name="band2" color="C60000"/>
+		<image name="band3" color="D3D8D3"/>
+		<image name="band4" color="96958C"/>
+	</view>
+</theme>

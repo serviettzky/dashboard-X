@@ -1,0 +1,75 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true"
+			text="Manufacturer : SNK Corporation"
+			text.fr="Constructeur: SNK Corporation"
+			text.de="Hersteller: SNK Corporation"
+			text.es="Fabricante: SNK Corporation"
+			text.it="Produttore: SNK Corporation"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1990"
+			text.fr="Année de sortie: 1990"
+			text.de="Erscheinungsjahr: 1990"
+			text.es="Año de lanzamiento: 1990"
+			text.it="Anno di sortita: 1990"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 1 million"
+			text.fr="Unités Vendues : 1 millions"
+			text.de="Verkaufte Einheiten: 1 Millionen"
+			text.es="Unidades vendidas: 1 millones"
+			text.it="Unità vendute: 1 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : The King of Fighters '95"
+			text.fr="Jeu le Plus Vendu : The King of Fighters '95"
+			text.de="Meistverkauftes Spiel: The King of Fighters '95"
+			text.es="Juego más vendido: The King of Fighters '95"
+			text.it="Il gioco più venduto: The King of Fighters '95"/>
+
+		<text name="info5" extra="true" text="CPU : Motorola 68000 @ 12MHz, Zilog Z80A @ 4MHz"/>
+
+		<text name="info6" extra="true"
+			text="RAM : 64KB RAM"
+			text.fr="RAM : 64ko RAM"/>
+
+		<text name="info7" extra="true"
+			text="Audio Ram : 2KB"
+			text.fr="Mémoire RAM audio : 2 Ko"
+			text.de="Audio-RAM: 2 KB"
+			text.es="Memoria RAM de audio: 2 KB"
+			text.it="Ram audio: 2KB"/>
+
+		<text name="info8" extra="true"
+			text="Video RAM : 84KB"
+			text.fr="RAM vidéo : 84 Ko"
+			text.de="Video-RAM: 84Ko"
+			text.es="RAM de vídeo: 84Ko"
+			text.it="RAM video: 84Ko"/>
+			
+		<text name="info9" extra="true"
+			text="Display : 320×224 resolution, 4096 colors out of 65536"
+			text.fr="Affichage : Résolution 320×224, 4096 couleurs sur 65536"
+			text.de="Anzeige: Auflösung 320×224, 4096 von 65536 Farben"
+			text.es="Pantalla: Resolución 320×224, 4096 de 65536 colores"
+			text.it="Display: risoluzione 320×224, 4096 su 65536 colori"/>
+			
+		<text name="info10" extra="true"
+			text="Sound chip : Yamaha YM2610"
+			text.fr="Puce Audio : Yamaha YM2610"
+			text.de="Audiochip: Yamaha YM2610"
+			text.es="Chip de audio: Yamaha YM2610"
+			text.it="Chip audio: Yamaha YM2610"/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="BF9328"/>
+		<image name="band2" color="494949"/>
+		<image name="band3" color="2D2D2D"/>
+		<image name="band4" color="E8E2E9"/>
+	</view>
+</theme>

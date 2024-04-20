@@ -1,0 +1,49 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true" 	
+			text="Systems: Z80 Based, Commando, Section Z68000 Based, CPS1, CPS2, CPS3"
+			text.fr="Systémes: Z80 Based, Commando, Section Z68000 Based, CPS1, CPS2, CPS3"
+			text.de="Systeme: Z80 Based, Commando, Section Z68000 Based, CPS1, CPS2, CPS3"
+			text.es="Sistemas: Z80 Based, Commando, Section Z68000 Based, CPS1, CPS2, CPS3"
+			text.it="Sistemi: Z80 Based, Commando, Section Z68000 Based, CPS1, CPS2, CPS3"/>
+
+		<text name="info2" extra="true"
+			text="Wiring standard : JAMMA"
+			text.fr="Norme de câblage : JAMMA"
+			text.de="Verkabelungsstandard: JAMMA"
+			text.es="Estándar de cableado: JAMMA"
+			text.it="Norma di cablaggio: JAMMA"/>
+
+		<text name="info3" extra="true"
+			text="First Game: Vulgus "
+			text.fr="Premier Jeu: Vulgus "
+			text.de="Erstes Spiel: Vulgus "
+			text.es="Primer juego: Vulgus "
+			text.it="Primo gioco: Vulgus "/>
+
+		<text name="info4" extra="true"
+			text="Popular Games: Ghosts 'n Goblins,SonSon,The Speed Rumbler"
+			text.fr="Jeux Populaires: Ghosts 'n Goblins,SonSon,The Speed Rumbler"
+			text.de="Beliebte Spiele: Ghosts 'n Goblins,SonSon,The Speed Rumbler"
+			text.es="Juegos populares: Ghosts 'n Goblins,SonSon,The Speed Rumbler"
+			text.it="Giochi popolari: Ghosts 'n Goblins,SonSon,The Speed Rumbler"/>
+
+		<text name="info6" extra="true"
+			text="Find all the CAPCOM Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade CAPCOM."
+			text.de="Hier finden Sie alle CAPCOM Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de CAPCOM."
+			text.it="Trova tutti i giochi arcade CAPCOM."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+	
+		<image name="band1" extra="true" color="00419C"/>
+		<image name="band2" extra="true" color="FFFFFF"/>
+		<image name="band3" extra="true" color="FFCB08"/>
+		<image name="band4" extra="true" color="000000"/>
+	</view>	
+</theme>

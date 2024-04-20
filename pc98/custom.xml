@@ -1,0 +1,49 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : NEC Corporation"
+			text.fr="Constructeur: NEC Corporation"
+			text.de="Hersteller: NEC Corporation"
+			text.es="Fabricante: NEC Corporation"
+			text.it="Produttore: NEC Corporation"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1982"
+			text.fr="Année de sortie: 1982"
+			text.de="Erscheinungsjahr: 1982"
+			text.es="Año de lanzamiento: 1982"
+			text.it="Anno di sortita: 1982"/>
+
+		<text name="info3" extra="true" text="OS : CP/M-86, MS-DOS, OS/2, Windows"/>
+
+		<text name="info4" extra="true"
+			text="CPU : 8086 @ 5 MHz and higher"
+			text.fr="CPU : 8086 @ 5 MHz et plus"
+			text.de="CPU: 8086 bei 5 MHz und höher"
+			text.es="CPU: 8086 a 5 MHz y superior"
+			text.it="CPU: 8086 a 5 MHz e superiore"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 128 KB and higher"
+			text.fr="RAM : 128 Ko et plus"
+			text.de="RAM: 128 KB und mehr"
+			text.es="RAM: 128 KB y superior"
+			text.it="RAM: 128 KB e superiore"/>
+
+		<text name="info6" extra="true"
+			text="Sound Chip : Internal beeper, FM Sound, PCM"
+			text.fr="Puce sonore: bip interne, son FM, PCM"
+			text.de="Soundchip: Interner Piepser, FM-Sound, PCM"
+			text.es="Chip de sonido: Beeper interno, sonido FM, PCM"
+			text.it="Chip audio: segnale acustico interno, audio FM, PCM"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="951610"/>
+		<image name="band2" color="16643C"/>
+		<image name="band3" color="00499A"/>
+		<image name="band4" color="3B3431"/>
+	</view>
+</theme>

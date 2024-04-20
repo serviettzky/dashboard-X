@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Digital card games"
+			text.fr="Jeux de cartes numériques"
+			text.de="digitale Kartenspiele"
+			text.es="juegos de cartas digitales"
+			text.it="giochi di carte digitali"/>
+
+		<text name="info2" extra="true"	text="ex: Pokemons, digimons, Magic the Gathering..."/>
+
+		<text name="info3" extra="true"
+			text="Collect'em all!"
+			text.fr="Collectionnez-les tous!"
+			text.de="Sammle sie alle!"
+			text.es="¡Colecciónalos todos!"
+			text.it="Raccoglili tutti!"/>
+		</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

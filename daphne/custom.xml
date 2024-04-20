@@ -1,0 +1,77 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"
+			text="Developers : Matt Ownby (Daphne) and Jeffrey Clark (Hypseus)"
+			text.fr="Developeurs : Matt Ownby (Daphne) et Jeffrey Clark (Hypseus)"
+			text.de="Entwickler: Matt Ownby (Daphne) und Jeffrey Clark (Hypseus)"
+			text.es="Desarrolladores: Matt Ownby (Daphne) y Jeffrey Clark (Hypseus)"
+			text.it="Sviluppatori: Matt Ownby (Daphne) e Jeffrey Clark (Hypseus)"/>
+=
+		<text name="info2" extra="true"
+			text="Initial release : 1999"
+			text.fr="Première version : 1999"
+			text.de="Erste Version: 1999"
+			text.es="Primera versión: 1999"
+			text.it="Prima versione: 1999"/>
+
+		<text name="info3" extra="true"
+			text="Website : http://www.daphne-emu.com/"
+			text.fr="Site web : http://www.daphne-emu.com/"
+			text.de="Website: http://www.daphne-emu.com/"
+			text.es="Sitio web: http://www.daphne-emu.com/"
+			text.it="Sito web: http://www.daphne-emu.com/"/>
+
+		<text name="info4" extra="true"
+			text="Written in : C++"
+			text.fr="Langage : C++"
+			text.de="Sprache: C++"
+			text.es="Idioma: C++"
+			text.it="Linguaggio: C++"/>
+
+		<text name="info5" extra="true"
+			text="Daphne is a program that lets one play the original"
+			text.fr="Daphné est un programme qui permet de lire l'original"
+			text.de="Daphné ist ein Programm, mit dem Sie das Original lesen können"
+			text.es="Daphné es un programa que te permite leer el original"
+			text.it="Daphné è un programma che ti permette di leggere l'originale"/>
+			
+		<text name="info6" extra="true"
+			text="versions of many LaserDisc arcade games"
+			text.fr="versions de nombreux jeux d'arcade LaserDisc."
+			text.de="Versionen vieler LaserDisc-Arcade-Spiele."
+			text.es="versiones de muchos juegos arcade LaserDisc."
+			text.it="versioni di molti giochi arcade LaserDisc."/>
+			
+		<text name="info7" extra="true"
+			text="Hypseus is a fork of Daphne to improve"
+			text.fr="Hypseus est un fork de Daphné pour améliorer"
+			text.de="Hypseus ist eine Abzweigung von Daphne zur Verbesserung"
+			text.es="Hypseus es un fork de Daphne para mejorar"
+			text.it="Hypseus è un fork di Dafne da migliorare"/>
+			
+		<text name="info8" extra="true"
+			text="performance (MPEG2 decoder, SDL2 support, ...)"
+			text.fr="les performance (MPEG2 decoder, SDL2 support, ...)"
+			text.de="Leistung (MPEG2-Decoder, SDL2-Unterstützung usw.)"
+			text.es="rendimiento (decodificador MPEG2, soporte SDL2, etc.)"
+			text.it="prestazioni (decoder MPEG2, supporto SDL2, ecc.)"/>
+			
+		<text name="info9" extra="true"
+			text="Best LaserDisc games are: Dragon's Lair, Space Ace, ..."
+			text.fr="Les meilleurs jeux LaserDisc sont: Dragon's Lair, Space Ace, ..."
+			text.de="Die besten LaserDisc-Spiele sind: Dragon's Lair, Space Ace, ..."
+			text.es="Los mejores juegos de LaserDisc son: Dragon's Lair, Space Ace, ..."
+			text.it="I migliori giochi LaserDisc sono: Dragon's Lair, Space Ace, ..."/>
+		
+	</view>
+
+	<view name="system, detailed, gameclip"
+		<image name="band1" extra="true" color="DEBA27"/>
+		<image name="band2" extra="true" color="856125"/>
+		<image name="band3" extra="true" color="DC110B"/>
+		<image name="band4" extra="true" color="D8D3BD"/>
+	</view>
+</theme>

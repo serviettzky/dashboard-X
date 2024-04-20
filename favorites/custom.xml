@@ -1,0 +1,22 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"
+			text="Find all your favorites games in a single system."
+			text.fr="Retrouvez tous vos jeux favoris dans un seul système."
+			text.de="Finden Sie alle Ihre Lieblingsspiele in einem System."
+			text.es="Encuentra todos tus juegos favoritos en un solo sistema."
+			text.it="Trova tutti i tuoi giochi preferiti in un unico sistema."/>		
+	</view>
+
+	<view name="system, detailed, gameclip">
+	<extras>
+		<image name="band1" color="F6DD08"/>
+		<image name="band2" color="800000"/>
+		<image name="band3" color="FF0000"/>
+		<image name="band4" color="4C504E"/>
+	</extras>
+	</view>
+</theme>

@@ -1,0 +1,40 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Take screenshots of your best games and highscores,"
+			text.fr="Prenez des captures d'écran de vos meilleurs jeux et scores,"
+			text.de="Machen Sie Screenshots Ihrer besten Spiele und Ergebnisse."
+			text.es="Toma capturas de pantalla de tus mejores juegos y puntuaciones,"
+			text.it="Cattura screenshot delle tue migliori partite e dei tuoi punteggi,"/>
+
+		<text name="info2" extra="true"
+			text="then show them to your friends."
+			text.fr="puis montre-les à tes amis."
+			text.de="Dann zeige sie deinen Freunden."
+			text.es="luego muéstraselos a tus amigos."
+			text.it="poi mostrali ai tuoi amici."/>
+
+		<text name="info3" extra="true"
+			text="Who will be the best player ..."
+			text.fr="Qui sera le meilleur joueur ..."
+			text.de="Wer wird der beste Spieler sein..."
+			text.es="¿Quién será el mejor jugador...?"
+			text.it="Chi sarà il miglior giocatore..."/>
+
+		<text name="info4" extra="true"
+			text="God Bless Recalbox !"
+			text.fr="Que Dieu bénisse Recalbox !"
+			text.de="Gott segne Recalbox!"
+			text.es="¡Dios bendiga a Recalbox!?"
+			text.it="Dio benedica Recalbox!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="F2F2F2"/>
+		<image name="band2" color="D50F2A"/>
+		<image name="band3" color="A19795"/>
+		<image name="band4" color="4C504E"/>
+	</view>
+</theme>

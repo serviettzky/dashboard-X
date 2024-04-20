@@ -1,0 +1,41 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"
+			text="Founded in 1986"
+			text.fr="Fondée en 1986"
+			text.de="Gegründet 1986"
+			text.es="Fundada en 1986"
+			text.it="Fondata nel 1986"/>
+
+		<text name="info2" extra="true"
+			text="First Game: BlaZeon "
+			text.fr="Premier Jeu: BlaZeon "
+			text.de="Erstes Spiel: BlaZeon "
+			text.es="Primer juego: BlaZeon "
+			text.it="Primo gioco: BlaZeon "/>
+
+		<text name="info3" extra="true"
+			text="Known games: Power Instinct, Persona 4 Arena"
+			text.fr="Jeux connus: Power Instinct, Persona 4 Arena"
+			text.de="Bekannte Spiele: Power Instinct, Persona 4 Arena"
+			text.es="Juegos conocidos: Power Instinct, Persona 4 Arena"
+			text.it="Giochi conosciuti: Power Instinct, Persona 4 Arena"/>		
+
+		<text name="info5" extra="true"
+			text="Find all ATLUS Arcade games."
+			text.fr="Retrouvez tous les jeux d'Arcade ATLUS."
+			text.de="Finden Sie alle ATLUS Arcade-Spiele."
+			text.es="Encuentra todos los juegos de ATLUS Arcade."
+			text.it="Trova tutti i giochi ATLUS Arcade."/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="FFFFFF"/>
+		<image name="band2" extra="true" color="1967B3"/>
+		<image name="band3" extra="true" color="ED1C24"/>
+		<image name="band4" extra="true" color="FFFFFF"/>
+	</view>	
+</theme>

@@ -1,0 +1,61 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Developers : Senile Team, OpenBOR Team and the Community"
+			text.fr="Developeurs : Senile Team, L'équipe OpenBOR et la communauté"
+			text.de="Entwickler: Senile Team, das OpenBOR-Team und die Community"
+			text.es="Desarrolladores: Senile Team, el equipo OpenBOR y la comunidad"
+			text.it="Sviluppatori: Senile Team, The OpenBOR team e la community"/>
+			
+		<text name="info2" extra="true"
+			text="Initial release : 2004"
+			text.fr="Première version : 2004"
+			text.de="Erstveröffentlichung: 2004"
+			text.es="Lanzamiento inicial: 2004"
+			text.it="Prima versione: 2004"/>
+
+		<text name="info3" extra="true"
+			text="Website : http://www.chronocrash.com/"
+			text.fr="Site Web : http://www.chronocrash.com/"
+			text.de="Website: http://www.chronocrash.com/"
+			text.es="Sitio web: http://www.chronocrash.com/"
+			text.it="Sito web: http://www.chronocrash.com/"/>
+
+		<text name="info4" extra="true"
+			text="Written in : C, C++"
+			text.fr="Ecrit en : C, C++"
+			text.de="Geschrieben in: C, C++"
+			text.es="Escrito en: C, C++"
+			text.it="Scritto in: C, C++"/>
+
+		<text name="info5" extra="true"
+			text="OpenBOR is a continuation of the Beats Of Rage 2D"
+			text.fr="OpenBOR est une continuation de Beats Of Rage 2D"
+			text.de="OpenBOR ist eine Fortsetzung von Beats Of Rage 2D"
+			text.es="OpenBOR es una continuación de Beats Of Rage 2D"
+			text.it="OpenBOR è una continuazione di Beats Of Rage 2D"/>
+
+		<text name="info6" extra="true"
+			text="game engine, which was originally created by the"
+			text.fr="moteur de jeu, créé à l'origine par "
+			text.de="Spiel-Engine, ursprünglich erstellt von"
+			text.es="motor de juego, creado originalmente por el"
+			text.it="motore di gioco, originariamente creato da"/>
+
+		<text name="info7" extra="true"
+			text="wonderful folks over at Senile Team."
+			text.fr="des gens formidables à l'équipe Senile."
+			text.de="Tolle Leute im Senile-Team."
+			text.es="Grandes personas en el equipo Senile."
+			text.it="grandi persone nel team Senile."/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="E17930"/>
+		<image name="band2" color="407AC0"/>
+		<image name="band3" color="EBE470"/>
+		<image name="band4" color="404040"/>
+	</view>
+</theme>

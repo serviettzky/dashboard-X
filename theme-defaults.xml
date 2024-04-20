@@ -1,0 +1,99 @@
+<theme>
+	<formatVersion>5</formatVersion>
+	
+	<view name="menu, system, detailed, gameclip">
+	
+		<helpsystem name="help"
+		
+			fontPath="./data/arts/fonts/Xbox Original Bold.ttf" fontSize="0.035" textColor="a8db7f" iconColor="a8db7f"/>
+	</view>
+	
+	<view name="menu">
+	
+		<menuText name="menufooter" fontPath="./data/fonts/SST Ultra Light.ttf" fontSize="0.025" color="a8db7f"/>
+		
+		<menuText name="menutext" fontPath="./data/fonts/SST Roman.ttf" fontSize="0.035" color="a8db7f"
+		separatorColor="1a650a" selectorColor="1a650a" selectedColor="000000"/>
+		
+		<menuTextSmall name="menutextsmall" fontPath="./data/fonts/SST Roman.ttf" fontSize="0.028" color="a8db7f"/>
+		
+		<menuText name="menutitle" fontPath="./data/fonts/SST Bold.ttf" fontSize="0.04" color="a8db7f"/>
+		
+		<menuBackground name="menubg" color="0d4403AA" path="./data/borderframe.png" fadePath="./data/arts/fade.png"/>
+	</view>
+
+	<view name="gameclip">
+	
+	<image name="backgroundalpha" extra="true" pos="0 0" size="1 1" path="./data/arts/background_alpha.png" zIndex="1"/>	
+	
+	</view>
+	
+	<view name="system, detailed">			
+		
+		<image name="background" extra="true" pos="0 0" size="1 1" path="./data/arts/background.png" zIndex="0"/>	
+		<image name="arcadecab" extra="true" path="./$system/data/arcadecab.svg"/>
+		<image name="consolegame" extra="true" path="./$system/data/consolegame.svg"/>
+		<image name="consolegame" extra="true" path="./$system/data/eu/consolegame.svg" region="eu"/>
+		<image name="consolegame" extra="true" path="./$system/data/us/consolegame.svg" region="us"/>
+		<image name="consolegame" extra="true" path="./$system/data/jp/consolegame.svg" region="jp"/>
+		
+		<image name="logo" path="./$system/data/logo.svg"/>	
+		
+		<box name="mask" extra="true" pos="0 1" size="1 0.1" origin="0 1" colorTop="00000000" colorBottom="000000" zIndex="1"/>
+	</view>
+	
+	<view name="system">	
+		
+				
+		<image name="xboxsystemheader" extra="true" path="./data/arts/xbox_systemheader.svg" zIndex="1"/>
+		
+		<text name="md_lbl_systeminfo" extra="true" pos="0.14 0.138 " size="0.12 0.016" origin="1 1" fontPath="./data/fonts/SST Bold.ttf" fontSize="0.015" alignment="right"  color="8ca700"
+		text="SYSTEM INFO" text.fr="INFORMATION SYSTEME"/>
+		
+	//infos systemes
+		
+		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10," extra="false" size="0.420 0.032" fontPath="./data/fonts/SST Roman.ttf" fontSize="0.02" alignment="left" color="a8a8a8"/>
+		
+		<text name="info11" extra="false" size="0.4 0.12" fontPath="./data/fonts/SST Roman.ttf" fontSize="0.02" alignment="top" lineSpacing="1" color="a8a8a8"/>		
+		
+	</view>
+	
+	<view name="detailed">
+	
+	<textlist name="gamelist" pos="0.035 0.15" size="0.20 0.75" fontPath="./data/fonts/Xbox Original Bold.ttf" fontSize="0.025"
+			selectorColor="ffffff" selectedColor="000000" selectorImagePath="./data/arts/xbox_tile.svg" primaryColor="8ca700" secondaryColor="ffffff" alignment="left" horizontalMargin="0.015" lineSpacing="5.5"/>
+	
+	<image name="logo" pos="0.699 0.166" origin="1 0" size="0.20 0.06" disabled="true"/>
+	
+	<image name="consolegame, arcadecab" extra="true" origin="0.5 0.5" pos="0.854 0.5" maxSize="0.228 0.316"/>
+	
+	<image name="xboxlistbg" extra="true" pos="0.002 0.098" size="0.242 0.821" path="./data/arts/xbox_listheader.svg" zIndex="6"/>
+	<image name="xboxtitleheader" extra="true" pos="0.288 0.05" maxSize="0.421 0.141" path="./data/arts/xbox_titleheader.svg" zIndex="6"/>		
+	<image name="xboxmediaheader" extra="true" pos="0.995 0.995" maxSize="0.255 0.324" origin="1 1" path="./data/arts/xbox_infosheader.svg" zIndex="6"/>
+	<image name="xboxdescheader" extra="true" pos="0.995 0.005" maxSize="0.255 0.324" origin="1 0" path="./data/arts/xbox_descheader.svg" zIndex="6"/>
+	
+	//metadatas	
+	
+	<video name="md_video" zIndex="8"/>
+	<image name="md_image" zIndex="8"/>	
+	<image name="bezel" path="./data/arts/bezel.png" zIndex="9"/>	
+	
+	<text name="md_systemname, md_lbl_gamelist, md_lbl_description, md_lbl_artwork, md_genre" extra="true" fontPath="./data/fonts/SST bold.ttf" color="8ca700"/>
+	
+	<text name="md_systemname" extra="true" fontPath="./data/fonts/SST bold.ttf" color="8ca700" text="$fullname"/>	
+	
+	<text name="md_lbl_gamelist" extra="true" text="GAMELIST" text.fr="LISTE DE JEUX"/>	
+	<text name="md_lbl_description" extra="true" text="DESCRIPTION"/>
+	<text name="md_lbl_artwork" extra="true" text="ARTWORK"/>
+	
+	<text name="md_description" fontPath="./data/fonts/SST light.ttf" color="a8a8a8"/>	
+		
+	<text name="md_lbl_developer, md_lbl_publisher, md_lbl_players, md_lbl_playcount, md_lbl_releasedate, md_lbl_lastplayed" fontPath="./data/fonts/SST bold.ttf" color="a8a8a8"/>
+	<text name="md_developer, md_publisher, md_players, md_playcount" fontPath="./data/fonts/SST light.ttf" color="a8a8a8"/>
+	
+	<datetime name="md_releasedate, md_lastplayed" fontPath="./data/fonts/SST light.ttf" color="a8a8a8"/>	
+	<rating name="md_rating" filledPath="./$system/data/icon_filled.svg" unfilledPath="./$system/data/icon_empty.svg"/>
+	
+	</view>
+	
+</theme>

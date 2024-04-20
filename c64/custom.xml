@@ -1,0 +1,55 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		
+		<text name="info1" extra="true"
+			text="Manufacturer : Commodore"
+			text.fr="Constructeur: Commodore"
+			text.de="Hersteller: Commodore"
+			text.es="Fabricante: Comodoro"
+			text.it="Produttore: Commodoro"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1982"
+			text.fr="Année de sortie: 1982"
+			text.de="Erscheinungsjahr: 1982"
+			text.es="Año de lanzamiento: 1982"
+			text.it="Anno di uscita: 1982"/>
+
+		<text name="info3" extra="true"	text="OS : Commodore KERNAL / Commodore BASIC 2.0 GEOS"/>
+
+		<text name="info4" extra="true"	text="CPU : MOS Technology 6510/8500 @ 1.023 MHz (NTSC version)<"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 64 KB"
+			text.fr="RAM : 64 Ko"/>
+
+		<text name="info6" extra="true"
+			text="ROM : 20 KB"
+			text.fr="ROM : 20 Ko"/>
+
+		<text name="info7" extra="true"	text="GPU : MOS Technology VIC-II"/>
+
+		<text name="info8" extra="true"
+			text="Sound chip : MOS Technology 6581 SID"
+			text.fr="Puce Audio : MOS Technology 6581 SID"
+			text.de="Audiochip: MOS-Technologie 6581 SID"
+			text.es="Chip de audio: Tecnología MOS 6581 SID"
+			text.it="Chip audio: tecnologia MOS 6581 SID"/>
+
+		<text name="info9" extra="true"
+			text="Resolution : 320×200 (16 colours)"
+			text.fr="Resolution : 320×200 (16 couleurs)"
+			text.de="Auflösung: 320×200 (16 Farben)"
+			text.es="Resolución: 320×200 (16 colores)"
+			text.it="Risoluzione: 320×200 (16 colori)"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="BBAD93"/>
+		<image name="band2" extra="true" color="968971"/>
+		<image name="band3" extra="true" color="FD4120"/>
+		<image name="band4" extra="true" color="00A0C6"/>
+	</view>
+</theme>

@@ -1,0 +1,55 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true" 	
+			text="Notable Systems: M6502 Based, M68000 Based, Exidy 440"
+			text.fr="Systemes Notables: M6502 Based, M68000 Based, Exidy 440"
+			text.de="Bemerkenswerte Systeme: M6502-basiert, M68000-basiert, Exidy 440"
+			text.es="Sistemas notables: basado en M6502, basado en M68000, Exidy 440"
+			text.it="Sistemi notevoli: basato su M6502, basato su M68000, Exidy 440"/>
+		
+		<text name="info2" extra="true" 	
+			text="M6502 CPU: M6502 @ 705.562 Khz, Audio chip: Discrete circuitry"
+			text.fr="M6502 CPU : M6502 @ 705.562 Khz,Puce audio: Discrete circuitry"
+			text.de="M6502 CPU: M6502 bei 705,562 kHz, Audiochip: Diskrete Schaltung"
+			text.es="M6502 CPU: M6502 @ 705,562 Khz, chip de audio: circuito discreto"
+			text.it="M6502 CPU: M6502 a 705.562 Khz, chip audio: circuiti discreti"/>
+
+		<text name="info3" extra="true" 	
+			text="Exidy 440 CPU: M6809 @ 1.6224 Mhz, Sound M6809 @ 811.2 Khz"
+			text.fr="Exidy 440 CPU: M6809 @ 1.6224 Mhz, Son M6809 @ 811.2 Khz"
+			text.de="Exidy 440 CPU: M6809 bei 1,6224 MHz, Sound M6809 bei 811,2 kHz"
+			text.es="CPU Exidy 440: M6809 @ 1.6224 Mhz, Sonido M6809 @ 811.2 Khz"
+			text.it="CPU Exidy 440: M6809 a 1,6224 Mhz, suono M6809 a 811,2 Khz"/>
+
+		<text name="info4" extra="true"
+			text="Wiring standard : JAMMA"
+			text.fr="Norme de câblage : JAMMA"
+			text.de="Verkabelungsstandard: JAMMA"
+			text.es="Estándar de cableado: JAMMA"
+			text.it="Norma di cablaggio: JAMMA"/>
+
+		<text name="info5" extra="true"
+			text="Resolution 320 x 240 60Hz"
+			text.fr="Resolution 320 x 240 60Hz"
+			text.de="Auflösung 320 x 240 60 Hz"
+			text.es="Resolución 320 x 240 60Hz"
+			text.it="Risoluzione 320x240 60Hz"/>
+		
+		<text name="info7" extra="true"
+			text="Find all EXIDY Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade EXIDY."
+			text.de="Finden Sie alle EXIDY Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de EXIDY."
+			text.it="Trova tutti i giochi arcade EXIDY."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="000000"/>
+		<image name="band2" extra="true" color="FFFFFF"/>
+		<image name="band3" extra="true" color="000000"/>
+		<image name="band4" extra="true" color="FFFFFF"/>
+	</view>	
+</theme>

@@ -1,0 +1,42 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="System Lightgun"
+			text.fr="Systeme jeu de tir au pistolet"
+			text.de="Schießspielsystem"
+			text.es="Sistema de juego de disparos de armas."
+			text.it="Sistema di gioco sparatutto"/>
+
+		<text name="info2" extra="true"	text="ex: Time Crisis, Duck Hunt, Lupin The Third"/>
+
+		<text name="info3" extra="true"
+			text="Shoot'em all! No one must reach you!"
+			text.fr="Tirez-les tous ! Personne ne doit vous atteindre !"
+			text.de="„Erschieß sie alle! Niemand darf dich erreichen!"
+			text.es="¡Dispárales a todos! ¡Nadie debe alcanzarte!"
+			text.it="Spara a tutti! Nessuno deve raggiungerti!"/>
+			
+		<text name="info4" extra="true"
+			text="lightguns: NES Zapper, Light Phaser, Super Scope, Sega Menacer, Virtua Gun, G-Con .."
+			text.fr="pistolets : NES Zapper, Light Phaser, Super Scope, Sega Menacer, Virtua Gun, G-Con..."
+			text.de="Pistolen: NES Zapper, Light Phaser, Super Scope, Sega Menacer, Virtua Gun, G-Con..."
+			text.es="Pistoletas: NES Zapper, Light Phaser, Super Scope, Sega Menacer, Virtua Gun, G-Con..."
+			text.it="pistole: NES Zapper, Light Phaser, Super Scope, Sega Menacer, Virtua Gun, G-Con..."/>
+		
+		<text name="info5" extra="true"
+			text="Materials needed for the lightgun: Mayflash Dolphinbar, Wiimote"
+			text.fr="Materiels necessaire pour le pistolet: Mayflash Dolphinbar, Wiimote"
+			text.de="Benötigte Materialien für die Pistole: Mayflash Dolphinbar, Wiimote"
+			text.es="Materiales necesarios para la pistola: Mayflash Dolphinbar, Wiimote"
+			text.it="Materiali necessari per la pistola: Mayflash Dolphinbar, Wiimote"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

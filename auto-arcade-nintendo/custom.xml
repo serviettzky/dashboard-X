@@ -1,0 +1,71 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Founded in 1889"
+			text.fr="Fondée en 1889"
+			text.de="Gegründet 1889"
+			text.es="Fundada en 1889"
+			text.it="Fondata nel 1889"/>
+
+		<text name="info2" extra="true"	
+			text="Systems: System Playchoice 10, Vs.System"
+			text.fr="Systemes: Playchoice 10, Vs.System"
+			text.de="Systeme: System Playchoice 10, Vs.System"
+			text.es="Sistemas: Sistema Playchoice 10, Vs.System"
+			text.it="Sistemi: Sistema Playchoice 10, Vs.System"/>
+		
+		<text name="info3" extra="true"	text="CPUs:Zilog Z80 @ 4 MHz, N2A03 @ 1,79 MHz"/>
+
+		<text name="info4" extra="true"
+			text="Videos: N2A03 8 bits, NTSC 5.37Mhz, PAL 5.32Mhz, 2Kb RAM"
+			text.fr="Videos: N2A03 8 bits, NTSC 5,37Mhz, PAL 5,32Mhz ,RAM 2Ko"
+			text.de="Videos: N2A03 8 Bit, NTSC 5,37 MHz, PAL 5,32 MHz, 2 KB RAM"
+			text.es="Vídeos: N2A03 8 bits, NTSC 5.37Mhz, PAL 5.32Mhz, 2Kb RAM"
+			text.it="Video: N2A03 8 bit, NTSC 5,37 Mhz, PAL 5,32 Mhz, 2 Kb di RAM"/>
+
+		<text name="info5" extra="true"
+			text="Vs.Systeme games don't have a timer"
+			text.fr="Les jeux Vs.Systeme n'ont pas de minuterie"
+			text.de="Vs.Systeme-Spiele haben keinen Timer"
+			text.es="Los juegos vs.Systeme no tienen temporizador"
+			text.it="I giochi Vs.Systeme non hanno un timer"/>
+
+		<text name="info6" extra="true"
+			text="Unlike Playchoice 10 games"
+			text.fr="Contrairement aux jeux Playchoice 10"
+			text.de="Im Gegensatz zu Playchoice 10-Spielen"
+			text.es="A diferencia de los juegos Playchoice 10"
+			text.it="A differenza dei giochi Playchoice 10"/>
+
+		<text name="info7" extra="true"
+			text="First Game: Laser Clay System"
+			text.fr="Premier Jeu: Laser Clay System"
+			text.de="Erstes Spiel: Laser Clay System"
+			text.es="Primer juego: Laser Clay System"
+			text.it="Primo gioco: Laser Clay System"/>
+
+		<text name="info8" extra="true"
+			text="Popular Games: Donkey Kong, Mario Bros, Punch Out"
+			text.fr="Jeux Populaires: Donkey Kong, Mario Bros, Punch Out"
+			text.de="Beliebte Spiele: Donkey Kong, Mario Bros, Punch Out"
+			text.es="Juegos populares: Donkey Kong, Mario Bros, Punch Out"
+			text.it="Giochi popolari: Donkey Kong, Mario Bros, Punch Out"/>
+
+		<text name="info10" extra="true"
+			text="Find all Nintendo Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade Nintendo."
+			text.de="Hier finden Sie alle Nintendo Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de Nintendo."
+			text.it="Trova tutti i giochi Nintendo Arcade."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">		
+		<image name="band1" extra="true" color="000000"/>
+		<image name="band2" extra="true" color="ff0000"/>
+		<image name="band3" extra="true" color="ffffff"/>
+		<image name="band4" extra="true" color="807e7c"/>
+	</view>	
+</theme>

@@ -1,0 +1,44 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+			<text name="info1" extra="true"
+			text="Manufacturer : Benesse Corporation"
+			text.fr="Constructeur: Benesse Corporation"
+			text.de="Hersteller: Benesse Corporation"
+			text.es="Fabricante: Benesse Corporation"
+			text.it="Produttore: Benesse Corporation"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 2000"
+			text.fr="Année de sortie: 2000"
+			text.de="Erscheinungsjahr: 2000"
+			text.es="Año de lanzamiento: 2000"
+			text.it="Anno di sortita: 2000"/>
+
+		<text name="info3" extra="true" text="CPU : 16Bits NEC V20"/>
+
+		<text name="info4" extra="true" text="RAM : 512k video"/>
+
+		<text name="info5" extra="true"
+			text="Resolution : 224 x 144 pixels"
+			text.fr="Resolution : 224 x 144 pixels"
+			text.de="Auflösung: 224 x 144 Pixel"
+			text.es="Resolución: 224 x 144 píxeles"
+			text.it="Risoluzione: 224 x 144 pixel"/>
+
+		<text name="info6" extra="true"
+			text="Sound : 4 PCM channels, 32 samples 4Bit for each channel"
+			text.fr="Son: 4 canaux PCM, 32 échantillons 4 bits pour chaque canal"
+			text.de="Ton: 4 PCM-Kanäle, 32 4-Bit-Samples für jeden Kanal"
+			text.es="Sonido: 4 canales PCM, 32 muestras de 4 bits para cada canal"
+			text.it="Suono: 4 canali PCM, 32 campioni a 4 bit per ciascun canale"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="92AA6C"/>
+		<image name="band2" color="E7D7B8"/>
+		<image name="band3" color="487AB1"/>
+		<image name="band4" color="3B3D53"/>
+	</view>
+</theme>

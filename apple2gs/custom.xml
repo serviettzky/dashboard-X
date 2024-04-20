@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Apple Computer, Inc."
+			text.fr="Constructeur : Apple Computer, Inc."
+			text.de="Hersteller: Apple Computer, Inc."
+			text.es="Fabricante : Apple Computer, Inc."
+			text.it="Produttore : Apple Computer, Inc."/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1986"
+			text.fr="Année de Sortie : 1986"
+			text.de="Erscheinungsjahr: 1986"
+			text.es="Año de lanzamiento: 1986"
+			text.it="Anno di uscita: 1986"/>
+
+		<text name="info3" extra="true" text="OS : Apple ProDOS, Apple GS/OS, GNO/ME"/>
+
+		<text name="info4" extra="true" text="CPU : Western Design Center 65C816 16-bit @ 2.8 MHz"/>
+		
+		<text name="info5" extra="true"
+			text="RAM : 256 kB or 1 MB (expandable up to 8 MB)"
+			text.fr="RAM : 256 Ko or 1 Mo (extensible jusqu'à 8 Mo)"
+			text.de="RAM: 256 kB oder 1 MB (erweiterbar auf bis zu 8 MB)"
+			text.es="RAM: 256 kB o 1 MB (ampliable hasta 8 MB)"
+			text.it="RAM: 256 kB o 1 MB (espandibile fino a 8 MB)"/>
+
+		<text name="info6" extra="true"
+			text="ROM : 128 KB expandable to 1 MB"
+			text.fr="ROM : 128 Ko extensible jusqu'à 1 Mo"
+			text.de="ROM: 128 KB, erweiterbar auf 1 MB"
+			text.es="ROM: 128 KB ampliable a 1 MB"
+			text.it="ROM: 128 KB espandibile a 1 M"/>
+
+		<text name="info7" extra="true"
+			text="Sound : Ensoniq ES5503 DOC 8-bit wavetable synthesis sound chip, 32-channels, stereo"
+			text.fr="Son : Ensoniq ES5503 DOC 8-bit, synthèse à table d'ondes, 32 canaux, stéréo"
+			text.de="Sound: Ensoniq ES5503 DOC 8-Bit-Wavetable-Synthese-Soundchip, 32 Kanäle, Stereo"
+			text.es="Sonido: chip de sonido de síntesis de tabla de ondas Ensoniq ES5503 DOC de 8 bits, 32 canales, estéreo"
+			text.it="Suono: chip audio di sintesi wavetable Ensoniq ES5503 DOC a 8 bit, 32 canali, stereo"/>
+
+		<text name="info8" extra="true"
+			text="Display : VGC 12-bpp palette (4096 colours), 320×200, 640×200"
+			text.fr="Affichage : VGC 12-bpp palette (4096 couleurs), 320×200, 640×200"
+			text.de="Anzeige: VGC 12-bpp-Palette (4096 Farben), 320×200, 640×200"
+			text.es="Pantalla: paleta VGC de 12 bpp (4096 colores), 320×200, 640×200"
+			text.it="Display: tavolozza VGC a 12 bpp (4096 colori), 320×200, 640×200"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="D27C35"/>
+		<image name="band2" extra="true" color="C44243"/>
+		<image name="band3" extra="true" color="E3AD3A"/>
+		<image name="band4" extra="true" color="8C3E8C"/>
+	</view>
+</theme>

@@ -1,0 +1,59 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Commodore"
+			text.fr="Constructeur : Commodore"
+			text.de="Konstrukteur : Commodore"
+			text.es="constructor : Commodore"
+			text.it="Costruttore : Commodore"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1992"
+			text.fr="Année de Sortie : 1992"
+			text.de="Erscheinungsjahr: 1992"
+			text.es="Año de lanzamiento: 1992"
+			text.it="Anno di uscita: 1992"/>
+
+		<text name="info3" extra="true" text="OS : AmigaOS 3.0/3.1"/>
+		
+		<text name="info4" extra="true"
+			text="CPU : Motorola 68EC020 running @ 14.32 MHz"
+			text.fr="CPU : Motorola 68EC020 cadencé @ 14.32 MHz"
+			text.de="CPU: Motorola 68EC020 mit 14,32 MHz"
+			text.es="CPU: Motorola 68EC020 funcionando a 14,32 MHz"
+			text.it="CPU: Motorola 68EC020 in esecuzione a 14,32 MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 2 MB"
+			text.fr="RAM : 2 Mo"/>
+
+		<text name="info6" extra="true"
+			text="ROM : 512 KB Kickstart 3.0-3.1 ROM"
+			text.fr="ROM : 512 Ko Kickstart 3.0-3.1 ROM"/>
+
+		<text name="info7" extra="true" text="GPU : Advanced Graphics Architecture (AGA)"/>
+
+		<text name="info8" extra="true"
+			text="Sound chip : 4× 8-bit PCM channels"
+			text.fr="Puce Audio : Quatre canaux PCM 8 bits"
+			text.de="Soundchip: 4× 8-Bit PCM-Kanäle"
+			text.es="Chip de sonido: 4 canales PCM de 8 bits"
+			text.it="Chip audio: 4 canali PCM a 8 bit"/>
+
+		<text name="info9" extra="true"
+			text="Resolution : 320x200 to 1504x484 (16.8 million colours)"
+			text.fr="Resolution :de 320x200 à 1504x484 (16.8 millions couleurs)"
+			text.de="Auflösung: 320 x 200 bis 1504 x 484 (16,8 Millionen Farben)"
+			text.es="Resolución: 320x200 a 1504x484 (16,8 millones de colores)"
+			text.it="Risoluzione: da 320x200 a 1504x484 (16,8 milioni di colori)"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="192753"/>
+		<image name="band2" extra="true" color="5F87C0"/>
+		<image name="band3" extra="true" color="F3AD2D"/>
+		<image name="band4" extra="true" color="ED2224"/>
+	</view>
+</theme>

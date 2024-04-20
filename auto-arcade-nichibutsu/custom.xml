@@ -1,0 +1,48 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Founded in 1970"
+			text.fr="Fondée en 1970"
+			text.de="Gegründet 1970"
+			text.es="Fundada en 1970"
+			text.it="Fondata nel 1970"/>
+
+		<text name="info2" extra="true" 	
+			text="Production: 1978 - 2014"
+			text.fr="Production: 1978 - 2014"
+			text.de="Produktion: 1978 - 2014"
+			text.es="Producción: 1978 - 2014"
+			text.it="Produzione: 1978 - 2014"/>
+
+		<text name="info3" extra="true"
+			text="First Game: Moon Base"
+			text.fr="Premier Jeu: Moon Base"
+			text.de="Erstes Spiel: Moon Base"
+			text.es="Primer juego: Moon Base"
+			text.it="Primo gioco: Moon Base"/>
+
+		<text name="info4" extra="true"
+			text="Popular Games: Crazy Climber, Moon Cresta, Cosmo Police Galivan"
+			text.fr="Jeux Populaire: Crazy Climber, Moon Cresta, Cosmo Police Galivan"
+			text.de="Beliebte Spiele: Crazy Climber, Moon Cresta, Cosmo Police Galivan"
+			text.es="Juegos populares: Crazy Climber, Moon Cresta, Cosmo Police Galivan"
+			text.it="Giochi popolari: Crazy Climber, Moon Cresta, Cosmo Police Galivan"/>
+
+		<text name="info6" extra="true"
+			text="Find all the NICHIBUTSU Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade NICHIBUTSU."
+			text.de="Hier finden Sie alle NICHIBUTSU Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de NICHIBUTSU."
+			text.it="Trova tutti i giochi arcade NICHIBUTSU."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="93918f"/>
+		<image name="band2" extra="true" color="000000"/>
+		<image name="band3" extra="true" color="ffffff"/>
+		<image name="band4" extra="true" color="fff100"/>
+	</view>	
+</theme>

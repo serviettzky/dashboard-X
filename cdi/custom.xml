@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Philips, Magnavox"
+			text.fr="Constructeur: Philips, Magnavox"
+			text.de="Hersteller: Philips, Magnavox"
+			text.es="Fabricante: Philips, Magnavox"
+			text.it="Produttore: Philips, Magnavox"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1991"
+			text.fr="Année de sortie: 1991"
+			text.de="Erscheinungsjahr: 1991"
+			text.es="Año de lanzamiento: 1991"
+			text.it="Anno di sortita: 1991"/>
+
+		<text name="info3" extra="true" text="OS : CD-RTOS (Compact Disc Real Time Operating System)"/>
+
+		<text name="info4" extra="true"
+			text="CPU : 16-bit CISC (680070) running @ 15.5 MHz"
+			text.fr="CPU : 16-bit CISC (680070) cadencé @ 15.5 MHz"
+			text.de="CPU: 16-Bit CISC (680070), getaktet mit 15,5 MHz"
+			text.es="CPU: CISC de 16 bits (680070) con frecuencia de reloj de 15,5 MHz"
+			text.it="CPU: CISC a 16 bit (680070) con clock a 15,5 MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 1 MB / VRAM : 1 MB"/>
+
+		<text name="info6" extra="true"
+			text="ROM : 512 KB"
+			text.fr="RAM : 1 Mo / VRAM : 1 Mo"/>
+
+		<text name="info7" extra="true" text="GPU : SCC66470, later MCD 212"/>
+
+		<text name="info8" extra="true"
+			text="Sound chip : 16-bit Stereo Sound with 44.1 KHz"
+			text.fr="Puce Audio : Son stéréo 16 bits a 44,1 KHz"
+			text.de="Audiochip: 16-Bit-Stereoton bei 44,1 kHz"
+			text.es="Chip de audio: sonido estéreo de 16 bits a 44,1 KHz"
+			text.it="Chip audio: suono stereo a 16 bit a 44,1 KHz"/>
+
+		<text name="info9" extra="true"
+			text="Resolution : 384x280 to 768x560 (16.7 million colours)"
+			text.fr="Resolution : 384x280 à 768x560 (16.7 millions couleurs)"
+			text.de="Auflösung: 384x280 bis 768x560 (16,7 Millionen Farben)"
+			text.es="Resolución: 384x280 a 768x560 (16,7 millones de colores)"
+			text.it="Risoluzione: da 384x280 a 768x560 (16,7 milioni di colori)"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="6b6d65"/>
+		<image name="band2" extra="true" color="f7f8f5"/>
+		<image name="band3" extra="true" color="74666b"/>
+		<image name="band4" extra="true" color="0b5ed8"/>
+	</view>
+</theme>

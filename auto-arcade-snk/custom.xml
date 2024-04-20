@@ -1,0 +1,48 @@
+<theme>
+	<formatVersion>5</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Founded in 1973"
+			text.fr="Fondée en 1973"
+			text.de="Gegründet 1973"
+			text.es="Fundada en 1973"
+			text.it="Fondata nel 1973"/>
+
+		<text name="info2" extra="true"
+			text="Systems: Neo-Geo AES, Neo-Geo MVS, Rock-ola, Hyper Neo-Geo 64"
+			text.fr="Systemes: Neo-Geo AES, Neo-Geo MVS, Rock-ola, Hyper Neo-Geo 64"
+			text.de="Systemes: Neo-Geo AES, Neo-Geo MVS, Rock-ola, Hyper Neo-Geo 64"
+			text.es="Sistemas: Neo-Geo AES, Neo-Geo MVS, Rock-ola, Hyper Neo-Geo 64"
+			text.it="Sistemi: Neo-Geo AES, Neo-Geo MVS, Rock-ola, Hyper Neo-Geo 64"/>
+
+		<text name="info3" extra="true"
+			text="First Game: Sasuke vs. Commander"
+			text.fr="Premier Jeu: Sasuke vs. Commander"
+			text.de="Erstes Spiel: Sasuke vs. Commander"
+			text.es="Primer juego: Sasuke vs. Commander"
+			text.it="Primo gioco: Sasuke vs. Commander"/>
+
+		<text name="info4" extra="true"
+			text="Known games: Art of Fighting, Fatal Fury, Ikari Warriors,"
+			text.fr="Jeux connus: Art of Fighting, Fatal Fury, Ikari Warriors,"
+			text.de="Bekannte Spiele: Art of Fighting, Fatal Fury, Ikari Warriors,"
+			text.es="Juegos conocidos: Art of Fighting, Fatal Fury, Ikari Warriors,"
+			text.it="Giochi conosciuti: Art of Fighting, Fatal Fury, Ikari Warriors,"/>
+
+		<text name="info6" extra="true"
+			text="Find all the SNK (Shin Nihon Kikaku) Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade SNK (Shin Nihon Kikaku)."
+			text.de="Hier finden Sie alle SNK (Shin Nihon Kikaku)-Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de SNK (Shin Nihon Kikaku)."
+			text.it="Trova tutti i giochi arcade SNK (Shin Nihon Kikaku)."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="BF9328"/>
+		<image name="band2" extra="true" color="494949"/>
+		<image name="band3" extra="true" color="2D2D2D"/>
+		<image name="band4" extra="true" color="E8E2E9"/>
+	</view>	
+</theme>

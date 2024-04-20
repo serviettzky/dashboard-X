@@ -1,0 +1,41 @@
+<theme>
+	<formatVersion>5</formatVersion>
+	
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Founded in 1967"
+			text.fr="Fondée en 1967"
+			text.de="Gegründet 1967"
+			text.es="Fundada en 1967"
+			text.it="Fondata nel 1967"/>
+
+		<text name="info2" extra="true"
+			text="First Game: Pleiades"
+			text.fr="Premier Jeu: Pleiades"
+			text.de="Erstes Spiel: Pleiades"
+			text.es="Primer juego: Pleiades"
+			text.it="Primo gioco: Pleiades"/>
+
+		<text name="info3" extra="true"
+			text="Popular games: Rygar, Ninja Gaiden, Deag or Alive"
+			text.fr="Jeux connus:Rygar, Ninja Gaiden, Deag or Alive"
+			text.de="Beliebte Spiele: Rygar, Ninja Gaiden, Deag or Alive"
+			text.es="Juegos populares: Rygar, Ninja Gaiden, Deag or Alive"
+			text.it="Giochi popolari: Rygar, Ninja Gaiden, Deag or Alive"/>
+
+		<text name="info5" extra="true"
+			text="Find all the TECMO Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade TECMO."
+			text.de="Finden Sie alle TECMO Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de TECMO."
+			text.it="Trova tutti i giochi arcade TECMO."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="bb171e"/>
+		<image name="band2" extra="true" color="e3232e"/>
+		<image name="band3" extra="true" color="000000"/>
+		<image name="band4" extra="true" color="FFFFFF"/>
+	</view>	
+</theme>

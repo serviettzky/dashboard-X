@@ -1,0 +1,48 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Founded in 1985"
+			text.fr="Fondée en 1985"
+			text.de="Gegründet 1985"
+			text.es="Fundada en 1985"
+			text.it="Fondata nel 1985"/>
+
+		<text name="info2" extra="true" 	
+			text="Production: 1991 - 1999"
+			text.fr="Production: 1991 - 1999"
+			text.de="Produktion: 1991 - 1999"
+			text.es="Producción: 1991 - 1999"
+			text.it="Produzione: 1991 - 1999"/>
+
+		<text name="info3" extra="true"
+			text="First Game: Thunder Dragon"
+			text.fr="Premier Jeu: Thunder Dragon"
+			text.de="Erstes Spiel: Thunder Dragon"
+			text.es="Primer juego: Thunder Dragon"
+			text.it="Primo gioco: Thunder Dragon"/>
+
+		<text name="info4" extra="true"
+			text="Popular games: Zed Blade, Saboten Bombers, Gunnail"
+			text.fr="Jeux populaires: Zed Blade, Saboten Bombers, Gunnail"
+			text.de="Beliebte Spiele: Zed Blade, Saboten Bombers, Gunnail"
+			text.es="Juegos populares: Zed Blade, Saboten Bombers, Gunnail"
+			text.it="Giochi popolari: Zed Blade, Saboten Bombers, Gunnail"/>
+
+		<text name="info6" extra="true"
+			text="Find all the Nihon Maicom Kaihatsu Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade Nihon Maicom Kaihatsu."
+			text.de="Hier finden Sie alle Arcade-Spiele von Nihon Maicom Kaihatsu."
+			text.es="Encuentra todos los juegos arcade de Nihon Maicom Kaihatsu."
+			text.it="Trova tutti i giochi arcade Nihon Maicom Kaihatsu."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="fe0001"/>
+		<image name="band2" extra="true" color="06ff06"/>
+		<image name="band3" extra="true" color="000cf7"/>
+		<image name="band4" extra="true" color="FFFFFF"/>
+	</view>	
+</theme>

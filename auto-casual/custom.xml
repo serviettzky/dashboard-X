@@ -1,0 +1,33 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Casual games!"
+			text.fr="Jeux occasionnels!"
+			text.de="Gelegenheitsspiele!"
+			text.es="¡Juegos casuales!"
+			text.it="Giochi casuali!"/>
+
+		<text name="info2" extra="true"
+			text="All simple interaction & short time games"
+			text.fr="Toutes les interactions simples et les jeux de courte durée"
+			text.de="Alles einfache Interaktionen und kurze Spiele"
+			text.es="Todas las interacciones simples y juegos cortos."
+			text.it="Tutte le interazioni semplici e i giochi brevi"/>
+
+		<text name="info3" extra="true"
+			text="Change you mind with all those simple games!"
+			text.fr="Changez d'avis avec tous ces jeux simples!"
+			text.de="„Ändern Sie Ihre Meinung mit all diesen einfachen Spielen!"
+			text.es="¡Cambia de opinión con todos estos juegos sencillos!"
+			text.it="Cambia idea con tutti questi semplici giochi!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

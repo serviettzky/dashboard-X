@@ -1,0 +1,33 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Author : Artemio Urbina"
+			text.fr="Auteur : Artemio Urbina"
+            text.de="Autor : Artemio Urbina"
+            text.es="Autor : Artemio Urbina"
+            text.it="Autore : Artemio Urbina"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 2011"
+			text.fr="Année de Sortie : 2011"
+			text.de="Erscheinungsjahr : 2011"
+			text.es="Año de Sortie : 2011"
+			text.it="Annata di sortita: 2011"/>
+
+		<text name="info3" extra="true"
+			text="Test your 240p configuration on many platforms!"
+			text.fr="Testez votre configuration 240p sur de nombreuses plateformes !"
+			text.de="Testen Sie Ihre 240p-Konfiguration auf mehreren Plattformen!"
+			text.es="¡Pruebe su configuración 240p en muchas plataformas!"
+			text.it="Prova la tua configurazione 240p su numerosi formati di piattaforme!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="B00000"/>
+		<image name="band2" extra="true" color="00B000"/>
+		<image name="band3" extra="true" color="0000B0"/>
+		<image name="band4" extra="true" color="FFFFFF"/>
+	</view>	
+</theme>

@@ -1,0 +1,62 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Atari Corporation<"
+			text.fr="Constructeur : Atari Corporation"
+			text.de="Hersteller: Atari Corporation"
+			text.es="Fabricante: Atari Corporation"
+			text.it="Produttore: Atari Corporation"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1985"
+			text.fr="Annee de Sortie : 1985"
+			text.de="Erscheinungsjahr: 1985"
+			text.es="Año de lanzamiento: 1985"
+			text.it="Anno di uscita: 1985"/>
+
+		<text name="info3" extra="true" text="OS : Atari TOS"/>
+
+		<text name="info4" extra="true" text="CPU : Motorola 68000 16-/32-bit CPU @ 8 MHz"/>
+		
+		<text name="info5" extra="true"
+			text="RAM : 512KB or 1MB"
+			text.fr="RAM : 512Ko ou 1Mo"/>
+
+		<text name="info6" extra="true"
+			text="Drive: 3½-inch single-sided floppy disk drive"
+			text.fr="Lecteur : Lecteur de disquettes simple face 3½ pouces"
+			text.de="Laufwerk: Einseitiges 3½-Zoll-Diskettenlaufwerk"
+			text.es="Unidad: unidad de disquete de una cara de 3½ pulgadas"
+			text.it="Unità: unità floppy disk da 3½ pollici a lato singolo"/>
+
+		<text name="info7" extra="true"
+			text="Sound Chip : Yamaha YM2149 3-voice squarewave"
+			text.fr="Puce Audio : Yamaha YM2149 onde carrée à 3 voix"
+			text.de="Soundchip: Yamaha YM2149 3-stimmige Rechteckwelle"
+			text.es="Chip de sonido: Yamaha YM2149 onda cuadrada de 3 voces"
+			text.it="Chip audio: onda quadra a 3 voci Yamaha YM2149"/>
+
+		<text name="info8" extra="true"
+			text="Low resolution: 320 × 200 (16 color), palette of 512 colors"
+			text.fr="Basse résolution : 320 × 200 (16 couleurs), palette de 512 couleurs"
+			text.de="Niedrige Auflösung: 320 × 200 (16 Farben), Palette von 512 Farben"
+			text.es="Baja resolución: 320 × 200 (16 colores), paleta de 512 colores"
+			text.it="Bassa risoluzione: 320×200 (16 colori), tavolozza di 512 colori"/>
+
+		<text name="info9" extra="true"
+			text="Medium resolution: 640 × 200 (4 color), palette of 512 colors"
+			text.fr="Moyenne résolution : 640 × 200 (4 couleurs), palette de 512 couleurs"
+			text.de="Mittlere Auflösung: 640 × 200 (4 Farben), Palette von 512 Farben"
+			text.es="Resolución media: 640 × 200 (4 colores), paleta de 512 colores"
+			text.it="Risoluzione media: 640×200 (4 colori), tavolozza di 512 colori"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="152D7D"/>
+		<image name="band2" extra="true" color="357BB7"/>
+		<image name="band3" extra="true" color="949494"/>
+		<image name="band4" extra="true" color="ECECEC"/>
+	</view>
+</theme>

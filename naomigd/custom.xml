@@ -1,0 +1,51 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Sega"
+			text.fr="Constructeur: Sega"
+			text.de="Hersteller: Sega"
+			text.es="Fabricante: Sega"
+			text.it="Produttore: Sega"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1998"
+			text.fr="Année de sortie: 1998"
+			text.de="Erscheinungsjahr: 1998"
+			text.es="Año de lanzamiento: 1998"
+			text.it="Anno di sortita: 1998"/>
+
+		<text name="info3" extra="true" text="CPU : Hitachi SH-4 32-bit RISC CPU (@ 200 MHz 360 MIPS / 1.4 GFLOPS)"/>
+
+		<text name="info4" extra="true" text="GPU : NEC-Videologic PowerVR (PVR2DC/CLX2) @ 100 MHzé"/>
+
+		<text name="info5" extra="true"
+			text="Sound : ARM7 Yamaha AICA 45 MHZ (with internal 32-bit RISC CPU, 64 channel ADPCM)"
+			text.fr="Son: ARM7 Yamaha AICA 45MHZ (RISC 32 bits interne, ADPCM 64 canaux)"
+			text.de="Sound: ARM7 Yamaha AICA 45 MHz (internes 32-Bit-RISC, 64-Kanal-ADPCM)"
+			text.es="Sonido: ARM7 Yamaha AICA 45MHZ (RISC interno de 32 bits, ADPCM de 64 canales)"
+			text.it="Suono: ARM7 Yamaha AICA 45MHZ (RISC interno a 32 bit, ADPCM a 64 canali)"/>
+
+		<text name="info6" extra="true"
+			text="RAM : 56 MB (64 MB with GD-ROM)"
+			text.fr="RAM : 56 Mo (64 Mo avec GD-ROM)"
+			text.de="RAM: 56 MB (64 MB mit GD-ROM)"
+			text.es="RAM: 56 MB (64 MB con GD-ROM)"
+			text.it="RAM: 56 MB (64 MB con GD-ROM)"/>
+
+		<text name="info7" extra="true"
+			text="Media : ROM Board (max. size of 168 MB) / GD-ROM"
+			text.fr="Media : Carte ROM (taille maximale de 168 Mo) / GD-ROM"
+			text.de="Medien: ROM-Karte (maximale Größe 168 MB) / GD-ROM"
+			text.es="Medios: Tarjeta ROM (tamaño máximo 168 MB) / GD-ROM"
+			text.it="Supporto: scheda ROM (dimensione massima 168 MB) / GD-ROM"/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="E4E7D7"/>
+		<image name="band2" color="FD95B0"/>
+		<image name="band3" color="48B3EB"/>
+		<image name="band4" color="35FF90"/>
+	</view>
+</theme>

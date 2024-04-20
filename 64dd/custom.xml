@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Nintendo"
+			text.fr="Constructeur : Nintendo"
+			text.de="Konstrukteur : Nintendo"
+			text.es="constructor : Nintendo"
+			text.it="Costruttore : Nintendo"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1999"
+			text.fr="Année de Sortie : 1999"
+			text.de="Erscheinungsjahr: 1999"
+			text.es="Año de lanzamiento: 1999"
+			text.it="Anno di uscita: 1999"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 15.000"
+			text.fr="Unités vendues : 15.000"
+			text.de="Verkaufseinheiten: 15.000"
+			text.es="Ventas unitarias : 15.000"
+			text.it="Unità vendute: 15.000"/>
+
+		<text name="info4" extra="true" text="CPU : 64-bit NEC VR4300 @ 93.75 MHz"/>
+
+		<text name="info5" extra="true" text="Co-CPU : 64-bit MIPS RISC 'Reality Immersion' RCP @ 62.5 MHz"/>
+		
+		<text name="info6" extra="true"
+			text="64DD-CPU : 2 CPU 32-bit for reading/transferring disk data"
+			text.fr="64DD-CPU : 2 CPU 32-bit pour lire/transférer les données du disque"
+			text.de="64DD-CPU: 2 CPU 32-Bit zum Lesen/Übertragen von Daten auf der Festplatte"
+			text.es="64DD-CPU: 2 CPU 32 bits para leer/transferir los archivos del disco"
+			text.it="64DD-CPU: 2 CPU 32 bit per leggere/trasferire i dati del disco"/>
+
+		<text name="info7" extra="true"
+			text="RAM : 4 MB RAMBUS RDRAM (expandable up to 8 MB)"
+			text.fr="RAM : 4 Mo RAMBUS RDRAM (extensible jusqu'à 8 Mo)"
+			text.de="RAM: 4 MB RAMBUS RDRAM (erweiterbar auf bis zu 8 MB)"
+			text.es="RAM: 4 MB RAMBUS RDRAM (ampliable hasta 8 MB)"
+			text.it="RAM: 4 MB RAMBUS RDRAM (espandibile fino a 8 MB)"/>
+
+		<text name="info8" extra="true"
+			text="Sound  : Stereo 16-Bit and 48 kHz"
+			text.fr="Son : Stereo 16-Bit, 48 kHz"
+			text.de="Ton: Stereo 16-Bit und 48 kHz"
+			text.es="Sonido: Estéreo de 16 bits y 48 kHz"
+			text.it="Suono: stereo a 16 bit e 48 kHz"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="DCAF36"/>
+		<image name="band2" extra="true" color="268340"/>
+		<image name="band3" extra="true" color="20317F"/>
+		<image name="band4" extra="true" color="B73E3A"/>
+	</view>
+</theme>

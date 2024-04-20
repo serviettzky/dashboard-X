@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Survival & Horror survival adventures games!"
+			text.fr="Jeux d'aventures de survie et d'horreur!"
+			text.de="Survival- und Horror-Abenteuerspiele!"
+			text.es="¡Juegos de aventuras de supervivencia y terror!"
+			text.it="Giochi di avventura di sopravvivenza e horror!"/>
+
+		<text name="info2" extra="true" text="ex: Lost in Blue, Resident Evil, ..."/>
+
+		<text name="info3" extra="true"
+			text="Run, hide, kill & ... SURVIVE!"
+			text.fr="Courez, cachez-vous, tuez et... SURVIVEZ!"
+			text.de="„Laufen, verstecken, töten und... ÜBERLEBEN!“"
+			text.es="“Corre, escóndete, mata y… ¡SOBREVIVE!”"
+			text.it="“Corri, nascondi, uccidi e... SOPRAVVIVI!”"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

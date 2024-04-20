@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Platformer games!"
+			text.fr="Jeux de plateforme!"
+			text.de="Plattformspiele!"
+			text.es="¡Juegos de plataformas!"
+			text.it="Giochi di piattaforma!"/>
+
+		<text name="info2" extra="true" text="ex: Mario, Sonic, Kirby, New Zealand Story, ..."/>
+
+		<text name="info3" extra="true"
+			text="Run & Jump & Collect & Avoid ennemies"
+			text.fr="Courez, sautez, collectez et évitez les ennemis"
+			text.de="„Laufen, springen, sammeln und Feinden ausweichen“"
+			text.es="“Corre, salta, recoge y evita enemigos”"
+			text.it="Corri, salta, raccogli ed evita i nemici"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

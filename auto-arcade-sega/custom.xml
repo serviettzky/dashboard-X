@@ -1,0 +1,55 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Founded in 1960"
+			text.fr="Fondée en 1960"
+			text.de="Gegründet 1960"
+			text.es="Fundada en 1960"
+			text.it="Fondata nel 1960"/>
+
+		<text name="info2" extra="true"
+			text="Terminals: Astro City, Versus City, New Versus City"
+			text.fr="Bornes: Astro City, Versus City, New Versus City"
+			text.de="Terminals: Astro City, Versus City, New Versus City"
+			text.es="Terminales: Astro City, Versus City, New Versus City"
+			text.it="Terminali: Astro City, Versus City, New Versus City"/>
+
+		<text name="info3" extra="true"
+			text="Systems: System 1,2,E,16,18,24, Model 1,2,3, Hikaru, ST-V"
+			text.fr="Systemes: System 1,2,E,16,18,24, Model 1,2,3, Hikaru, ST-V"
+			text.de="Systeme: System 1,2,E,16,18,24, Modell 1,2,3, Hikaru, ST-V"
+			text.es="Sistemas: Sistema 1,2,E,16,18,24, Modelo 1,2,3, Hikaru, ST-V"
+			text.it="Sistemi: Sistema 1,2,E,16,18,24, Modello 1,2,3, Hikaru, ST-V"/>
+
+		<text name="info4" extra="true"
+			text="But also: Naomi, Naomi 2, Lindbergh, Chihiro, Triforce..."
+			text.fr="Mais aussi: Naomi, Naomi 2, Lindbergh, Chihiro, Triforce..."
+			text.de="Aber auch: Naomi, Naomi 2, Lindbergh, Chihiro, Triforce..."
+			text.es="Pero también: Naomi, Naomi 2, Lindbergh, Chihiro, Triforce..."
+			text.it="Ma anche: Naomi, Naomi 2, Lindbergh, Chihiro, Triforce..."/>
+
+		<text name="info5" extra="true"
+			text="First Game: Pong-Tron"
+			text.fr="Premier Jeu: Pong-Tron"
+			text.de="Erstes Spiel: Pong-Tron"
+			text.es="Primer juego: Pong-Tron"
+			text.it="Primo gioco: Pong-Tron"/>
+
+		<text name="info7" extra="true"
+			text="Find all the SEGA Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade SEGA."
+			text.de="Hier finden Sie alle SEGA Arcade-Spiele."
+			text.es="Encuentra todos los juegos Arcade de SEGA."
+			text.it="Trova tutti i giochi SEGA Arcade."/>
+	</view>
+	
+	<view name="system, detailed, gameclip"> 
+		<image name="band1" extra="true" color="000000"/>
+		<image name="band2" extra="true" color="FFFFFF"/>
+		<image name="band3" extra="true" color="0D56BD"/>
+		<image name="band4" extra="true" color="80808A"/>
+	</view>	
+</theme>

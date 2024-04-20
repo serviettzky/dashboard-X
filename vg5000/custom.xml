@@ -1,0 +1,63 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Philips"
+			text.fr="Constructeur: Philips"
+			text.de="Hersteller: Philips"
+			text.es="Fabricante: Philips"
+			text.it="Produttore: Philips"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1984"
+			text.fr="Année de sortie: 1984"
+			text.de="Erscheinungsjahr: 1984"
+			text.es="Año de lanzamiento: 1984"
+			text.it="Anno di sortita: 1984"/>
+
+		<text name="info3" extra="true" text="OS: Microsoft BASIC"/>
+
+		<text name="info4" extra="true" text="CPU: Zilog Z80 @ 4 MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM: 24KB RAM (8KB for video) (16KB of system memory up to 48KB)"
+			text.fr="RAM: 24Ko de RAM (8Ko vidéo) (16Ko système jusqu'à 48 Ko)"
+			text.de="RAM: 24 KB RAM (8 KB Video) (16 KB System bis zu 48 KB)"
+			text.es="RAM: 24 KB de RAM (vídeo de 8 KB) (sistema de 16 KB hasta 48 KB)"
+			text.it="RAM: 24KB di RAM (video da 8KB) (sistema da 16KB fino a 48KB)"/>
+
+		<text name="info6" extra="true"
+			text="ROM: 18KB"
+			text.fr="ROM: 18Ko"/>
+
+		<text name="info7" extra="true"
+			text="GPU: SGS Thomson EF9345 (25 lines x 40 characters)"
+			text.fr="GPU: SGS Thomson EF9345 (25 lignes x 40 caractères)"
+			text.de="GPU: SGS Thomson EF9345 (25 Zeilen x 40 Zeichen)"
+			text.es="GPU: SGS Thomson EF9345 (25 líneas x 40 caracteres)"
+			text.it="GPU: SGS Thomson EF9345 (25 righe x 40 caratteri)"/>
+
+		<text name="info8" extra="true"
+			text="Sound chip: 1 voice over 5 octaves"
+			text.fr="Puce Audio : 1 voix sur 5 octaves"
+			text.de="Audiochip: 1 Stimme in 5 Oktaven"
+			text.es="Chip de audio: 1 voz en 5 octavas"
+			text.it="Chip audio: 1 voce in 5 ottave"/>
+
+		<text name="info9" extra="true"
+			text="Resolution: 320x250 (8 colours)"
+			text.fr="Résolution : 320x250 (8 couleurs)"
+			text.de="Auflösung: 320x250 (8 Farben)"
+			text.es="Resolución: 320x250 (8 colores)"
+			text.it="Risoluzione: 320x250 (8 colori)"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="F2F5F7"/>
+		<image name="band2" color="FFC000"/>
+		<image name="band3" color="726A44"/>
+		<image name="band4" color="242527"/>
+	</view>
+
+</theme>

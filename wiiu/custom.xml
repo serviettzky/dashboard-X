@@ -1,0 +1,69 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Nintendo, Foxconn, Mitsumi"
+			text.fr="Constructeur :Nintendo, Foxconn, Mitsumi"
+			text.de="Hersteller:Nintendo, Foxconn, Mitsumi"
+			text.es="Fabricante:Nintendo, Foxconn, Mitsumi"
+			text.it="Produttore:Nintendo, Foxconn, Mitsumi"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 2012"
+			text.fr="Année de sortie: 2012"
+			text.de="Erscheinungsjahr: 2012"
+			text.es="Año de lanzamiento: 2012"
+			text.it="Anno di sortita: 2012"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 13.56 million"
+			text.fr="Unités Vendues : 13.56 millions"
+			text.de="Verkaufte Einheiten: 13.56 Millionen"
+			text.es="Unidades vendidas: 13.56 millones"
+			text.it="Unità vendute: 13.56 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Mario Kart 8"
+			text.fr="Jeu le Plus Vendu : Mario Kart 8"
+			text.de="Meistverkauftes Spiel: Mario Kart 8"
+			text.es="Juego más vendido: Mario Kart 8"
+			text.it="Il gioco più venduto: Mario Kart 8"/>
+
+		<text name="info5" extra="true" text="CPU : Tri-Core IBM PowerPC 'Espresso' @ 1.24 GHz"/>
+
+		<text name="info6" extra="true" text="GPU : AMD Radeon-based 'Latte' @ 550 MHz"/>
+
+		<text name="info7" extra="true"
+			text="RAM : 2 GB DDR3"
+			text.fr="RAM : 2 Go DDR3"/>
+
+		<text name="info8" extra="true"
+			text="Audio : Dedicated 120 MHz audio processor"
+			text.fr="Audio : Processeur audio dédié 120 MHz"
+			text.de="Audio: Spezieller 120-MHz-Audioprozessor"
+			text.es="Audio: Procesador de audio dedicado de 120 MHz"
+			text.it="Audio: processore audio dedicato da 120 MHz"/>
+
+		<text name="info9" extra="true"
+			text="Resolution : 480i, 480p, 720p, 1080i, 1080p"
+			text.fr="Resolution : 480i, 480p, 720p, 1080i, 1080p"
+			text.de="Auflösung: 480i, 480p, 720p, 1080i, 1080p"
+			text.es="Resolución: 480i, 480p, 720p, 1080i, 1080pz"
+			text.it="Risoluzione: 480i, 480p, 720p, 1080i, 1080p"/>
+
+		<text name="info10" extra="true"
+			text="Media : 25 GB Blu-ray based disc"
+			text.fr="Média: disque Blu-ray de 25Go"
+			text.de="Medien: 25 GB Blu-ray-Disc"
+			text.es="Medios: disco Blu-ray de 25 GB"
+			text.it="Supporto: disco Blu-ray da 25 GB"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="1F9EBB"/>
+		<image name="band2" color="3783BC"/>
+		<image name="band3" color="DDDCDC"/>
+		<image name="band4" color="9D8354"/>
+	</view>	
+</theme>

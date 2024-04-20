@@ -1,0 +1,63 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Bandaï"
+			text.fr="Constructeur: Bandaï"
+			text.de="Hersteller: Bandaï"
+			text.es="Fabricante: Bandaï"
+			text.it="Produttore: Bandaï"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 2000"
+			text.fr="Année de sortie: 2000"
+			text.de="Erscheinungsjahr: 2000"
+			text.es="Año de lanzamiento: 2000"
+			text.it="Anno di sortita: 2000"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 740 727"
+			text.fr="Unités Vendues : 740 727"
+			text.de="Verkaufte Einheiten: 740 727"
+			text.es="Unidades vendidas: 740 727"
+			text.it="Unità vendute: 740 727"/>
+
+		<text name="info4" extra="true" text="CPU : SSPGY-1002 @ 3.072 MHz 16-bit NEC V30MZ duplicate"/>
+
+		<text name="info5" extra="true"
+			text="Memory : 64 kB shared VRAM/WRAM"
+			text.fr="Mémoire : 64 Ko partagés VRAM/WRAM"
+			text.de="Speicher: 64 KB gemeinsam genutztes VRAM/WRAM"
+			text.es="Memoria: 64 KB VRAM/WRAM compartida"
+			text.it="Memoria: VRAM/WRAM condivisa da 64 KB"/>
+
+		<text name="info6" extra="true"
+			text="Resolution : 224 x 144 pixels"
+			text.fr="Resolution : 224 x 144 pixels"
+			text.de="Auflösung: 224 x 144 Pixel"
+			text.es="Resolución: 224 x 144 píxeles"
+			text.it="Risoluzione: 224 x 144 pixel"/>
+
+		<text name="info7" extra="true"
+			text="Display : FSTN reflective LCD, 2.8 in (71 mm), 241 colors"
+			text.fr="Écran : LCD réfléchissant FSTN, 2,8 pouces (71 mm), 241 couleurs"
+			text.de="Bildschirm: Reflektives FSTN-LCD, 2,8 Zoll (71 mm), 241 Farben"
+			text.es="Pantalla: LCD reflectante FSTN, 2,8 pulgadas (71 mm), 241 colores"
+			text.it="Schermo: LCD riflettente FSTN, 2,8 pollici (71 mm), 241 colori"/>
+
+		<text name="info8" extra="true"
+			text="Sound : One mono speaker, optional headphones"
+			text.fr="Son : Un haut-parleur mono, un casque en option"
+			text.de="Sound: Ein Mono-Lautsprecher, optionale Kopfhörer"
+			text.es="Sonido: Un altavoz mono, auriculares opcionales"
+			text.it="Suono: un altoparlante mono, cuffie opzionali"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="009CD4"/>
+		<image name="band2" color="EBA743"/>
+		<image name="band3" color="D65757"/>
+		<image name="band4" color="162B4F"/>
+	</view>	
+</theme>

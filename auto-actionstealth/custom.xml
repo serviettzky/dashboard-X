@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Stealth Combat games!"
+			text.fr="Jeux de combat furtif!"
+			text.de="Stealth-Kampfspiele!"
+			text.es="¡Juegos de lucha sigilosos!"
+			text.it="Giochi di combattimento furtivo!"/>
+
+		<text name="info2" extra="true"	text="ex: Metal Gear Solid, Dishonnored, ..."/>
+
+		<text name="info3" extra="true"
+			text="Hide & step forward cautiously. Kill silently..."
+			text.fr="Cachez-vous et avancez prudemment. Tuer en silence..."
+			text.de="„Versteck dich und gehe vorsichtig vorwärts. Töte lautlos …“"
+			text.es="Escóndete y avanza con cuidado. Mata en silencio ..."
+			text.it="Nasconditi e avanza con cautela. Uccidi silenziosamente..."/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

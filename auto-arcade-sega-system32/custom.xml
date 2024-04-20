@@ -1,0 +1,69 @@
+<theme>
+	<formatVersion>5</formatVersion>
+	
+	<view name="system">
+		
+		<text name="info1" extra="true"
+			text="CPU: NEC V60 (μPD70616) @ 16.10795 MHz (32 bits RISC CPU)"
+			text.fr="CPU: NEC V60 (μPD70616) @ 16.10795 MHz (32 bits RISC CPU)"
+			text.de="CPU: NEC V60 (μPD70616) @ 16.10795 MHz (32 bits RISC CPU)"
+			text.es="CPU: NEC V60 (μPD70616) @ 16.10795 MHz (32 bits RISC CPU)"
+			text.it="CPU: NEC V60 (μPD70616) @ 16.10795 MHz (32 bits RISC CPU)"/>
+
+		<text name="info2" extra="true"
+			text="Sound: 2x YM3438 (based on YM2612) @ 8.053975 MHz (12 FM channels)"
+			text.fr="Son: 2x YM3438 (basé sur YM2612) à 8,053975 MHz (12 canaux FM)"
+			text.de="Ton: 2x YM3438 (basierend auf YM2612) bei 8,053975 MHz (12 FM-Kanäle)"
+			text.es="Sonido: 2x YM3438 (basado en YM2612) @ 8.053975 MHz (12 canales FM)"
+			text.it="Suono: 2x YM3438 (basato su YM2612) a 8,053975 MHz (12 canali FM)"/>
+			
+		<text name="info3" extra="true"
+			text="+ Ricoh RF5c68 @ 12.5 MHz (8 Channel PCM)"
+			text.fr="+ Ricoh RF5c68 à 12,5 MHz (PCM 8 canaux)"
+			text.de="+ Ricoh RF5c68 bei 12,5 MHz (8-Kanal-PCM)"
+			text.es="+ Ricoh RF5c68 @ 12.5 MHz (PCM de 8 canales)"
+			text.it="+ Ricoh RF5c68 a 12,5 MHz (PCM a 8 canali)"/>
+
+		<text name="info4" extra="true"
+			text="Resolution: 320x224"
+			text.fr="Resolution: 320x224"
+			text.de="Auflösung: 320x224"
+			text.es="Resolución: 320x224"
+			text.it="Risoluzione: 320x224"/>
+
+		<text name="info5" extra="true"
+			text="Wiring standard: JAMMA"
+			text.fr="Norme de câblage: JAMMA"
+			text.de="Verkabelungsstandard: JAMMA"
+			text.es="Estándar de cableado: JAMMA"
+			text.it="Norma di cablaggio: JAMMA"/>		
+			
+		<text name="info7" extra="true"	
+			text="System 32 is a 32-bit arcade system for arcade cabinets created by Sega"
+			text.fr="Le System 32 est un système d'arcade 32 bits pour borne d'arcade créé par Sega"
+			text.de="System 32 ist ein von Sega entwickeltes 32-Bit-Arcade-System für Arcade-Schränke"
+			text.es="System 32 es un sistema arcade de 32 bits para máquinas recreativas creado por Sega"
+			text.it="System 32 è un sistema arcade a 32 bit per cabinati arcade creato da Sega"/>
+
+		<text name="info8" extra="true"
+			text="marketed in 1990 in Japan then in 1991 in the rest of the world."
+			text.fr="commercialisé en 1990 au Japon puis en 1991 dans le reste du monde."
+			text.de="1990 in Japan und 1991 im Rest der Welt vermarktet."
+			text.es="comercializado en 1990 en Japón y luego en 1991 en el resto del mundo."
+			text.it="commercializzato nel 1990 in Giappone poi nel 1991 nel resto del mondo."/>
+			
+		<text name="info10" extra="true"
+			text="Find all the SEGA system 32 Arcade Games"
+			text.fr="Retrouvez tous les Jeux d'Arcade SEGA system 32"
+			text.de="Hier finden Sie alle Arcade-Spiele des SEGA-Systems 32"
+			text.es="Encuentra todos los juegos Arcade del sistema SEGA 32"
+			text.it="Trova tutti i giochi arcade del sistema SEGA 32"/>
+	</view>
+	
+	<view name="system, detailed, gameclip"> 
+		<image name="band1" extra="true" color="ff0000"/>
+		<image name="band2" extra="true" color="0060a8"/>
+		<image name="band3" extra="true" color="0084e4"/>
+		<image name="band4" extra="true" color="ffffff"/>
+	</view>	
+</theme>

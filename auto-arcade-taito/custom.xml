@@ -1,0 +1,55 @@
+<theme>
+	<formatVersion>5</formatVersion>
+	
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Founded in 1953"
+			text.fr="Fondée en 1953"
+			text.de="Gegründet 1953"
+			text.es="Fundada en 1953"
+			text.it="Fondata nel 1953"/>
+
+		<text name="info2" extra="true"
+			text="Terminals: Egret, Egret II, Atomiswave SD, Vewlix-L, Vewlix-F"
+			text.fr="Bornes: Egret, Egret II, Atomiswave SD, Vewlix-L, Vewlix-F"
+			text.de="Terminals: Egret, Egret II, Atomiswave SD, Vewlix-L, Vewlix-F"
+			text.es="Terminales: Garza, Garza II, Atomiswave SD, Vewlix-L, Vewlix-F"
+			text.it="Terminali: Egret, Egret II, Atomiswave SD, Vewlix-L, Vewlix-F"/>
+
+		<text name="info3" extra="true"
+			text="Systems: Taito B,X,H,L,Z,F1,F2, Type X, G-Net"
+			text.fr="Systemes: Taito B,X,H,L,Z,F1,F2, Type X, G-Net"
+			text.de="Systeme: Taito B,X,H,L,Z,F1,F2, Typ X, G-Net"
+			text.es="Sistemas: Taito B,X,H,L,Z,F1,F2, Tipo X, G-Net"
+			text.it="Sistemi: Taito B,X,H,L,Z,F1,F2, Tipo X, G-Net"/>
+
+		<text name="info4" extra="true"
+			text="First Game: Elepong"
+			text.fr="Premier Jeu: Elepong"
+			text.de="Erstes Spiel: Elepong"
+			text.es="Primer juego: Elepong"
+			text.it="Primo gioco: Elepong"/>
+
+		<text name="info5" extra="true"
+			text="Popular games: Space Invaders, Elevator Action, Bubble Bobble"
+			text.fr="Jeux connus:Space Invaders, Elevator Action, Bubble Bobble"
+			text.de="Beliebte Spiele: Space Invaders, Elevator Action, Bubble Bobble"
+			text.es="Juegos populares: Space Invaders, Elevator Action, Bubble Bobble"
+			text.it="Juegos populares: Space Invaders, Acción de ascensor, Bubble Bobble"/>
+
+		<text name="info7" extra="true"
+			text="Find all TAITO Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade TAITO."
+			text.de="Finden Sie alle TAITO Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de TAITO."
+			text.it="Trova tutti i giochi arcade TAITO."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">	
+		<image name="band1" extra="true" color="9a9a9a"/>
+		<image name="band2" extra="true" color="000000"/>
+		<image name="band3" extra="true" color="FFFFFF"/>
+		<image name="band4" extra="true" color="127bca"/>
+	</view>	
+</theme>

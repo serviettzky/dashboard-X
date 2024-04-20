@@ -1,0 +1,59 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Various"
+			text.fr="Constructeur : Various"
+			text.de="Hersteller: Various"
+			text.es="Fabricante : Various"
+			text.it="Produttore: Various"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1983"
+			text.fr="Annee de Sortie : 1983"
+			text.de="Erscheinungsjahr: 1983"
+			text.es="Año de lanzamiento: 1983"
+			text.it="Anno di uscita: 1983"/>
+
+		<text name="info3" extra="true" text="OS : MSX BASIC V3.0 (16 kB)"/>
+
+		<text name="info4" extra="true"
+			text="CPU : Zilog Z80 compatible @ 3.58 MHz"
+			text.fr="CPU : Zilog Z80 compatible @ 3.58 MHz"
+			text.de="CPU: Zilog Z80 kompatibel mit 3,58 MHz"
+			text.es="CPU: compatible con Zilog Z80 a 3,58 MHz"
+			text.it="CPU: compatibile Zilog Z80 a 3,58 MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 64 KB / VRAM : 128 KB"
+			text.fr="RAM : 64 Ko / VRAM : 128 Ko"/>
+
+		<text name="info6" extra="true"
+			text="ROM : 64 KB / VRAM : 128 KB"
+			text.fr="ROM : 64 Ko / VRAM : 128 Ko"/>
+			
+		<text name="info7" extra="true" text="GPU : Yamaha V9958 (aka MSX-Video)"/>
+
+		<text name="info8" extra="true"
+			text="Sound chip : Yamaha YM2149 (PSG)"
+			text.fr="Puce Audio : Yamaha YM2149 (PSG)"
+			text.de="Audiochip: Yamaha YM2149 (PSG)"
+			text.es="Chip de audio: Yamaha YM2149 (PSG)"
+			text.it="Chip audio: Yamaha YM2149 (PSG)"/>
+
+		<text name="info9" extra="true"
+			text="Resolution : 256×212 (19268 simultaneous colors)"
+			text.fr="Resolution : 256×212 (19268 couleurs simultanées)"
+			text.de="Auflösung: 256×212 (19268 gleichzeitige Farben)"
+			text.es="Resolución: 256×212 (19268 colores simultáneos)"
+			text.it="Risoluzione: 256×212 (19268 colori simultanei)"/>
+	</view>
+	
+	<view name="system, basic, detailed, gameclip">
+		<image name="band1" color="d6d4d4"/>
+		<image name="band2" color="b7b7b7"/>
+		<image name="band3" color="7c3036"/>
+		<image name="band4" color="e3cf94"/>
+	</view>
+</theme>

@@ -1,0 +1,58 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Welback Holdings"
+			text.fr="Constructeur : Welback Holdings"
+			text.de="Hersteller: Welback Holdings"
+			text.es="Fabricante : Welback Holdings"
+			text.it="Produttore: Welback Holdings"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1993"
+			text.fr="Annee de Sortie : 1993"
+			text.de="Erscheinungsjahr: 1993"
+			text.es="Año de lanzamiento: 1993"
+			text.it="Anno di uscita: 1993"/>
+
+		<text name="info3" extra="true"
+			text="CPU : MOS version of the Z80 (embedded in the main VLSI)"
+			text.fr="CPU : Version MOS du Z80 (intégré dans le VLSI principal)"
+			text.de="CPU: MOS-Version von Z80 (integriert in den Haupt-VLSI)"
+			text.es="CPU: versión MOS de Z80 (integrada en el VLSI principal)"
+			text.it="CPU: versione MOS di Z80 (integrata nel VLSI principale)"/>
+
+		<text name="info4" extra="true"
+			text="RAM : 16kB"
+			text.fr="RAM : 16ko"/>
+
+		<text name="info5" extra="true"
+			text="Resolution:160×144 pixels, 4 shades of grey"
+			text.fr="Resolution:160×144 pixels, 4 nuances de gris"
+			text.de="Auflösung: 160×144 Pixel, 4 Graustufen"
+			text.es="Resolución: 160×144 píxeles, 4 tonos de gris"
+			text.it="Risoluzione: 160×144 pixel, 4 tonalità di grigio"/>
+
+		<text name="info6" extra="true"
+			text="Sound : Built-in speaker (8Ω 200 mW)"
+			text.fr="Son : Haut-parleur intégré (8Ω 200 mW)"
+			text.de="Ton: Eingebauter Lautsprecher (8 Ω 200 mW)"
+			text.es="Sonido: Altavoz incorporado (8Ω 200 mW)"
+			text.it="Suono: altoparlante integrato (8Ω 200 mW)"/>
+
+		<text name="info7" extra="true"
+			text="Media : 36 pins ROM cartridge"
+			text.fr="Media : Cartouche ROM 36 broches"
+			text.de="Medien: 36-polige ROM-Kassette"
+			text.es="Medios: cartucho ROM de 36 pines"
+			text.it="Supporto: cartuccia ROM a 36 pin"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="35b8c3"/>
+		<image name="band2" color="77a6b0"/>
+		<image name="band3" color="d7d8d7"/>
+		<image name="band4" color="3f3f40"/>
+	</view>
+</theme>

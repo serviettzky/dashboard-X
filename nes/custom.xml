@@ -1,0 +1,77 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Nintendo"
+			text.fr="Constructeur: Nintendo"
+			text.de="Hersteller: Nintendo"
+			text.es="Fabricante: Nintendo"
+			text.it="Produttore: Nintendo"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1983"
+			text.fr="Année de sortie: 1983"
+			text.de="Erscheinungsjahr: 1983"
+			text.es="Año de lanzamiento: 1983"
+			text.it="Anno di sortita: 1983"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 61.79 million"
+			text.fr="Unités Vendues : 61.79 millions"
+			text.de="Verkaufte Einheiten: 61.79 Millionen"
+			text.es="Unidades vendidas: 61.79 millones"
+			text.it="Unità vendute: 61.79 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Super Mario Bros."
+			text.fr="Jeu le Plus Vendu : Super Mario Bros."
+			text.de="Meistverkauftes Spiel: Super Mario Bros."
+			text.es="Juego más vendido: Super Mario Bros."
+			text.it="Il gioco più venduto: Super Mario Bros."/>
+
+		<text name="info5" extra="true" text="CPU : 8-bit MOS 6502 @ 1.79MHz"/>
+
+		<text name="info6" extra="true"
+			text="RAM : 2kB / VRAM : 2kB"
+			text.fr="RAM : 2ko / VRAM : 2ko"/>
+
+		<text name="info7" extra="true" text="Video : 8-Bit PPU (Picture Processing Unit)"/>
+
+		<text name="info8" extra="true"
+			text="Resolution : 256 x 240 pixels, 25 colors (64 colors palette)"
+			text.fr="Resolution : 256 x 240 pixels, 25 couleurs (palette de 64 couleurs)"
+			text.de="Auflösung: 256 x 240 Pixel, 25 Farben (64-Farben-Palette)"
+			text.es="Resolución: 256 x 240 píxeles, 25 colores (paleta de 64 colores)"
+			text.it="Risoluzione: 256 x 240 pixel, 25 colori (tavolozza di 64 colori)"/>
+
+		<text name="info9" extra="true"
+			text="Sound : PSG sound (2 Square Waves, 1 Triangle Wave, 1 White Noise)"
+			text.fr="Son : Son PSG (2 ondes carrées, 1 onde triangulaire, 1 bruit blanc)"
+			text.de="Sound: PSG-Sound (2 Rechteckwellen, 1 Dreieckwelle, 1 weißes Rauschen)"
+			text.es="Sonido: sonido PSG (2 ondas cuadradas, 1 onda triangular, 1 ruido blanco)"
+			text.it="Suono: suono PSG (2 onde quadre, 1 onda triangolare, 1 rumore bianco)"/>
+
+		<text name="info10" extra="true"
+			text="Cart Size : 8kB - 1MB"
+			text.fr="Taille des Cartouches : 8Ko - 1Mo"
+			text.de="Patronengröße: 8 KB - 1 MB<"
+			text.es="Tamaño del cartucho: 8 KB - 1 MB"
+			text.it="Dimensioni cartuccia: 8KB - 1MB"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="C23435"/>
+		<image name="band2" color="E0E0E1"/>
+		<image name="band3" color="1A1919"/>
+		<image name="band4" color="818080"/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="EA2C27" region="jp"/>
+		<image name="band2" color="E6E7E8" region="jp"/>
+		<image name="band3" color="C0A987" region="jp"/>
+		<image name="band4" color="AA1C41" region="jp"/>
+	</view>
+	
+</theme>

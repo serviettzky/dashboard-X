@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Old-school text adventures games!"
+			text.fr="Jeux d'aventures textuels à l'ancienne!"
+			text.de="Text-Abenteuerspiele der alten Schule!"
+			text.es="¡Juegos de aventuras de texto de la vieja escuela!"
+			text.it="Giochi di avventure testuali vecchia scuola!"/>
+
+		<text name="info2" extra="true" text="ex: Zork, Spider & Web, ... "/>
+
+		<text name="info3" extra="true"
+			text="Play an interactive gaming book on screen!"
+			text.fr="Jouez à un livre de jeu interactif à l'écran!"
+			text.de="„Spielen Sie ein interaktives Spielbuch auf dem Bildschirm!“"
+			text.es="¡Juega un libro de juegos interactivo en pantalla!"
+			text.it="Gioca a un librogame interattivo sullo schermo!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

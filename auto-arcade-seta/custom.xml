@@ -1,0 +1,48 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Founded in 1985"
+			text.fr="Fondée en 1985"
+			text.de="Gegründet 1985"
+			text.es="Fundada en 1985"
+			text.it="Fondata nel 1985"/>
+
+		<text name="info2" extra="true"
+			text="Systems: Seta 1st & 2nd, System SSV, Aleck 64"
+			text.fr="Systemes: Seta 1st & 2nd, System SSV , Aleck 64"
+			text.de="Systeme: Seta 1. und 2., System SSV, Aleck 64"
+			text.es="Sistemas: Seta 1º y 2º, Sistema SSV, Aleck 64"
+			text.it="Sistemi: Seta 1° e 2°, Sistema SSV, Aleck 64"/>
+
+		<text name="info3" extra="true"
+			text="First Game: Arbalester"
+			text.fr="Premier Jeu: Arbalester"
+			text.de="Erstes Spiel: Arbalester"
+			text.es="Primer juego: Arbalester"
+			text.it="Primo gioco: Arbalester"/>
+
+		<text name="info4" extra="true"
+			text="Popular games: Caliber 50, Star Soldier: Vanishing Earth"
+			text.fr="Jeux populaires: Caliber 50, Star Soldier: Vanishing Earth"
+			text.de="Beliebte Spiele: Caliber 50, Star Soldier: Vanishing Earth"
+			text.es="Juegos populares: Caliber 50, Star Soldier: Vanishing Earth"
+			text.it="Giochi popolari: Caliber 50, Star Soldier: Vanishing Earth"/>
+
+		<text name="info6" extra="true"
+			text="Find all the SETA Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade SETA."
+			text.de="Hier finden Sie alle SETA Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de SETA."
+			text.it="Trova tutti i giochi SETA Arcade."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">	
+		<image name="band1" extra="true" color="0b4199"/>
+		<image name="band2" extra="true" color="1067ee"/>
+		<image name="band3" extra="true" color="ffffff"/>
+		<image name="band4" extra="true" color="8a8a8a"/>
+	</view>	
+</theme>

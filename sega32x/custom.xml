@@ -1,0 +1,79 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">	
+		<text name="info1" extra="true"
+			text="Manufacturer : Sega"
+			text.fr="Constructeur: Sega"
+			text.de="Hersteller: Sega"
+			text.es="Fabricante: Sega"
+			text.it="Produttore: Sega"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1994"
+			text.fr="Année de sortie: 1994"
+			text.de="Erscheinungsjahr: 1994"
+			text.es="Año de lanzamiento: 1994"
+			text.it="Anno di sortita: 1994"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 665 000"
+			text.fr="Unités Vendues : 665 000"
+			text.de="Verkaufte Einheiten: 665 000"
+			text.es="Unidades vendidas: 665 000"
+			text.it="Unità vendute: 665 000"/>
+
+		<text name="info4" extra="true" 
+			text="CPU : Two 32-bit Hitachi SH2 @ 23 MHz + Megadrive CPUs"
+			text.fr="Processeur : Deux processeurs Hitachi SH2 32 bits à 23 MHz + Megadrive"
+			text.de="CPU: Zwei 32-Bit Hitachi SH2 @ 23 MHz + Megadrive-CPUs"
+			text.es="CPU: Dos CPU Hitachi SH2 de 32 bits a 23 MHz + Megadrive"
+			text.it="CPU: due CPU Hitachi SH2 a 32 bit a 23 MHz + Megadrive"/>
+		
+		<text name="info5" extra="true" 
+			text="RAM : 256kB / VRAM : 256kB"
+			text.fr="RAM : 256Ko / VRAM : 256Ko"/>
+
+		<text name="info6" extra="true" text="Video : 32X VDP"/>
+
+		<text name="info7" extra="true" 
+			text="Resolution : 320 x 224 pixels, 32768 colors"
+			text.fr="Résolution : 320 x 224 pixels, 32768 couleurs"
+			text.de="Auflösung: 320 x 224 Pixel, 32768 Farben"
+			text.es="Resolución: 320 x 224 píxeles, 32768 colores"
+			text.it="Risoluzione: 320 x 224 pixel, 32768 colori"/>
+
+		<text name="info8" extra="true" 
+			text="Sound : Q-Sound 10bit Stereo PCM chip + Megadrive Sound chips"
+			text.fr="Son : puce PCM stéréo Q-Sound 10 bits + puces sonore Megadrive"
+			text.de="Sound: 10-Bit-Q-Sound-Stereo-PCM-Chip + Megadrive-Soundchips"
+			text.es="Sonido: chip PCM estéreo Q-Sound de 10 bits + chips de sonido Megadrive"
+			text.it="Suono: chip PCM stereo Q-Sound a 10 bit + chip audio Megadrive"/>
+
+		<text name="info9" extra="true" 
+			text="Cart Size : 2MB - 4MB"
+			text.fr="Taille des Cartouches : 2Mo - 4Mo"
+			text.de="Patronengröße: 2 MB – 4 MB"
+			text.es="Tamaño del cartucho: 2 MB - 4 MB"
+			text.it="Dimensioni cartuccia: 2 MB - 4 MB"/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="DCE3E6" region="eu"/>
+		<image name="band2" color="D5202C" region="eu"/>
+		<image name="band3" color="C0C1C4" region="eu"/>
+		<image name="band4" color="212122" region="eu"/>
+	</view>	
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="6177B3" region="jp"/>
+		<image name="band2" color="1D46A5" region="jp"/>
+		<image name="band3" color="F2BA5C" region="jp"/>
+		<image name="band4" color="FBE627" region="jp"/>
+	</view>	
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="0084E2" region="us"/>
+		<image name="band2" color="ED0A0A" region="us"/>
+		<image name="band3" color="FFE607" region="us"/>
+		<image name="band4" color="212122" region="us"/>
+	</view>
+</theme>

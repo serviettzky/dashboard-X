@@ -1,0 +1,75 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Developer : Bruno Garcia"
+			text.fr="Developeur : Bruno Garcia"
+			text.de="Entwickler: Bruno Garcia"
+			text.es="Desarrollador: Bruno García"
+			text.it="Sviluppatore: Bruno Garcia"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 2021"
+			text.fr="Année de sortie: 2021"
+			text.de="Erscheinungsjahr: 2021"
+			text.es="Año de lanzamiento: 2021"
+			text.it="Anno di sortita: 2021"/>
+
+		<text name="info3" extra="true"
+			text="Website : www.wasm4.org"
+			text.fr="Site web : www.wasm4.org"
+			text.de="Website: www.wasm4.org"
+			text.es="Sitio web: www.wasm4.org"
+			text.it="Sito web: www.wasm4.org"/>
+
+		<text name="info4" extra="true"
+			text="WASM-4 is a low-level fantasy game console for building small games with WebAssembly"
+			text.fr="WASM-4 est une console de jeu pour de créer de petits jeux avec WebAssembly"
+			text.de="WASM-4 ist eine Spielekonsole zum Erstellen kleiner Spiele mit WebAssembly"
+			text.es="WASM-4 es una consola de juegos para crear pequeños juegos con WebAssembly"
+			text.it="WASM-4 è una console di gioco per creare piccoli giochi con WebAssembly"/>
+
+		<text name="info5" extra="true"
+			text="RAM: 64 KB linear RAM, memory-mapped I/O, save states"
+			text.fr="RAM:64 Ko de RAM linéaire, E/S mappées en mémoire, états de sauvegarde"
+			text.de="RAM: 64 KB linearer RAM, speicherzugeordnete E/A, Zustände speichern"
+			text.es="RAM: RAM lineal de 64 KB, E/S asignadas en memoria, estados de guardado"
+			text.it="RAM: RAM lineare da 64 KB, I/O mappato in memoria, stati di salvataggio"/>
+
+		<text name="info6" extra="true"
+			text="Display : 60x160 pixels, 4 customizable colors, updated at 60 Hz"
+			text.fr="Affichage : 60x160 pixels, 4 couleurs personnalisables, mis à jour à 60 Hz"
+			text.de="Anzeige: 60 x 160 Pixel, 4 anpassbare Farben, aktualisiert mit 60 Hz"
+			text.es="Pantalla: 60x160 píxeles, 4 colores personalizables, actualizada a 60 Hz"
+			text.it="Display: 60x160 pixel, 4 colori personalizzabili, aggiornato a 60 Hz"/>
+
+		<text name="info7" extra="true"
+			text="Storage : Cartridge Size Limit 64 KB"
+			text.fr="Stockage : Limite de taille de cartouche 64 Ko"
+			text.de="Speicher: Beschränkung der Kassettengröße auf 64 KB"
+			text.es="Almacenamiento: límite de tamaño del cartucho 64 KB"
+			text.it="Archiviazione: limite di dimensione della cartuccia 64 KB"/>
+
+		<text name="info8" extra="true"
+			text="Sound : 2 pulse wave channels, 1 triangle wave channel, 1 noise channel"
+			text.fr="Son : 2 canaux d'ondes de pouls, 1 canal d'ondes triangulaires, 1 canal de bruit"
+			text.de="Ton: 2 Pulswellenkanäle, 1 Dreieckwellenkanal, 1 Rauschkanal"
+			text.es="Sonido: 2 canales de onda de pulso, 1 canal de onda triangular, 1 canal de ruido"
+			text.it="Suono: 2 canali d'onda pulsata, 1 canale d'onda triangolare, 1 canale di rumore"/>
+
+		<text name="info9" extra="true"
+			text="Device : Keyboard, mouse, touchscreen, up to 4 gamepads"
+			text.fr="Péripheriques : Clavier, souris, écran tactile, jusqu'à 4 manettes de jeu"
+			text.de="Peripheriegeräte: Tastatur, Maus, Touchscreen, bis zu 4 Gamecontroller"
+			text.es="Periféricos: teclado, mouse, pantalla táctil, hasta 4 controladores de juegos"
+			text.it="Periferiche: tastiera, mouse, touchscreen, fino a 4 controller di gioco"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="ffcd21"/>
+		<image name="band2" color="e94f96"/>
+		<image name="band3" color="6ebc87"/>
+		<image name="band4" color="2a252e"/>
+	</view>
+</theme>

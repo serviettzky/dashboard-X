@@ -1,0 +1,55 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"
+			text="Founded in 1980"
+			text.fr="Fondée en 1980"
+			text.de="Gegründet 1980"
+			text.es="Fundada en 1980"
+			text.it="Fondata nel 1980"/>
+
+		<text name="info2" extra="true"
+			text="Systems: 68000 Based, Super Kaneko Nova System"
+			text.fr="Systemes: 68000 Based, Super Kaneko Nova System"
+			text.de="Systeme: 68000 Based, Super Kaneko Nova System"
+			text.es="Sistemas: 68000 Based, Super Kaneko Nova System"
+			text.it="Sistemi: 68000 Based, Super Kaneko Nova System"/>
+
+		<text name="info3" extra="true"
+			text="Production: 1984 - 2000"
+			text.fr="Production: 1984 - 2000"
+			text.de="Produktion: 1984 - 2000"
+			text.es="Producción: 1984 - 2000"
+			text.it="Produzione: 1984 - 2000"/>
+
+		<text name="info4" extra="true"
+			text="First Game: Magical Crystals"
+			text.fr="Premier Jeu: Magical Crystals"
+			text.de="Erstes Spiel: Magical Crystals"
+			text.es="Primer juego: Magical Crystals"
+			text.it="Primo gioco: Magical Crystals"/>
+
+		<text name="info5" extra="true"
+			text="Popular Games: B.C. Kid, Shogun Warriors"
+			text.fr="Jeux Populaires: B.C. Kid, Shogun Warriors"
+			text.de="Beliebte Spiele: B.C. Kid, Shogun Warriors"
+			text.es="Juegos populares: B.C. Kid, Shogun Warriors"
+			text.it="Giochi popolari: B.C. Kid, Shogun Warriors"/>
+
+		<text name="info7" extra="true"
+			text="Find all the KANEKO Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade KANEKO."
+			text.de="Hier finden Sie alle KANEKO Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de KANEKO."
+			text.it="Trova tutti i giochi arcade KANEKO."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="F80000"/>
+		<image name="band2" extra="true" color="eb3d39"/>
+		<image name="band3" extra="true" color="8e8c8c"/>
+		<image name="band4" extra="true" color="FFFFFF"/>
+	</view>	
+</theme>

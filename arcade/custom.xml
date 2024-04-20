@@ -1,0 +1,82 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="An arcade game or coin-op game is a coin-operated entertainment"
+			text.fr="Un jeu d'arcade est un divertissement avec un monnayeur"
+			text.de="Ein Arcade-Spiel oder Münzspiel ist eine münzbetriebene Unterhaltung"
+			text.es="Un juego de arcade o de monedas es un entretenimiento que funciona con monedas."
+			text.it="Un gioco arcade o un gioco coin-op è un intrattenimento a gettoni"/>
+
+		<text name="info2" extra="true"
+			text="machine. Most arcade games are video games, pinball machines,"
+			text.fr="machine. La plupart des jeux d'arcade sont des jeux vidéo, des flippers,"
+			text.de="aschine. Die meisten Arcade-Spiele sind Videospiele, Flipper,"
+			text.es="máquina. La mayoría de los juegos de arcade son videojuegos, máquinas de pinball,"
+			text.it="macchina. La maggior parte dei giochi arcade sono videogiochi, flipper,"/>
+
+		<text name="info3" extra="true"
+			text="electro-mechanical games, redemption games or merchandisers. While"
+			text.fr="jeux électromécaniques, jeux de rédemption ou marchandiseurs. Alors que"
+			text.de="elektromechanische Spiele, Einlösespiele oder Merchandiser. Während"
+			text.es="juegos electromecánicos, juegos de rescate o comercializadores. Mientras"
+			text.it="giochi elettromeccanici, giochi di riscatto o merchandiser. Mentre"/>
+
+		<text name="info4" extra="true"
+			text="exact dates are debated, the golden age of arcade video games is"
+			text.fr="les dates exactes sont débattues, l'âge d'or des jeux vidéo d'arcade est"
+			text.de="Genaue Daten werden diskutiert, das goldene Zeitalter der Arcade-Videospiele ist gekommen"
+			text.es="Se debaten las fechas exactas, la edad de oro de los videojuegos arcade es"
+			text.it="le date esatte sono dibattute, l'età d'oro dei videogiochi arcade è"/>
+
+		<text name="info5" extra="true"
+			text="usually defined as a period beginning sometime in the late 1970s and"
+			text.fr="généralement définie comme une période commençant à la fin des années 1970 et"
+			text.de="wird normalerweise als ein Zeitraum definiert, der irgendwann in den späten 1970er Jahren beginnt"
+			text.es="Generalmente se define como un período que comienza en algún momento a finales de la década de 1970 y"
+			text.it="solitamente definito come un periodo che inizia alla fine degli anni '70 e"/>
+			
+		<text name="info6" extra="true"
+			text="ending sometime in the mid-1980s. Excluding abrief resurgence in the"
+			text.fr="se terminant au milieu des années 1980. Hors résurgence brève du"
+			text.de="endete irgendwann Mitte der 1980er Jahre. Ohne ein kurzes Wiederaufleben in der"
+			text.es="terminando en algún momento a mediados de la década de 1980. Excluyendo el breve resurgimiento de la"
+			text.it="terminando a metà degli anni '80. Escludendo una breve ripresa del"/>
+
+		<text name="info7" extra="true"
+			text="early 1990s, the arcade industry subsequently declined in the"
+			text.fr="début des années 1990, l'industrie des jeux d'arcade a ensuite décliné"
+			text.de="Anfang der 1990er Jahre ging die Arcade-Industrie in der Folge zurück"
+			text.es="A principios de la década de 1990, la industria de las salas de juegos decayó posteriormente en la década de 1990."
+			text.it="All'inizio degli anni '90, l'industria arcade subì successivamente un declino"/>
+
+		<text name="info8" extra="true"
+			text="Western hemisphere as competing home video game consoles increased"
+			text.fr="alors que les consoles de jeux vidéo concurrentes augmentent en occident,"
+			text.de="Die Verbreitung konkurrierender Heimvideospielkonsolen in der westlichen Hemisphäre nahm zu"
+			text.es="Hemisferio occidental a medida que aumentaron las consolas de videojuegos domésticas competidoras"
+			text.it="Nell'emisfero occidentale sono aumentate le console per videogiochi domestiche concorrenti"/>
+
+		<text name="info9" extra="true"
+			text="in their graphics and game-play capability and decreased in cost."
+			text.fr="dans leurs capacités graphiques et de jeu et leur coût a diminué."
+			text.de="in ihrer Grafik- und Spielfähigkeit verbessert und die Kosten gesenkt."
+			text.es="en sus gráficos y capacidad de juego y disminuyó en costo."
+			text.it="nella loro capacità grafica e di gioco e hanno ridotto i costi."/>
+
+		<text name="info10" extra="true"
+			text="This system gathers all arcade emulators in one."
+			text.fr="Ce système regroupe tous les émulateurs d'arcade en un seul."
+			text.de="Dieses System vereint alle Arcade-Emulatoren in einem."
+			text.es="Este sistema reúne todos los emuladores arcade en uno."
+			text.it="Questo sistema riunisce tutti gli emulatori arcade in uno solo."/>		
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="FB0B47"/>
+		<image name="band2" extra="true" color="FCE236"/>
+		<image name="band3" extra="true" color="1229B8"/>
+		<image name="band4" extra="true" color="5D9EED"/>
+	</view>
+</theme>

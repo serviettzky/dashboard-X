@@ -1,0 +1,34 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Generic action games"
+			text.fr="Jeux d'action génériques"
+			text.de="Allgemeine Actionspiele"
+			text.es="Juegos de acción genéricos."
+			text.it="Giochi d'azione generici"/>
+
+		<text name="info2" extra="true"
+			text="that do no fit any o"
+			text.fr="qui ne correspondent à aucun des"
+			text.de="das passt zu keinem"
+			text.es="eso no encaja con ninguno de"
+			text.it="questo non si adatta a nessuno di"/>
+
+		<text name="info3" extra="true"
+			text="other Action genres!"
+			text.fr="autres genres d'action!"
+			text.de="andere Action-Genres!"
+			text.es="¡Otros géneros de acción!"
+			text.it="altri generi d'azione!"/>		
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+	
+</theme>

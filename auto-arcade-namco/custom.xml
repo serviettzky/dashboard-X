@@ -1,0 +1,55 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Founded in 1955"
+			text.fr="Fondée en 1955"
+			text.de="Gegründet 1955"
+			text.es="Fundada en 1955"
+			text.it="Fondata nel 1955"/>
+
+		<text name="info2" extra="true"	
+			text="Systems: System 1,2,10,11,12,246,256...36 in total"
+			text.fr="Systemes: System 1,2,10,11,12,246,256... 36 au total"
+			text.de="Systeme: System 1,2,10,11,12,246,256...36 insgesamt"
+			text.es="Sistemas: Sistema 1,2,10,11,12,246,256...36 en total"
+			text.it="Sistemi: Sistema 1,2,10,11,12,246,256...36 in totale"/>
+
+		<text name="info3" extra="true"
+			text="First Game: Gee Bee"
+			text.fr="Premier Jeu: Gee Bee"
+			text.de="Erstes Spiel: Gee Bee"
+			text.es="Primer juego: Gee Bee"
+			text.it="Primo gioco: Gee Bee"/>
+
+		<text name="info4" extra="true"
+			text="Known Games: Pac-Man, Tekken, Soul Blade, Ace Combat"
+			text.fr="Jeux Connus: Pac-Man,Tekken,Soul Blade, Ace Combat"
+			text.de="Bekannte Spiele: Pac-Man, Tekken, Soul Blade, Ace Combat"
+			text.es="Juegos conocidos: Pac-Man, Tekken, Soul Blade, Ace Combat"
+			text.it="Giochi conosciuti: Pac-Man, Tekken, Soul Blade, Ace Combat"/>
+
+		<text name="info5" extra="true"
+			text="But also: Ridge Racer, Point Blank, Time Crisis, Mr.Driller"
+			text.fr="Mais aussi: Ridge Racer, Point Blank, Time Crisis, Mr.Driller"
+			text.de="Aber auch: Ridge Racer, Point Blank, Time Crisis, Mr.Driller"
+			text.es="Pero también: Ridge Racer, Point Blank, Time Crisis, Mr.Driller"
+			text.it="Ma anche: Ridge Racer, Point Blank, Time Crisis, Mr.Driller"/>
+
+		<text name="info7" extra="true"
+			text="Find all the NAMCO Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade NAMCO."
+			text.de="Hier finden Sie alle NAMCO Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de NAMCO."
+			text.it="Trova tutti i giochi arcade NAMCO."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="e50308"/>
+		<image name="band2" extra="true" color="fc363a"/>
+		<image name="band3" extra="true" color="000000"/>
+		<image name="band4" extra="true" color="FFFFFF"/>
+	</view>	
+</theme>

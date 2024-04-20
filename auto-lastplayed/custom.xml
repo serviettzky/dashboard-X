@@ -1,0 +1,19 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Find the history of your last games"
+			text.fr="Retrouvez l'historique de vos dernières parties"
+			text.de="Finden Sie den Verlauf Ihrer letzten Spiele"
+			text.es="Encuentra el historial de tus últimos juegos"
+			text.it="Trova la cronologia delle tue ultime partite"/>	
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

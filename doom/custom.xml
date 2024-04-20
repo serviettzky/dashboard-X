@@ -1,0 +1,83 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"
+			text="Developer : id Software"
+			text.fr="Développeur : id Software"
+			text.de="Entwickler: id Software"
+			text.es="Desarrollador: id Softwareh"
+			text.it="Sviluppatore: id Software"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1993"
+			text.fr="Année de sortie: 1993"
+			text.de="Erscheinungsjahr: 1993"
+			text.es="Año de lanzamiento: 1993"
+			text.it="Anno di sortita: 1993"/>
+
+		<text name="info3" extra="true"
+			text="DOOM is a series of first-person shooter"
+			text.fr="DOOM est une série de jeux de tir à la première personne"
+			text.de="DOOM ist eine Reihe von Ego-Shooter-Spielen"
+			text.es="DOOM es una serie de juegos de disparos en primera persona."
+			text.it="DOOM è una serie di giochi sparatutto in prima persona"/>
+
+		<text name="info4" extra="true"
+			text="video games developed by id Software."
+			text.fr="jeux vidéo développés par id Software."
+			text.de="Von id Software entwickelte Videospiele."
+			text.es="videojuegos desarrollados por id Software."
+			text.it="videogiochi sviluppati da id Software."/>
+
+		<text name="info5" extra="true"
+			text="The series focuses on the exploits of an unnamed space marine"
+			text.fr="La série se concentre sur les exploits d'un space marine sans nom"
+			text.de="Die Serie konzentriert sich auf die Heldentaten eines namenlosen Space Marines"
+			text.es="La serie se centra en las hazañas de un marine espacial anónimo."
+			text.it="La serie si concentra sulle imprese di un marine spaziale senza nome"/>
+
+		<text name="info6" extra="true"
+			text="operating under the UAC, who fights hordes of demons in order to survive."
+			text.fr="opérant sous l'UAC, qui combat des hordes de démons pour survivre."
+			text.de="operiert unter der UAC, die Horden von Dämonen bekämpft, um zu überleben."
+			text.es="operando bajo la UAC, que lucha contra hordas de demonios para sobrevivir."
+			text.it="operando sotto l'UAC, che combatte orde di demoni per sopravvivere."/>
+
+		<text name="info7" extra="true"
+			text="Doom is one of the pioneering FPS games,"
+			text.fr="Doom est l'un des jeux FPS pionniers,"
+			text.de="Doom ist eines der bahnbrechenden FPS-Spiele."
+			text.es="Doom es uno de los juegos FPS pioneros,"
+			text.it="Doom è uno dei giochi FPS pionieristici,"/>
+
+		<text name="info8" extra="true"
+			text="introducing to IBM-compatible computers features such as 3D graphics,"
+			text.fr="introduction aux fonctionnalités des ordinateurs compatibles IBM"
+			text.de="Einführung in die Funktionen IBM-kompatibler Computer"
+			text.es="Introducción a las características de las computadoras compatibles con IBM."
+			text.it="Introduzione alle funzionalità dei computer compatibili IBM"/>
+
+		<text name="info9" extra="true"
+			text="third dimension spatiality,"
+			text.fr="telles que les graphiques 3D, spatialité de troisième dimension,"
+			text.de="wie 3D-Grafik, dreidimensionale Räumlichkeit,"
+			text.es="como gráficos 3D, espacialidad tridimensional,"
+			text.it="come la grafica 3D, la spazialità tridimensionale,"/>
+
+		<text name="info10" extra="true"
+			text="and support for player-created modifications with the Doom WAD format."
+			text.fr="et prise en charge des modifications créées par les joueurs avec le format Doom WAD."
+			text.de="und Unterstützung für vom Spieler erstellte Modifikationen mit dem Doom WAD-Format."
+			text.es="y soporte para modificaciones creadas por jugadores con el formato Doom WAD."
+			text.it="e supporto per le modifiche create dai giocatori con il formato Doom WAD."/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="33709F"/>
+		<image name="band2" extra="true" color="DFDED1"/>
+		<image name="band3" extra="true" color="D37112"/>
+		<image name="band4" extra="true" color="A63417"/>
+	</view>
+</theme>

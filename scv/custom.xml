@@ -1,0 +1,48 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Epoch"
+			text.fr="Constructeur: Epoch"
+			text.de="Hersteller: Epoch"
+			text.es="Fabricante: Epoch"
+			text.it="Produttore: Epoch"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1984"
+			text.fr="Année de sortie: 1984"
+			text.de="Erscheinungsjahr: 1984"
+			text.es="Año de lanzamiento: 1984"
+			text.it="Anno di sortita: 1984"/>
+
+		<text name="info3" extra="true" text="CPU : 8-bit NEC PD7801G"/>
+
+		<text name="info4" extra="true"
+			text="RAM : 128KB / VRAM : 4KB"
+			text.fr="RAM : 128Ko / VRAM : 4Ko"/>
+
+		<text name="info5" extra="true" text="Video : EPOCH TV-1"/>
+
+ 		<text name="info6" extra="true"
+			text="Resolution : 309×246 resolution, 16 colors, 128 on-screen sprites"
+			text.fr="Resolution, 309 × 246, 16 couleurs, 128 sprites à l'écran"
+			text.de="Auflösung, 309 × 246, 16 Farben, 128 Sprites auf dem Bildschirm"
+			text.es="Resolución, 309×246, 16 colores, 128 sprites en pantalla"
+			text.it="Risoluzione, 309 × 246, 16 colori, 128 sprite sullo schermo"/>
+
+		<text name="info7" extra="true"
+			text="Sound chip : PD1771C @ 6 MHz"
+			text.fr="Puce Audio : PD1771C @ 6 MHz"
+			text.de="Audiochip: PD1771C bei 6 MHz"
+			text.es="Chip de audio: PD1771C a 6 MHz"
+			text.it="Chip audio: PD1771C a 6 MHz"/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="CFCFCE"/>
+		<image name="band2" color="C02026"/>
+		<image name="band3" color="39B54A"/>
+		<image name="band4" color="E14B26"/>
+	</view>
+</theme>

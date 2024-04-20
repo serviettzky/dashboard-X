@@ -1,0 +1,55 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Founded in 1975"
+			text.fr="Fondée en 1975"
+			text.de="Gegründet 1975"
+			text.es="Fundada en 1975"
+			text.it="Fondata nel 1975"/>
+
+		<text name="info2" extra="true"
+			text="Sammy Works mainly in development"
+			text.fr="Sammy Exerce principalement dans le développement"
+			text.de="Sammy arbeitet hauptsächlich in der Entwicklung"
+			text.es="Sammy trabaja principalmente en desarrollo."
+			text.it="Sammy lavora principalmente allo sviluppo"/>
+
+		<text name="info3" extra="true"
+			text="and marketing of pachinkos, pachislots"
+			text.fr="et commercialisation de pachinkos, de pachislots"
+			text.de="und Vermarktung von Pachinkos, Pachislots"
+			text.es="y comercialización de pachinkos, pachislots"
+			text.it="e commercializzazione di pachinko, pachislot"/>
+
+		<text name="info4" extra="true"
+			text="First Game: Pushman"
+			text.fr="Premier Jeu: Pushman"
+			text.de="Erstes Spiel: Pushman"
+			text.es="Primer juego: Pushman"
+			text.it="Primo gioco: Pushman"/>
+
+		<text name="info5" extra="true"
+			text="Popular Games: Dolphin Blue, Knights of Valour, Demolish Fist"
+			text.fr="Jeux Populaires: Dolphin Blue, Knights of Valour, Demolish Fist"
+			text.de="Beliebte Spiele: Dolphin Blue, Knights of Valour, Demolish Fist"
+			text.es="Juegos populares: Dolphin Blue, Knights of Valour, Demolish Fist"
+			text.it="Giochi popolari: Dolphin Blue, Knights of Valour, Demolish Fist"/>
+
+		<text name="info7" extra="true"
+			text="Find all SAMMY Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade SAMMY."
+			text.de="Finden Sie alle SAMMY Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de SAMMY."
+			text.it="Trova tutti i giochi arcade SAMMY."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="207820"/>
+		<image name="band2" extra="true" color="54d401"/>
+		<image name="band3" extra="true" color="000000"/>
+		<image name="band4" extra="true" color="FFFFFF"/>
+	</view>	
+</theme>

@@ -1,0 +1,44 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : NEC Corporation"
+			text.fr="Constructeur: NEC Corporation"
+			text.de="Hersteller: NEC Corporation"
+			text.es="Fabricante: NEC Corporation"
+			text.it="Produttore: NEC Corporation"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1981"
+			text.fr="Année de sortie: 1981"
+			text.de="Erscheinungsjahr: 1981"
+			text.es="Año de lanzamiento: 1981"
+			text.it="Anno di sortita: 1981"/>
+
+		<text name="info3" extra="true" text="OS : N88-BASIC, N-BASIC (PC8001 MODE)"/>
+
+		<text name="info4" extra="true" text="CPU : µPD780c-1 (Z80A-compatible) @ 4 MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 64 KB (up to 576 KB) / VRAM : 48 KB"
+			text.fr="RAM : 64 Ko (jusqu'à 576 Ko) / VRAM : 48 Ko"
+			text.de="RAM: 64 KB (bis zu 576 KB) / VRAM: 48 KB"
+			text.es="RAM: 64 KB (hasta 576 KB) / VRAM: 48 KB"
+			text.it="RAM: 64 KB (fino a 576 KB) / VRAM: 48 KB"/>
+
+		<text name="info6" extra="true"
+			text="Sound : 3 FM channels + 3 SSG + 6 rhythms + 1 ADPCM"
+			text.fr="Son : 3 canaux FM + 3 SSG + 6 rythmes + 1 ADPCM"
+			text.de="Sound: 3 FM-Kanäle + 3 SSG + 6 Rhythmen + 1 ADPCM"
+			text.es="Sonido: 3 canales FM + 3 SSG + 6 ritmos + 1 ADPCM"
+			text.it="Suono: 3 canali FM + 3 SSG + 6 ritmi + 1 ADPCM"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="B6A781"/>
+		<image name="band2" color="342B22"/>
+		<image name="band3" color="938CAA"/>
+		<image name="band4" color="77B7C6"/>
+	</view>
+</theme>

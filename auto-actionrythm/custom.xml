@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Music & Rhythm games!"
+			text.fr="Jeux de musique et de rythme!"
+			text.de="Musik- und Rhythmusspiele!"
+			text.es="¡Juegos de música y ritmo!"
+			text.it="Giochi di musica e ritmo!"/>
+
+		<text name="info2" extra="true" text="ex: Dance dance revolution, Space channel 5, ..."/>
+
+		<text name="info3" extra="true"
+			text="Move & Jump to the beat!"
+			text.fr="Bougez et sautez en rythme!"
+			text.de="„Bewegen und springen Sie im Rhythmus!“"
+			text.es="“¡Muévete y salta al ritmo!”"
+			text.it="Muoviti e salta al ritmo!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

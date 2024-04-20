@@ -1,0 +1,33 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Find all your games in a single system."
+			text.fr="Retrouvez tous vos jeux dans un seul système."
+			text.de="Finden Sie alle Ihre Spiele in einem System."
+			text.es="Encuentra todos tus juegos en un solo sistema."
+			text.it="Trova tutti i tuoi giochi in un unico sistema."/>
+
+		<text name="info2" extra="true"
+			text="Add all the roms you want and they'll show up here."
+			text.fr="Ajoutez toutes les roms que vous voulez et elles apparaîtront ici."
+			text.de="Fügen Sie alle gewünschten ROMs hinzu und sie werden hier angezeigt."
+			text.es="Añade todas las roms que quieras y te aparecerán aquí."
+			text.it="Aggiungi tutte le rom che desideri e appariranno qui."/>
+
+		<text name="info3" extra="true"
+			text="Enjoy!"
+			text.fr="Profitez-en!"
+			text.de="Genießen!"
+			text.es="¡Disfrutar!"
+			text.it="Godere!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

@@ -1,0 +1,60 @@
+<theme>
+	<formatVersion>5</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Developer : Kevin Bates"
+			text.fr="Developeur : Kevin Bates"
+			text.de="Entwickler: Kevin Bates"
+			text.es="Desarrollador: Kevin Bates"
+			text.it="Sviluppatore: Kevin Bates"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 2015"
+			text.fr="Année de Sortie : 2015"
+			text.de="Erscheinungsjahr: 2015"
+			text.es="Año de lanzamiento: 2015"
+			text.it="Anno di uscita: 2015"/>
+
+		<text name="info3" extra="true"
+			text="The Arduboy is an 8-bit handheld console based on Arduino"
+			text.fr="L'arduboy est une console portable 8 bits basée sur Arduino"
+			text.de="Der Arduboy ist eine 8-Bit-Handheld-Konsole auf Basis von Arduino"
+			text.es="Arduboy es una consola portátil de 8 bits basada en Arduino"
+			text.it="L'Arduboy è una console portatile a 8 bit basata su Arduino"/>
+
+		<text name="info4" extra="true" text="CPU : 8-bit ATMega32u4 @ 16 MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM: 2.5KB linear RAM"
+			text.fr="RAM : 2,5 Ko de RAM linéaire"/>
+
+		<text name="info6" extra="true"
+			text="Display: 1.3 inches 128x64px 1-bit OLED"
+			text.fr="Affichage : 1.3 pouces 128x64px 1-bit OLED"
+			text.de="Display: 1,3 Zoll 128x64px 1-Bit OLED"
+			text.es="Pantalla: 1,3 pulgadas 128x64px OLED de 1 bit"
+			text.it="Display: OLED da 1,3 pollici 128x64px a 1 bit"/>
+
+		<text name="info7" extra="true"
+			text="Storage : 32KB of flash"
+			text.fr="Stockage : 32 Ko de flash"
+			text.de="Speicher: 32 KB Flash"
+			text.es="Almacenamiento: 32 KB de memoria flash"
+			text.it="Memoria: 32KB di flash"/>
+
+		<text name="info8" extra="true"
+			text="Sound : Stereo Piezo Speakers"
+			text.fr="Son: haut-parleurs piézo stéréo"
+			text.de="Sound: Stereo-Piezo-Lautsprecher"
+			text.es="Sonido: Altavoces piezoeléctricos estéreo"
+			text.it="Suono: altoparlanti piezo stereo"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="c6a237"/>
+		<image name="band2" extra="true" color="252525"/>
+		<image name="band3" extra="true" color="b94444"/>
+		<image name="band4" extra="true" color="ffffff"/>
+	</view>
+</theme>

@@ -1,0 +1,52 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Apple Computer, Inc."
+			text.fr="Constructeur :Apple Computer, Inc."
+			text.de="Hersteller:Apple Computer, Inc."
+			text.es="Fabricante:Apple Computer, Inc."
+			text.it="Produttore:Apple Computer, Inc."/>
+		
+		<text name="info2" extra="true"
+			text="Year of Release : 1984"
+			text.fr="Annee de Sortie : 1984"
+			text.de="Erscheinungsjahr: 1984"
+			text.es="Año de lanzamiento: 1984"
+			text.it="Anno di uscita: 1984"/>
+
+		<text name="info3" extra="true" text="OS : System Software 1.0"/>
+
+		<text name="info4" extra="true" text="CPU : Motorola 68000 @ 7.8336 MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 128 KB"
+			text.fr="RAM : 128 Ko"/>
+
+		<text name="info6" extra="true"
+			text="ROM : 64 KB"
+			text.fr="ROM : 64 Ko"/>
+
+		<text name="info7" extra="true"
+			text="Sound : 8 TTL chips implementing a video and sound DMA controller"
+			text.fr="Son : 8 puces TTL implémentant un contrôleur DMA vidéo et sonore"
+			text.de="Sound: 8 TTL-Chips, die einen Video- und Sound-DMA-Controller implementieren"
+			text.es="Sonido: 8 chips TTL implementando un controlador DMA de vídeo y sonido"
+			text.it="Suono: 8 chip TTL che implementano un controller DMA video e audio"/>
+
+		<text name="info8" extra="true"
+			text="Display: Integrated 9-inch monochrome screen (512×342 pixels)"
+			text.fr="Affichage : Écran monochrome 9 pouces intégré (512×342 pixels)"
+			text.de="Display: Integrierter 9-Zoll-Monochrom-Bildschirm (512×342 Pixel)"
+			text.es="Pantalla: Pantalla monocromática integrada de 9 pulgadas (512×342 píxeles)"
+			text.it="Display: schermo monocromatico integrato da 9 pollici (512×342 pixel)"/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="76B845"/>
+		<image name="band2" color="E19433"/>
+		<image name="band3" color="009DDD"/>
+		<image name="band4" color="C45152"/>
+	</view>
+</theme>

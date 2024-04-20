@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="3D Adventures games!"
+			text.fr="Jeux d'aventures 3D!"
+			text.de="3D-Abenteuerspiele!"
+			text.es="¡Juegos de aventuras en 3D!"
+			text.it="Giochi di avventura 3D!"/>
+
+		<text name="info2" extra="true" text="ex: Shenmue, Heavy Rain, ... "/>
+
+		<text name="info3" extra="true"
+			text="Dive into these immersive adventures!"
+			text.fr="Plongez dans ces aventures immersives!"
+			text.de="„Tauchen Sie ein in diese fesselnden Abenteuer!“"
+			text.es="¡Sumérgete en estas aventuras inmersivas!"
+			text.it="“Tuffati in queste avventure coinvolgenti!”"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

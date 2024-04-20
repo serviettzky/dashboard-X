@@ -1,0 +1,27 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Default theme for</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>per Genre system!</text>
+		</text>
+	</view>
+
+	<view name="system, basic, detailed, gameclip">
+		<image name="band1" extra="true">
+			<color>C1B544</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>AE976E</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>479236</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>174085</color>
+		</image>
+	</view>
+</theme>

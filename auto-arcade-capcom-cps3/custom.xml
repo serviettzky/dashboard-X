@@ -1,0 +1,56 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">		
+		<text name="info1" extra="true" 	
+			text="Production: 1996 - 1999"
+			text.fr="Production: 1996 - 1999"
+			text.de="Produktion: 1996 - 1999"
+			text.es="Producción: 1996 - 1999"
+			text.it="Produzione: 1996 - 1999"/>
+		
+		<text name="info2" extra="true" text="CPU: Hitachi HD6417099 (SH-2) 25 MHz"/>
+		
+		<text name="info3" extra="true"
+			text="Resolution: 384 x 224 Pixel 59.6Hz"
+			text.fr="Resolution: 384 x 224 Pixel 59.6Hz"
+			text.de="Auflösung: 384 x 224 Pixel 59,6 Hz"
+			text.es="Resolución: 384 x 224 píxeles 59,6 Hz"
+			text.it="Risoluzione: 384 x 224 Pixel 59,6 Hz"/>
+
+		<text name="info4" extra="true"
+			text="Wiring standard : JAMMA"
+			text.fr="Norme de câblage : JAMMA"
+			text.de="Verkabelungsstandard: JAMMA"
+			text.es="Estándar de cableado: JAMMA"
+			text.it="Norma di cablaggio: JAMMA"/>
+
+		<text name="info5" extra="true"
+			text="First Game: Red Earth "
+			text.fr="Premier Jeu: Red Earth "
+			text.de="Erstes Spiel: Red Earth "
+			text.es="Primer juego: Red Earth "
+			text.it="Primo gioco: Red Earth "/>
+
+		<text name="info6" extra="true"
+			text="THE CULT GAME: Street Fighter 3rd Strike"
+			text.fr="LE JEU CULTE: Street Fighter 3rd Strike"
+			text.de="DAS KULTSPIEL: Street Fighter 3rd Strike"
+			text.es="EL JUEGO DE CULTO: Street Fighter 3rd Strike"
+			text.it="IL GIOCO CULT: Street Fighter 3rd Strike"/>
+
+		<text name="info8" extra="true"
+			text="Find all the CPS3 Arcade Games here."
+			text.fr="Retrouvez ici tous les Jeux d'Arcade CPS3."
+			text.de="Hier finden Sie alle CPS3-Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de CPS3 aquí."
+			text.it="Trova tutti i giochi arcade CPS3 qui."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">	
+		<image name="band1" extra="true" color="FFFFFF"/>
+		<image name="band2" extra="true" color="ffcb08"/>
+		<image name="band3" extra="true" color="509fec"/>
+		<image name="band4" extra="true" color="0c4da2"/>
+	</view>	
+</theme>

@@ -1,0 +1,33 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Generic Simulation games"
+			text.fr="Jeux de simulation génériques"
+			text.de="Allgemeine Simulationsspiele"
+			text.es="Juegos de simulación genéricos."
+			text.it="Giochi di simulazione generici"/>
+
+		<text name="info2" extra="true"	
+			text="that do no fit any of"
+			text.fr="qui ne correspondent à aucun des"
+			text.de="die keinem der entsprechen"
+			text.es="que no corresponden a ninguno de los"
+			text.it="che non corrispondono a nessuno dei"/>
+
+		<text name="info3" extra="true"
+			text="other Simulation genres!"
+			text.fr="autres genres de simulation!"
+			text.de="andere Arten von Simulationen!"
+			text.es="¡Otros tipos de simulación!"
+			text.it="altri tipi di simulazione!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

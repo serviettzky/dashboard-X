@@ -1,0 +1,94 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">	
+		<text name="info1" extra="true"
+			text="Manufacturer : Sega"
+			text.fr="Constructeur: Sega"
+			text.de="Hersteller: Sega"
+			text.es="Fabricante: Sega"
+			text.it="Produttore: Sega"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1991"
+			text.fr="Année de sortie: 1991"
+			text.de="Erscheinungsjahr: 1991"
+			text.es="Año de lanzamiento: 1991"
+			text.it="Anno di sortita: 1991"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 30 million"
+			text.fr="Unités Vendues : 30 millions"
+			text.de="Verkaufte Einheiten: 30 Millionen"
+			text.es="Unidades vendidas: 30 millones"
+			text.it="Unità vendute: 30 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Sewer Shark"
+			text.fr="Jeu le Plus Vendu : Sewer Shark"
+			text.de="Meistverkauftes Spiel: Sewer Shark"
+			text.es="Juego más vendido: Sewer Shark"
+			text.it="Il gioco più venduto: Sewer Shark"/>
+
+		<text name="info5" extra="true" 
+			text="CPU : 16-bit Motorola 68000 @ 12.5 MHz + Megadrive CPUs"
+			text.fr="Processeur : Motorola 68000 16 bits à 12,5 MHz + processeurs Megadrive"
+			text.de="CPU: 16-Bit Motorola 68000 bei 12,5 MHz + Megadrive-CPUs"
+			text.es="CPU: Motorola 68000 de 16 bits a 12,5 MHz + CPU Megadrive"
+			text.it="CPU: Motorola 68000 a 16 bit a 12,5 MHz + CPU Megadrive"/>
+
+		<text name="info6" extra="true" 
+			text="RAM : 512kB / VRAM : 256kB / sound RAM : 16kB"
+			text.fr="RAM : 512 Ko / VRAM : 256 Ko / RAM son : 16 Ko"
+			text.de="RAM: 512 KB / VRAM: 256 KB / Sound-RAM: 16 KB"
+			text.es="RAM: 512 kB / VRAM: 256 kB / RAM de sonido: 16 kB"
+			text.it="RAM: 512 kB / VRAM: 256 kB / RAM audio: 16 kB"/>
+
+		<text name="info7" extra="true" 
+			text="Video : Custom ASIC"
+			text.fr="Vidéo : ASIC personnalisé"
+			text.de="Video: Benutzerdefinierter ASIC"
+			text.es="Vídeo: ASIC personalizado"
+			text.it="Video: ASIC personalizzato"/>
+			
+		<text name="info8" extra="true" 
+			text="Resolution : 320×224 pixels, 64 colors (512 colors palette)"
+			text.fr="Résolution : 320×224 pixels, 64 couleurs (palette de 512 couleurs)"
+			text.de="Auflösung: 320×224 Pixel, 64 Farben (512 Farbpalette)"
+			text.es="Resolución: 320×224 píxeles, 64 colores (paleta de 512 colores)"
+			text.it="Risoluzione: 320×224 pixel, 64 colori (tavolozza di 512 colori)"/>
+
+		<text name="info9" extra="true" 
+			text="Sound : Ricoh RF5C164 + Megadrive Sound chips"
+			text.fr="Son : Ricoh RF5C164 + puces sonore Megadrive"
+			text.de="Sound: Ricoh RF5C164 + Megadrive-Soundchips"
+			text.es="Sonido: Ricoh RF5C164 + chips de sonido Megadrive"
+			text.it="Suono: Ricoh RF5C164 + chip audio Megadrive"/>
+
+		<text name="info10" extra="true" 
+			text="Media : 500MB CD-ROM discs"
+			text.fr="Support : disques CD-ROM de 500 Mo"
+			text.de="Medien: 500-MB-CD-ROM-Discs"
+			text.es="Medios: discos CD-ROM de 500 MB"
+			text.it="Supporti: dischi CD-ROM da 500 MB"/>
+	</view>
+	
+<view name="system, detailed, gameclip">
+		<image name="band1" color="DCE3E6" region="eu"/>
+		<image name="band2" color="D5202C" region="eu"/>
+		<image name="band3" color="C0C1C4" region="eu"/>
+		<image name="band4" color="212122" region="eu"/>
+	</view>	
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="5A97D0" region="jp"/>
+		<image name="band2" color="1D46A5" region="jp"/>
+		<image name="band3" color="DEAD2C" region="jp"/>
+		<image name="band4" color="732A46" region="jp"/>
+	</view>	
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="4B95D1" region="us"/>
+		<image name="band2" color="2B83C5" region="us"/>
+		<image name="band3" color="B2AE85" region="us"/>
+		<image name="band4" color="212122" region="us"/>
+	</view>
+</theme>

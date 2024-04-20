@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Tower-Defense games!"
+			text.fr="Jeux de Tower Defense!"
+			text.de="Tower Defense-Spiele!"
+			text.es="¡Pon tu defensa en los mejores lugares! ¡Nadie pasará!"
+			text.it="Giochi di difesa della torre!"/>
+
+		<text name="info2" extra="true"	text="ex: Orcs must die!, Plants versus Zombies, Dungeon Defenders ..."/>
+
+		<text name="info3" extra="true"
+			text="Put you defense in the best places! No one shall pass!"
+			text.fr="Mettez votre défense aux meilleurs endroits ! Personne ne passera!"
+			text.de="„Platzieren Sie Ihre Verteidigung an den besten Stellen! Niemand wird passieren!"
+			text.es="¡Pon tu defensa en los mejores lugares! ¡Nadie pasará!"
+			text.it="Metti la tua difesa nei posti migliori! Non passerà nessuno!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

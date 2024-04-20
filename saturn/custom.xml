@@ -1,0 +1,81 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Sega"
+			text.fr="Constructeur: Sega"
+			text.de="Hersteller: Sega"
+			text.es="Fabricante: Sega"
+			text.it="Produttore: Sega"/>
+	
+		<text name="info2" extra="true"
+			text="Year of Release : 1994"
+			text.fr="Année de sortie: 1994"
+			text.de="Erscheinungsjahr: 1994"
+			text.es="Año de lanzamiento: 1994"
+			text.it="Anno di sortita: 1994"/>
+			
+		<text name="info3" extra="true"
+			text="Units sold : 9.26 million"
+			text.fr="Unités Vendues : 9.26 millions"
+			text.de="Verkaufte Einheiten: 9.26 Millionen"
+			text.es="Unidades vendidas: 9.26 millones"
+			text.it="Unità vendute: 9.26 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Virtua Fighter 2"
+			text.fr="Jeu le Plus Vendu : Virtua Fighter 2"
+			text.de="Meistverkauftes Spiel: Virtua Fighter 2"
+			text.es="Juego más vendido: Virtua Fighter 2"
+			text.it="Il gioco più venduto: Virtua Fighter 2"/>
+
+		<text name="info5" extra="true" text="CPU : 2x Hitachi SH-2 @ 28.6 MHz"/>
+
+		<text name="info6" extra="true"
+			text="RAM : 16Mb / VRAM : 12Mb"
+			text.fr="RAM : 16Mo / VRAM : 12Mo"/>
+
+		<text name="info7" extra="true"
+			text="Video : VDP1 (sprite/texture and polygons), VDP2 (backgrounds)"
+			text.fr="Video : VDP1 (sprite/texture et polygones), VDP2 (arrière-plans)"
+			text.de="Video: VDP1 (Sprites/Texturen und Polygone), VDP2 (Arrière-Pläne)"
+			text.es="Vídeo: VDP1 (sprites/texturas y polígonos), VDP2 (planos arrière)"
+			text.it="Video: VDP1 (sprite/texture e poligoni), VDP2 (piani posteriori)"/>
+
+		<text name="info8" extra="true"
+			text="Resolution: 320x224 à 704x224, 16.77 million colors"
+			text.fr="Resolution : 320x224 à 704x224, 16,77 millions de couleurs"
+			text.de="Auflösung: 320x224 bis 704x224, 16,77 Millionen Farben"
+			text.es="Resolución: 320x224 a 704x224, 16,77 millones de colores"
+			text.it="Risoluzione: da 320x224 a 704x224, 16,77 milioni di colori"/>
+
+		<text name="info9" extra="true"
+			text="Sound : Motorola 68EC000, Yamaha FH1 YMF9.2699.26, 39.26 channels"
+			text.fr="Son : Motorola 68EC000, Yamaha FH1 YMF9.2699.26, 39,26 canaux"
+			text.de="Sound: Motorola 68EC000, Yamaha FH1 YMF9.2699.26, 39,26 Kanäle"
+			text.es="Sonido : Motorola 68EC000, Yamaha FH1 YMF9.2699.26, 39.26 canales"
+			text.it="Suono: Motorola 68EC000, Yamaha FH1 YMF9.2699.26, 39,26 canali"/>
+
+		<text name="info10" extra="true" text="Media : CD-ROM"/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="005AD1" region="eu"/>
+		<image name="band2" color="232323" region="eu"/>
+		<image name="band3" color="191517" region="eu"/>
+		<image name="band4" color="86254A" region="eu"/>
+	</view>
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="595959" region="jp"/>
+		<image name="band2" color="454545" region="jp"/>
+		<image name="band3" color="1C1C1C" region="jp"/>
+		<image name="band4" color="005AD1" region="jp"/>
+	</view>
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="005AD1" region="us"/>
+		<image name="band2" color="232323" region="us"/>
+		<image name="band3" color="191517" region="us"/>
+		<image name="band4" color="86254A" region="us"/>
+	</view>
+</theme>

@@ -1,0 +1,60 @@
+<theme>
+	<formatVersion>5</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : NEC Home Electronics"
+			text.fr="Constructeur: NEC Home Electronics"
+			text.de="Hersteller: NEC Home Electronics"
+			text.es="Fabricante: NEC Home Electronics"
+			text.it="Produttore: NEC Home Electronics"/>
+
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1994"
+			text.fr="Année de sortie: 1994"
+			text.de="Erscheinungsjahr: 1994"
+			text.es="Año de lanzamiento: 1994"
+			text.it="Anno di sortita: 1994"/>
+
+		<text name="info3" extra="true"
+			text="Year of Release : 400000"
+			text.fr="Année de sortie: 400000"
+			text.de="Erscheinungsjahr: 400000"
+			text.es="Año de lanzamiento: 400000"
+			text.it="Anno di sortita: 400000"/>
+
+		<text name="info4" extra="true" text="CPU : 32-bit NEC Home Electronics V810 RISC @ 21.5 MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 2 MB (32 KB backup)"
+			text.fr="RAM : 2 Mo (32 Ko backup)"/>
+
+		<text name="info6" extra="true"
+			text="VRAM : 1.25 MB"
+			text.fr="VRAM : 1.25 Mo"/>
+
+		<text name="info7" extra="true"
+			text="Sound : 16-bit stereo with ADPCM"
+			text.fr="Son : Stéréo 16 bits avec ADPCM"
+			text.de="Sound: 16-Bit-Stereo mit ADPCM"
+			text.es="Sonido: estéreo de 16 bits con ADPCM"
+			text.it="Suono: stereo a 16 bit con ADPCM"/>
+
+		<text name="info8" extra="true"
+			text="Resolution: 640x480 pixels"
+			text.fr="Resolution: 640x480 pixels"
+			text.de="Auflösung: 640x480 Pixel"
+			text.es="Resolución: 640x480 píxeles"
+			text.it="Risoluzione: 640x480 pixel"/>
+
+		<text name="info9" extra="true" text="Media : CD-ROM"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="FEC101"/>
+		<image name="band2" color="01015B"/>
+		<image name="band3" color="5C3073"/>
+		<image name="band4" color="F00020"/>
+	</view>
+</theme>

@@ -1,0 +1,76 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+	
+		<text name="info1" extra="true" 	
+			text="Notable Systems: PGM, PGM 2"
+			text.fr="Systemes Notables: PGM, PGM 2"
+			text.de="Bemerkenswerte Systeme: PGM, PGM 2"
+			text.es="Sistemas notables: PGM, PGM 2"
+			text.it="Sistemi notevoli: PGM, PGM 2"/>
+
+		<text name="info2" extra="true"
+			text="PGM CPU: M68000 @ 20MHz"
+			text.fr="PGM CPU: M68000 @ 20 MHz"
+			text.de="PGM-CPU: M68000 bei 20 MHz"
+			text.es="CPU PGM: M68000 @ 20MHz"
+			text.it="CPU PGM: M68000 a 20 MHz"/>
+
+		<text name="info3" extra="true"
+			text="CPU Audio: Zilog Z80 8.468 MHz or ARM7 @ 20 MHz"
+			text.fr="CPU Audio: Zilog Z80 8,468 MHz ou ARM7 @ 20 MHz"
+			text.de="CPU-Audio: Zilog Z80 8,468 MHz oder ARM7 @ 20 MHz"
+			text.es="Audio de la CPU: Zilog Z80 8.468 MHz o ARM7 @ 20 MHz"
+			text.it="Audio CPU: Zilog Z80 8.468 MHz o ARM7 a 20 MHz"/>
+
+		<text name="info4" extra="true"
+			text="Sound chip: ICS2115 32 channel PCM @ 8.468 MHz"
+			text.fr="Puce sonore : ICS2115 32 canaux PCM @ 8,468 MHz"
+			text.de="Soundchip: ICS2115 32-Kanal-PCM bei 8,468 MHz"
+			text.es="Chip de sonido: ICS2115 PCM de 32 canales @ 8.468 MHz"
+			text.it="Chip audio: PCM ICS2115 a 32 canali a 8,468 MHz"/>
+
+		<text name="info5" extra="true"
+			text="Wiring standard : JAMMA"
+			text.fr="Norme de câblage : JAMMA"
+			text.de="Verkabelungsstandard: JAMMA"
+			text.es="Estándar de cableado: JAMMA"
+			text.it="Norma di cablaggio: JAMMA"/>
+
+		<text name="info6" extra="true"
+			text="Resolution: 448 x 224 pixel, 1200 Sprites"
+			text.fr="Résolution: 448 x 224 pixel, 1200 Sprites"
+			text.de="Auflösung: 448 x 224 Pixel, 1200 Sprites"
+			text.es="Resolución: 448 x 224 píxeles, 1200 Sprites"
+			text.it="Risoluzione: 448 x 224 pixel, 1200 Sprite"/>
+
+		<text name="info7" extra="true" 	
+			text="PGM 2 CPU: IGS 036, Sound: Yamaha YMZ774-S, GPU: IGS037"
+			text.fr="PGM 2 CPU: IGS 036 , Son: Yamaha YMZ774-S, GPU: IGS037"
+			text.de="PGM 2 CPU: IGS 036, Sound: Yamaha YMZ774-S, GPU: IGS037"
+			text.es="PGM 2 CPU: IGS 036, Sonido: Yamaha YMZ774-S, GPU: IGS037"
+			text.it="CPU PGM 2: IGS 036, Suono: Yamaha YMZ774-S, GPU: IGS037"/>
+		
+		<text name="info8" extra="true" 	
+			text="Sound: Yamaha YMZ774-S"
+			text.fr="Son: Yamaha YMZ774-S7"
+			text.de="Sound: Yamaha YMZ774-S"
+			text.es="Sonido: Yamaha YMZ774-S"
+			text.it="Suono: Yamaha YMZ774-S"/>	
+			
+		<text name="info10" extra="true"
+			text="Find all the IGS Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade IGS."
+			text.de="Finden Sie alle IGS Arcade-Spiele."
+			text.es="Encuentra todos los juegos Arcade de IGS."
+			text.it="Trova tutti i giochi arcade IGS."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="FFFFFF"/>
+		<image name="band2" extra="true" color="7a7a7a"/>
+		<image name="band3" extra="true" color="fe848d"/>
+		<image name="band4" extra="true" color="c2020e"/>
+	</view>	
+</theme>

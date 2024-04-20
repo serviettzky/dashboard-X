@@ -1,0 +1,69 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Sony Computer Entertainment"
+			text.fr="Constructeur: Sony Computer Entertainment"
+			text.de="Hersteller: Sony Computer Entertainment"
+			text.es="Fabricante: Sony Computer Entertainment"
+			text.it="Produttore: Sony Computer Entertainment"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1994"
+			text.fr="Année de sortie: 1994"
+			text.de="Erscheinungsjahr: 1994"
+			text.es="Año de lanzamiento: 1994"
+			text.it="Anno di sortita: 1994"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 102.48 million"
+			text.fr="Unités Vendues : 102.48 millions"
+			text.de="Verkaufte Einheiten: 102.48 Millionen"
+			text.es="Unidades vendidas: 102.48 millones"
+			text.it="Unità vendute: 102.48 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Gran Turismo"
+			text.fr="Jeu le Plus Vendu : Gran Turismo"
+			text.de="Meistverkauftes Spiel: Gran Turismo"
+			text.es="Juego más vendido: Gran Turismo"
+			text.it="Il gioco più venduto: Gran Turismo"/>
+
+		<text name="info5" extra="true"
+			text="CPU : 32-bit R3000A RISC running at 33.8688 Mhz"
+			text.fr="CPU : RISC R3000A 32 bits fonctionnant à 33,8688 Mhz"
+			text.de="CPU: 32-Bit R3000A RISC mit 33,8688 MHz"
+			text.es="CPU: RISC R3000A de 32 bits funcionando a 33,8688 Mhz"
+			text.it="CPU: RISC R3000A a 32 bit in esecuzione a 33,8688 Mhz"/>
+
+		<text name="info6" extra="true"
+			text="RAM : 16 Mbits"
+			text.fr="RAM : 16 Mo"/>
+
+		<text name="info7" extra="true" text="Picture Processor Unit : 32-bit"/>
+
+		<text name="info8" extra="true"
+			text="Video RAM : 8 Mbits"
+			text.fr="Video RAM : 8 Mo"
+			text.de="Video-RAM: 8 MB"
+			text.es="RAM de vídeo: 8 MB"
+			text.it="RAM video: 8 MB"/>
+
+		<text name="info9" extra="true"
+			text="Audio RAM : 4 Mbits"
+			text.fr="Audio RAM : 4 Mo"
+			text.de="Audio-RAM: 4 MB"
+			text.es="RAM de audio: 4 MB"
+			text.it="RAM audio: 4 MB"/>
+
+		<text name="info10" extra="true" text="GPU : GFX processor unit"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="DC0029"/>
+		<image name="band2" color="F1C002"/>
+		<image name="band3" color="00A79B"/>
+		<image name="band4" color="326BB1"/>
+	</view>
+</theme>

@@ -1,0 +1,49 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Tsukuda Original"
+			text.fr="Constructeur : Tsukuda Original"
+			text.de="Hersteller: Tsukuda Original"
+			text.es="Fabricante : Tsukuda Original"
+			text.it="Produttore: Tsukuda Original"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1983"
+			text.fr="Annee de Sortie : 1983"
+			text.de="Erscheinungsjahr: 1983"
+			text.es="Año de lanzamiento: 1983"
+			text.it="Anno di uscita: 1983"/>
+
+		<text name="info3" extra="true" text="CPU : Zilog Z80 @ 3.58 MHz"/>
+
+		<text name="info4" extra="true"
+			text="RAM : 1KB / VRAM : 16KB"
+			text.fr="RAM : 1Ko / VRAM : 16Ko"/>
+
+		<text name="info5" extra="true" text="Video : Texas Instruments TMS9918"/>
+
+		<text name="info6" extra="true"
+			text="Resolution : 256×192 pixels, 16 colors (21 colors palette)"
+			text.fr="Resolution : 256×192 pixels, 16 couleurs (Palette de 21 couleurs)"
+			text.de="Auflösung: 256×192 Pixel, 16 Farben (21 Farbpalette)"
+			text.es="Resolución: 256×192 píxeles, 16 colores (paleta de 21 colores)"
+			text.it="Risoluzione: 256×192 pixel, 16 colori (tavolozza di 21 colori)"/>
+
+		<text name="info7" extra="true"
+			text="Sound chip : Texas Instruments SN76489 PSG"
+			text.fr="Puce Audio : Texas Instruments SN76489 PSG"
+			text.de="Audiochip: Texas Instruments SN76489 PSG"
+			text.es="Chip de audio: Texas Instruments SN76489 PSG"
+			text.it="Chip audio: Texas Instruments SN76489 PSG"/>
+
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="efebe1"/>
+		<image name="band2" color="571229"/>
+		<image name="band3" color="183b67"/>
+		<image name="band4" color="e8e342"/>
+	</view>
+</theme>

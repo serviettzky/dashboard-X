@@ -1,0 +1,56 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : General Consumer Electronics"
+			text.fr="Constructeur: General Consumer Electronics"
+			text.de="Hersteller: General Consumer Electronics"
+			text.es="Fabricante: General Consumer Electronics"
+			text.it="Produttore: General Consumer Electronics"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1982"
+			text.fr="Année de sortie: 1982"
+			text.de="Erscheinungsjahr: 1982"
+			text.es="Año de lanzamiento: 1982"
+			text.it="Anno di sortita: 1982"/>
+
+		<text name="info3" extra="true" text="CPU : Motorola 68A09 @ 1.5 MHz"/>
+
+		<text name="info4" extra="true"
+			text="RAM : 1KB (two 4-bit 2114 chips)"
+			text.fr="RAM : 1 Ko (deux puces 2114 4 bits)"
+			text.de="RAM: 1 KB (zwei 2114 4-Bit-Chips)"
+			text.es="RAM: 1 KB (dos chips 2114 de 4 bits)"
+			text.it="RAM: 1 KB (due chip 2114 a 4 bit)"/>
+
+		<text name="info5" extra="true"
+			text="ROM :  8KB (one 8-bit 2363 chip)"
+			text.fr="ROM : 8 Ko (une puce 8 bits 2363)"
+			text.de="ROM: 8 KB (ein 8-Bit-2363-Chip)"
+			text.es="ROM: 8 KB (un chip 2363 de 8 bits)"
+			text.it="ROM: 8 KB (un chip 2363 a 8 bit)"/>
+
+		<text name="info6" extra="true"
+			text="Media : Cartridge with 32KB ROM"
+			text.fr="Média : Cartouche avec ROM de 32 Ko"
+			text.de="Medien: Kassette mit 32 KB ROM"
+			text.es="Medios: Cartucho con 32 KB ROM"
+			text.it="Supporto: cartuccia con ROM da 32 KB"/>
+
+		<text name="info7" extra="true"
+			text="Sound : General Instrument AY-3-8912"
+			text.fr="Son : General Instrument AY-3-8912"
+			text.de="Ton: Allgemeines Instrument AY-3-8912"
+			text.es="Sonido: Instrumento general AY-3-8912"
+			text.it="Suono: strumento generale AY-3-8912"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="EEF020"/>
+		<image name="band2" color="EC1D25"/>
+		<image name="band3" color="11192E"/>
+		<image name="band4" color="166FC1"/>
+	</view>
+</theme>

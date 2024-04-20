@@ -1,0 +1,48 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Sega"
+			text.fr="Constructeur: Sega"
+			text.de="Hersteller: Sega"
+			text.es="Fabricante: Sega"
+			text.it="Produttore: Sega"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 2000"
+			text.fr="Année de sortie: 2000"
+			text.de="Erscheinungsjahr: 2000"
+			text.es="Año de lanzamiento: 2000"
+			text.it="Anno di sortita: 2000"/>
+
+		<text name="info3" extra="true" text="CPU : Hitachi SH-4 32-bit RISC CPU (@ 200 MHz 360 MIPS / 1.4 GFLOPS)"/>
+
+		<text name="info4" extra="true" text="GPU : NEC-Videologic PowerVR2 (CLX2)"/>
+
+		<text name="info5" extra="true"
+			text="Sound : ARM7 Yamaha AICA 45 MHZ (with internal 32-bit RISC CPU, 64 channel ADPCM)"
+			text.fr="Son: ARM7 Yamaha AICA 45MHZ (RISC 32 bits interne, ADPCM 64 canaux)"
+			text.de="Sound: ARM7 Yamaha AICA 45 MHz (internes 32-Bit-RISC, 64-Kanal-ADPCM)"
+			text.es="Sonido: ARM7 Yamaha AICA 45MHZ (RISC interno de 32 bits, ADPCM de 64 canales)"
+			text.it="Suono: ARM7 Yamaha AICA 45MHZ (RISC interno a 32 bit, ADPCM a 64 canali)"/>
+	
+		<text name="info6" extra="true"
+			text="RAM : 56 MB (64 MB wit"
+			text.fr="RAM : 56 Mo (64 Mo avec GD-ROM)"/>
+
+		<text name="info7" extra="true"
+			text="Media : ROM Board (max. size of 168 MB)"
+			text.fr="Media : Carte ROM (taille maximale de 168 Mo)"
+			text.de="Medien: ROM-Karte (maximale Größe 168 MB)"
+			text.es="Medios: Tarjeta ROM (tamaño máximo 168 MB)"
+			text.it="Supporto: scheda ROM (dimensione massima 168 MB)"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="F36418"/>
+		<image name="band2" color="070308"/>
+		<image name="band3" color="4F556B"/>
+		<image name="band4" color="0057F0"/>
+	</view>
+</theme>

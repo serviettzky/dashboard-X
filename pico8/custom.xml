@@ -1,0 +1,82 @@
+<theme>
+	<formatVersion>5</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Lexaloffle Games"
+			text.fr="Constructeur: Lexaloffle Games"
+			text.de="Hersteller: Lexaloffle Games"
+			text.es="Fabricante: Lexaloffle Games"
+			text.it="Produttore: Lexaloffle Games"/>
+
+		<text name="info2" extra="true"
+			text="Initial release : 2015"
+			text.fr="Première version : 2015"
+			text.de="Erstveröffentlichung: 2015"
+			text.es="Lanzamiento inicial: 2015"
+			text.it="Versione iniziale: 2015"/>
+
+		<text name="info3" extra="true"
+			text="Website : www.pico-8.com"
+			text.fr="Site Web : www.pico-8.com"
+			text.de="Website: www.pico-8.com"
+			text.es="Sitio web: www.pico-8.com"
+			text.it="Sito web: www.pico-8.com"/>
+
+		<text name="info4" extra="true"
+			text="PICO-8 is a fantastic console for creating"
+			text.fr="PICO-8 est une console fantastique permettant de créer"
+			text.de="PICO-8 ist eine fantastische Konsole zum Erstellen"
+			text.es="PICO-8 es una consola fantástica para crear"
+			text.it="PICO-8 è una fantastica console per la creazione"/>
+
+		<text name="info5" extra="true"
+			text="share and play small games and other computer programs."
+			text.fr="partager et jouer à de petits jeux et autres programmes informatiques."
+			text.de="kleine Spiele und andere Computerprogramme teilen und spielen."
+			text.es="compartir y jugar pequeños juegos y otros programas de computadora."
+			text.it="condividere e giocare a piccoli giochi e altri programmi per computer."/>
+
+		<text name="info6" extra="true"
+			text="Built-in features: Lua code editor, tools."
+			text.fr="Fonctionnalités intégrées: éditeur de code Lua, outils"
+			text.de="Integrierte Funktionen: Lua-Code-Editor, Tools."
+			text.es="Funciones integradas: editor de código Lua, herramientas."
+			text.it="Funzionalità integrate: editor di codice Lua, strumenti."/>
+
+		<text name="info7" extra="true"
+			text="for creating sprites and maps, as well as a musical editor."
+			text.fr="de création de sprites et de cartes, ainsi qu'un éditeur musical."
+			text.de="zum Erstellen von Sprites und Karten sowie einem Musikeditor."
+			text.es="para crear sprites y mapas, así como un editor de música."
+			text.it="per creare sprite e mappe, nonché un editor musicali."/>
+
+		<text name="info8" extra="true"
+			text="Display : 128x128 pixels, 16-color palette"
+			text.fr="Affichage : 128x128 pixels, palette de 16 couleurs"
+			text.de="Anzeige: 128 x 128 Pixel, 16 Farbpalette"
+			text.es="Pantalla: 128x128 píxeles, paleta de 16 colores"
+			text.it="Display: 128x128 pixel, tavolozza 16 colori"/>
+
+		<text name="info9" extra="true"
+			text="Sprites : 256 8x8 foreground sprites, 128x32 cels map"
+			text.fr="Sprites: 256 sprites de premier plan 8x8, carte 128x32 cels"
+			text.de="Sprites: 256 8x8-Vordergrund-Sprites, 128x32-Cels-Karte"
+			text.es="Sprites: 256 sprites de primer plano de 8x8, mapa de 128x32 cels"
+			text.it="Sprite: 256 sprite in primo piano 8x8, mappa 128x32 cels"/>
+
+		<text name="info10" extra="true"
+			text="Sound : 4 channel chip blerps"
+			text.fr="Son: 4 canaux chip blerps"
+			text.de="Sound: 4-Kanal-Chip-Blerps"
+			text.es="Sonido: blerps de chip de 4 canales"
+			text.it="Suono: chip blerp a 4 canali"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="ff004d"/>
+		<image name="band2" color="ffec27"/>
+		<image name="band3" color="29adff"/>
+		<image name="band4" color="ff77a8"/>
+	</view>
+</theme>

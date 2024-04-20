@@ -1,0 +1,82 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">	
+		<text name="info1" extra="true"
+			text="Original author : Ludvig Strigeus"
+			text.fr="Auteur original : Ludvig Strigeus"
+			text.de="Ursprünglicher Autor: Ludvig Strigeus"
+			text.es="Autor original: Ludwig Strigeus"
+			text.it="Autore originale: Ludvig Strigeus"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 2001"
+			text.fr="Année de sortie: 2001"
+			text.de="Erscheinungsjahr: 2001"
+			text.es="Año de lanzamiento: 2001"
+			text.it="Anno di sortita: 2001"/>
+
+		<text name="info3" extra="true"
+			text="Scummvm is a collection of game engine recreations."
+			text.fr="Scummvm est une collection de recréations de moteurs de jeu."
+			text.de="Scummvm ist eine Sammlung von Jeu-Motor-Nachbildungen."
+			text.es="Scummvm es una colección de recreaciones de juegos de motor."
+			text.it="Scummvm è una raccolta di ricreazioni di appassionati di moto."/>
+
+		<text name="info4" extra="true"
+			text="Originally designed to play LucasArts adventure games"
+			text.fr="Conçu à l'origine pour jouer aux jeux d'aventure LucasArts"
+			text.de="Ein Leitfaden zum Original für das Abenteuerspiel LucasArts"
+			text.es="Diseñado originalmente para jugar juegos de aventuras de LucasArts."
+			text.it="Ideato per giocare ai giochi d'avventura LucasArts"/>
+
+		<text name="info5" extra="true"
+			text="who use the SCUMMVM system, it also supports"
+			text.fr="qui utilisent le système SCUMMVM, il prend également en"
+			text.de="Wer das SCUMMVM-System nutzt, wird ebenfalls unterstützt"
+			text.es="que utilizan el sistema SCUMMVM, también admite"
+			text.it="che utilizzano il sistema SCUMMVM, supporta anche"/>
+
+		<text name="info6" extra="true"
+			text="it also supports a variety of non-SCUMM games by companies"
+			text.fr="charge une variété de jeux non-SCUMM proposés par des entreprises"
+			text.de="unterstützt eine Vielzahl von Nicht-SCUMM-Spielen, die von Unternehmen angeboten werden"
+			text.es="admite una variedad de juegos que no son SCUMM ofrecidos por las empresas"
+			text.it="supporta una varietà di giochi non SCUMM offerti dalle aziende"/>
+
+		<text name="info7" extra="true"
+			text="like Revolution Software and Adventure Soft."
+			text.fr="comme Revolution Software et Adventure Soft."
+			text.de="wie Revolution Software und Adventure Soft."
+			text.es="como Revolution Software y Adventure Soft."
+			text.it="come Revolution Software e Adventure Soft."/>
+
+		<text name="info8" extra="true"
+			text="It was originally written by Ludvig Strigeus."
+			text.fr="Il a été écrit à l'origine par Ludvig Strigeus.."
+			text.de="Es wurde ursprünglich von Ludvig Strigeus geschrieben."
+			text.es="Fue escrito originalmente por Ludvig Strigeus."
+			text.it="È stato originariamente scritto da Ludvig Strigeus."/>
+
+		<text name="info9" extra="true"
+			text="Released under the terms of the GNU General Public License,"
+			text.fr="Publié selon les termes de la licence publique générale GNU,"
+			text.de="Veröffentlicht unter den Bedingungen der GNU General Public License,"
+			text.es="Publicado bajo los términos de la Licencia Pública General GNU,"
+			text.it="Pubblicato secondo i termini della GNU General Public License,"/>
+
+		<text name="info10" extra="true"
+			text="ScummVM is a free software."
+			text.fr="ScummVM est un logiciel gratuit."
+			text.de="ScummVM ist freie Software."
+			text.es="ScummVM es un software gratuito."
+			text.it="ScummVM è un software gratuito."/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="EFD052"/>
+		<image name="band2" color="C26317"/>
+		<image name="band3" color="F9EDCB"/>
+		<image name="band4" color="379742"/>
+	</view>
+</theme>

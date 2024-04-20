@@ -1,0 +1,50 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Amstrad"
+			text.fr="Constructeur: Amstrad"
+			text.de="Hersteller: Amstrad"
+			text.es="Fabricante: Amstrad"
+			text.it="Produttore: Amstrad"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1990"
+			text.fr="Année de sortie: 1990"
+			text.de="Erscheinungsjahr: 1990"
+			text.es="Año de lanzamiento: 1990"
+			text.it="Anno di sortita: 1990"/>
+
+		<text name="info3" extra="true" text="CPU : Zilog Z80A @ 4 MHz"/>
+
+		<text name="info4" extra="true"
+			text="RAM : 64 KB"
+			text.fr="RAM : 64 Ko"/>
+
+		<text name="info5" extra="true"
+			text="ROM : 32 KB"
+			text.fr="RoM : 32 Ko"/>
+
+		<text name="info6" extra="true"
+			text="Sound Chip : General Instrument AY-3-8912, 3 channel stereo"
+			text.fr="Puce Audio : General Instrument AY-3-8912, Stéréo 3 canaux"
+			text.de="Audiochip: General Instrument AY-3-8912, 3-Kanal-Stereo"
+			text.es="Chip de audio: General Instrument AY-3-8912, estéreo de 3 canales"
+			text.it="Chip audio: strumento generale AY-3-8912, stereo a 3 canali"/>
+
+		<text name="info7" extra="true"
+			text="Resolution: 160x200 to 640x200, 16 sprites, 4096 colour palette - 32 onscreen"
+			text.fr="Résolution: 160x200 à 640x200, 16 sprites, palette de 4096 couleurs - 32 à l'écran"
+			text.de="Auflösung: 160 x 200 bis 640 x 200, 16 Sprites, 4096 Farbpalette – 32 auf dem Bildschirm"
+			text.es="Resolución: 160x200 a 640x200, 16 sprites, paleta de 4096 colores - 32 en pantalla"
+			text.it="Risoluzione: da 160x200 a 640x200, 16 sprite, tavolozza 4096 colori - 32 sullo schermo"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="E5B3B2"/>
+		<image name="band2" color="9E4968"/>
+		<image name="band3" color="DBD9D4"/>
+		<image name="band4" color="C02520"/>
+	</view>
+</theme>

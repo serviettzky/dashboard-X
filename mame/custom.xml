@@ -1,0 +1,75 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Developers : Nicola Salmoria and the MAME Team"
+			text.fr="Développeurs : Nicola Salmoria et la MAME Team"
+			text.de="Entwickler: Nicola Salmoria und das MAME-Team"
+			text.es="Desarrolladores: Nicola Salmoria y el equipo MAME"
+			text.it="Sviluppatori: Nicola Salmoria e il MAME Team"/>
+
+		<text name="info2" extra="true"
+			text="Initial release : February 5, 1997"
+			text.fr="Première version : 5 Février 1997"
+			text.de="Versione iniziale: 5 febbraio 1997"
+			text.es="Lanzamiento inicial: 5 de febrero de 1997"
+			text.it="Erstveröffentlichung: 5. Februar 1997"/>
+
+		<text name="info3" extra="true"
+			text="Website : http://mamedev.org/"
+			text.fr="Site web : http://mamedev.org/"
+			text.de="Website: http://mamedev.org/"
+			text.es="Sitio web: http://mamedev.org/"
+			text.it="Sito web: http://mamedev.org/"/>
+
+		<text name="info4" extra="true"
+			text="Written in : C++"
+			text.fr="Ecrit en : C++"
+			text.de="Geschrieben in: C++"
+			text.es="Escrito en: C++"
+			text.it="Scritto in: C++"/>
+
+		<text name="info5" extra="true"
+			text="M.A.M.E is an emulator application designed to recreate"
+			text.fr="M.A.M.E est une application d'émulation conçue pour recréer"
+			text.de="M.A.M.E ist eine Emulatoranwendung zur Nachbildung"
+			text.es="M.A.M.E es una aplicación emuladora diseñada para recrear"
+			text.it="M.A.M.E è un'applicazione di emulazione progettata per ricreare"/>
+
+		<text name="info6" extra="true"
+			text="the hardware of arcade game systems in software"
+			text.fr="le matériel des systèmes de jeux d'arcade dans le logiciel"
+			text.de="Hardware für Arcade-Spielsysteme in Software"
+			text.es="sistemas de juegos arcade hardware en software"
+			text.it="Hardware per sistemi di gioco arcade nel software"/>
+
+		<text name="info7" extra="true"
+			text="on modern personal computers and other platforms."
+			text.fr="sur les ordinateurs personnels modernes et autres plates-formes."
+			text.de="auf modernen Personalcomputern und anderen Plattformen."
+			text.es="en computadoras personales modernas y otras plataformas."
+			text.it="sui moderni personal computer e altre piattaforme."/>
+
+		<text name="info8" extra="true"
+			text="The intention is to preserve gaming history"
+			text.fr="L'intention est de préserver l'histoire du jeu"
+			text.de="Ziel ist es, die Geschichte des Spiels zu bewahren"
+			text.es="La intención es preservar la historia del juego."
+			text.it="L'intenzione è quella di preservare la storia del gioco"/>
+
+		<text name="info9" extra="true"
+			text="by preventing vintage games from being lost or forgotten."
+			text.fr="en empêchant la perte ou l'oubli des jeux vintage."
+			text.de="Verhindert, dass Vintage-Spiele verloren gehen oder vergessen werden."
+			text.es="evitando que los juegos antiguos se pierdan u olviden."
+			text.it="impedire che i giochi vintage vadano perduti o dimenticati."/>		
+	</view>
+
+	<view name="system, detailed, gameclip">		
+		<image name="band1" color="00ADEF"/>
+		<image name="band2" color="84849C"/>
+		<image name="band3" color="231F20"/>
+		<image name="band4" color="FFFFFF"/>
+	</view>
+</theme>

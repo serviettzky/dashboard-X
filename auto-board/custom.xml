@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Board games!"
+			text.fr="Jeux de société!"
+			text.de="Brettspiele!"
+			text.es="¡Juegos de mesa!"
+			text.it="Giochi da tavolo!"/>
+
+		<text name="info2" extra="true" text="ex: Chess, Othello, Draughts, Backgammon, ..."/>
+
+		<text name="info3" extra="true"
+			text="Play board games from your childhood!"
+			text.fr="Jouez aux jeux de société de votre enfance!"
+			text.de="„Spielen Sie die Brettspiele Ihrer Kindheit!“"
+			text.es="¡Juega los juegos de mesa de tu infancia!"
+			text.it="“Gioca ai giochi da tavolo della tua infanzia!”"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

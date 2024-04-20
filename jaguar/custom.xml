@@ -1,0 +1,69 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+			<text name="info1" extra="true"
+				text="Manufacturer : Atari Corporation"
+				text.fr="Constructeur: Atari Corporation"
+				text.de="Hersteller: Atari Corporation"
+				text.es="Fabricante: Atari Corporation"
+				text.it="Produttore: Atari Corporation"/>
+
+			<text name="info2" extra="true"
+				text="Year of Release : 1993"
+				text.fr="Année de sortie: 1993"
+				text.de="Erscheinungsjahr: 1993"
+				text.es="Año de lanzamiento: 1993"
+				text.it="Anno di sortita: 1993"/>
+
+			<text name="info3" extra="true"
+				text="Units sold : less than 250000"
+				text.fr="Unités Vendues : moins de 250000"
+				text.de="Verkaufte Einheiten: weniger als 250.000"
+				text.es="Unidades vendidas: menos de 250.000"
+				text.it="Unità vendute: meno di 250.000"/>
+
+			<text name="info4" extra="true"
+				text="CPU : Five Main Processors in three chips"
+				text.fr="CPU : Cinq processeurs principaux dans trois puces"
+				text.de="CPU: Fünf Hauptprozessoren in drei Chips"
+				text.es="CPU: Cinco procesadores principales en tres chips"
+				text.it="CPU: cinque processori principali in tre chip"/>
+
+			<text name="info5" extra="true"
+				text="Tom Chip @ 26.59 MHz, Graphics Processor (32-bit RISC),"
+				text.fr="Tom Chip à 26,59 MHz, GPU (RISC 32 bits),"
+				text.de="Tom Chip mit 26,59 MHz, GPU (32-Bit-RISC),"
+				text.es="Chip Tom a 26,59 MHz, GPU (RISC de 32 bits),"
+				text.it="Tom Chip a 26,59 MHz, GPU (RISC a 32 bit),"/>
+
+			<text name="info6" extra="true" text="Object (64-bit RISC), Blitter (64-bit RISC)"/>
+
+			<text name="info7" extra="true"
+				text="Jerry Chip @ 26.59 MHz, Digital Signal Processor (32-bit),"
+				text.fr="Jerry Chip à 26,59 MHz, processeur de signal numérique (32 bits)"
+				text.de="Jerry Chip mit 26,59 MHz, digitaler Signalprozessor (32-Bit)"
+				text.es="Jerry Chip a 26,59 MHz, procesador de señal digital (32 bits)"
+				text.it="Jerry Chip a 26,59 MHz, processore di segnale digitale (32 bit)"/>
+		
+			<text name="info8" extra="true" text="Motorola 68000 (16-bit @ 13.295 MHz)"/>
+
+			<text name="info9" extra="true"
+				text="RAM : 2MB"
+				text.fr="RAM : 2Mo"/>		
+
+			<text name="info10" extra="true"
+				text="Display : Max resolution 800×576 at 24 bit true color"
+				text.fr="Affichage : 800 × 576 à 24 bits « vraies » couleurs"
+				text.de="Anzeige: 800 × 576 bei 24-Bit „echten“ Farben"
+				text.es="Pantalla: 800 × 576 con colores “verdaderos” de 24 bits"
+				text.it="Display: 800 × 576 a colori “reali” a 24 bit"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="ff0000"/>
+		<image name="band2" color="fdc007"/>
+		<image name="band3" color="232326"/>
+		<image name="band4" color="0f0e0e"/>
+	</view>
+</theme>

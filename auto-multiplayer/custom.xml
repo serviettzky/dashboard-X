@@ -1,0 +1,33 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Add all the roms you want, scrape them and"
+			text.fr="Ajoutez toutes les roms que vous voulez, scrapez-les et"
+			text.de="Fügen Sie alle gewünschten ROMs hinzu, kratzen Sie sie ab und"
+			text.es="Encuentra todos tus juegos multijugador en un solo sistema."
+			text.it="Trova tutti i tuoi giochi multiplayer in un unico sistema."/>
+
+		<text name="info2" extra="true"
+			text="Find all your multiplayer games in one system."
+			text.fr="Retrouvez tous vos jeux multijoueurs dans un seul système."
+			text.de="Finden Sie alle Ihre Multiplayer-Spiele in einem System."
+			text.es="Agrega todas las roms que quieras, raspalas y"
+			text.it="Aggiungi tutte le rom che vuoi, grattale e"/>
+
+		<text name="info3" extra="true"
+			text="they'll show up here. Enjoy with family and friends!"
+			text.fr="ils apparaîtront ici. Profitez-en, en famille et entre amis!"
+			text.de="sie werden hier erscheinen. Genießen Sie es, mit Familie und Freunden!"
+			text.es="aparecerán aquí. ¡Disfrútalo, con familiares y amigos!"
+			text.it="appariranno qui. Divertitevi, con la famiglia e gli amici!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

@@ -1,0 +1,70 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"
+			text="Manufacturer : VTech"
+			text.fr="Constructeur: VTech"
+			text.de="Hersteller: VTech"
+			text.es="Fabricante: VTech"
+			text.it="Produttore: VTech"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1982"
+			text.fr="Année de sortie: 1982"
+			text.de="Erscheinungsjahr: 1982"
+			text.es="Año de lanzamiento: 1982"
+			text.it="Anno di sortita: 1982"/>
+
+		<text name="info3" extra="true"
+			text="Units Sold: estimated at 2.5 million"
+			text.fr="Unités Vendues : estimé a 2,5 millions"
+			text.de="Verkaufte Einheiten: geschätzte 2,5 Millionen"
+			text.es="Unidades vendidas: estimadas en 2,5 millones"
+			text.it="Unità vendute: stimate in 2,5 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Number of games : 18 officially released"
+			text.fr="Nombre de jeux : 18 officiellement sortis"
+			text.de="Anzahl der Spiele: 18 offiziell veröffentlichte"
+			text.es="Número de juegos: 18 lanzados oficialmente"
+			text.it="Numero di giochi: 18 rilasciati ufficialmente"/>
+
+		<text name="info5" extra="true" text="CPU : 6502 @ 2Mhz"/>
+
+		<text name="info6" extra="true"
+			text="RAM : 1kB"
+			text.fr="RAM : 1ko"/>
+
+		<text name="info7" extra="true" text="Video : TMS9928"/>
+
+		<text name="info8" extra="true"
+			text="Resolution : 256x192, 16 colors"
+			text.fr="Resolution : 256x192, 16 couleurs"
+			text.de="Auflösung: 256x192, 16 Farben"
+			text.es="Resolución: 256x192, 16 colores"
+			text.it="Risoluzione: 256x192, 16 colori"/>
+
+		<text name="info9" extra="true"
+			text="Sound : Texas Instruments SN76489"
+			text.fr="Son : Texas Instruments SN76489"
+			text.de="Ton: Texas Instruments SN76489"
+			text.es="Sonido: Texas Instruments SN76489"
+			text.it="Suono: Texas Instruments SN76489"/>
+
+		<text name="info10" extra="true"
+			text="Cart Size : 4kB - 18kB"
+			text.fr="Taille des Cartouches : 4Ko - 18Ko"
+			text.de="Patronengröße: 4 KB - 18 KB"
+			text.es="Tamaño del cartucho: 4 KB - 18 KB"
+			text.it="Dimensioni cartuccia: 4KB - 18KB"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="EFCB99"/>
+		<image name="band2" extra="true" color="9D5032"/>
+		<image name="band3" extra="true" color="73533E"/>
+		<image name="band4" extra="true" color="1F1F23"/>
+	</view>
+</theme>

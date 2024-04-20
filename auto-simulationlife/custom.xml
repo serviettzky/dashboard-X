@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Life Simulation games!"
+			text.fr="Jeux de simulation de vie!"
+			text.de="Lebenssimulationsspiele!"
+			text.es="¡Juegos de simulación de vida!"
+			text.it="Giochi di simulazione di vita!"/>
+
+		<text name="info2" extra="true"	text="ex: Nintendogs, Tamagoshi, Sims, ... "/>
+
+		<text name="info3" extra="true"
+			text="Create life and make it growing!"
+			text.fr="Créer la vie et la faire grandir!"
+			text.de="„Erschaffe Leben und lass es wachsen!"
+			text.es="“¡Crea vida y hazla crecer!”"
+			text.it="“Crea la vita e falla crescere!”"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

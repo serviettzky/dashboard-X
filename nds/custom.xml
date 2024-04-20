@@ -1,0 +1,81 @@
+<theme>
+	<formatVersion>5</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Nintendo"
+			text.fr="Constructeur: Nintendo"
+			text.de="Hersteller: Nintendo"
+			text.es="Fabricante: Nintendo"
+			text.it="Produttore: Nintendo"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 2004"
+			text.fr="Année de sortie: 2004"
+			text.de="Erscheinungsjahr: 2004"
+			text.es="Año de lanzamiento: 2004"
+			text.it="Anno di sortita: 2004"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 153.99 million"
+			text.fr="Unités Vendues : 153.99 millions"
+			text.de="Verkaufte Einheiten: 153.99 Millionen"
+			text.es="Unidades vendidas: 153.99 millones"
+			text.it="Unità vendute: 153.99 milioni"/>
+
+
+		<text name="info4" extra="true"
+			text="Best-selling game : New Super Mario Bros"
+			text.fr="Jeu le Plus Vendu : New Super Mario Bros"
+			text.de="Meistverkauftes Spiel: New Super Mario Bros"
+			text.es="Juego más vendido: New Super Mario Bros"
+			text.it="Il gioco più venduto: New Super Mario Bros"/>
+
+		<text name="info5" extra="true" text="CPU : 66 MHz ARM9 + 33MHz ARM7"/>
+
+		<text name="info6" extra="true"
+			text="RAM : 4MB / Video RAM : 656KB"
+			text.fr="RAM : 4Mo / Video RAM : 656Ko"/>
+
+		<text name="info7" extra="true"
+			text="Screen : Reflective TFT Colour LCD"
+			text.fr="Ecran : LCD couleur TFT réfléchissant"
+			text.de="Bildschirm: Reflektierendes TFT-Farb-LCD"
+			text.es="Pantalla: LCD reflectante TFT en color"
+			text.it="Schermo: LCD a colori TFT riflettente"/>
+
+		<text name="info8" extra="true"
+			text="Resolution : 256 x 192 pixels"
+			text.fr="Resolution : 256 x 192 pixels"
+			text.de="Auflösung: 256 x 192 Pixel"
+			text.es="Resolución: 256 x 192 píxeles"
+			text.it="Risoluzione: 256 x 192 pixel"/>
+
+		<text name="info9" extra="true"
+			text="Display Ability : 260 000 colours"
+			text.fr="Capacité d'affichage : 260 000 couleurs"
+			text.de="Anzeigekapazität: 260.000 Farben"
+			text.es="Capacidad de visualización: 260.000 colores"
+			text.it="Capacità di visualizzazione: 260.000 colori"/>
+
+		<text name="info10" extra="true"
+			text="Sound : Stereo speakers w/virtual surround, headphones"
+			text.fr="Son : Haut-parleurs stéréo avec surround virtuel, écouteurs"
+			text.de="Sound: Stereolautsprecher mit virtuellem Surround, Kopfhörer"
+			text.es="Sonido: Altavoces estéreo con sonido envolvente virtual, auriculares"
+			text.it="Suono: altoparlanti stereo con surround virtuale, cuffie"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="5C67A9"/>
+		<image name="band2" color="280FBE"/>
+		<image name="band3" color="BCBCBC"/>
+		<image name="band4" color="212121"/>
+	</view>
+	
+	<view name="detailed">	
+	
+	<image name="bezel" extra="true" disabled="true"/>
+	
+	</view>
+</theme>

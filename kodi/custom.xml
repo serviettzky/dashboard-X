@@ -1,0 +1,69 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+				text="Kodi (formerly XBMC) is a free and open source media player application developed"
+				text.fr="Kodi (anciennement XBMC) est une application de lecteur multimédia gratuite et open source développé"
+				text.de="Kodi (ehemals XBMC) ist eine kostenlose und Open-Source-Mediaplayer-Anwendung, die entwickelt wurde"
+				text.es="Kodi (anteriormente XBMC) es una aplicación de reproducción multimedia gratuita y de código abierto desarrollada"
+				text.it="Kodi (precedentemente XBMC) è un'applicazione per lettore multimediale gratuita e open source sviluppata"/>
+
+		<text name="info2" extra="true"
+				text="by the XBMC/Kodi Foundation, a non-profit technology consortium. Kodi is available for"
+				text.fr="par la Fondation XBMC/Kodi, un consortium technologique à but non lucratif. Kodi est disponible pour"
+				text.de="von der XBMC/Kodi Foundation, einem gemeinnützigen Technologiekonsortium. Kodi ist verfügbar für"
+				text.es="por la Fundación XBMC/Kodi, un consorcio tecnológico sin fines de lucro. Kodi está disponible para"
+				text.it="dalla XBMC/Kodi Foundation, un consorzio tecnologico senza scopo di lucro. Kodi è disponibile per"/>
+
+		<text name="info3" extra="true"
+				text="multiple operating-systems and hardware platforms, featuring a 10-foot user interface"
+				text.fr="plusieurs systèmes d'exploitation et plates-formes matérielles, dotés d'une interface utilisateur de 10 pieds"
+				text.de="Mehrere Betriebssysteme und Hardwareplattformen mit einer 10-Fuß-Benutzeroberfläche"
+				text.es="múltiples sistemas operativos y plataformas de hardware, con una interfaz de usuario de 10 pies"
+				text.it="più sistemi operativi e piattaforme hardware, con un'interfaccia utente di 10 piedi"/>
+
+		<text name="info4" extra="true"
+				text="for use with televisions and remote controls."
+				text.fr="à utiliser avec les téléviseurs et les télécommandes."
+				text.de="zur Verwendung mit Fernsehern und Fernbedienungen."
+				text.es="Para uso con televisores y controles remotos."
+				text.it="da utilizzare con TV e telecomandi."/>
+
+		<text name="info5" extra="true"
+				text="It allows users to play and view most videos, music, podcasts, and other digital media"
+				text.fr="Il permet aux utilisateurs de lire et de visualiser la plupart des vidéos, musiques, podcasts et autres médias numériques."
+				text.de="Benutzer können damit die meisten Videos, Musik, Podcasts und andere digitale Medien abspielen und ansehen."
+				text.es="Permite a los usuarios reproducir y ver la mayoría de vídeos, música, podcasts y otros medios digitales."
+				text.it="Consente agli utenti di riprodurre e visualizzare la maggior parte di video, musica, podcast e altri media digitali."/>
+
+		<text name="info6" extra="true"
+				text="from local and network storage media and the internet."
+				text.fr="à partir de supports de stockage locaux et réseau et d'Internet."
+				text.de="von lokalen und Netzwerkspeichermedien und dem Internet."
+				text.es="desde medios de almacenamiento locales y de red e Internet."
+				text.it="da supporti di memorizzazione locali e di rete e da Internet."/>
+
+		<text name="info7" extra="true"
+				text="Kodi has a gigantic catalog of community add-ons available for you to customize"
+				text.fr="Kodi dispose d'un gigantesque catalogue de modules complémentaires communautaires que vous pouvez personnaliser"
+				text.de="Kodi verfügt über einen riesigen Katalog an Community-Add-ons, die Sie anpassen können"
+				text.es="Kodi tiene un catálogo gigantesco de complementos comunitarios que puedes personalizar"
+				text.it="Kodi ha un gigantesco catalogo di componenti aggiuntivi della community che puoi personalizzare"/>
+
+		<text name="info8" extra="true"
+				text="and tweak your perfect entertainment setup."
+				text.fr="et peaufinez votre configuration de divertissement parfaite."
+				text.de="und perfektionieren Sie Ihr perfektes Entertainment-Setup."
+				text.es="y perfecciona tu configuración de entretenimiento perfecta."
+				text.it="e perfeziona la tua configurazione di intrattenimento perfetta."/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="186AAC"/>
+		<image name="band2" color="36A2CD"/>
+		<image name="band3" color="448F3E"/>
+		<image name="band4" color="BF2E31"/>
+	</view>
+</theme>
+

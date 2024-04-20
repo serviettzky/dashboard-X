@@ -1,0 +1,82 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="The Sega Model 3 is an arcade platform produced by Sega."
+			text.fr="La Sega Model 3 est un systeme arcade produite par Sega."
+			text.de="Das Sega Model 3 ist ein Arcade-System von Sega."
+			text.es="El Sega Model 3 es un sistema arcade producido por Sega."
+			text.it="Il Sega Model 3 è un sistema arcade prodotto da Sega."/>
+
+		<text name="info2" extra="true"
+			text="It is a successor to the Sega Model 2 platform, and was released in 1996."
+			text.fr="Il s'agit du successeur de la plate-forme Model 2 et est"
+			text.de="Es ist der Nachfolger der Model-2-Plattform und ist"
+			text.es="Es el sucesor de la plataforma Model 2 y es"
+			text.it="È il successore della piattaforma Modello 2 e lo è"/>
+
+		<text name="info3" extra="true"
+			text="released in 1996. The Model 3 was replaced by the"
+			text.fr="sorti en 1996.. La Model 3 a été remplacée par la"
+			text.de="veröffentlicht im Jahr 1996. Das Modell 3 wurde durch das ersetzt"
+			text.es="lanzado en 1996. El Modelo 3 fue reemplazado por el"
+			text.it="rilasciato nel 1996. Il Modello 3 è stato sostituito dal"/>
+
+		<text name="info4" extra="true"
+			text="Sega NAOMI in 1998, followed by Sega Hikaru in 1999 and"
+			text.fr="Sega NAOMI en 1998, suivie par le Sega Hikaru en 1999 et"
+			text.de="Sega NAOMI im Jahr 1998, gefolgt von Sega Hikaru im Jahr 1999 und"
+			text.es="Sega NAOMI en 1998, seguida de Sega Hikaru en 1999 y"
+			text.it="Sega NAOMI nel 1998, seguito da Sega Hikaru nel 1999 e"/>
+
+		<text name="info5" extra="true"
+			text="the Sega NAOMI 2 in 2000. The Model 3 was designed to"
+			text.fr="le Sega NAOMI 2 en 2000. Le modèle 3 a été conçu pour"
+			text.de="das Sega NAOMI 2 im Jahr 2000. Das Model 3 wurde dafür entwickelt"
+			text.es="la Sega NAOMI 2 en 2000. El Modelo 3 fue diseñado para"
+			text.it="il Sega NAOMI 2 nel 2000. Il Modello 3 è stato progettato per"/>
+
+		<text name="info6" extra="true"
+			text="push as many textured polygons as possible into"
+			text.fr="pousser autant de polygones texturés que possible en"
+			text.de="Schieben Sie so viele texturierte Polygone wie möglich hinein"
+			text.es="Empuje tantos polígonos texturizados como sea posible en"
+			text.it="inserire il maggior numero possibile di poligoni con texture"/>
+
+		<text name="info7" extra="true"
+			text="at the time, such as multisample anti-aliasing, motion blur, facial"
+			text.fr="temps réel, avec les techniques graphiques les plus"
+			text.de="Echtzeit, mit den grafischsten Techniken"
+			text.es="en tiempo real, con las técnicas más gráficas"
+			text.it="tempo reale, con le più tecniche grafiche"/>
+
+		<text name="info8" extra="true"
+			text="advances available at the time, such as antialiasing"
+			text.fr="avancées disponible à l'époque, comme l'anticrénelage"
+			text.de="damals verfügbare Fortschritte wie Antialiasing"
+			text.es="avances disponibles en ese momento, como el antialiasing"
+			text.it="avanzamenti disponibili all'epoca, come l'antialiasing"/>
+
+		<text name="info9" extra="true"
+			text="multi-sample, motion blur, animation"
+			text.fr="multi-échantillons, le flou de mouvement, l'animation"
+			text.de="Multi-Sample, Bewegungsunschärfe, Animation"
+			text.es="muestra múltiple, desenfoque de movimiento, animación"
+			text.it="multi-campione, motion blur, animazione"/>
+
+		<text name="inf10" extra="true"
+			text="face, specular highlighting/reflection/shading and multiple light sources."
+			text.fr="du visage, mise en évidence/réflexion/ombrage spéculaire et sources de lumière multiples."
+			text.de="Gesicht, spiegelnde Hervorhebung/Reflexion/Schattierung und mehrere Lichtquellen."
+			text.es="rostro, resaltado/reflejo/sombreado especular y múltiples fuentes de luz."
+			text.it="viso, evidenziazione/riflessione/ombreggiatura speculare e molteplici fonti di luce."/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="16A252"/>
+		<image name="band2" color="EB1758"/>
+		<image name="band3" color="236EBC"/>
+		<image name="band4" color="F7ED18"/>
+	</view>
+</theme>

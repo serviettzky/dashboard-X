@@ -1,0 +1,83 @@
+<theme>
+	<formatVersion>5</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Nintendo"
+			text.fr="Constructeur: Nintendo"
+			text.de="Hersteller: Nintendo"
+			text.es="Fabricante: Nintendo"
+			text.it="Produttore: Nintendo"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 2001"
+			text.fr="Année de sortie: 2001"
+			text.de="Erscheinungsjahr: 2001"
+			text.es="Año de lanzamiento: 2001"
+			text.it="Anno di sortita: 2001"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 82 million"
+			text.fr="Unités Vendues : 82 millions"
+			text.de="Verkaufte Einheiten: 82 Millionen"
+			text.es="Unidades vendidas: 82 millones"
+			text.it="Unità vendute: 82 milioni"/>
+
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Pokémon Ruby"
+			text.fr="Jeu le Plus Vendu : Pokémon Rubis"
+			text.de="Meistverkauftes Spiel: Pokémon Rubin"
+			text.es="Juego más vendido: Pokémon Rubí"
+			text.it="Il gioco più venduto: Pokémon Rubino"/>
+
+		<text name="info5" extra="true" text="CPU : 16 MHz 32bit RISC-CPU + 8bit CISC-CPU"/>
+
+		<text name="info6" extra="true"
+			text="RAM : 32KB WRAM + 256KB WRAM"
+			text.fr="RAM : 32Ko WRAM + 256Ko WRAM"/>
+
+		<text name="info7" extra="true"
+			text="Screen : Reflective TFT Colour LCD"
+			text.fr="Ecran : LCD couleur TFT réfléchissant"
+			text.de="Bildschirm: Reflektierendes TFT-Farb-LCD"
+			text.es="Pantalla: LCD reflectante TFT en color"
+			text.it="Schermo: LCD a colori TFT riflettente"/>
+
+		<text name="info8" extra="true"
+			text="Resolution : 240 x 160 pixels"
+			text.fr="Resolution : 240 x 160 pixels"
+			text.de="Auflösung: 240 x 160 Pixel"
+			text.es="Resolución: 240 x 160 píxeles"
+			text.it="Risoluzione: 240 x 160 pixel"/>
+
+		<text name="info9" extra="true"
+			text="Video RAM : 256KB"
+			text.fr="Video RAM : 256Ko"/>
+
+		<text name="info10" extra="true"
+			text="Display Ability : 32 000 colours"
+			text.fr="Capacité d'affichage : 32 000 couleurs"
+			text.de="Anzeigefähigkeit: 32.000 Farben"
+			text.es="Capacidad de visualización: 32.000 colores"
+			text.it="Capacità di visualizzazione: 32.000 colori"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="5C67A9"/>
+		<image name="band2" color="280FBE"/>
+		<image name="band3" color="BCBCBC"/>
+		<image name="band4" color="212121"/>
+	</view>
+	
+	<view name="detailed">
+	
+	<image name="consolegame" extra="true" disabled="true"/>
+	<video name="md_video" pos="0.5 0.47" size="0.223 0.271" origin="0.5 0.5" zIndex="8"/>
+	<image name="md_image" pos="0.858 0.810" maxSize="0.26 0.26" origin="0.5 0.5" zIndex="8"/>	
+	<image name="bezel" extra="true" disabled="true"/>
+	<image name="console" extra="true" pos="0.5 0.5" maxSize="0.5 0.6" origin="0.5 0.5" path="./data/console.svg" zIndex="9"/>
+	
+	</view>
+	
+</theme>

@@ -1,0 +1,28 @@
+<theme>
+    <formatVersion>5</formatVersion>
+
+    <view name="gameclip">
+
+        <image name="consolegame, arcadecab" extra="true" pos="0.02 0.17" maxSize="0.4 0.15" origin="0 1"/>
+
+        <image name="logo" pos="0.78 0.17" maxSize="0.34 0.15" origin="1 1"/>
+        <image name="console" extra="false" disabled="true"/>
+
+        <image name="md_image" pos="0.05 0.05" origin="0 0" maxSize="0.182 0.26" zIndex="1" disabled="true"/>
+        <video name="md_video" pos="0.5 0.5" maxSize="1 1" origin="0.5 0.5" zIndex="0"/>
+
+        <text name="md_players, md_genre, md_developer, md_publisher, md_lbl_releasedate, md_lbl_developer, md_lbl_publisher, md_genre, md_lbl_players, md_players, md_lbl_lastplayed,
+		md_lbl_playcount, md_playcount, md_lbl_rating,md_gameName, md_systemName" disabled="true"/>
+		
+        <datetime name="md_releasedate, md_lastplayed" disabled="true"/>
+
+        <text name="md_gameName, md_systemName">
+            <disabled>true</disabled>
+        </text>
+
+        <text name="md_description" lineSpacing="1.2" pos="1 1" size="0.385 0.24" fontSize="0.02"/>
+
+        <text name="md_lbl_favorite, md_favorite" pos="1 1"/> 
+
+    </view>
+</theme>

@@ -1,0 +1,33 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="A lightweight, free and open-source game engine for Action-RPGs."
+			text.fr="Un moteur de jeu léger, gratuit et open source pour les Action-RPG."
+			text.de="Eine leichte, kostenlose Open-Source-Spiel-Engine für Action-RPGs."
+			text.es="Un motor de juego ligero, gratuito y de código abierto para juegos de rol de acción."
+			text.it="Un motore di gioco leggero, gratuito e open source per giochi di ruolo d'azione."/>
+
+		<text name="info2" extra="true"
+			text="A 2D game engine written in C++, and executing games made in Lua."
+			text.fr="Un moteur de jeu 2D écrit en C++, et exécutant des jeux réalisés en Lua."
+			text.de="Eine in C++ geschriebene 2D-Spiel-Engine, die in Lua erstellte Spiele ausführt."
+			text.es="Un motor de juegos 2D escrito en C++ y que ejecuta juegos creados en Lua."
+			text.it="Un motore di gioco 2D scritto in C++ e che esegue giochi realizzati in Lua."/>
+
+		<text name="info3" extra="true"
+			text="Specifically designed with 16-bit classic Action-RPGs in mind."
+			text.fr="Spécialement conçu pour les Action-RPG classiques 16 bits."
+			text.de="Speziell für klassische 16-Bit-Action-RPGs entwickelt.."
+			text.es="Especialmente diseñado para juegos de rol de acción clásicos de 16 bits."
+			text.it="Appositamente progettato per i classici giochi di ruolo d'azione a 16 bit."/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="e5b131"/>
+		<image name="band2" color="d37d2d"/>
+		<image name="band3" color="574287"/>
+		<image name="band4" color="3c6d35"/>
+	</view>
+</theme>

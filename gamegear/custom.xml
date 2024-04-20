@@ -1,0 +1,84 @@
+<theme>
+	<formatVersion>5</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Sega"
+			text.fr="Constructeur: Sega"
+			text.de="Hersteller: Sega"
+			text.es="Fabricante: Sega"
+			text.it="Produttore: Sega"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1990"
+			text.fr="Année de sortie: 1990"
+			text.de="Erscheinungsjahr: 1990"
+			text.es="Año de lanzamiento: 1990"
+			text.it="Anno di sortita: 1990"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 11 million"
+			text.fr="Unités Vendues : 11 millions"
+			text.de="Verkaufte Einheiten: 11 Millionen"
+			text.es="Unidades vendidas: 11 millones"
+			text.it="Unità vendute: 11 milioni"/>
+
+		<text name="info4" extra="true" text="CPU : 8-Bit Zilog Z80 @ 3.58 MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 8kB / VRAM : 16kB"
+			text.fr="RAM : 8ko / VRAM : 16ko"/>
+
+		<text name="info6" extra="true"
+			text="Video : Sega VDP (custom Texas Instruments TMS9918)"
+			text.fr="Vidéo : Sega VDP (Texas Instruments TMS9918 personnalisé)"
+			text.de="Video: Sega VDP (kundenspezifisches Texas Instruments TMS9918)"
+			text.es="Vídeo: Sega VDP (Texas Instruments TMS9918 personalizado)"
+			text.it="Video: Sega VDP (custom Texas Instruments TMS9918)"/>
+
+		<text name="info7" extra="true"
+			text="Resolution : 160 x 146 pixels, 32 colors (4096 colors palette)"
+			text.fr="Resolution : 160 x 146 pixels, 32 couleurs (palette 4096 couleurs)"
+			text.de="Auflösung: 160 x 146 Pixel, 32 Farben (4096 Farbpalette)"
+			text.es="Resolución: 160 x 146 píxeles, 32 colores (paleta de 4096 colores)"
+			text.it="Risoluzione: 160 x 146 pixel, 32 colori (tavolozza di 4096 colori)"/>
+
+		<text name="info8" extra="true"
+			text="Sound : TI SN76489 PSG"
+			text.fr="Son : TI SN76489 PSG"
+			text.de="Ton: TI SN76489 PSG"
+			text.es="Sonido: TI SN76489 PSG"
+			text.it="Suono: TI SN76489 PSG"/>
+
+		<text name="info9" extra="true"
+			text="Cart Size : 32kB - 1MB"
+			text.fr="Taille des Cartouches : 32Ko - 1Mo"
+			text.de="Patronengröße: 32 KB - 1 MB"
+			text.es="Tamaño del cartucho: 32 KB - 1 MB"
+			text.it="Dimensioni cartuccia: 32KB - 1MB"/>
+
+		<text name="info10" extra="true"
+			text="Screen : 8.128cm (3.2 inches), backlit LCD"
+			text.fr="Ecran : 8.128cm (3.2 Pouces), LCD rétro-éclairé"
+			text.de="Bildschirm: 8,128 cm (3,2 Zoll), LCD mit Hintergrundbeleuchtung"
+			text.es="Pantalla: 8,128 cm (3,2 pulgadas), LCD retroiluminada"
+			text.it="Schermo: LCD retroilluminato da 8,128 cm (3,2 pollici)."/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="CCCBCB"/>
+		<image name="band2" color="D41808"/>
+		<image name="band3" color="008200"/>
+		<image name="band4" color="0000FE"/>
+	</view>
+	
+	<view name="detailed">
+	
+	<image name="consolegame" extra="true" disabled="true"/>
+	<video name="md_video" pos="0.503 0.428" size="0.165 0.218" origin="0.5 0.5" zIndex="8"/>
+	<image name="md_image" pos="0.858 0.810" maxSize="0.26 0.26" origin="0.5 0.5" zIndex="8"/>	
+	<image name="bezel" extra="true" disabled="true"/>
+	<image name="console" extra="true" pos="0.5 0.5" maxSize="0.5 0.6" origin="0.5 0.5" path="./data/console.svg" zIndex="9"/>
+	
+	</view>
+</theme>

@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Vehicle Simulation games!"
+			text.fr="Jeux de simulation de conduite!"
+			text.de="Fahrsimulatorspiele!"
+			text.es="¡Juegos de simulador de conducción!"
+			text.it="Giochi di simulazione di guida!<"/>
+
+		<text name="info2" extra="true"	text="ex: Sherman M4, Flight Simulator serie, ... "/>
+
+		<text name="info3" extra="true"
+			text="Ever dreamt to pilot a Plane? A Tank? A Boat?"
+			text.fr="Vous avez toujours rêvé de piloter? un char, un bateau?"
+			text.de="„Haben Sie jemals davon geträumt, ein Flugzeug zu steuern? Einen Panzer? Ein Boot?“"
+			text.es="¿Alguna vez has soñado con pilotar un avión? ¿Un tanque? ¿Un barco?"
+			text.it="Hai mai sognato di pilotare un aereo? Un carro armato? Una barca?"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

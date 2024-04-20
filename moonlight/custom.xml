@@ -1,0 +1,82 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Created by : Case Western Reserve University students"
+			text.fr="Crée par : Case Western Reserve University students"
+			text.de="Erstellt von: Studenten der Case Western Reserve University"
+			text.es="Creado por: estudiantes de la Universidad Case Western Reserve"
+			text.it="Creato da: studenti della Case Western Reserve University"/>
+
+		<text name="info2" extra="true"
+			text="Ported on Linux by : irtimmer"
+			text.fr="Porté sous Linux par : irtimmer"
+			text.de="Auf Linux portiert von: irtimmer"
+			text.es="Portado a Linux por: irtimmer"
+			text.it="Portato su Linux da: irtimmer"/>
+
+		<text name="info3" extra="true"
+			text="Type : Open Source implementation"
+			text.fr="Type : Implementation Open Source"
+			text.de="Typ: Open-Source-Implementierung"
+			text.es="Tipo: Implementación de código abierto"
+			text.it="Tipo: implementazione Open Source"/>
+
+		<text name="info4" extra="true"
+			text="Year of first release : 2013"
+			text.fr="Année de première sortie : 2013"
+			text.de="Jahr der Erstveröffentlichung: 2013"
+			text.es="Año de lanzamiento por primera vez: 2013"
+			text.it="Anno di prima pubblicazione: 2013"/>
+
+		<text name="info5" extra="true"
+			text="PC compatibility : GFA PC with GTX 600/700/900/ ... GPU"
+			text.fr="Compatibilité PC : GFA PC avec GTX 600/700/900/ ... GPU"
+			text.de="PC-Kompatibilität: GFA-PC mit GTX 600/700/900/... GPU"
+			text.es="Compatibilidad de PC: PC GFA con GPU GTX 600/700/900/..."
+			text.it="Compatibilità PC: PC GFA con GPU GTX 600/700/900/..."/>
+
+		<text name="info6" extra="true"
+			text="Necessary soft : Nvidia GeForce Experience"
+			text.fr="Logiciel Necessaire : Nvidia GeForce Experience"
+			text.de="Erforderliche Software: Nvidia GeForce Experience"
+			text.es="Software requerido: Experiencia Nvidia GeForce"
+			text.it="Software richiesto: Nvidia GeForce Experience"/>
+
+		<text name="info7" extra="true"
+			text="Moonlight allows you to stream your collection of Steam games"
+			text.fr="Moonlight vous permet de diffuser votre collection de jeux Steam"
+			text.de="Mit Moonlight können Sie Ihre Steam-Spielesammlung streamen"
+			text.es="Moonlight te permite transmitir tu colección de juegos de Steam"
+			text.it="Moonlight ti consente di eseguire lo streaming della tua raccolta di giochi Steam"/>
+
+		<text name="info8" extra="true"
+			text="from your NVIDIA GFE PC to your rpi."
+			text.fr="de votre PC NVIDIA GFE vers votre rpi."
+			text.de="de votre PC NVIDIA GFE vers votre rpi."
+			text.es="desde su PC NVIDIA GFE a su rpi."
+			text.it="dal tuo PC NVIDIA GFE al tuo rpi."/>
+
+		<text name="info9" extra="true"
+			text="Moonlight is perfect for gameplay on the go without"
+			text.fr="Moonlight est parfait pour jouer en déplacement sans"
+			text.de="Moonlight eignet sich perfekt zum Spielen unterwegs ohne"
+			text.es="Moonlight es perfecto para jugar mientras viajas sin"
+			text.it="Moonlight è perfetto per il gioco in movimento senza"/>
+
+		<text name="info10" extra="true"
+			text="sacrificing the graphics quality of your gaming computer."
+			text.fr="sacrificing the graphics quality of your gaming computer."
+			text.de="Sie opfern dabei die Grafikqualität Ihres Gaming-Computers."
+			text.es="sacrificando la calidad de los gráficos de su computadora para juegos."
+			text.it="sacrificando la qualità grafica del tuo computer da gioco."/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="82BD0F"/>
+		<image name="band2" color="003366"/>
+		<image name="band3" color="A4A1A4"/>
+		<image name="band4" color="DEDDDE"/>
+	</view>
+</theme>

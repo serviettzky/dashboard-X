@@ -1,0 +1,83 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		
+		<text name="info1" extra="true"
+			text="Designer : Daisuke Amaya"
+			text.fr="Créateur : Daisuke Amaya"
+			text.de="Designer: Daisuke Amaya"
+			text.es="Diseñador: Daisuke Amaya"
+			text.it="Designer: Daisuke Amaya"/>
+	
+		<text name="info2" extra="true"
+			text="Developer : Studio Pixel"
+			text.fr="Developeur : Studio Pixel"
+			text.de="Entwickler: Studio Pixel"
+			text.es="Desarrollador: Estudio de píxeles"
+			text.it="Sviluppatore: StudioPixel<"/>
+
+		<text name="info3" extra="true"
+			text="Type : Freeware platform-adventure"
+			text.fr="Type : Plateforme-aventure gratuite"
+			text.de="Typ: Kostenloses Plattform-Abenteuer"
+			text.es="Tipo: Aventura de plataformas gratuita"
+			text.it="Tipo: avventura su piattaforma gratuita"/>
+
+		<text name="info4" extra="true"
+			text="Origin : Japan"
+			text.fr="Origine : Japon"
+			text.de="Herkunft: Japan"
+			text.es="Origen: Japón"
+			text.it="Origine: Giappone"/>
+
+		<text name="info5" extra="true"
+			text="English translation : Aeon Genesis Translations"
+			text.fr="traduction anglaise : Aeon Genesis Translations"
+			text.de="Englische Übersetzung: Aeon Genesis Translations"
+			text.es="Traducción al inglés: Traducciones de Aeon Genesis"
+			text.it="Traduzione inglese: Aeon Genesis Translations"/>
+
+		<text name="info6" extra="true"
+			text="Year of first release : 2004"
+			text.fr="Annee de 1ere Sortie : 2004"
+			text.de="Jahr der 1. Veröffentlichung: 2004"
+			text.es="Año del primer lanzamiento: 2004"
+			text.it="Anno della prima uscita: 2004"/>
+
+		<text name="info7" extra="true"
+			text="The game focuses on an amnesiac protagonist who awakens in a cave."
+			text.fr="Le jeu se concentre sur un protagoniste amnésique qui se réveille dans une grotte."
+			text.de="Im Mittelpunkt des Spiels steht ein unter Gedächtnisverlust leidender Protagonist, der in einer Höhle aufwacht."
+			text.es="El juego se centra en un protagonista amnésico que se despierta en una cueva."
+			text.it="Il gioco si concentra su un protagonista affetto da amnesia che si sveglia in una grotta."/>
+
+		<text name="info8" extra="true"
+			text="Through his explorations, he discovers a plot by the Doctor,"
+			text.fr="Au fil de ses explorations, il découvre un complot du Docteur,"
+			text.de="Während seiner Erkundungen entdeckt er eine Verschwörung des Doktors,"
+			text.es="Durante sus exploraciones, descubre un complot del Doctor,"
+			text.it="Durante le sue esplorazioni, scopre un complotto del Dottore,"/>
+
+		<text name="info9" extra="true"
+			text="a megalomaniac who intends to force the inhabitants of the cave to fight for him in his bid to conquer the world."
+			text.fr="un mégalomane qui entend forcer les habitants de la grotte à se battre pour lui dans sa tentative de conquérir le monde."
+			text.de="ein Größenwahnsinniger, der die Bewohner der Höhle dazu zwingen will, für ihn bei seinem Versuch, die Welt zu erobern, zu kämpfen."
+			text.es="un megalómano que pretende obligar a los habitantes de la cueva a luchar por él en su intento de conquistar el mundo."
+			text.it="un megalomane che intende costringere gli abitanti della grotta a combattere per lui nel suo tentativo di conquistare il mondo."/>
+
+		<text name="info10" extra="true"
+			text="The protagonist is thrust into the position of savior as he endeavors to defeat the Doctor."
+			text.fr="Le protagoniste est placé dans la position de sauveur alors qu'il s'efforce de vaincre le Docteur.."
+			text.de="Der Protagonist wird in die Position des Retters versetzt, während er versucht, den Doktor zu besiegen."
+			text.es="El protagonista asume la posición de salvador mientras se esfuerza por derrotar al Doctor."
+			text.it="Il protagonista viene posto nella posizione di salvatore mentre cerca di sconfiggere il Dottore."/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="648DBD"/>
+		<image name="band2" extra="true" color="B63523"/>
+		<image name="band3" extra="true" color="6F1312"/>
+		<image name="band4" extra="true" color="182142"/>
+	</view>
+</theme>

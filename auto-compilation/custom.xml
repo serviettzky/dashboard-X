@@ -1,0 +1,33 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Compilations of games!"
+			text.fr="Compilations de jeux!"
+			text.de="Compilazioni di giochi!"
+			text.es="Spielezusammenstellungen!"
+			text.it="¡Compilaciones de juegos!"/>
+
+		<text name="info2" extra="true"
+			text="Multiple games in one compilation"
+			text.fr="Plusieurs jeux dans une seule compilation"
+			text.de="Mehrere Spiele in einer Zusammenstellung"
+			text.es="Múltiples juegos en una compilación"
+			text.it="Più giochi in una compilation"/>
+
+		<text name="info3" extra="true"
+			text="Why only one when we can have them all!"
+			text.fr="Pourquoi un seul quand nous pouvons tous les avoir!"
+			text.de="Warum nur einen, wenn wir sie alle haben können!"
+			text.es="¿Por qué sólo uno cuando podemos tenerlos todos?"
+			text.it="Perché solo uno quando possiamo averli tutti!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

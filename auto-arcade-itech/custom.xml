@@ -1,0 +1,55 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"
+			text="Founded in 1985"
+			text.fr="Fondée en 1985"
+			text.de="Gegründet 1985"
+			text.es="Fundada en 1985"
+			text.it="Fondata nel 1985"/>
+
+		<text name="info2" extra="true"
+			text="Systems: Incredible Technologies 8-bit and 32-bit"
+			text.fr="Systemes: Incredible Technologies 8-bit et 32 bit"
+			text.de="Systeme: Incredible Technologies 8-Bit und 32-Bit"
+			text.es="Sistemas: Tecnologías increíbles de 8 bits y 32 bits"
+			text.it="Sistemi: tecnologie incredibili a 8 bit e 32 bit"/>
+
+		<text name="info3" extra="true"
+			text="Production: 1988 - 2014"
+			text.fr="Production: 1988 - 2014"
+			text.de="Produktion: 1988 - 2014"
+			text.es="Producción: 1988 - 2014"
+			text.it="Produzione: 1988 - 2014"/>
+
+		<text name="info4" extra="true"
+			text="First Game: Capcom Bowling"
+			text.fr="Premier Jeu: Capcom Bowling"
+			text.de="Erstes Spiel: Capcom Bowling"
+			text.es="Primer juego: Capcom Bowling"
+			text.it="Primo gioco: Capcom Bowling"/>
+
+		<text name="info5" extra="true"
+			text="Popular Games: Golden Tee Golf, Street Fighter: The Movie"
+			text.fr="Jeux Populaires: Golden Tee Golf, Street Fighter: The Movie"
+			text.de="Beliebte Spiele: Golden Tee Golf, Street Fighter: The Movie"
+			text.es="Juegos populares: Golden Tee Golf, Street Fighter: The Movie"
+			text.it="Giochi popolari: Golden Tee Golf, Street Fighter: The Movie"/>
+
+		<text name="info7" extra="true"
+			text="Find all the Incredible Technologies Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade Incredible Technologies."
+			text.de="Hier finden Sie alle Arcade-Spiele von Incredible Technologies."
+			text.es="Encuentra todos los juegos arcade de Incredible Technologies."
+			text.it="Trova tutti i giochi arcade di Incredibili tecnologie."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="f19c1a"/>
+		<image name="band2" extra="true" color="fff31e"/>
+		<image name="band3" extra="true" color="1c1102"/>
+		<image name="band4" extra="true" color="fffcf7"/>
+	</view>	
+</theme>

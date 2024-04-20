@@ -1,0 +1,57 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+
+		<text name="info1" extra="true" 	
+			text="Production: 1993 - 2004"
+			text.fr="Production: 1993 - 2004"
+			text.de="Produktion: 1993 - 2004"
+			text.es="Producción: 1993 - 2004"
+			text.it="Produzione: 1993 - 2004"/>
+		
+		<text name="info2" extra="true" text="CPU: 68000 @ 16 MHz"/>
+		
+		<text name="info3" extra="true"
+			text="Resolution: 384 x 224 Pixel 59.6Hz"
+			text.fr="Resolution: 384 x 224 Pixel 59.6Hz"
+			text.de="Auflösung: 384 x 224 Pixel 59,6 Hz"
+			text.es="Resolución: 384 x 224 píxeles 59,6 Hz"
+			text.it="Risoluzione: 384 x 224 Pixel 59,6 Hz"/>
+
+		<text name="info4" extra="true"
+			text="Wiring standard : JAMMA"
+			text.fr="Norme de câblage : JAMMA"
+			text.de="Verkabelungsstandard: JAMMA"
+			text.es="Estándar de cableado: JAMMA"
+			text.it="Norma di cablaggio: JAMMA"/>
+
+		<text name="info5" extra="true"
+			text="First Game: Super Street Fighter II: The New Challengers "
+			text.fr="Premier Jeu: Super Street Fighter II: The New Challengers "
+			text.de="Erstes Spiel: Super Street Fighter II: The New Challengers "
+			text.es="Primer juego: Super Street Fighter II: The New Challengers "
+			text.it="Primo gioco: Super Street Fighter II: The New Challengers "/>
+
+		<text name="info6" extra="true"
+			text="THE CULT GAME: Super Street Fighter II Turbo"
+			text.fr="LE JEU CULTE: Super Street Fighter II Turbo"
+			text.de="DAS KULTSPIEL: Super Street Fighter II Turbo"
+			text.es="EL JUEGO DE CULTO: Super Street Fighter II Turbo"
+			text.it="IL GIOCO CULT: Super Street Fighter II Turbo"/>
+
+		<text name="info8" extra="true"
+			text="Find all the CPS2 Arcade Games here."
+			text.fr="Retrouvez ici tous les Jeux d'Arcade CPS2."
+			text.de="Hier finden Sie alle CPS2-Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de CPS2 aquí."
+			text.it="Trova tutti i giochi arcade CPS2 qui."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="0c4da2"/>
+		<image name="band2" extra="true" color="509fec"/>
+		<image name="band3" extra="true" color="ffffff"/>
+		<image name="band4" extra="true" color="ffcb08"/>
+	</view>	
+</theme>

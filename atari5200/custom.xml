@@ -1,0 +1,60 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+			<text name="info1" extra="true"
+				text="Manufacturer : Atari, Inc."
+				text.fr="Constructeur : Atari, Inc.<"
+				text.de="Hersteller: Atari, Inc."
+				text.es="Fabricante : Atari, Inc."
+				text.it="Produttore : Atari, Inc."/>
+
+			<text name="info2" extra="true"
+				text="Year of Release : 1982"
+				text.fr="Annee de Sortie : 1982"
+				text.de="Erscheinungsjahr: 1982"
+				text.es="Año de lanzamiento: 1982"
+				text.it="Anno di uscita: 1982"/>
+
+			<text name="info3" extra="true"
+				text="Units sold : 1 million"
+				text.fr="Unité Vendues : 1 million"
+				text.de="Verkaufte Einheiten: 1 Million"
+				text.es="Unidades vendidas: 1 millón"
+				text.it="Unità vendute: 1 milione"/>
+
+			<text name="info4" extra="true" text="CPU : MOS Technology 6502C 6502C @ 1.79 MHz"/>
+			
+			<text name="info5" extra="true"
+				text="RAM : 16kB"
+				text.fr="RAM: 16Ko"/>
+
+			<text name="info6" extra="true"
+				text="ROM : 2KB on-board BIOS; 32 KB window for standard game cartridges"
+				text.fr="ROM: BIOS intégré de 2 Ko; 32 Ko pour les cartouches"
+				text.de="ROM: 2 KB integriertes BIOS; 32-KB-Fenster für Standard-Spielekassetten"
+				text.es="ROM: BIOS integrada de 2 KB; Ventana de 32 KB para cartuchos de juegos estándar"
+				text.it="ROM: BIOS integrato da 2 KB; Finestra da 32 KB per cartucce di giochi standard"/>
+
+			<text name="info7" extra="true"
+				text="Sound : 4-channel POKEY chip"
+				text.fr="Son: Puce POKEY à 4 canaux"
+				text.de="Sound: 4-Kanal-POKEY-Chip"
+				text.es="Sonido: chip POKEY de 4 canales"
+				text.it="Suono: chip POKEY a 4 canali"/>
+
+			<text name="info8" extra="true"
+				text="Display: 320x192 pixels with 256 colors (16 on screen)"
+				text.fr="Affichage : 320x192 pixels avec 256 couleurs(16 à l'écran)"
+				text.de="Anzeige: 320 x 192 Pixel mit 256 Farben (16 auf dem Bildschirm)"
+				text.es="Pantalla: 320x192 píxeles con 256 colores (16 en pantalla)"
+				text.it="Display: 320x192 pixel con 256 colori (16 sullo schermo)"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="1e6547"/>
+		<image name="band2" extra="true" color="cfa634"/>
+		<image name="band3" extra="true" color="973e3a"/>
+		<image name="band4" extra="true" color="1c6eb8"/>
+	</view>
+</theme>

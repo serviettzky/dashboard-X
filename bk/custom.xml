@@ -1,0 +1,55 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"
+			text="Manufacturer : Elektronika"
+			text.fr="Constructeur: Elektronika"
+			text.de="Hersteller: Elektronika"
+			text.es="Fabricante: Elektronika"
+			text.it="Produttore: Elektronika"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1984"
+			text.fr="Année de sortie: 1984"
+			text.de="Erscheinungsjahr: 1984"
+			text.es="Año de lanzamiento: 1984"
+			text.it="Anno di uscita: 1984"/>
+
+		<text name="info3" extra="true"	text="OS : Focal"/>
+
+		<text name="info4" extra="true"	text="CPU : K1801VM1 @ 3MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 32 KB"
+			text.fr="RAM : 32 Ko"/>
+
+		<text name="info6" extra="true"
+			text="ROM : 8 KB"
+			text.fr="ROM : 8 Ko"/>
+
+		<text name="info7" extra="true"	text="GPU : K1801VP1-037"/>
+
+		<text name="info8" extra="true"
+			text="Sound : Covox DACs"
+			text.fr="Son : Covox DACs"
+			text.de="Sound: Covox DACs"
+			text.es="Sonido: DAC Covox"
+			text.it="Suono: DAC Covox"/>
+
+		<text name="info9" extra="true"
+			text="Resolution : 512×256 (monochrome) / 256×256 (4 colors)"
+			text.fr="Resolution : 512×256 (monochrome) / 256×256 (4 couleurs)"
+			text.de="Auflösung: 512×256 (monochrom) / 256×256 (4 Farben)"
+			text.es="Resolución: 512×256 (monocromo) / 256×256 (4 colores)"
+			text.it="Risoluzione: 512×256 (monocromatico) / 256×256 (4 colori)"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="DDD6BA"/>
+		<image name="band2" extra="true" color="CABFA3"/>
+		<image name="band3" extra="true" color="231F20"/>
+		<image name="band4" extra="true" color="861719"/>
+	</view>
+</theme>

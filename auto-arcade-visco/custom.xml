@@ -1,0 +1,48 @@
+<theme>
+	<formatVersion>5</formatVersion>
+	
+	<view name="system">
+
+	<text name="info1" extra="true"	
+			text="Founded in 1982"
+			text.fr="Fondée en 1982"
+			text.de="Gegründet 1982"
+			text.es="Fundada en 1982"
+			text.it="Fondata nel 1982"/>
+
+		<text name="info2" extra="true"
+			text="Production: 1987 - 2000"
+			text.fr="Production: 1987 - 2000"
+			text.de="Produktion: 1987 - 2000"
+			text.es="Producción: 1987 - 2000"
+			text.it="Produzione: 1987 - 2000"/>	
+			
+		<text name="info3" extra="true"
+			text="First Game: Wardner"
+			text.fr="Premier Jeu: Wardner"
+			text.de="Erstes Spiel: Wardner"
+			text.es="Primer juego: Wardner"
+			text.it="Primo gioco: Wardner"/>
+
+		<text name="info4" extra="true"
+			text="Popular Games: Breaker's, Andro Dunos, Mega Twins"
+			text.fr="Jeux Populaires: Breaker's, Andro Dunos, Mega Twins"
+			text.de="Beliebte Spiele: Breaker's, Andro Dunos, Mega Twins"
+			text.es="Juegos populares: Breaker's, Andro Dunos, Mega Twins"
+			text.it="Giochi popolari: Breaker's, Andro Dunos, Mega Twins"/>		
+
+		<text name="info6" extra="true"
+			text="Find all the VISCO Arcade Games."
+			text.fr="Retrouvez tous le Jeux d'Arcade VISCO."
+			text.de="Finden Sie alle VISCO Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de VISCO."
+			text.it="Trova tutti i giochi VISCO Arcade."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="00499B"/>
+		<image name="band2" extra="true" color="0779FF"/>
+		<image name="band3" extra="true" color="FFFFFF"/>
+		<image name="band4" extra="true" color="8A8A8A"/>
+	</view>	
+</theme>

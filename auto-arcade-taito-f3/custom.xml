@@ -1,0 +1,69 @@
+<theme>
+	<formatVersion>5</formatVersion>
+	
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="CPU: Motorola MC68EC020 clocked at 16 MHz"
+			text.fr="Processeur: Motorola MC68EC020 cadencé à 16 MHz"
+			text.de="CPU: Motorola MC68EC020 getaktet mit 16 MHz"
+			text.es="CPU: Motorola MC68EC020 con frecuencia de 16 MHz"
+			text.it="CPU: Motorola MC68EC020 con clock a 16 MHz"/>
+
+		<text name="info2" extra="true"
+			text="Terminals: Egret, Egret II, Atomiswave SD, Vewlix-L, Vewlix-F"
+			text.fr="Processeur sonore: Motorola MC68000 cadencé à 16 MHz"
+			text.de="Soundprozessor: Motorola MC68000, getaktet mit 16 MHz"
+			text.es="Procesador de sonido: Motorola MC68000 con frecuencia de 16 MHz"
+			text.it="Processore audio: Motorola MC68000 con clock a 16 MHz"/>
+
+		<text name="info3" extra="true"
+			text="Audio chips: Ensoniq ES5505 clocked at 16 MHz, sound DSP: Ensoniq ES5510"
+			text.fr="Puces audio : Ensoniq ES5505 cadencé à 16 MHz, DSP son : Ensoniq ES5510"
+			text.de="Audiochips: Ensoniq ES5505 getaktet mit 16 MHz, Sound-DSP: Ensoniq ES5510"
+			text.es="Chips de audio: Ensoniq ES5505 con frecuencia de 16 MHz, DSP de sonido: Ensoniq ES5510"
+			text.it="Chip audio: Ensoniq ES5505 con clock a 16 MHz, DSP audio: Ensoniq ES5510"/>
+
+		<text name="info4" extra="true"
+			text="Resolution: 320×224"
+			text.fr="Résolution : 320×224"
+			text.de="Auflösung: 320×224"
+			text.es="Resolución: 320×224"
+			text.it="Risoluzione: 320×224"/>
+			
+		<text name="info5" extra="true" 	
+			text="Production: 1992 - 1995"
+			text.fr="Production: 1992 - 1995"
+			text.de="Produktion: 1992 - 1995"
+			text.es="Producción: 1992 - 1995"
+			text.it="Produzione: 1992 - 1995"/>
+			
+		<text name="info6" extra="true"
+			text="First Game: Arabian Magic"
+			text.fr="Premier Jeu: Arabian Magic"
+			text.de="Erstes Spiel: Arabian Magic"
+			text.es="Primer juego: Arabian Magic"
+			text.it="Primo gioco: Arabian Magic"/>
+
+		<text name="info7" extra="true"
+			text="Popular games: Arkanoid Returns, Elevator Action Returns, Puzzle Bobble 2"
+			text.fr="Jeux connus: Arkanoid Returns, Elevator Action Returns, Puzzle Bobble 2"
+			text.de="Beliebte Spiele: Arkanoid Returns, Elevator Action Returns, Puzzle Bobble 2"
+			text.es="Juegos populares: Arkanoid Returns, Elevator Action Returns, Puzzle Bobble 2"
+			text.it="Juegos populares: Arkanoid Returns, Elevator Action Returns, Puzzle Bobble 2"/>
+
+		<text name="info9" extra="true"
+			text="Find all TAITO F3 Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade TAITO F3."
+			text.de="Finden Sie alle TAITO F3 Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de TAITO F3."
+			text.it="Trova tutti i giochi arcade TAITO F3."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">	
+		<image name="band1" extra="true" color="000000"/>
+		<image name="band2" extra="true" color="037cce"/>
+		<image name="band3" extra="true" color="fa0000"/>
+		<image name="band4" extra="true" color="00a743"/>
+	</view>	
+</theme>

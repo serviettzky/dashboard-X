@@ -1,0 +1,48 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+
+        <text name="info1" extra="true"	
+			text="Founded in 1958"
+			text.fr="Fondée en 1958"
+			text.de="Gegründet 1958"
+			text.es="Fundada en 1958"
+			text.it="Fondata nel 1958"/>
+
+		<text name="info2" extra="true"	
+			text="Type of terminals: Classics, Cocktails, Cockpits, Generics"
+			text.fr="Type de bornes: Classiques, Cocktails, Cockpits, Génériques"
+			text.de="Art der Terminals: Classics, Cocktails, Cockpits, Generics"
+			text.es="Tipo de terminales: Clásicos, Cocktails, Cockpits, Genéricos"
+			text.it="Tipologia terminali: Classici, Cocktail, Cockpit, Generici"/>
+
+		<text name="info3" extra="true"
+			text="First Game: Bazooka (1960)"
+			text.fr="Premier Jeu: Bazooka (1960)"
+			text.de="Erstes Spiel: Bazooka (1960)"
+			text.es="Primer juego: Bazooka (1960)"
+			text.it="Primo gioco: Bazooka (1960)"/>
+
+		<text name="info4" extra="true"
+			text="Popular Games: Killer Instinct, Mortal Kombat, Ms.Pac-Man, Rampage"
+			text.fr="Jeux Connus: Killer Instinct, Mortal Kombat, Ms.Pac-Man, Rampage"
+			text.de="Beliebte Spiele: Killer Instinct, Mortal Kombat, Ms.Pac-Man, Rampage"
+			text.es="Juegos populares: Killer Instinct, Mortal Kombat, Ms.Pac-Man, Rampage"
+			text.it="Giochi popolari: Killer Instinct, Mortal Kombat, Ms.Pac-Man, Rampage"/>
+
+		<text name="info6" extra="true"
+			text="Find all the Midway Williams Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade Midway Williams."
+			text.de="Finden Sie alle Midway Williams Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de Midway Williams."
+			text.it="Trova tutti i giochi Midway Williams Arcade."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">	
+		<image name="band1" extra="true" color="FFFFFF"/>
+		<image name="band2" extra="true" color="9c929c"/>
+		<image name="band3" extra="true" color="000000"/>
+		<image name="band4" extra="true" color="e20207"/>
+	</view>	
+</theme>

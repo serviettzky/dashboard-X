@@ -1,0 +1,35 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Dungeon Crawlers games!"
+			text.fr="jeux d'exploration de donjons!"
+			text.de="Dungeon Crawlers-Spiele!"
+			text.es="¡Juegos de exploración de mazmorras!"
+			text.it="Giochi di Dungeon Crawler!"/>
+
+		<text name="info2" extra="true"	text="ex: Dungeon Master, Eye of the Beholder, Black Crypt, ... "/>
+
+		<text name="info3" extra="true"
+			text="Explore dungeons, Fight, Collect & Level up!"
+			text.fr="Explorez les donjons, combattez, collectionnez et montez de niveau!"
+			text.de="Erkunde Dungeons, kämpfe, sammle und steige im Level auf!"
+			text.es="¡Explora mazmorras, lucha, colecciona y sube de nivel!"
+			text.it="Esplora dungeon, combatti, raccogli e sali di livello!"/>
+		
+		<text name="info4" extra="true"
+			text="Proceed to the next floor!"
+			text.fr="Passez à l'étage suivant!"
+			text.de="„Gehen Sie in die nächste Etage!“"
+			text.es="¡Continúa al siguiente piso!"
+			text.it="Procedi al piano successivo!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

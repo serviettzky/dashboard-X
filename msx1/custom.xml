@@ -1,0 +1,62 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Various"
+			text.fr="Constructeur : Various"
+			text.de="Hersteller: Various"
+			text.es="Fabricante : Various"
+			text.it="Produttore: Various"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1983"
+			text.fr="Annee de Sortie : 1983"
+			text.de="Erscheinungsjahr: 1983"
+			text.es="Año de lanzamiento: 1983"
+			text.it="Anno di uscita: 1983"/>
+
+		<text name="info3" extra="true" text="OS : MSX BASIC V1.0 (16 kB)"/>
+
+		<text name="info4" extra="true"
+			text="CPU : Zilog Z80A running @ 3.58 MHz"
+			text.fr="CPU : Zilog Z80A cadencé @ 3.58 MHz"
+			text.de="CPU: Zilog Z80A getaktet mit 3,58 MHz"
+			text.es="CPU: Zilog Z80A con frecuencia de 3,58 MHz"
+			text.it="CPU: Zilog Z80A con clock a 3,58 MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 8KB to 128KB / VRAM : 16KB"
+			text.fr="RAM : 8Ko à 128Ko / VRAM : 16Ko"
+			text.de="RAM: 8 KB bis 128 KB / VRAM: 16 KB"
+			text.es="RAM: 8 KB a 128 KB / VRAM: 16 KB"
+			text.it="RAM: da 8KB a 128KB / VRAM: 16KB"/>
+
+		<text name="info6" extra="true"
+			text="ROM : 32KB"
+			text.fr="ROM : 32Ko"/>
+
+		<text name="info7" extra="true" text="GPU : Texas Instruments TMS9918 family"/>
+
+		<text name="info8" extra="true"
+			text="Sound chip : General Instrument AY-3-8910 (PSG)"
+			text.fr="Puce Audio : General Instrument AY-3-8910 (PSG)"
+			text.de="Audiochip: General Instrument AY-3-8910 (PSG)"
+			text.es="Chip de audio: Instrumento general AY-3-8910 (PSG)"
+			text.it="Chip audio: strumento generale AY-3-8910 (PSG)"/>
+
+		<text name="info9" extra="true"
+			text="Resolution : 256×192 (16 colours)"
+			text.fr="Resolution : 256×192 (16 couleurs)"
+			text.de="Auflösung: 256×192 (16 Farben)"
+			text.es="Resolución: 256×192 (16 colores)"
+			text.it="Risoluzione: 256×192 (16 colori)"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="9d9b91"/>
+		<image name="band2" color="89283b"/>
+		<image name="band3" color="3c5e43"/>
+		<image name="band4" color="2761a2"/>
+	</view>
+</theme>

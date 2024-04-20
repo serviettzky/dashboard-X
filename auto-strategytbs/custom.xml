@@ -1,0 +1,35 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Turn-based Strategy games!"
+			text.fr="Jeux de stratégie au tour par tour!"
+			text.de="Rundenbasierte Strategiespiele!"
+			text.es="¡Juegos de estrategia por turnos!"
+			text.it="Giochi di strategia a turni!"/>
+
+		<text name="info2" extra="true"	text="ex: Might & Magic, Making History, ... "/>
+
+		<text name="info3" extra="true"
+			text="Find the best strategy, step by step, like in Chess games!"
+			text.fr="Trouvez la meilleure stratégie, étape par étape,"
+			text.de="Rundenbasierte Strategiespiele!"
+			text.es="Encuentra la mejor estrategia, paso a paso,"
+			text.it="Trova la strategia migliore, passo dopo passo,"/>
+		
+		<text name="info4" extra="true"
+			text="like in Chess games!"
+			text.fr="comme dans les jeux d'échecs!"
+			text.de="wie bei Schachspielen!"
+			text.es="¡Como en las partidas de ajedrez!"
+			text.it="come nelle partite a scacchi!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

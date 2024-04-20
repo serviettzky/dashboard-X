@@ -1,0 +1,70 @@
+<theme>
+	<formatVersion>5</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+				text="Author : Timo Kloss"
+				text.fr="Auteur : Timo Kloss"
+				text.de="Autor: Timo Kloss"
+				text.es="Autor: Timo Kloss"
+				text.it="Autore: Timo Kloss"/>
+
+		<text name="info2" extra="true"
+				text="Initial release : 2017"
+				text.fr="Première version : 2017"
+				text.de="Erstveröffentlichung: 2017"
+				text.es="Lanzamiento inicial: 2017"
+				text.it="Versione iniziale: 2017"/>
+
+		<text name="info3" extra="true"
+				text="Website : https://lowresnx.inutilis.com/"
+				text.fr="Site Web : https://lowresnx.inutilis.com/"
+				text.de="Website: https://lowresnx.inutilis.com/"
+				text.es="Sitio web: https://lowresnx.inutilis.com/"
+				text.it="Sito web: https://lowresnx.inutilis.com/"/>
+
+		<text name="info4" extra="true"
+				text="A simulated retro console, programmable in the classic BASIC language."
+				text.fr="Une console rétro simulée, programmable dans le langage BASIC classique."
+				text.de="Eine simulierte Retro-Konsole, programmierbar in der klassischen BASIC-Sprache."
+				text.es="Una consola retro simulada, programable en el lenguaje BASIC clásico."
+				text.it="Una console retrò simulata, programmabile nel classico linguaggio BASIC."/>
+
+		<text name="info5" extra="true"
+				text="Integrated functions: Gfx Designer of sprites, tiles, fonts and maps,"
+				text.fr="Fonctions intégrées : Gfx Designer de sprites, tuiles, polices et cartes,"
+				text.de="Integrierte Funktionen: Gfx Designer von Sprites, Kacheln, Schriftarten und Karten,"
+				text.es="Funciones integradas: Gfx Designer de sprites, mosaicos, fuentes y mapas,"
+				text.it="Funzioni integrate: Gfx Designer di sprite, piastrelle, font e mappe,"/>
+
+		<text name="info6" extra="true"
+				text="well as the Sound Composer for music and sound effects."
+				text.fr="ainsi que le Sound Composer pour la musique et les effets sonores."
+				text.de="sowie den Sound Composer für Musik und Soundeffekte."
+				text.es="así como Sound Composer para música y efectos de sonido."
+				text.it="così come il compositore di suoni per musica ed effetti sonori."/>
+
+		<text name="info7" extra="true"
+				text="Display: 160x128 px, 60 Hz, 8 6-bit palettes with 4 colors each"
+				text.fr="Affichage: 160x128 px, 60 Hz, 8 palettes 6 bits avec 4 couleurs chacune"
+				text.de="Anzeige: 160 x 128 Pixel, 60 Hz, 8 6-Bit-Paletten mit jeweils 4 Farben"
+				text.es="Pantalla: 160x128 px, 60 Hz, 8 paletas de 6 bits con 4 colores cada una"
+				text.it="Display: 160x128 px, 60 Hz, 8 tavolozze a 6 bit con 4 colori ciascuna"/>
+
+		<text name="info8" extra="true" text="Sprites :  64, max 32x32 pixels"/>
+
+		<text name="info9" extra="true"
+				text="Sound : 4 voices, saw/tri/pulse/noise, pulse width, volume, ADSR, LFO"
+				text.fr="Son : 4 voix, saw/tri/pulse/noise, largeur d'impulsion, volume, ADSR, LFO"
+				text.de="Sound: 4 Stimmen, Saw/Tri/Pulse/Noise, Pulsbreite, Lautstärke, ADSR, LFO"
+				text.es="Sonido: 4 voces, sierra/tri/pulso/ruido, ancho de pulso, volumen, ADSR, LFO"
+				text.it="Suono: 4 voci, saw/tri/pulse/noise, larghezza di impulso, volume, ADSR, LFO"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="222222"/>
+		<image name="band2" color="F15924"/>
+		<image name="band3" color="F68920"/>
+		<image name="band4" color="00AAA9"/>
+	</view>
+</theme>

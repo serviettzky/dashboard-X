@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" width="1393.8" height="1393.8" viewBox="0 0 1393.8 1393.8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffcd21;
+      }
+
+      .cls-2 {
+        fill: #e94f96;
+      }
+
+      .cls-3 {
+        fill: #2a252e;
+        stroke: #6ebc87;
+        stroke-miterlimit: 10;
+        stroke-width: 18px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Notch_-_Purple" data-name="Notch - Purple">
+      <g id="icon">
+        <path id="path71" class="cls-3" d="M854.2,9v6.4c0,87.6-71,158.6-158.5,158.6-87.1-.7-157.3-71.5-157.3-158.6v-6.4H9V1384.8H1384.8V9H854.2Z"/>
+      </g>
+    </g>
+    <circle id="path128" class="cls-2" cx="910.4" cy="1019.1" r="115.1"/>
+    <path id="rect150" class="cls-1" d="M319.7,671.3h127.9v447.5h-127.9v-447.5Z"/>
+    <path id="rect150-1" class="cls-1" d="M153.5,826h447.5v127.9H153.5v-127.9Z"/>
+    <circle id="path128-0" class="cls-2" cx="1121.4" cy="768.6" r="115.1"/>
+  </g>
+</svg>

@@ -1,0 +1,54 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : NEC"
+			text.fr="Constructeur: NEC"
+			text.de="Hersteller: NEC"
+			text.es="Fabricante: NEC"
+			text.it="Produttore: NEC"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1989"
+			text.fr="Année de sortie: 1989"
+			text.de="Erscheinungsjahr: 1989"
+			text.es="Año de lanzamiento: 1989"
+			text.it="Anno di sortita: 1989"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 7,5 million"
+			text.fr="Unités Vendues : 7,5 millions"
+			text.de="Verkaufte Einheiten: 7,5 Millionen"
+			text.es="Unidades vendidas: 7,5 millones"
+			text.it="Unità vendute: 7,5 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Ghouls 'n Ghosts"
+			text.fr="Jeu le Plus Vendu : Ghouls 'n Ghosts"
+			text.de="Meistverkauftes Spiel: Ghouls 'n Ghosts"
+			text.es="Juego más vendido: Ghouls 'n Ghosts"
+			text.it="Il gioco più venduto: Ghouls 'n Ghosts"/>
+
+		<text name="info5" extra="true" text="CPU : HuC6280 8-bit 7,16 Mhz"/>
+
+		<text name="info6" extra="true"
+			text="RAM : 8 Kbyte"
+			text.fr="RAM : 8 Ko"/>
+
+		<text name="info7" extra="true" text="Picture Processor Unit : 16-bit"/>
+
+		<text name="info8" extra="true"
+			text="Video RAM : 64 Kbyte"
+			text.fr="Video RAM : 64 Ko"/>
+			
+		<text name="info9" extra="true" text="Media : HU-Card, SHU-Card, CD-ROM, Super-CD-ROM"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="b2b2b2"/>
+		<image name="band2" color="0091ad"/>
+		<image name="band3" color="000000"/>
+		<image name="band4" color="D9D9D9"/>
+	</view>
+</theme>

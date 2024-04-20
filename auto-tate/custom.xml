@@ -1,0 +1,39 @@
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Find all your TATE games in a single system."
+			text.fr="Retrouvez tous vos jeux TATE dans un seul système."
+			text.de="Finden Sie alle Ihre TATE-Spiele in einem System."
+			text.es="Encuentra todos tus juegos TATE en un solo sistema."
+			text.it="Trova tutti i tuoi giochi TATE in un unico sistema."/>
+
+		<text name="info2" extra="true"	
+			text="You can manage TATE options like game rotation"
+			text.fr="Vous pouvez gérer les options TATE comme la rotation"
+			text.de="Sie können TATE-Optionen wie Rotation verwalten"
+			text.es="Puedes gestionar opciones de TATE como la rotación."
+			text.it="Puoi gestire le opzioni TATE come la rotazione"/>
+
+		<text name="info3" extra="true"
+			text="in the advanced settings -> virtual systems menu."
+			text.fr="du jeu dans les paramètres avancés -> menu systèmes virtuels."
+			text.de="des Spiels in den erweiterten Einstellungen -> Menü „Virtuelle Systeme“."
+			text.es="del juego en configuración avanzada -> menú de sistemas virtuales."
+			text.it="del gioco in impostazioni avanzate -> menu sistemi virtuali."/>
+		
+		<text name="info4" extra="true"
+			text="Enjoy!"
+			text.fr="Profitez-en"
+			text.de="Genießen!"
+			text.es="¡Disfrutar!"
+			text.it="Godere!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

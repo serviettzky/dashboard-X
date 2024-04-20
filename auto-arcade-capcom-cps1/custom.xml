@@ -1,0 +1,64 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true" 	
+			text="Production: 1988 - 1993"
+			text.fr="Production: 1988 - 1993"
+			text.de="Produktion: 1988 - 1993"
+			text.es="Producción: 1988 - 1993"
+			text.it="Produzione: 1988 - 1993"/>
+
+		<text name="info2" extra="true"	text="CPU : Motorola 68000 @ 10 MHz"/>
+
+		<text name="info3" extra="true"
+			text="Resolution: 384 x 224 Pixel 59.6Hz"
+			text.fr="Resolution: 384 x 224 Pixel 59.6Hz"
+			text.de="Auflösung: 384 x 224 Pixel 59,6 Hz"
+			text.es="Resolución: 384 x 224 píxeles 59,6 Hz"
+			text.it="Risoluzione: 384 x 224 Pixel 59,6 Hz"/>
+
+		<text name="info4" extra="true"
+			text="Sound: Zilog Z80 @ 3,579545 MHz"
+			text.fr="Son : Zilog Z80 à 3,579545 MHz"
+			text.de="Ton: Zilog Z80 @ 3.579545 MHz"
+			text.es="Sonido: Zilog Z80 @ 3,579545 MHz"
+			text.it="Suono: Zilog Z80 @ 3,579545 MHz"/>
+
+		<text name="info5" extra="true"
+			text="Wiring standard : JAMMA"
+			text.fr="Norme de câblage : JAMMA"
+			text.de="Verkabelungsstandard: JAMMA"
+			text.es="Estándar de cableado: JAMMA"
+			text.it="Norma di cablaggio: JAMMA"/>
+
+		<text name="info6" extra="true"
+			text="First Game: Forgotten Worlds "
+			text.fr="Premier Jeu: Forgotten Worlds "
+			text.de="Erstes Spiel: Forgotten Worlds "
+			text.es="Primer juego: Forgotten Worlds "
+			text.it="Primo gioco: Forgotten Worlds "/>
+
+		<text name="info7" extra="true"
+			text="Notable Games: Street Fighter 2, Ghouls'n Ghosts, Strider, Final fight,"
+			text.fr="Jeux Notables: Street Fighter 2, Ghouls'n Ghosts, Strider, Final fight,"
+			text.de="Bemerkenswerte Spiele: Street Fighter 2, Ghouls'n Ghosts, Strider, Final Fight,"
+			text.es="Juegos destacados: Street Fighter 2, Ghouls'n Ghosts, Strider, Final Fight,"
+			text.it="Giochi degni di nota: Street Fighter 2, Ghouls'n Ghosts, Strider, Final Fight,"/>
+
+		<text name="info9" extra="true"
+			text="Find all the CPS1 Arcade Games here."
+			text.fr="Retrouvez ici tous les Jeux d'Arcade CPS1."
+			text.de="Hier finden Sie alle CPS1-Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de CPS1 aquí."
+			text.it="Trova tutti i giochi arcade CPS1 qui."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="0060a8"/>
+		<image name="band2" extra="true" color="509fec"/>
+		<image name="band3" extra="true" color="ff0000"/>
+		<image name="band4" extra="true" color="ffffff"/>
+	</view>	
+</theme>

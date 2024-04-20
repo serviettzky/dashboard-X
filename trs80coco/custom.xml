@@ -1,0 +1,55 @@
+<theme>
+	<formatVersion>5</formatVersion>
+
+	<view name="system">	
+		<text name="info1" extra="true"
+			text="Manufacturer : Tandy Corporation"
+			text.fr="Constructeur: Tandy Corporation"
+			text.de="Hersteller: Tandy Corporation"
+			text.es="Fabricante: Tandy Corporation"
+			text.it="Produttore: Tandy Corporation"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1980"
+			text.fr="Année de sortie: 1980"
+			text.de="Erscheinungsjahr: 1980"
+			text.es="Año de lanzamiento: 1980"
+			text.it="Anno di sortita: 1980"/>
+
+		<text name="info3" extra="true" text="OS : Microsoft Color Basic v1.0"/>
+
+		<text name="info4" extra="true" text="CPU : MC6809E @ 0.89 MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 4KB - 16KB"
+			text.fr="RAM : 4Ko - 16Ko"/>
+
+		<text name="info6" extra="true"
+			text="Drive: Cassette, 5.25 inch floppy disk"
+			text.fr="Lecteur : Cassette, Disquette 5.25 pouces"
+			text.de="Laufwerk: Kassette, 5,25-Zoll-Diskette"
+			text.es="Unidad: casete, disquete de 5,25 pulgadas"
+			text.it="Unità: cassetta, floppy disk da 5,25 pollici"/>
+
+		<text name="info7" extra="true"
+			text="Resolution: 32 Column Display Ability"
+			text.fr="Résolution : capacité d'affichage de 32 colonnes"
+			text.de="Auflösung: 32-spaltige Anzeigemöglichkeit"
+			text.es="Resolución: Capacidad de visualización de 32 columnas"
+			text.it="Risoluzione: capacità di visualizzazione a 32 colonne"/>
+			
+		<text name="info8" extra="true"
+			text="(32x16 4 Colors / 256x192 2 Colors / 128x96 8 Colors / 128x1924 Colors)"
+			text.fr="(32 x 16 4 couleurs/256 x 192 2 couleurs/128 x 96 8 couleurs/128 x 1924 couleurs)."
+			text.de="(32 x 16 4 Farben / 256 x 192 2 Farben / 128 x 96 8 Farben / 128 x 1924 Farben)"
+			text.es="(32x16 4 colores / 256x192 2 colores / 128x96 8 colores / 128x1924 colores)"
+			text.it="(32x16 4 colori / 256x192 2 colori / 128x96 8 colori / 128x1924 colori)"/>
+	</view>
+
+	<view name="system,, detailed, gameclip">
+		<image name="band1" color="B3B3B3"/>
+		<image name="band2" color="CE2027"/>
+		<image name="band3" color="0F7C3E"/>
+		<image name="band4" color="3B509C"/>
+	</view>
+</theme>

@@ -1,0 +1,69 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	
+	<view name="system">
+		<text name="info1" extra="true" 	
+			text="Production: 1994 - 2012"
+			text.fr="Production: 1994 - 2012"
+			text.de="Produktion: 1994 - 2012"
+			text.es="Producción: 1994 - 2012"
+			text.it="Produzione: 1994 - 2012"/>
+		
+		<text name="info2" extra="true" 	
+			text="Systems: CV1000, CV1000B, CV 1000D, PC Hardware"
+			text.fr="Systémes: CV1000, CV1000B,CV 1000D, PC Hardware"
+			text.de="Systeme: CV1000, CV1000B, CV 1000D, PC-Hardware"
+			text.es="Sistemas: CV1000, CV1000B, CV 1000D, Hardware para PC"
+			text.it="Sistemi: CV1000, CV1000B, CV 1000D, hardware PC"/>
+
+		<text name="info3" extra="true"
+			text="Wiring standard : JAMMA, JVS"
+			text.fr="Norme de câblage : JAMMA, JVS"
+			text.de="Verkabelungsstandard: JAMMA, JVS"
+			text.es="Estándar de cableado: JAMMA, JVS"
+			text.it="Norma di cablaggio: JAMMA, JVS"/>
+
+		<text name="info4" extra="true"
+			text="CV1000: CPU MC68000, Sound: Yamaha YMZ770C-F (APU) LA4708"
+			text.fr="CV1000: CPU MC68000, Son: Yamaha YMZ770C-F (APU) LA4708"
+			text.de="CV1000: CPU MC68000, Sound: Yamaha YMZ770C-F (APU) LA4708"
+			text.es="CV1000: CPU MC68000, Sonido: Yamaha YMZ770C-F (APU) LA4708"
+			text.it="CV1000: CPU MC68000, Suono: Yamaha YMZ770C-F (APU) LA4708"/>
+
+		<text name="info5" extra="true"
+			text="CV1000B,D: CPU Hitachi SH-3 133Mhz, Sound Yamaha YMZ770C-F (APU) LA4708"
+			text.fr="CV1000B,D: CPU Hitachi SH-3 133Mhz, Son Yamaha YMZ770C-F (APU) LA4708"
+			text.de="CV1000B,D: CPU Hitachi SH-3 133 MHz, Sound Yamaha YMZ770C-F (APU) LA4708"
+			text.es="CV1000B,D: CPU Hitachi SH-3 133Mhz, Sonido Yamaha YMZ770C-F (APU) LA4708"
+			text.it="CV1000B,D: CPU Hitachi SH-3 133Mhz, Suono Yamaha YMZ770C-F (APU) LA4708"/>
+
+		<text name="info6" extra="true"
+			text="Resolution: 320 x 240 Pixel 15KHz"
+			text.fr="Resolution: 320 x 240 Pixel 15KHz"
+			text.de="Auflösung: 320 x 240 Pixel 15 kHz"
+			text.es="Resolución: 320 x 240 píxeles 15 KHz"
+			text.it="Risoluzione: 320x240 Pixel 15KHz"/>
+		
+		<text name="info6" extra="true"
+			text="First Game: DonPachi "
+			text.fr="Premier Jeu: DonPachi "
+			text.de="Erstes Spiel: DonPachi "
+			text.es="Primer juego: DonPachi "
+			text.it="Primo gioco: DonPachi "/>
+
+		<text name="info8" extra="true"
+			text="Find all the CAVE Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade CAVE."
+			text.de="Hier finden Sie alle CAVE Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de CAVE."
+			text.it="Trova tutti i giochi CAVE Arcade."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="af0000"/>
+		<image name="band2" extra="true" color="319402"/>
+		<image name="band3" extra="true" color="9fde01"/>
+		<image name="band4" extra="true" color="b6b6b6"/>
+	</view>
+	
+</theme>

@@ -1,0 +1,76 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Nintendo" 
+			text.fr="Constructeur : Nintendo"
+			text.de="Hersteller : Nintendo"
+			text.es="Fabricante : Nintendo"
+			text.it="Produttore : Nintendo"/>
+		
+		<text name="info2" extra="true"
+			text="Year of Release : 2011"
+			text.fr="Année de Sortie : 2011"
+			text.de="Jahr der Veröffentlichung : 2011"
+			text.es="Año de lanzamiento : 2011"
+			text.it="Anno di rilascio : 2011"/>
+		
+		<text name="info3" extra="true"
+			text="Units sold : 72.53 million"
+			text.fr="Unité Vendues : 3,77 millions"
+			text.de="Verkaufte Einheiten: 3,77 Millionen"
+			text.es="Unidades vendidas: 3,77 millones"
+			text.it="Unità vendute: 3,77 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Mario Kart 7"
+			text.fr="Jeu le plus vendu : Mario Kart 7"
+			text.de="Meistverkauftes Spiel: Mario Kart 7"
+			text.es="Juego más vendido: Mario Kart 7"
+			text.it="Gioco più venduto: Mario Kart 7"/>
+		
+		<text name="info5" extra="true"
+			text="Processeur : ARM11 MPCore double cœur 268 MHz + ARM9 monocœur"
+			text.fr="Processeur : ARM11 MPCore double cœur 268 MHz + ARM9 monocœur"
+			text.de="CPU: 268 MHz Dual-Core ARM11 MPCore + Single-Core ARM9"
+			text.es="CPU: 268 MHz de doble núcleo ARM11 MPCore + ARM9 de un solo núcleo"
+			text.it="CPU: ARM11 MPCore dual-core da 268 MHz + ARM9 single-core"/>
+		
+		<text name="info6" extra="true"
+			text="FCRAM : 128MB / Video RAM : 6MB"
+			text.fr="FCRAM : 128 Mo / RAM vidéo : 6 Mo"
+			text.de="FCRAM: 128 MB / Video-RAM: 6 MB"
+			text.es="FCRAM: 128 MB/RAM de vídeo: 6 MB"
+			text.it="FCRAM: 128 MB / RAM video: 6 MB"/>
+		
+		<text name="info7" extra="true"
+			text="Screen : Reflective TFT Colour LCD"
+			text.fr="Écran : LCD couleur TFT réfléchissant"
+			text.de="Bildschirm: Reflektierendes TFT-Farb-LCD"
+			text.es="Pantalla: LCD en color TFT reflectante"
+			text.it="Schermo: LCD a colori TFT riflettente"/>
+		
+		<text name="info8" extra="true"
+			text="Resolution : 800 x 240 pixels (16.7 million colours)"
+			text.fr="Résolution : 800 x 240 pixels (16,7 millions de couleurs)"
+			text.de="Auflösung: 800 x 240 Pixel (16,7 Millionen Farben)"
+			text.es="Resolución : 800 x 240 píxeles (16,7 millones de colores)"
+			text.it="Risoluzione: 800 x 240 pixel (16,7 milioni di colori)"/>
+		</text>
+		<text name="info9" extra="true"
+			text="Sound : Stereo speakers w/virtual surround, headphones"
+			text.fr="Son : Haut-parleurs stéréo avec surround virtuel, écouteurs"
+			text.de="Ton: Stereolautsprecher mit virtuellem Surround, Kopfhörer"
+			text.es="Sonido: Altavoces estéreo con sonido envolvente virtual, auriculares"
+			text.it="Suono: altoparlanti stereo con surround virtuale, cuffie"/>
+		</text>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="929497"/>
+		<image name="band2" extra="true" color="C02424"/>
+		<image name="band3" extra="true" color="221D1F"/>
+		<image name="band4" extra="true" color="1F8ABE"/>
+	</view>
+</theme>

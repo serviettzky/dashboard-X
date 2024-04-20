@@ -1,0 +1,41 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+	<text name="info1" extra="true" 	
+			text="Notable Systems: DECO Cassette System, MEC-M1, LaserDisc"
+			text.fr="Systemes Notables: DECO Cassette System, MEC-M1, LaserDisc"
+			text.de="Bemerkenswerte Systeme: DECO-Kassettensystem, MEC-M1, LaserDisc"
+			text.es="Sistemas notables: Sistema de casete DECO, MEC-M1, LaserDisc"
+			text.it="Sistemi degni di nota: sistema a cassette DECO, MEC-M1, LaserDisc"/>
+
+		<text name="info2" extra="true"
+			text="Deco 156, Data East Unique hardware , Caveman Ninja Hardware(CAVE)"
+			text.fr="Deco 156, Data East Unique hardware, Caveman Ninja Hardware(CAVE)"
+			text.de="Deco 156, Data East Unique hardware , Caveman Ninja Hardware(CAVE)"
+			text.es="Deco 156, Data East Unique hardware , Caveman Ninja Hardware(CAVE)"
+			text.it="Deco 156, Data East Unique hardware , Caveman Ninja Hardware(CAVE)"/>
+
+		<text name="info3" extra="true"
+			text="Wiring standard : JAMMA"
+			text.fr="Norme de câblage : JAMMA"
+			text.de="Verkabelungsstandard: JAMMA"
+			text.es="Estándar de cableado: JAMMA"
+			text.it="Norma di cablaggio: JAMMA"/>
+
+		<text name="info5" extra="true"
+			text="Find all the DATA EAST Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade DATA EAST."
+			text.de="Hier finden Sie alle DATA EAST Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de DATA EAST."
+			text.it="Trova tutti i giochi arcade DATA EAST."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="F91B20"/>
+		<image name="band2" extra="true" color="000000"/>
+		<image name="band3" extra="true" color="444242"/>
+		<image name="band4" extra="true" color="FFFFFF"/>
+	</view>	
+</theme>

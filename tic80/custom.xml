@@ -1,0 +1,68 @@
+<theme>
+	<formatVersion>5</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Vadim Grigoruk"
+			text.fr="Constructeur: Vadim Grigoruk"
+			text.de="Hersteller: Vadim Grigoruk"
+			text.es="Fabricante: Vadim Grigoruk"
+			text.it="Produttore: Vadim Grigoruk"/>
+
+		<text name="info2" extra="true"
+			text="Initial release : 2017"
+			text.fr="Sortie initiale : 2017"
+			text.de="Erstveröffentlichung: 2017"
+			text.es="Lanzamiento inicial: 2017"
+			text.it="Versione iniziale: 2017"/>
+
+		<text name="info3" extra="true"
+			text="Website : https://tic80.com/"
+			text.fr="Site Internet : https://tic80.com/"
+			text.de="Website: https://tic80.com/"
+			text.es="Sitio web: https://tic80.com/"
+			text.it="Sito web: https://tic80.com/"/>
+
+		<text name="info4" extra="true"
+			text="TIC-80 is a computer for creating, playing and sharing small games."
+			text.fr="TIC-80 est un ordinateur pour de créer, jouer et partager de petits jeux."
+			text.de="TIC-80 ist ein Computer zum Erstellen, Spielen und Teilen kleiner Spiele."
+			text.es="TIC-80 es una computadora para crear, jugar y compartir pequeños juegos."
+			text.it="TIC-80 è un computer per creare, giocare e condividere piccoli giochi."/>
+
+		<text name="info5" extra="true"
+			text="Built-in Features: Code Editor, Sprites, Tile Maps, SFX Editor."
+			text.fr="Fonctionss intégrées: Éditeur de code, sprites, cartes de tuiles, Éditeur SFX."
+			text.de="Integrierte Funktionen: Code-Editor, Sprite-Editor, Tile-Map-Editor, SFX-Editor."
+			text.es="Funciones integradas: editor de código, sprites, mapas de mosaicos, editor SFX."
+			text.it="Funzionalità integrate: editor di codice, sprite, mappe di riquadri, editor SFX."/>
+
+		<text name="info6" extra="true"
+			text="Display : 240x136 pixels, 16-color palette"
+			text.fr="Affichage : 240x136 pixels, palette de 16 couleurs"
+			text.de="Anzeige: 240 x 136 Pixel, 16-Farben-Palette"
+			text.es="Pantalla: 240x136 píxeles, paleta de 16 colores"
+			text.it="Display: 240x136 pixel, tavolozza a 16 colori"/>
+
+		<text name="info7" extra="true"
+			text="Sprites : 256 8x8 foreground sprites, 256 8x8 background tiles"
+			text.fr="Sprites : 256 sprites de premier plan 8x8, 256 tuiles d'arrière-plan 8x8"
+			text.de="Sprites: 256 8x8 Vordergrund-Sprites, 256 8x8 Hintergrundkacheln"
+			text.es="Sprites: 256 sprites de primer plano de 8x8, 256 mosaicos de fondo de 8x8"
+			text.it="Sprite: 256 sprite in primo piano 8x8, 256 tessere di sfondo 8x8"/>
+
+		<text name="info8" extra="true"
+			text="Sound : 4 channels (with editable waveform envelopes)"
+			text.fr="Son : 4 canaux (avec enveloppes de forme d'onde modifiables)"
+			text.de="Ton: 4 Kanäle (mit editierbaren Wellenform-Hüllkurven)"
+			text.es="Sonido: 4 canales (con envolventes de forma de onda editables)"
+			text.it="Suono: 4 canali (con inviluppi della forma d'onda modificabili)"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="4E76B4"/>
+		<image name="band2" color="C5494A"/>
+		<image name="band3" color="C7772F"/>
+		<image name="band4" color="65A33D"/>
+	</view>
+</theme>

@@ -1,0 +1,69 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Sega"
+			text.fr="Constructeur: Sega"
+			text.de="Hersteller: Sega"
+			text.es="Fabricante: Sega"
+			text.it="Produttore: Sega"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1983"
+			text.fr="Année de sortie: 1983"
+			text.de="Erscheinungsjahr: 1983"
+			text.es="Año de lanzamiento: 1983"
+			text.it="Anno di sortita: 1983"/>
+
+		<text name="info3" extra="true"
+			text="Units sold : 2 million"
+			text.fr="Unités Vendues : 2 millions"
+			text.de="Verkaufte Einheiten: 2 Millionen"
+			text.es="Unidades vendidas: 2 millones"
+			text.it="Unità vendute: 2 milioni"/>
+
+		<text name="info4" extra="true"
+			text="Best-selling game : Flicky"
+			text.fr="Jeu le Plus Vendu : Flicky"
+			text.de="Meistverkauftes Spiel: Flicky"
+			text.es="Juego más vendido: Flicky"
+			text.it="Il gioco più venduto: Flicky"/>
+
+		<text name="info5" extra="true" text="CPU : 8-Bit Zilog Z80 @ 3.58 MHz"/>
+
+		<text name="info6" extra="true"
+			text="RAM : 1kB / VRAM : 2kB"
+			text.fr="RAM : 1Ko / VRAM : 2Ko"/>
+
+		<text name="info7" extra="true" text="Video : Texas Instruments TMS9918"/>
+
+		<text name="info8" extra="true"
+			text="Resolution : 256×192 pixels, 16 colors (21 colors palette)"
+			text.fr="Résolution : 256×192 pixels, 16 couleurs (palette de 21 couleurs)"
+			text.de="Auflösung: 256×192 Pixel, 16 Farben (21 Farbpalette)"
+			text.es="Resolución: 256×192 píxeles, 16 colores (paleta de 21 colores)"
+			text.it="Risoluzione: 256×192 pixel, 16 colori (tavolozza di 21 colori)"/>
+
+		<text name="info9" extra="true"
+			text="Sound chip : Texas Instruments SN76489 PSG"
+			text.fr="Puce Audio : Texas Instruments SN76489 PSG"
+			text.de="Soundchip: Texas Instruments SN76489 PSG"
+			text.es="Chip de sonido: Texas Instruments SN76489 PSG"
+			text.it="Chip audio: Texas Instruments SN76489 PSG"/>
+
+		<text name="info10" extra="true"
+			text="Cart Size : 8kB - 48kB"
+			text.fr="Taille des Cartouches : 8Ko - 48Ko"
+			text.de="Patronengröße: 8 KB - 48 KB"
+			text.es="Tamaño del cartucho: 8 KB - 48 KB"
+			text.it="Dimensioni cartuccia: 8KB - 48KB"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="D6A763"/>
+		<image name="band2" color="9A2025"/>
+		<image name="band3" color="000000"/>
+		<image name="band4" color="BBBDBD"/>
+	</view>
+</theme>

@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Answer/Quizz games!"
+			text.fr="Jeux de réponses/quiz!"
+			text.de="Beantworten Sie Spiele/Quiz!"
+			text.es="¡Responde juegos/cuestionarios!"
+			text.it="Rispondi a giochi/quiz!"/>
+
+		<text name="info2" extra="true"	text="ex: Family Feud, Buzz, ... "/>
+
+		<text name="info3" extra="true"
+			text="Test your general culture!"
+			text.fr="Testez votre culture générale!"
+			text.de="„Testen Sie Ihr Allgemeinwissen!“"
+			text.es="¡Pon a prueba tus conocimientos generales!"
+			text.it="“Metti alla prova le tue conoscenze generali!”"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

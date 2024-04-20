@@ -1,0 +1,46 @@
+<theme>
+	<formatVersion>5</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Watara"
+			text.fr="Constructeur: Watara"
+			text.de="Hersteller: Watara"
+			text.es="Fabricante: Watara"
+			text.it="Produttore: Watara"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1972"
+			text.fr="Année de sortie: 1972"
+			text.de="Erscheinungsjahr: 1972"
+			text.es="Año de lanzamiento: 1972"
+			text.it="Anno di sortita: 1972"/>
+
+		<text name="info3" extra="true" text="CPU: 8-bit 65SC02 @ 4 MHz"/>
+
+		<text name="info4" extra="true"
+			text="RAM: 8kB / VRAM : 8kB"
+			text.fr="RAM: 8ko / VRAM : 8ko"/>
+
+		<text name="info5" extra="true"
+			text="Display: 160x160 pixels, 4 shades of grey"
+			text.fr="Affichage : 160x160 pixels, 4 nuances de gris"
+			text.de="Anzeige: 160 x 160 Pixel, 4 Graustufen"
+			text.es="Pantalla: 160x160 píxeles, 4 tonos de gris"
+			text.it="Display: 160x160 pixel, 4 tonalità di grigio"/>
+
+		<text name="info6" extra="true"
+			text="Sound: 2 Tonal and 1 Noise Channel plus additional audio DMA stereo output"
+			text.fr="Son : 2 canaux tonal et 1 canal de bruit, audio stéréo DMA supplémentaire"
+			text.de="Sound: 2 Ton- und 1 Rauschkanal plus zusätzlicher Audio-DMA-Stereoausgang"
+			text.es="Sonido: 2 canales tonales y 1 de ruido más salida de audio estéreo DMA adicional"
+			text.it="Suono: 2 canali tonali e 1 di rumore più uscita audio stereo DMA aggiuntiva"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="55C5CC"/>
+		<image name="band2" color="64B0A6"/>
+		<image name="band3" color="717A76"/>
+		<image name="band4" color="68BD45"/>
+	</view>	
+</theme>

@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Fish & Hunt Simulation games!"
+			text.fr="Jeux de simulation de pêche et de chasse!"
+			text.de="Angel- und Jagdsimulatorspiele!"
+			text.es="¡Juegos de simulación de pesca y caza!"
+			text.it="Giochi di simulazione di pesca e caccia!"/>
+
+		<text name="info2" extra="true"	text="ex: Sega Bass Fishing, Deer Hunt, Bass MAster Classic ..."/>
+
+		<text name="info3" extra="true"
+			text="Practive fishing and hunting without harming any animal!"
+			text.fr="Pratiquer la pêche et la chasse sans blesser un animal!"
+			text.de="„Fischen und Jagen, ohne einem Tier zu schaden!“"
+			text.es="“¡Pesca y caza sin dañar a ningún animal!”"
+			text.it="“Pescare e cacciare senza far del male agli animali!”"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

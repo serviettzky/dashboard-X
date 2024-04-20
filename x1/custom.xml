@@ -1,0 +1,67 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Sharp Corporation"
+			text.fr="Constructeur: Sharp Corporation"
+			text.de="Hersteller: Sharp Corporation"
+			text.es="Fabricante: Sharp Corporation"
+			text.it="Produttore: Sharp Corporation"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1982"
+			text.fr="Année de sortie: 1982"
+			text.de="Erscheinungsjahr: 1982"
+			text.es="Año de lanzamiento: 1982"
+			text.it="Anno di sortita: 1982"/>
+
+		<text name="info3" extra="true" text="OS : CP/M"/>
+
+		<text name="info4" extra="true"
+			text="CPU : Sharp Z80 A running @ 4 MHz"
+			text.fr="CPU : Sharp Z80 A cadencé @ 4 MHz"
+			text.de="CPU: Sharp Z80 A getaktet mit 4 MHz"
+			text.es="CPU: Sharp Z80 A con frecuencia de 4 MHz"
+			text.it="CPU: Sharp Z80 A con clock a 4 MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 64 KB / VRAM : 4 KB (up to 48 KB)"
+			text.fr="RAM : 64 Ko / VRAM : 4 Ko (jusqu'à 48 Ko)"
+			text.de="RAM: 64 KB / VRAM: 4 KB (bis zu 48 KB)"
+			text.es="RAM: 64 KB / VRAM: 4 KB (hasta 48 KB)"
+			text.it="RAM: 64 KB / VRAM: 4 KB (fino a 48 KB)"/>
+
+		<text name="info6" extra="true"
+			text="ROM : 6 KB"
+			text.fr="ROM : 6 Ko"/>
+
+		<text name="info7" extra="true"
+			text="GPU : Sharp-Hudson Custom Chipset"
+			text.fr="GPU : Chipset personnalisé Sharp-Hudson"
+			text.de="GPU: Sharp-Hudson Custom Chipsatz"
+			text.es="GPU: Conjunto de chips personalizado Sharp-Hudson"
+			text.it="GPU: chipset personalizzato Sharp-Hudson"/>
+
+		<text name="info8" extra="true"
+			text="Sound chip : General Instrument AY-3-8910 or Yamaha YM2149"
+			text.fr="Puce sonore : General Instrument AY-3-8910 ou Yamaha YM2149"
+			text.de="Soundchip: General Instrument AY-3-8910 oder Yamaha YM2149"
+			text.es="Chip de sonido: Instrumento general AY-3-8910 o Yamaha YM2149"
+			text.it="Chip audio: strumento generale AY-3-8910 o Yamaha YM2149"/>
+
+		<text name="info9" extra="true"
+			text="Display : 320 x 200 / 640 x 200 (8 colours)"
+			text.fr="Affichage : 320 x 200 / 640 x 200 (8 couleurs)"
+			text.de="Anzeige: 320 x 200 / 640 x 200 (8 Farben)"
+			text.es="Pantalla: 320 x 200 / 640 x 200 (8 colores)"
+			text.it="Display: 320 x 200 / 640 x 200 (8 colori)"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="752421"/>
+		<image name="band2" color="4A90CB"/>
+		<image name="band3" color="C1C3D1"/>
+		<image name="band4" color="28333D"/>
+	</view>	
+</theme>

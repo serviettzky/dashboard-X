@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Educational games"
+			text.fr="Jeux éducatifs"
+			text.de="Lernspiele"
+			text.es="Juegos educacionales"
+			text.it="Giochi educativi"/>
+
+		<text name="info2" extra="true"	text="ex: Mighty mulan, The toys room, ..."/>
+
+		<text name="info3" extra="true"
+			text="Who said education games are borring?"
+			text.fr="Qui a dit que les jeux éducatifs étaient ennuyeux ?"
+			text.de="Wer hat gesagt, dass Lernspiele langweilig sind?"
+			text.es="¿Quién dijo que los juegos educativos eran aburridos?"
+			text.it="Chi ha detto che i giochi educativi sono noiosi?"/>
+		</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

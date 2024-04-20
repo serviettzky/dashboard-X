@@ -1,0 +1,64 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Spectravideo International"
+			text.fr="Constructeur: Spectravideo International"
+			text.de="Hersteller: Spectravideo International"
+			text.es="Fabricante: Spectravideo International"
+			text.it="Produttore: Spectravideo International"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 1983"
+			text.fr="Année de sortie: 1983"
+			text.de="Erscheinungsjahr: 1983"
+			text.es="Año de lanzamiento: 1983"
+			text.it="Anno di sortita: 1983"/>
+
+		<text name="info3" extra="true" text="OS : Microsoft Extended BASIC, CP/M"/>
+
+		<text name="info4" extra="true" text="CPU : Zilog Z80A @ 3.58 MHz"/>
+
+		<text name="info5" extra="true"
+			text="ROM: 32KB (16 KB BIOS / 16 KB BASIC)"
+			text.fr="ROM: 32 Ko (16 Ko BIOS / 16 Ko BASIC)"/>
+
+		<text name="info6" extra="true"
+			text="RAM : 16KB (SV-318) and 64Kb (SV-328) / VRAM : 16KB"
+			text.fr="RAM : 16 Ko (SV-318) et 64 Ko (SV-328) / VRAM : 16 Ko"
+			text.de="RAM: 16 KB (SV-318) und 64 KB (SV-328) / VRAM: 16 KB"
+			text.es="RAM: 16 KB (SV-318) y 64 KB (SV-328) / VRAM: 16 KB"
+			text.it="RAM: 16KB (SV-318) e 64Kb (SV-328) / VRAM: 16KB"/>
+
+		<text name="info7" extra="true" text="Video : Texas Instruments TMS9918"/>
+
+		<text name="info8" extra="true"
+			text="Resolution : 256×192, 16 colors"
+			text.fr="Résolution : 256×192, 16 couleurs"
+			text.de="Auflösung: 256×192, 16 Farben"
+			text.es="Resolución: 256×192, 16 colores"
+			text.it="Risoluzione: 256×192, 16 colori"/>
+
+		<text name="info9" extra="true"
+			text="Sound : General Instrument AY-3-8910 (PSG)"
+			text.fr="Son : General Instrument AY-3-8910 (PSG)"
+			text.de="Sound: General Instrument AY-3-8910 (PSG)"
+			text.es="Sonido: Instrumento general AY-3-8910 (PSG)"
+			text.it="Suono: strumento generale AY-3-8910 (PSG)"/>
+			
+		<text name="info10" extra="true"
+			text="Media : ROM Cartridge, Cassette tape"
+			text.fr="Support: cartouche ROM, cassette"
+			text.de="Medien: ROM-Cartridge, Kassette"
+			text.es="Medios: cartucho ROM, casete"
+			text.it="Supporti: cartuccia ROM, cassetta"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="B74E6C"/>
+		<image name="band2" color="C23435"/>
+		<image name="band3" color="D17733"/>
+		<image name="band4" color="E9E439"/>
+	</view>
+</theme>

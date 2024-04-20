@@ -1,0 +1,74 @@
+<theme>
+	<formatVersion>5</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Manufacturer : Nintendo"
+			text.fr="Constructeur: Nintendo"
+			text.de="Hersteller: Nintendo"
+			text.es="Fabricante: Nintendo"
+			text.it="Produttore: Nintendo"/>
+
+		<text name="info2" extra="true"
+			text="Year of Release : 2001"
+			text.fr="Année de sortie: 2001"
+			text.de="Erscheinungsjahr: 2001"
+			text.es="Año de lanzamiento: 2001"
+			text.it="Anno di sortita: 2001"/>
+
+		<text name="info3" extra="true"
+			text="Best-selling game : Pokémon Party mini"
+			text.fr="Jeu le Plus Vendu : Pokémon Party mini"
+			text.de="Meistverkauftes Spiel: Pokémon Party mini"
+			text.es="Juego más vendido: Pokémon Party mini"
+			text.it="Il gioco più venduto: Pokémon Party mini"/>
+
+		<text name="info4" extra="true" text="CPU : S1C88 @ 4 MHz"/>
+
+		<text name="info5" extra="true"
+			text="RAM : 4 kB (shared with video subsystem)"
+			text.fr="RAM : 4 Ko (partagée avec le sous-système vidéo)"
+			text.de="RAM: 4 KB (gemeinsam mit dem Video-Subsystem)"
+			text.es="RAM: 4 KB (compartida con el subsistema de video)"
+			text.it="RAM: 4 KB (condivisa con il sottosistema video)"/>
+
+		<text name="info6" extra="true"
+			text="Display : 96 x 64 pixels monochrome LCD"
+			text.fr="Écran : LCD monochrome 96 x 64 pixels"
+			text.de="Bildschirm: 96 x 64 Pixel Monochrom-LCD"
+			text.es="Pantalla: LCD monocromática de 96 x 64 píxeles"
+			text.it="Schermo: LCD monocromatico da 96 x 64 pixel"/>
+
+		<text name="info7" extra="true"
+			text="Sound : Single channel PWM sound with three volume levels."
+			text.fr="Son : Son PWM monocanal avec trois niveaux de volume."
+			text.de="Bildschirm: 96 x 64 Pixel Monochrom-LCD"
+			text.es="Pantalla: LCD monocromática de 96 x 64 píxeles"
+			text.it="Schermo: LCD monocromatico da 96 x 64 pixel"/>
+
+		<text name="info8" extra="true"
+			text="Cart Size : 512 kB"
+			text.fr="Taille des Cartouches : 512 Ko"
+			text.de="Patronengröße: 512 KB"
+			text.es="Tamaño del cartucho: 512 KB"
+			text.it="Dimensione cartuccia: 512 KB"/>
+
+	</view>
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="FCE200"/>
+		<image name="band2" color="004F8A"/>
+		<image name="band3" color="999998"/>
+		<image name="band4" color="8C8C8C"/>
+	</view>
+	
+	<view name="detailed">
+	
+	<image name="consolegame" extra="true" disabled="true"/>
+	<video name="md_video" pos="0.5 0.4" size="0.140 0.172" origin="0.5 0.5" zIndex="8"/>
+	<image name="md_image" pos="0.858 0.810" maxSize="0.26 0.26" origin="0.5 0.5" zIndex="8"/>	
+	<image name="bezel" extra="true" disabled="true"/>
+	<image name="console" extra="true" pos="0.5 0.5" maxSize="0.5 0.6" origin="0.5 0.5" path="./data/console.svg" zIndex="9"/>
+	
+	</view>
+	
+</theme>

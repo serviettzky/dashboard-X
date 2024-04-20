@@ -1,0 +1,55 @@
+<theme>
+	<formatVersion>5</formatVersion>
+	
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Founded in 1984"
+			text.fr="Fondée en 1984"
+			text.de="Gegründet 1984"
+			text.es="Fundada en 1984"
+			text.it="Fondata nel 1984"/>
+
+		<text name="info2" extra="true"
+			text="Production: 1984 - 1993"
+			text.fr="Production: 1984 - 1993"
+			text.de="Produktion: 1984 - 1993"
+			text.es="Producción: 1984 - 1993"
+			text.it="Produzione: 1984 - 1993"/>
+		
+		<text name="info3" extra="true"
+			text="Systems: Toaplan Unique, Slap Fight, Twin Cobra, Version 1 and 2"
+			text.fr="Systemes:Toaplan Unique, Slap Fight, Twin Cobra, Version 1 et 2"
+			text.de="Systeme: Toaplan Unique, Slap Fight, Twin Cobra, Version 1 und 2"
+			text.es="Sistemas: Toaplan Unique, Slap Fight, Twin Cobra, Versión 1 y 2"
+			text.it="Sistemi: Toaplan Unique, Slap Fight, Twin Cobra, Versione 1 e 2"/>
+
+		<text name="info4" extra="true"
+			text="First Game: Mahjong King"
+			text.fr="Premier Jeu: Mahjong King"
+			text.de="Erstes Spiel: Mahjong King"
+			text.es="Primer juego: Mahjong King"
+			text.it="Primo gioco: Mahjong King"/>
+
+		<text name="info5" extra="true"
+			text="Popular Games: Twin Cobra, Out Zone, Batsugun, Snow Bros 2"
+			text.fr="Jeux Populaires: Twin Cobra, Out Zone, Batsugun, Snow Bros 2"
+			text.de="Beliebte Spiele: Twin Cobra, Out Zone, Batsugun, Snow Bros 2"
+			text.es="Juegos populares: Twin Cobra, Out Zone, Batsugun, Snow Bros 2"
+			text.it="Giochi popolari: Twin Cobra, Out Zone, Batsugun, Snow Bros 2"/>
+
+		<text name="info7" extra="true"
+			text="Find all TOAPLAN Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade TOAPLAN."
+			text.de="Hier finden Sie alle TOAPLAN Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de TOAPLAN."
+			text.it="Trova tutti i giochi arcade TOAPLAN."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">		
+		<image name="band1" extra="true" color="9c9c9c"/>
+		<image name="band2" extra="true" color="000000"/>
+		<image name="band3" extra="true" color="734200"/>
+		<image name="band4" extra="true" color="e7a500"/>
+	</view>	
+</theme>

@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true"
+			text="Beat'em up/all games!"
+			text.fr="tous les jeux Beat'em up!"
+			text.de="Beat'em up/alle Spiele!"
+			text.es="Beat'em up/todos los juegos!"
+			text.it="Picchiaduro/tutti i giochi!"/>
+
+		<text name="info2" extra="true" text="ex: Double Dragons, Renegade, Final fight, ..."/t>
+
+		<text name="info3" extra="true"
+			text="Run and beat'em all!"
+			text.fr="Courez et battez-les tous!"
+			text.de="„Lauf und besiege sie alle!“"
+			text.es="¡Corre y golpéalos a todos!"
+			text.it="Corri e battili tutti!"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="C1B544"/>
+		<image name="band2" extra="true" color="AE976E"/>
+		<image name="band3" extra="true" color="479236"/>
+		<image name="band4" extra="true" color="174085"/>
+	</view>
+</theme>

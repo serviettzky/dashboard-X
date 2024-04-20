@@ -1,0 +1,70 @@
+<theme>
+	<formatVersion>5</formatVersion>
+
+	<view name="system">	
+		<text name="info1" extra="true"
+			text="Developer: Sinclair Research"
+			text.fr="Developeur: Sinclair Research"
+			text.de="Entwickler: Sinclair Research"
+			text.es="Desarrollador: Sinclair Research"
+			text.it="Sviluppatore: Sinclair Research"/>
+
+		<text name="info2" extra="true"
+			text="Manufacturer : Timex Corporation"
+			text.fr="Constructeur: Timex Corporation"
+			text.de="Hersteller: Timex Corporation"
+			text.es="Fabricante: Timex Corporation"
+			text.it="Produttore: Timex Corporation"/>
+		
+		<text name="info3" extra="true"
+			text="Year of Release : 1981"
+			text.fr="Année de sortie: 1981"
+			text.de="Erscheinungsjahr: 1981"
+			text.es="Año de lanzamiento: 1981"
+			text.it="Anno di sortita: 1981"/>
+
+		<text name="info4" extra="true"
+			text="Units sold : 1.5 million"
+			text.fr="Unités Vendues : 1.5 millions"
+			text.de="Verkaufte Einheiten: 1.5 Millionen"
+			text.es="Unidades vendidas: 1.5 millones"
+			text.it="Unità vendute: 1.5 milioni"/>
+
+		<text name="info5" extra="true" text="CPU : Z80 @ 3.25 MHz"/>
+
+		<text name="info6" extra="true"
+			text="Memory : 1 KB (64 KB max. 56 KB usable)"
+			text.fr="Mémoire : 1 Ko (64 Ko max. 56 Ko utilisables)"
+			text.de="Speicher: 1 KB (64 KB max. 56 KB nutzbar)"
+			text.es="Memoria: 1 KB (64 KB máx. 56 KB utilizables)"
+			text.it="Memoria: 1 KB (64 KB max. 56 KB utilizzabili)"/>
+
+		<text name="info7" extra="true"
+			text="Storage : External cassette tape recorder at 250 baud"
+			text.fr="Stockage : Magnétophone externe à cassette à 250 bauds"
+			text.de="Speicherung: Externer Kassettenrecorder mit 250 Baud"
+			text.es="Almacenamiento: Grabadora de casetes externa a 250 baudios"
+			text.it="Memorizzazione: registratore a cassette esterno a 250 baud"/>
+
+		<text name="info8" extra="true"
+			text="Display : Monochrome display on UHF television"
+			text.fr="Affichage : Affichage monochrome sur téléviseur UHF"
+			text.de="Anzeige: Monochrome Anzeige im UHF-Fernseher"
+			text.es="Pantalla: Pantalla monocromática en televisión UHF"
+			text.it="Display: display monocromatico su televisione UHF"/>
+
+		<text name="info9" extra="true"
+			text="Graphics : 24 lines x 32 characters or 64 x 48 pixels graphics mode"
+			text.fr="Graphiques : 24 lignes x 32 caractères ou 64 x 48 pixels"
+			text.de="Grafiken: 24 Zeilen x 32 Zeichen oder 64 x 48 Pixel"
+			text.es="Gráficos: 24 líneas x 32 caracteres o 64 x 48 píxeles"
+			text.it="Grafica: 24 righe x 32 caratteri o 64 x 48 pixel"/>
+	</view>
+
+	<view name="system, detailed, gameclip">
+		<image name="band1" color="EF5857"/>
+		<image name="band2" color="403E4B"/>
+		<image name="band3" color="D2CECD"/>
+		<image name="band4" color="191222"/>
+	</view>	
+</theme>
