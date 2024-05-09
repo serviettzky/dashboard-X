@@ -1,0 +1,79 @@
+<theme>
+	<formatVersion>5</formatVersion>
+	
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Founded in 1998"
+			text.fr="Fondée en 1998"
+			text.de="Gegründet 1998"
+			text.es="Fundada en 1998"
+			text.it="Fondata nel 1998"/>
+
+		<text name="info2" extra="true" 	
+			text="Production: 1998 - 2004"
+			text.fr="Production: 1998 - 2004"
+			text.de="Produktion: 1998 - 2004"
+			text.es="Producción: 1998 - 2004"
+			text.it="Produzione: 1998 - 2004"/>
+			
+		<text name="info3" extra="true" 	
+			text="The system is based on the Playstation architecture"
+			text.fr="Le systeme est basée sur l'architecture Playstation"
+			text.de="Das System basiert auf der Playstation Architektur"
+			text.es="El sistema está basado en la arquitectura Playstation."
+			text.it="Il sistema è basato sull'architettura Playstation"/>
+			
+		<text name="info4" extra="true"
+			text="CPU: R3000A 32 bit RISC"/>
+			
+		<text name="info5" extra="true"
+			text="Sound CPU : Panasonic MN1020012A"
+			text.fr="Processeur sonore : Panasonic MN1020012A"
+			text.de="Sound-CPU: Panasonic MN1020012A"
+			text.es="CPU de sonido: Panasonic MN1020012A"
+			text.it="CPU audio: Panasonic MN1020012A"/>
+			
+		<text name="info6" extra="true"
+			text="Sound DSP: ZOOM ZSG-2 DSP, TMS57002 DSP"
+			text.fr="DSP audio: ZOOM ZSG-2 DSP, TMS57002 DSP"
+			text.de="Sound-DSP: ZOOM ZSG-2 DSP, TMS57002 DSP"
+			text.es="Sonido DSP: ZOOM ZSG-2 DSP, TMS57002 DSP"
+			text.it="DSP audio: ZOOM ZSG-2 DSP, TMS57002 DSP"/>
+			
+		<text name="info7" extra="true"
+			text="Resolution : 256x224, 740x480"
+			text.fr="Resolution : 256x224, 740x480"
+			text.de="Auflösung: 256x224, 740x480"
+			text.es="Resolución: 256x224, 740x480"
+			text.it="Risoluzione: 256x224, 740x480"/>			
+		
+		<text name="info8" extra="true"
+			text="First game: Chaos Heat"
+			text.fr="Premier jeu : Chaos Heat"
+			text.de="Erstes Spiel: Chaos Heat"
+			text.es="Primer juego: Chaos Heat"
+			text.it="Primo gioco: Chaos Heat"/>
+
+		<text name="info9" extra="true"
+			text="popular games: Ray Crisis, Psyvariar : Medium Unit"
+			text.fr="jeux populaires : Ray Crisis, Psyvariar : Medium Unit"
+			text.de="Beliebte Spiele: Ray Crisis, Psyvariar : Medium Unit"
+			text.es="juegos populares: Ray Crisis, Psyvariar : Medium Unit"
+			text.it="giochi popolari: Ray Crisis, Psyvariar : Medium Unit"/>
+			
+		<text name="info10" extra="true"
+			text="Find all the Taito G-net Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade Taito G-net."
+			text.de="Hier finden Sie alle Taito G-net Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de Taito G-net."
+			text.it="Trova tutti i giochi arcade Taito G-net."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">	
+		<image name="band1" extra="true" color="9a9a9a"/>
+		<image name="band2" extra="true" color="000000"/>
+		<image name="band3" extra="true" color="FFFFFF"/>
+		<image name="band4" extra="true" color="127bca"/>
+	</view>	
+</theme>

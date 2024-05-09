@@ -1,6 +1,11 @@
-<theme name="Dashboards-X" recalbox="9.2" version="0.6" compatibility="hdmi, crt" resolutions="fhd, hd">
-	<formatVersion>5</formatVersion>	
-	<include>./theme-defaults.xml</include>
-	<include>./data/config.xml</include>
+<theme name="Dashboards-X" recalbox="9.2" version="0.7" compatibility="hdmi, crt, jamma" resolutions="fhd, hd, qvga, vga">
+	<formatVersion>5</formatVersion>
+	
+	<include if="hd | fhd">./theme-defaults.xml</include>
+	<include if="hd | fhd">./data/config.xml</include>
+	
+	<include if="crt | jamma">./theme-crt.xml</include>
+	<include if="crt | jamma">./data/config-crt.xml</include>
+	
 	<include>./$system/custom.xml</include>	
 </theme>

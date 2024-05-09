@@ -4,7 +4,7 @@
 	<view name="detailed">
 	
 	<textlist name="gamelist" pos="0.035 0.15" size="0.20 0.75" fontPath="./data/fonts/Xbox Original Bold.ttf" fontSize="0.025"
-			selectorColor="ffffff" selectedColor="000000" selectorImagePath="./data/arts/xbox_tile.svg" primaryColor="8ca700" secondaryColor="ffffff" alignment="left" horizontalMargin="0.015" lineSpacing="5.5"/>
+			selectorColor="ffffff" selectedColor="000000" selectorImagePath="./data/arts/xbox_tile.svg" primaryColor="8ca700" secondaryColor="ffffff" alignment="left" horizontalMargin="0.015" lineSpacing="2"/>
 	
 	<image name="logo" pos="0.699 0.166" origin="1 0" Size="0.20 0.06" disabled="true"/>
 	

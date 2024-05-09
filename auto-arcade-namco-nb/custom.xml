@@ -1,0 +1,65 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Created in 1993"
+			text.fr="Crée en 1993"
+			text.de="Erstellt im Jahr 1993"
+			text.es="Fundada en 1955"
+			text.it="Creado en 1993"/>
+
+		<text name="info2" extra="true"
+			text="CPU: Motorola 68EC020 32-bit @ 24.192 MHz"/>
+			
+		<text name="info3" extra="true"
+			text="Sound CPU: Namco C75 (M37702 based 16-bit) @ 16.128 MHz"
+			text.fr="Processeur audio: Namco C75 (16 bits basé sur M37702) à 16,128 MHz"
+			text.de="Sound-CPU: Namco C75 (M37702 basiert 16-Bit) bei 16,128 MHz"
+			text.es="CPU de sonido: Namco C75 (basado en M37702 de 16 bits) a 16,128 MHz"
+			text.it="Suono CPU: Namco C75 (basato su M37702 a 16 bit) a 16,128 MHz"/>
+			
+		<text name="info4" extra="true"
+			text="Sound chip: Namco C352 32 channel 42KHz stereo"
+			text.fr="Puce sonore: Namco C352 32 canaux stéréo 42KHz"
+			text.de="Soundchip: Namco C352 32 Kanal 42KHz Stereo"
+			text.es="Chip de sonido: Namco C352 estéreo de 32 canales y 42 KHz"
+			text.it="Chip audio: stereo Namco C352 a 32 canali 42 KHz"/>			
+			
+		<text name="info5" extra="true"
+			text="Custom Graphics Chips : GFX:123,145,156,C116 - Motion Objects:C355,187,C347"
+			text.fr="Puces vidéo : GFX : 123,145,156, C116 - Objets de mouvement : C355,187, C347"
+			text.de="Benutzerdefinierte Grafikchips: GFX:123,145,156,C116 – Bewegungsobjekte:C355,187,C347"
+			text.es="Chips gráficos personalizados: GFX:123,145,156,C116 - Objetos en movimiento:C355,187,C347"
+			text.it="Chip grafici personalizzati: GFX:123,145,156,C116 - Oggetti in movimento:C355,187,C347"/>
+			
+		<text name="info6" extra="true"
+			text="First game: Great Sluggers '93"
+			text.fr="Premier jeu : Great Sluggers '93"
+			text.de="Erstes Spiel: Great Sluggers '93"
+			text.es="Primer juego: Great Sluggers '93"
+			text.it="Primo gioco: Great Sluggers '93"/>
+
+		<text name="info7" extra="true"
+			text="popular games: Point Blank, Nebulas Ray"
+			text.fr="jeux populaires : Point Blank, Nebulas Ray"
+			text.de="Beliebte Spiele: Point Blank, Nebulas Ray"
+			text.es="juegos populares: Point Blank, Nebulas Ray"
+			text.it="giochi popolari: Point Blank, Nebulas Ray"/>
+			
+		<text name="info8" extra="true"
+			text="Find all the Namco NB Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade Namco NB."
+			text.de="Hier finden Sie alle Namco NB Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de Namco NB."
+			text.it="Trova tutti i giochi arcade Namco NB."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="e50308"/>
+		<image name="band2" extra="true" color="fc363a"/>
+		<image name="band3" extra="true" color="000000"/>
+		<image name="band4" extra="true" color="FFFFFF"/>
+	</view>	
+</theme>

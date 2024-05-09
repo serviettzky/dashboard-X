@@ -1,0 +1,83 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Created in 1994"
+			text.fr="Crée en 1994"
+			text.de="Erstellt im Jahr 1994"
+			text.es="Fundada en 1994"
+			text.it="Creado en 1994"/>
+		
+		<text name="info2" extra="true" 	
+			text="Production: 1994 - 2001"
+			text.fr="Production: 1994 - 2001"
+			text.de="Produktion: 1994 - 2001"
+			text.es="Producción: 1994 - 2001"
+			text.it="Produzione: 1994 - 2001"/>
+			
+		<text name="info3" extra="true" 	
+			text="The system is based on the Playstation architecture"
+			text.fr="Le systeme est basée sur l'architecture Playstation"
+			text.de="Das System basiert auf der Playstation Architektur"
+			text.es="El sistema está basado en la arquitectura Playstation."
+			text.it="Il sistema è basato sull'architettura Playstation"/>
+			
+		<text name="info4" extra="true"
+			text="CPU: LSI Logic R3000A RISC 32 bit MIPS at 33.868 MHz"
+			text.fr="CPU : LSI Logic R3000A RISC 32 bit MIPS à 33,868 MHz"
+			text.de="CPU: LSI Logic R3000A RISC 32 Bit MIPS bei 33,868 MHz"
+			text.es="CPU: LSI Logic R3000A RISC MIPS de 32 bits a 33,868 MHz"
+			text.it="CPU: LSI Logic R3000A RISC MIPS a 32 bit a 33,868 MHz"/>
+			
+		<text name="info5" extra="true"
+			text="GPU: CXD8561CQ, RAM: 2 MB, 360,000 polygons per second"
+			text.fr="GPU : CXD8561CQ, RAM : 2 Mo, 360 000 polygones par seconde"
+			text.de="GPU: CXD8561CQ, RAM: 2 MB, 360.000 Polygone pro Sekunde"
+			text.es="GPU: CXD8561CQ, RAM: 2 MB, 360.000 polígonos por segundo"
+			text.it="GPU: CXD8561CQ, RAM: 2 MB, 360.000 poligoni al secondo"/>
+			
+		<text name="info6" extra="true"
+			text="Sound: Namco C76 (based on a Mitsubishi M37702) at 16.384 MHz"
+			text.fr="Son : Namco C76 (basé sur un Mitsubishi M37702) à 16,384 MHz"
+			text.de="Sound: Namco C76 (basierend auf einem Mitsubishi M37702) mit 16,384 MHz"
+			text.es="Sonido: Namco C76 (basado en un Mitsubishi M37702) a 16.384 MHz"
+			text.it="Suono: Namco C76 (basato su Mitsubishi M37702) a 16.384 MHz"/>
+			
+		<text name="info7" extra="true"
+			text="Resolution : 256x224, 740x480"
+			text.fr="Resolution : 256x224, 740x480"
+			text.de="Auflösung: 256x224, 740x480"
+			text.es="Resolución: 256x224, 740x480"
+			text.it="Risoluzione: 256x224, 740x480"/>			
+		
+		<text name="info8" extra="true"
+			text="First game: Tekken"
+			text.fr="Premier jeu : Tekken"
+			text.de="Erstes Spiel: Tekken"
+			text.es="Primer juego: Tekken"
+			text.it="Primo gioco: Tekken"/>
+
+		<text name="info9" extra="true"
+			text="popular games: Soul Edge, Tekken 2, Point Blank 2"
+			text.fr="jeux populaires : Soul Edge, Tekken 2, Point Blank 2"
+			text.de="Beliebte Spiele: Soul Edge, Tekken 2, Point Blank 2"
+			text.es="juegos populares: Soul Edge, Tekken 2, Point Blank 2"
+			text.it="giochi popolari: Soul Edge, Tekken 2, Point Blank 2"/>
+			
+		<text name="info10" extra="true"
+			text="Find all the Namco System 11 Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade Namco System 11."
+			text.de="Hier finden Sie alle Namco System 11 Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de Namco System 11."
+			text.it="Trova tutti i giochi arcade Namco System 11."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="e50308"/>
+		<image name="band2" extra="true" color="fc363a"/>
+		<image name="band3" extra="true" color="000000"/>
+		<image name="band4" extra="true" color="FFFFFF"/>
+	</view>	
+</theme>

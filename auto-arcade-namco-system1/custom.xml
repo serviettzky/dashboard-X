@@ -1,0 +1,65 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Created in 1987"
+			text.fr="Crée en 1987"
+			text.de="Erstellt im Jahr 1987"
+			text.es="Fundada en 1955"
+			text.it="Creado en 1987"/>
+		
+		<text name="info2" extra="true" 	
+			text="Production: 1987 - 1990"
+			text.fr="Production: 1987 - 1990"
+			text.de="Produktion: 1987 - 1990"
+			text.es="Producción: 1987 - 1990"
+			text.it="Produzione: 1987 - 1990"/>
+			
+		<text name="info3" extra="true"
+			text="CPU : Motorola M6809 @ 2.048 MHz"/>
+			
+		<text name="info4" extra="true"
+			text="Sound : Motorola M6809 @ 1.536 MHz"
+			text.fr="Son : Motorola M6809 à 1,536 MHz"
+			text.de="Ton: Motorola M6809 bei 1,536 MHz"
+			text.es="Sonido: Motorola M6809 @ 1.536 MHz"
+			text.it="Suono: Motorola M6809 a 1.536 MHz"/>
+			
+		<text name="info5" extra="true"
+			text="Resolution : 288x224"
+			text.fr="Resolution : 288x224"
+			text.de="Auflösung: 288x224"
+			text.es="Resolución: 288x224"
+			text.it="Risoluzione: 288x224"/>			
+		
+		<text name="info6" extra="true"
+			text="First game: Blazer"
+			text.fr="Premier jeu : Blazer"
+			text.de="Erstes Spiel: Blazer"
+			text.es="Primer juego: Blazer"
+			text.it="Primo gioco: Blazer"/>
+
+		<text name="info7" extra="true"
+			text="popular games: Splatterhouse, Pac-Mania"
+			text.fr="jeux populaires : Splatterhouse, Pac-Mania"
+			text.de="Beliebte Spiele: Splatterhouse, Pac-Mania"
+			text.es="juegos populares: Splatterhouse, Pac-Mania"
+			text.it="giochi popolari: Splatterhouse, Pac-Mania"/>
+			
+		<text name="info8" extra="true"
+			text="Find all the Namco System 1 Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade Namco System 1."
+			text.de="Hier finden Sie alle Namco System 1 Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de Namco System 1."
+			text.it="Trova tutti i giochi arcade Namco System 1."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="e50308"/>
+		<image name="band2" extra="true" color="fc363a"/>
+		<image name="band3" extra="true" color="000000"/>
+		<image name="band4" extra="true" color="FFFFFF"/>
+	</view>	
+</theme>

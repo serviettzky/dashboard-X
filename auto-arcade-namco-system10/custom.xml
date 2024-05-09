@@ -1,0 +1,79 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Created in 1996"
+			text.fr="Crée en 1996"
+			text.de="Erstellt im Jahr 1996"
+			text.es="Fundada en 1996"
+			text.it="Creado en 1996"/>
+		
+		<text name="info2" extra="true" 	
+			text="Production: 1996 - 2006"
+			text.fr="Production: 1996 - 2006"
+			text.de="Produktion: 1996 - 2006"
+			text.es="Producción: 1996 - 2006"
+			text.it="Produzione: 1996 - 2006"/>
+			
+		<text name="info2" extra="true" 	
+			text="The system is based on the Playstation architecture"
+			text.fr="Le systeme est basée sur l'architecture Playstation"
+			text.de="Das System basiert auf der Playstation Architektur"
+			text.es="El sistema está basado en la arquitectura Playstation."
+			text.it="Il sistema è basato sull'architettura Playstation"/>
+			
+		<text name="info3" extra="true"
+			text="CPU : R3000A 32 bit RISC, Cache : 4KB, RAM : 2MB"/>
+			
+		<text name="info3" extra="true"
+			text="GPU: CXD8561CQ, RAM: 2 MB, 360,000 polygons per second"
+			text.fr="GPU : CXD8561CQ, RAM : 2 Mo, 360 000 polygones par seconde"
+			text.de="GPU: CXD8561CQ, RAM: 2 MB, 360.000 Polygone pro Sekunde"
+			text.es="GPU: CXD8561CQ, RAM: 2 MB, 360.000 polígonos por segundo"
+			text.it="GPU: CXD8561CQ, RAM: 2 MB, 360.000 poligoni al secondo"/>
+			
+		<text name="info4" extra="true"
+			text="Sound: CXD2938Q 24 channel ADPCM"
+			text.fr="Son : CXD2938Q 24 canaux ADPCM"
+			text.de="Sound: CXD2938Q 24-Kanal ADPCM"
+			text.es="Sonido: CXD2938Q ADPCM de 24 canales"
+			text.it="Suono: CXD2938Q ADPCM a 24 canali"/>
+			
+		<text name="info5" extra="true"
+			text="Resolution : 256x224, 740x480"
+			text.fr="Resolution : 256x224, 740x480"
+			text.de="Auflösung: 256x224, 740x480"
+			text.es="Resolución: 256x224, 740x480"
+			text.it="Risoluzione: 256x224, 740x480"/>			
+		
+		<text name="info6" extra="true"
+			text="First game: Taiko no Tatsujin"
+			text.fr="Premier jeu : Taiko no Tatsujin"
+			text.de="Erstes Spiel: Taiko no Tatsujin"
+			text.es="Primer juego: Taiko no Tatsujin"
+			text.it="Primo gioco: Taiko no Tatsujin"/>
+
+		<text name="info7" extra="true"
+			text="popular games: Mr. Driller 2, Point Blank 3"
+			text.fr="jeux populaires : Mr. Driller 2, Point Blank 3"
+			text.de="Beliebte Spiele: Mr. Driller 2, Point Blank 3"
+			text.es="juegos populares: Mr. Driller 2, Point Blank 3"
+			text.it="giochi popolari: Mr. Driller 2, Point Blank 3"/>
+			
+		<text name="info8" extra="true"
+			text="Find all the Namco System 10 Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade Namco System 10."
+			text.de="Hier finden Sie alle Namco System 10 Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de Namco System 10."
+			text.it="Trova tutti i giochi arcade Namco System 10."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="e50308"/>
+		<image name="band2" extra="true" color="fc363a"/>
+		<image name="band3" extra="true" color="000000"/>
+		<image name="band4" extra="true" color="FFFFFF"/>
+	</view>	
+</theme>

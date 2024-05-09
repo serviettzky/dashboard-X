@@ -71,4 +71,10 @@
 		<image name="band3" color="8A8C8E"/>
 		<image name="band4" color="232323"/>
 	</view>
+	
+	<view name="detailed">	
+
+	<image name="bezel" extra="true" disabled="true"/>
+		
+	</view>
 </theme>

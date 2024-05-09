@@ -77,10 +77,15 @@
 	<view name="detailed">
 	
 	<image name="consolegame" extra="true" disabled="true"/>
-	<video name="md_video" pos="0.502 0.49" size="0.274 0.271" origin="0.5 0.5" zIndex="8"/>
-	<image name="md_image" pos="0.858 0.810" maxSize="0.26 0.26" origin="0.5 0.5" zIndex="8"/>	
 	<image name="bezel" extra="true" disabled="true"/>
-	<image name="console" extra="true" pos="0.5 0.5" maxSize="0.5 0.6" origin="0.5 0.5" path="./data/console.svg" zIndex="9"/>
+	
+	<video name="md_video" if="hd | fhd" pos="0.502 0.49" size="0.274 0.271" origin="0.5 0.5" zIndex="8"/>
+	<image name="md_image" if="hd | fhd" pos="0.858 0.810" maxSize="0.26 0.26" origin="0.5 0.5" zIndex="8"/>
+	<image name="console" if="hd | fhd" extra="true" pos="0.5 0.5" maxSize="0.5 0.6" origin="0.5 0.5" path="./data/console.svg" zIndex="9"/>
+	
+	<video name="md_video" if="crt | jamma" pos="0.756 0.291" size="0.246 0.189" origin="0.5 0.5" zIndex="8"/>
+	<image name="md_image" if="crt | jamma" pos="0.756 0.6" maxSize="0.45 0.45" origin="0.5 0.5" zIndex="7"/>
+	<image name="console" if="crt | jamma" extra="true" pos="0.98 0.17" maxSize="0.45 0.45" origin="1 0" path="./data/console.svg" zIndex="9"/>
 	
 	</view>
 	

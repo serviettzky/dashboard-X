@@ -55,4 +55,11 @@
 		<image name="band3" color="d7d8d7"/>
 		<image name="band4" color="3f3f40"/>
 	</view>
+	
+	<view name="detailed">	
+
+	<image name="bezel" extra="true" disabled="true"/>
+	<video name="md_video" if="crt | jamma" pos="0.85 0.318" size="0.192 0.241" origin="0.5 0.5" zIndex="8"/>
+	
+	</view>
 </theme>

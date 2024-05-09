@@ -1,0 +1,41 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Created in 1992"
+			text.fr="Crée en 1992"
+			text.de="Erstellt im Jahr 1992"
+			text.es="Fundada en 1955"
+			text.it="Creado en 1992"/>
+
+
+		<text name="info2" extra="true"
+			text="CPU : Motorola 68000 @ 12,52825 MHz"/>
+			
+		<text name="info3" extra="true"
+			text="Sound : Mitsubishi M37702 @ 12,528 25 MHz"/>
+			
+		<text name="info4" extra="true"
+			text="Resolution: 304x224 8192 colors"
+			text.fr="Resolution : 304x224 8192 couleurs"
+			text.de="Auflösung: 304x224 8192 Farben"
+			text.es="Resolución: 304x224 8192 colores"
+			text.it="Risoluzione: 304x224 8192 colori"/>
+
+		<text name="info5" extra="true"
+			text="Find all the Namco NA Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade Namco NA."
+			text.de="Hier finden Sie alle Namco NA Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de Namco NA."
+			text.it="Trova tutti i giochi arcade Namco NA."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="e50308"/>
+		<image name="band2" extra="true" color="fc363a"/>
+		<image name="band3" extra="true" color="000000"/>
+		<image name="band4" extra="true" color="FFFFFF"/>
+	</view>	
+</theme>

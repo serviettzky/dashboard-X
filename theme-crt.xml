@@ -1,0 +1,69 @@
+<theme>
+	<formatVersion>5</formatVersion>
+	
+	<view name="menu, system, detailed, gameclip">
+	
+		<helpsystem name="help"
+			
+			fontPath="./data/arts/fonts/ModernDOS8x8.ttf" fontSize="0.05" textColor="a8db7f" iconColor="a8db7f"/>
+			
+	</view>
+	
+	<view name="menu">
+	
+		<menuText name="menufooter" fontPath="./data/fonts/ModernDOS8x8.ttf" fontSize="0.05" color="a8db7f"/>
+		
+		<menuText name="menutext" fontPath="./data/fonts/ModernDOS8x8.ttf" fontSize="0.05" color="a8db7f"
+		separatorColor="1a650a" selectorColor="1a650a" selectedColor="000000"/>
+		
+		<menuTextSmall name="menutextsmall" fontPath="./data/fonts/ModernDOS8x8.ttf" fontSize="0.05" color="a8db7f"/>
+		
+		<menuText name="menutitle" fontPath="./data/fonts/ModernDOS8x8.ttf" fontSize="0.06" color="a8db7f"/>
+		
+		<menuBackground name="menubg" color="0d4403AA" path="./data/borderframe.png" fadePath="./data/arts/fade.png"/>
+		
+	</view>
+	
+	<view name="system, detailed">		
+		
+		<image name="background" extra="true" pos="0 0" size="1 1" path="./data/arts/background480p.png" zIndex="0"/>			
+		<image name="logo" path="./$system/data/logo.svg"/>
+		<box name="mask" extra="true" pos="0 1" size="1 0.1" origin="0 1" colorTop="00000000" colorBottom="000000" zIndex="3"/>
+		
+		<image name="arcadecab" extra="true" path="./$system/data/arcadecab.svg"/>
+		<image name="consolegame" extra="true" path="./$system/data/consolegame.svg"/>
+		<image name="consolegame" extra="true" path="./$system/data/eu/consolegame.svg" region="eu"/>
+		<image name="consolegame" extra="true" path="./$system/data/us/consolegame.svg" region="us"/>
+		<image name="consolegame" extra="true" path="./$system/data/jp/consolegame.svg" region="jp"/>
+		
+	</view>
+	
+	<view name="system">
+	
+		<carousel name="systemcarousel" type="vertical" pos="0.50 0.44" size="0.4 0.6" origin="0 0.5" color="ffffff00" fontPath="./data/fonts/ModernDOS8x8.ttf"
+				logoSize="0.3 0.1" logoAlignment="left" logoScale="1.2" maxLogoCount="3" defaultTransition="instant"/>
+				
+		<text name="systemInfo" backgroundColor="0d440300" fontPath="./data/fonts/ModernDOS8x8.ttf" fontSize="0.048" alignment="center" pos="0.1 0.52" size="0.8 0.06" color="a8db7f" zIndex="10"/>
+		
+		<image name="consolegame, arcadecab" extra="true" origin="0.5 0.5" pos="0.35 0.4" maxSize="0.228 0.316"/>
+		
+	</view>
+	
+	
+	<view name="detailed">
+	
+	<textlist name="gamelist" fontPath="./data/fonts/ModernDOS8x8.ttf" selectorImagePath="./data/arts/xbox_tile.svg"/>	
+	<image name="bezel" path="./data/arts/bezel.png" zIndex="9"/>
+	
+	<text name="md_description" fontPath="./data/fonts/ModernDOS8x8.ttf" color="a8a8a8"/>
+	<text name="md_lbl_developer, md_lbl_publisher, md_lbl_players, md_lbl_releasedate" fontPath="./data/fonts/ModernDOS8x8.ttf" color="a8a8a8"/>
+	
+	<text name="md_developer, md_publisher, md_players" fontPath="./data/fonts/ModernDOS8x8.ttf" color="a8a8a8"/>
+	
+	<datetime name="md_releasedate" fontPath="./data/fonts/ModernDOS8x8.ttf" color="a8a8a8"/>
+	
+	<rating name="md_rating" filledPath="./$system/data/icon_filled.svg" unfilledPath="./$system/data/icon_empty.svg"/>
+	
+	</view>
+	
+</theme>

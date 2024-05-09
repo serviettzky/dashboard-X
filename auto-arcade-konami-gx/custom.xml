@@ -1,0 +1,47 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"
+			text="Released in 1994"
+			text.fr="Sortie en 1994"
+			text.de="Veröffentlicht im Jahr 1994"
+			text.es="Lanzado en 1994"
+			text.it="Rilasciato nel 1994"/>
+
+		<text name="info2" extra="true"
+			text="Wiring standard : JAMMA"
+			text.fr="Norme de câblage : JAMMA"
+			text.de="Verkabelungsstandard: JAMMA"
+			text.es="Estándar de cableado: JAMMA"
+			text.it="Norma di cablaggio: JAMMA"/>
+
+		<text name="info3" extra="true"
+			text="CPU : Motorola 68020 @ 24 MHz"/>
+
+		<text name="info4" extra="true"
+			text="Resolution : 15k"/>
+		
+		<text name="info5" extra="true"
+			text="well-known games: Fantastic Journey, Twin Bee Yahhoo!, Run And Gun 2"
+			text.fr="jeux connus : Fantastic Journey, Twin Bee Yahhoo!, Run And Gun 2"
+			text.de="bekannte Spiele: Fantastic Journey, Twin Bee Yahhoo!, Run And Gun 2"
+			text.es="juegos conocidos: Fantastic Journey, Twin Bee Yahoo!, Run And Gun 2"
+			text.it="giochi famosi: Fantastic Journey, Twin Bee Yahhoo!, Run And Gun 2"/>
+			
+		<text name="info6" extra="true"
+			text="Find all the Konami GX Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade Konami GX."
+			text.de="Hier finden Sie alle Konami GX Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de Konami GX."
+			text.it="Trova tutti i giochi arcade Konami GX."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="F80000"/>
+		<image name="band2" extra="true" color="eb3d39"/>
+		<image name="band3" extra="true" color="8e8c8c"/>
+		<image name="band4" extra="true" color="FFFFFF"/>
+	</view>	
+</theme>
