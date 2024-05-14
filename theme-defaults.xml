@@ -24,13 +24,13 @@
 
 	<view name="gameclip">
 	
-	<image name="backgroundalpha" extra="true" pos="0 0" size="1 1" path="./data/arts/background_alpha.png" zIndex="2"/>	
+	<image name="backgroundalpha" extra="true" pos="0 0" size="1 1" path="./data/arts/background_alpha.png" zIndex="1"/>	
 	
 	</view>
 	
-	<view name="system, detailed">		
+	<view name="system, detailed">			
 		
-		<image name="background" extra="true" pos="0 0" size="1 1" path="./data/arts/background.png" zIndex="1" color="ffffff"/>	
+		<image name="background" extra="true" pos="0 0" size="1 1" path="./data/arts/background.png" zIndex="0"/>	
 		<image name="arcadecab" extra="true" path="./$system/data/arcadecab.svg"/>
 		<image name="consolegame" extra="true" path="./$system/data/consolegame.svg"/>
 		<image name="consolegame" extra="true" path="./$system/data/eu/consolegame.svg" region="eu"/>
@@ -39,13 +39,13 @@
 		
 		<image name="logo" path="./$system/data/logo.svg"/>	
 		
-		<box name="mask" extra="true" pos="0 1" size="1 0.1" origin="0 1" colorTop="00000000" colorBottom="000000" zIndex="3"/>
+		<box name="mask" extra="true" pos="0 1" size="1 0.1" origin="0 1" colorTop="00000000" colorBottom="000000" zIndex="1"/>
 	</view>
 	
 	<view name="system">	
 		
 				
-		<image name="xboxsystemheader" extra="true" path="./data/arts/xbox_systemheader.svg" zIndex="6"/>
+		<image name="xboxsystemheader" extra="true" path="./data/arts/xbox_systemheader.svg" zIndex="1"/>
 		
 		<text name="md_lbl_systeminfo" extra="true" pos="0.14 0.138 " size="0.12 0.016" origin="1 1" fontPath="./data/fonts/SST Bold.ttf" fontSize="0.015" alignment="right"  color="8ca700"
 		text="SYSTEM INFO" text.fr="INFORMATION SYSTEME"/>

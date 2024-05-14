@@ -40,19 +40,19 @@
 	
 	<view name="system">
 	
-		<carousel name="systemcarousel" type="vertical" pos="0.50 0.44" size="0.4 0.6" origin="0 0.5" color="ffffff00" fontPath="./data/fonts/Sneak Attack.ttf"
-				logoSize="0.3 0.1" logoAlignment="left" logoScale="1.2" maxLogoCount="3" defaultTransition="instant"/>
+		<carousel name="systemcarousel" type="vertical" color="ffffff00" fontPath="./data/fonts/Sneak Attack.ttf" />
 				
-		<text name="systemInfo" backgroundColor="0d440300" fontPath="./data/fonts/Sneak Attack.ttf" fontSize="7" alignment="center" pos="0.1 0.52" size="0.8 0.06" color="a8db7f" zIndex="10"/>
+		<text name="systemInfo" backgroundColor="0d440300" fontPath="./data/fonts/Sneak Attack.ttf" fontSize="7" zIndex="10"/>
 		
-		<image name="consolegame, arcadecab" extra="true" origin="0.5 0.5" pos="0.35 0.4" maxSize="0.228 0.316"/>
+		<image name="consolegame, arcadecab" extra="true"/>
 		
 	</view>
 	
 	
 	<view name="detailed">
 	
-	<image name="infosheadercrt" extra="true" origin="0.1 1" pos="0 0.97" size="1 0.38" path="./data/arts/Xbox_infosheadercrt.svg" zIndex="1" color="ffffff"/>
+	<image name="infosheadercrt" extra="true" path="./data/arts/Xbox_infosheadercrt.svg" zIndex="1"/>
+	<image name="infosheadertatecrt" extra="true" path="./data/arts/Xbox_infosheadertatecrt.svg" zIndex="2"/>
 	
 	<textlist name="gamelist" fontPath="./data/fonts/Sneak Attack.ttf" selectorImagePath="./data/arts/xbox_tile.svg"/>	
 	<image name="bezel" path="./data/arts/bezel.png" zIndex="9"/>

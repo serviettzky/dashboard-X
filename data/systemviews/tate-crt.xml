@@ -1,0 +1,15 @@
+<theme>
+	 <formatVersion>5</formatVersion>
+	 
+	<view name="system">
+	
+		<carousel name="systemcarousel" pos="0.50 0.44" size="0.5 0.6" origin="0 0.5" logoSize="0.36 0.12" logoAlignment="left" logoScale="1.2" maxLogoCount="5" defaultTransition="instant"/>				
+		
+		<text name="systemInfo" alignment="center" pos="0.1 0.82" size="0.8 0.06" color="a8db7f"/>
+		
+		<image name="consolegame, arcadecab" extra="true" origin="0.5 0.5" pos="0.25 0.48" maxSize="0.228 0.316"/>		
+			
+	
+		
+	</view>
+</theme>

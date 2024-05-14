@@ -10,6 +10,9 @@
 	
 	<image name="consolegame, arcadecab" extra="true" disabled="true"/>
 	
+	<image name="infosheadercrt" extra="true" origin="0.1 1" pos="0 0.97" size="1 0.38" color="ffffff"/>
+	<image name="infosheadertatecrt" extra="true" disabled="true"/>
+	
 	<video name="md_video" pos="0.95 0.17" maxSize="0.4 0.4" origin="1 0" zIndex="2"/>
 	<image name="md_image" pos="0.94 0.64" maxSize="0.31 0.31" origin="1 0" zIndex="5"/>
 	<image name="bezel" extra="true" pos="0.95 0.17" maxSize="0.41 0.41" origin="1 0"/>
