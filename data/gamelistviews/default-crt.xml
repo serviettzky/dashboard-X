@@ -4,29 +4,29 @@
 	<view name="detailed">	
 	
 	<textlist name="gamelist" pos="0.04 0.17" size="0.46 0.42" fontSize="7"
-			selectorColor="ffffff" selectedColor="a8a8a8" primaryColor="8ca700" secondaryColor="ffffff" alignment="center" horizontalMargin="0.01" lineSpacing="2" selectorOffsetY="0.005"/>
+			selectorColor="ffffff" selectedColor="a8a8a8" primaryColor="8ca700" secondaryColor="ffffff" alignment="center" horizontalMargin="0.015" lineSpacing="2" selectorOffsetY="0.01"/>
 	
 	<image name="logo" pos="0.5 0.18" size="0.35 0.18" origin="0.5 0.5"/>
 	
 	<image name="consolegame, arcadecab" extra="true" disabled="true"/>
 	
 	<video name="md_video" pos="0.95 0.17" maxSize="0.4 0.4" origin="1 0" zIndex="2"/>
-	<image name="md_image" pos="0.95 0.6" maxSize="0.34 0.34" origin="1 0" zIndex="1"/>
+	<image name="md_image" pos="0.94 0.64" maxSize="0.31 0.31" origin="1 0" zIndex="5"/>
 	<image name="bezel" extra="true" pos="0.95 0.17" maxSize="0.41 0.41" origin="1 0"/>
 	
 	
-	<text name="md_lbl_developer" pos="0.045 0.71" size="0.3 0.05" fontSize="0.048" alignment="left" forceUppercase="1"/>
-	<text name="md_lbl_publisher" pos="0.045 0.76" size="0.3 0.05" fontSize="0.048" alignment="left" forceUppercase="1"/>
-	<text name="md_lbl_releasedate" pos="0.045 0.66" size="0.2 0.05" fontSize="0.048" alignment="left" forceUppercase="1"/>
-	<text name="md_lbl_players" pos="0.045 0.61" size="0.2 0.05" fontSize="0.048" alignment="left" forceUppercase="1"/>
+	<text name="md_lbl_developer" pos="0.05 0.72" size="0.3 0.05" fontSize="8" alignment="left" forceUppercase="1"/>
+	<text name="md_lbl_publisher" pos="0.05 0.77" size="0.3 0.05" fontSize="8" alignment="left" forceUppercase="1"/>
+	<text name="md_lbl_releasedate" pos="0.05 0.67" size="0.2 0.05" fontSize="8" alignment="left" forceUppercase="1"/>
+	<text name="md_lbl_players" pos="0.05 0.62" size="0.2 0.05" fontSize="8" alignment="left" forceUppercase="1"/>
 	
-	<datetime name="md_releasedate" pos="0.25 0.66" size="0.3 0.05" fontSize="0.048" alignment="center"/>
+	<datetime name="md_releasedate" pos="0.2 0.66" size="0.35 0.05" fontSize="7" alignment="right"/>
 	
-	<text name="md_developer" pos="0.25 0.71" size="0.3 0.05" fontSize="0.048" alignment="center" forceUppercase="1"/>
-	<text name="md_players" pos="0.25 0.61" size="0.3 0.05" fontSize="0.048" alignment="center" forceUppercase="1"/>
-	<text name="md_publisher" pos="0.25 0.76" size="0.3 0.05" fontSize="0.048" alignment="center" forceUppercase="1"/>
+	<text name="md_developer" pos="0.25 0.71" size="0.3 0.05" fontSize="8" alignment="right" forceUppercase="1"/>
+	<text name="md_players" pos="0.2 0.61" size="0.35 0.05" fontSize="8" alignment="right" forceUppercase="1"/>
+	<text name="md_publisher" pos="0.2 0.76" size="0.35 0.05" fontSize="8" alignment="right" forceUppercase="1"/>
 	
-	<rating name="md_rating" pos="0.1 0.83" size="0.45 0.1"/>
+	<rating name="md_rating" pos="0.1 0.83" size="0.4 0.07"/>
 	
 	</view>	
 </theme>
