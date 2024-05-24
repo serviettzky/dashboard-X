@@ -31,7 +31,7 @@
 			text.es="Juegos populares: Beatmania; Pop'n usic, TwinBee, Escape Kids..."
 			text.it="Giochi popolari: Beatmania; Pop'n usic, TwinBee, Escape Kids..."/>
 
-		<text name="info6" extra="true"
+		<text name="info5" extra="true"
 			text="Find all KONAMI Arcade Games."
 			text.fr="Retrouvez tous les Jeux d'Arcade KONAMI."
 			text.de="Hier finden Sie alle KONAMI Arcade-Spiele."

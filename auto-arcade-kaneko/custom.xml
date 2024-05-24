@@ -38,7 +38,7 @@
 			text.es="Juegos populares: B.C. Kid, Shogun Warriors"
 			text.it="Giochi popolari: B.C. Kid, Shogun Warriors"/>
 
-		<text name="info7" extra="true"
+		<text name="info6" extra="true"
 			text="Find all the KANEKO Arcade Games."
 			text.fr="Retrouvez tous les Jeux d'Arcade KANEKO."
 			text.de="Hier finden Sie alle KANEKO Arcade-Spiele."

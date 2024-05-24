@@ -38,7 +38,7 @@
 			text.es="Juegos populares: Golden Tee Golf, Street Fighter: The Movie"
 			text.it="Giochi popolari: Golden Tee Golf, Street Fighter: The Movie"/>
 
-		<text name="info7" extra="true"
+		<text name="info6" extra="true"
 			text="Find all the Incredible Technologies Arcade Games."
 			text.fr="Retrouvez tous les Jeux d'Arcade Incredible Technologies."
 			text.de="Hier finden Sie alle Arcade-Spiele von Incredible Technologies."

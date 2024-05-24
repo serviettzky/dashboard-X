@@ -38,7 +38,7 @@
 			text.es="Juegos populares: Bases Loaded, Tetris Plus"
 			text.it="Giochi popolari: Bases Loaded, Tetris Plus"/>
 
-		<text name="info7" extra="true"
+		<text name="info6" extra="true"
 			text="Find all the JALECO Arcade Games."
 			text.fr="Retrouvez tous les Jeux d'Arcade JALECO."
 			text.de="Finden Sie alle JALECO Arcade-Spiele."

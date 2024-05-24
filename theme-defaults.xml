@@ -22,12 +22,6 @@
 		<menuBackground name="menubg" color="0d4403AA" path="./data/borderframe.png" fadePath="./data/arts/fade.png"/>
 	</view>
 
-	<view name="gameclip">
-	
-	<image name="backgroundalpha" extra="true" pos="0 0" size="1 1" path="./data/arts/background_alpha.png" zIndex="1"/>	
-	
-	</view>
-	
 	<view name="system, detailed">			
 		
 		<image name="background" extra="true" pos="0 0" size="1 1" path="./data/arts/background.png" zIndex="0"/>	
@@ -45,16 +39,15 @@
 	<view name="system">	
 		
 				
-		<image name="xboxsystemheader" extra="true" path="./data/arts/xbox_systemheader.svg" zIndex="1"/>
+		<image name="xboxsystemheader" extra="true" path="./data/arts/xbox_systemheader.svg" zIndex="1"/>		
 		
-		<text name="md_lbl_systeminfo" extra="true" pos="0.14 0.138 " size="0.12 0.016" origin="1 1" fontPath="./data/fonts/SST Bold.ttf" fontSize="0.015" alignment="right"  color="8ca700"
-		text="SYSTEM INFO" text.fr="INFORMATION SYSTEME"/>
+		<text name="md_lbl_systeminfo" extra="true" fontPath="./data/fonts/SST Bold.ttf" text="SYSTEM INFO" text.fr="INFORMATION SYSTEME"/>
 		
 	//infos systemes
 		
-		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10," extra="false" size="0.420 0.032" fontPath="./data/fonts/SST Roman.ttf" fontSize="0.02" alignment="left" color="a8a8a8"/>
+		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10, info11" extra="false" fontPath="./data/fonts/SST Roman.ttf"/>
 		
-		<text name="info11" extra="false" size="0.4 0.12" fontPath="./data/fonts/SST Roman.ttf" fontSize="0.02" alignment="top" lineSpacing="1" color="a8a8a8"/>		
+		<text name="info11" extra="false" fontPath="./data/fonts/SST Roman.ttf" lineSpacing="1"/>		
 		
 	</view>
 	

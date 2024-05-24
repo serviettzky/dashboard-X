@@ -1,13 +1,16 @@
 <theme>
     <formatVersion>5</formatVersion>	
 	
-	<include subset="systemview" name="1- Default">./systemviews/default.xml</include>
+	<include if="not tate" subset="systemview" name="1- Default">./systemviews/default.xml</include>
+	<include if="tate" subset="systemview" name="2- Tate">./systemviews/tate.xml</include>
 	
-	<include subset="gamelistview" name="1- Default">./gamelistviews/default.xml</include>
+	<include if="not tate" subset="gamelistview" name="1- Default">./gamelistviews/default.xml</include>
+	<include if="tate" subset="gamelistview" name="2 - Tate">./gamelistviews/tate.xml</include>
 	
 	<include subset="iconset" name="1-XBox">./iconsets/xbox.xml</include>	
 	<include subset="iconset" name="2-Xbox One">./iconsets/xboxone.xml</include>
 	
-	<include subset="gameclipview" name="1 - Default">./gameclipviews/default.xml</include>
+	<include if="not tate" subset="gameclipview" name="1 - Default">./gameclipviews/default.xml</include>
+	<include if="tate" subset="gameclipview" name="2 - Tate">./gameclipviews/tate.xml</include>
 	
 </theme>

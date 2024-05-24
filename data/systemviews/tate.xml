@@ -1,0 +1,33 @@
+<theme>
+	 <formatVersion>5</formatVersion>
+	 
+	<view name="system">
+	
+		<carousel name="systemcarousel" type="vertical" pos="0.52 0.34" size="0.48 0.56" origin="0 0.5" color="ffffff00" fontPath="./data/fonts/Xbox Original Bold.ttf"
+				logoSize="0.35 0.074" logoAlignment="left" logoScale="1.2" maxLogoCount="5" defaultTransition="instant"/>	
+		
+		<text name="systemInfo" backgroundColor="0d440300" fontPath="./data/fonts/SST bold.ttf" fontSize="0.025" Alignment="left" pos="0.2 0.89" size="0.5 0.030" color="a8db7f"/>
+		<image name="consolegame, arcadecab" extra="true" origin="0.5 0.5" pos="0.25 0.34" maxSize="0.3 0.3"/>		
+		
+		<image name="xboxsystemheader" extra="true" pos="0.01 0.65" size="0.9 0.4"/>
+		
+		<text name="md_lbl_systeminfo" extra="true" pos="0.084 0.663 " size="0.2 0.016" fontSize="0.015" alignment="left"  color="8ca700"/>
+		
+	//infos systemes
+		
+		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10, info11" extra="true" size="0.84 0.032"  fontSize="0.02" alignment="left" color="a8a8a8"/>
+		
+		<text name="info1" extra="true" pos="0.075 0.69"/>	
+		<text name="info2" extra="true" pos="0.075 0.71"/>
+		<text name="info3" extra="true" pos="0.075 0.73"/>	
+		<text name="info4" extra="true" pos="0.075 0.75"/>	
+		<text name="info5" extra="true" pos="0.075 0.77"/>	
+		<text name="info6" extra="true" pos="0.075 0.79"/>	
+		<text name="info7" extra="true" pos="0.075 0.81"/>	
+		<text name="info8" extra="true" pos="0.075 0.83"/>	
+		<text name="info9" extra="true" pos="0.075 0.85"/>	
+		<text name="info10" extra="true" pos="0.075 0.87"/>
+		<text name="info11" extra="true" pos="0.075 0.69"/>
+		
+	</view>
+</theme>

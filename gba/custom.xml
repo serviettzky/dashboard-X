@@ -79,6 +79,10 @@
 	<image name="md_image" if="hd | fhd" pos="0.858 0.810" maxSize="0.26 0.26" origin="0.5 0.5" zIndex="8"/>	
 	<image name="console" if="hd | fhd" extra="true" pos="0.5 0.5" maxSize="0.5 0.6" origin="0.5 0.5" path="./data/console.svg" zIndex="9"/>
 	
+	<video name="md_video" if="tate & not crt" pos="0.505 0.236" size="0.356 0.136" origin="0.5 0.5" zIndex="8"/>
+	<image name="md_image" if="tate & not crt" pos="0.737 0.845" maxSize="0.25 0.25" origin="0.5 0.5" zIndex="8"/>	
+	<image name="console" if="tate & not crt" extra="true" pos="0.5 0.25" maxSize="0.8 0.8" origin="0.5 0.5" path="./data/console.svg" zIndex="9"/>
+	
 	<video name="md_video" if="crt | jamma" pos="0.723 0.325" size="0.206 0.185" origin="0.5 0.5" zIndex="8"/>
 	<image name="md_image" if="crt | jamma" pos="0.723 0.325" maxSize="0.206 0.185" origin="0.5 0.5" zIndex="7"/>
 	<image name="console" if="crt | jamma" extra="true" pos="0.95 0.17" maxSize="0.45 0.45" origin="1 0" path="./data/console.svg" zIndex="9"/>

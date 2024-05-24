@@ -1,0 +1,36 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		
+		<text name="info1" extra="true"
+			text="CPU: V30 @ 8 MHz"/>
+
+		<text name="info2" extra="true" 	
+			text="Sound CPU : Z80 @ 3.579545 MHz"/>
+		
+		<text name="info3" extra="true"
+			text="Sound Chip : YM2151 @ 3.579545 MHz"/>
+
+		<text name="info4" extra="true"
+			text="Popular Games: R-Type, X Multiply, Hammerin' Harry"
+			text.fr="Jeux Populaires: R-Type, X Multiply, Hammerin' Harry"
+			text.de="Beliebte Spiele: R-Type, X Multiply, Hammerin' Harry"
+			text.es="Juegos populares: R-Type, X Multiply, Hammerin' Harry"
+			text.it="Giochi popolari: R-Type, X Multiply, Hammerin' Harry"/>
+
+		<text name="info5" extra="true"
+			text="Find all IREM M72 Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade IREM M72"
+			text.de="Finden Sie alle IREM M72 Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de IREM M72."
+			text.it="Trova tutti i giochi Arcade IREM M72."/>
+	</view>
+	
+	<view name="system, detailed, gameclip"> 
+		<image name="band1" extra="true" color="e94b46"/>
+		<image name="band2" extra="true" color="3a459a"/>
+		<image name="band3" extra="true" color="000000"/>
+		<image name="band4" extra="true" color="FFFFFF"/>
+	</view>	
+</theme>

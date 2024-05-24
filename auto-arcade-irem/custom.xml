@@ -37,7 +37,7 @@
 			text.es="Juegos populares: R-Type, In the Hunt, Spelunker"
 			text.it="Giochi popolari: R-Type, In the Hunt, Spelunker"/>
 
-		<text name="info7" extra="true"
+		<text name="info6" extra="true"
 			text="Find all IREM Arcade Games."
 			text.fr="Retrouvez tous les Jeux d'Arcade IREM."
 			text.de="Finden Sie alle IREM Arcade-Spiele."

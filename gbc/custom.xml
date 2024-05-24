@@ -78,9 +78,12 @@
 	<image name="bezel" extra="true" disabled="true"/>
 	
 	<video name="md_video" if="hd | fhd" pos="0.5 0.33" size="0.115 0.177" origin="0.5 0.5" zIndex="8"/>
-	<image name="md_image" if="hd | fhd" pos="0.858 0.810" maxSize="0.26 0.26" origin="0.5 0.5" zIndex="8"/>	
+	<image name="md_image" if="hd | fhd" pos="0.858 0.810" maxSize="0.26 0.26" origin="0.5 0.5" zIndex="8"/>
 	<image name="console" if="hd | fhd" extra="true" pos="0.5 0.5" maxSize="0.5 0.6" origin="0.5 0.5" path="./data/console.svg" zIndex="9"/>
 	
+	<video name="md_video" if="tate & not crt" pos="0.50 0.173" size="0.176 0.087" origin="0.5 0.5" zIndex="8"/>
+	<image name="md_image" if="tate & not crt" pos="0.737 0.845" maxSize="0.25 0.25" origin="0.5 0.5" zIndex="8"/>	
+	<image name="console" if="tate & not crt" extra="true" pos="0.5 0.25" maxSize="0.3 0.3" origin="0.5 0.5" path="./data/console.svg" zIndex="9"/>
 	
 	<video name="md_video" if="crt | jamma" pos="0.778 0.358" size="0.203 0.239" origin="0.5 0.5" zIndex="8"/>
 	<image name="md_image" if="crt | jamma" pos="0.778 0.358" maxSize="0.203 0.239" origin="0.5 0.5" zIndex="7"/>

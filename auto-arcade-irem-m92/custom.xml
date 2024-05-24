@@ -1,0 +1,36 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		
+		<text name="info1" extra="true"
+			text="CPU: V33 @ 9 MHz, V30 @ 7.159090 MHz"/>
+
+		<text name="info2" extra="true" 	
+			text="Sound Chip: YM2151 @ 3.579545 MHz, GA20 @ 3.579545 MHz"/>
+		
+		<text name="info3" extra="true"
+			text="Other Chip: GA21, GA22"/>
+
+		<text name="info4" extra="true"
+			text="Popular Games: In The Hunt, Ninja Baseball Bat Man"
+			text.fr="Jeux Populaires: In The Hunt, Ninja Baseball Bat Man"
+			text.de="Beliebte Spiele: In The Hunt, Ninja Baseball Bat Man"
+			text.es="Juegos populares: In The Hunt, Ninja Baseball Bat Man"
+			text.it="Giochi popolari: In The Hunt, Ninja Baseball Bat Man"/>
+
+		<text name="info5" extra="true"
+			text="Find all IREM M92 Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade IREM M92"
+			text.de="Finden Sie alle IREM M92 Arcade-Spiele."
+			text.es="Encuentra todos los juegos arcade de IREM M92."
+			text.it="Trova tutti i giochi Arcade IREM M92."/>
+	</view>
+	
+	<view name="system, detailed, gameclip"> 
+		<image name="band1" extra="true" color="e94b46"/>
+		<image name="band2" extra="true" color="3a459a"/>
+		<image name="band3" extra="true" color="000000"/>
+		<image name="band4" extra="true" color="FFFFFF"/>
+	</view>	
+</theme>
