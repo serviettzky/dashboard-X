@@ -6,7 +6,7 @@
 		<carousel name="systemcarousel" type="vertical" pos="0.54 0.44" size="0.35 0.46" origin="0 0.5" color="ffffff00" fontPath="./data/fonts/Xbox Original Bold.ttf"
 				logoSize="0.25 0.067" logoAlignment="left" logoScale="1.2" maxLogoCount="3" defaultTransition="instant"/>	
 		
-		<text name="systemInfo" backgroundColor="0d440300" fontPath="./data/fonts/SST bold.ttf" fontSize="0.025" Alignment="left" pos="0.55 0.5" size="0.25 0.030" color="a8db7f"/>
+		<text name="systemInfo" backgroundColor="0d440300" fontPath="./data/fonts/SST bold.ttf" fontSize="0.025" Alignment="center" pos="0.12 0.5" size="0.25 0.030" color="a8db7f"/>
 		<image name="consolegame, arcadecab" extra="true" origin="0.5 0.5" pos="0.23 0.75" maxSize="0.264 0.365"/>		
 		
 		<image name="xboxsystemheader" extra="true" pos="0.002 0.098" Size="0.6 0.4"/>
