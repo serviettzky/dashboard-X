@@ -4,7 +4,7 @@
 
 * ### Compatible a partir de la version 9.2 / Compatible from version 9.2
 
-# V0.7
+# V1.0
 - Add CRT views
 - Add Specific view for Handhelds systems
 - Adjust gamelist on HD views
