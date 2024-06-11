@@ -25,10 +25,6 @@
 
 ![Menuview](https://github.com/serviettzky/dashboard-X/assets/83700961/7c687bed-b65c-490e-8c2c-94bfc3cff043)
 
-# Vue Gameclip / Gameclip View
-
-![gameclipview](https://github.com/serviettzky/dashboard-X/assets/83700961/9d57165f-23a1-463d-a808-ada233a067da)
-
 # Vue TATE système / TATE system View
 
 ![vue tate HD](https://github.com/serviettzky/dashboard-X/assets/83700961/bca2eeb9-0117-45e0-92fd-297f3256bd19)
