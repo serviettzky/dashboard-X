@@ -14,7 +14,7 @@
 
 # Vue Gamelist / Gamelist View
 
-![gamelistview](https://github.com/serviettzky/dashboard-X/assets/83700961/6824f13b-9e09-48c3-a36a-c61c1f6d835d)
+![Vue gamelist](https://github.com/serviettzky/dashboard-X/assets/83700961/c62a3821-b61d-4ec6-983e-80eb60fc292c)
 
 # Vue Gamelist consoles portables / Handhelds Views
 
