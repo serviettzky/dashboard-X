@@ -29,17 +29,29 @@
 
 ![gameclipview](https://github.com/serviettzky/dashboard-X/assets/83700961/9d57165f-23a1-463d-a808-ada233a067da)
 
+# Vue TATE système / TATE system View
+
+![vue tate HD](https://github.com/serviettzky/dashboard-X/assets/83700961/bca2eeb9-0117-45e0-92fd-297f3256bd19)
+
+# Vue TATE gamelist / TATE gamelist View
+
+![vue tate gamelist](https://github.com/serviettzky/dashboard-X/assets/83700961/5fe84c63-e554-47df-9bba-492a9f67b976)
+
 # Vue systeme CRT / System View CRT
 
-![systemview crt](https://github.com/serviettzky/dashboard-X/assets/83700961/772327d9-462c-4ac6-b416-b73d54707170)
+![vue systeme CRT](https://github.com/serviettzky/dashboard-X/assets/83700961/faeb8230-7817-4240-9e5e-b5b2b590300b)
 
 # Vue Gamelist CRT / Gamelist View CRT
 
-![gamelistview crt](https://github.com/serviettzky/dashboard-X/assets/83700961/d696c95d-6434-41b8-b62a-2d3b9dd03ef7)
+![vue gamelist CRT](https://github.com/serviettzky/dashboard-X/assets/83700961/a08a131a-c490-413f-8979-6b0c0f66abca)
 
 # Vue Gamelist consoles portables CRT / Handhelds Views CRT
 
 ![gamelistview handheld](https://github.com/serviettzky/dashboard-X/assets/83700961/4783ac60-83d4-4288-a6db-c36ce558d28a)
+
+# Vue Tate CRT / TATE CRT Views**
+
+![Vue TATE systeme CRT](https://github.com/serviettzky/dashboard-X/assets/83700961/9c5b5be1-37a9-41ac-aaf8-14d04c601144)
 
 
 
