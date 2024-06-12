@@ -1,0 +1,48 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+
+		<text name="info1" extra="true"	
+			text="Founded in 1993"
+			text.fr="Fondée en 1993"
+			text.de="Gegründet 1993"
+			text.es="Fundada en 1993"
+			text.it="Fondata nel 1993"/>
+
+		<text name="info2" extra="true" 	
+			text="Production: 1993 - 2001"
+			text.fr="Production: 1993 - 2001"
+			text.de="Produktion: 1993 - 2001"
+			text.es="Producción: 1993 - 2001"
+			text.it="Produzione: 1993 - 2001"/>
+
+		<text name="info3" extra="true"
+			text="First Game: Mahou Daisakusen"
+			text.fr="Premier Jeu: Mahou Daisakusen"
+			text.de="Erstes Spiel: Mahou Daisakusen"
+			text.es="Primer juego: Mahou Daisakusen"
+			text.it="Primo gioco: Mahou Daisakusen"/>
+
+		<text name="info4" extra="true"
+			text="Popular games: Armed Police Batrider, Kingdom Grandprix"
+			text.fr="Jeux populaires: Armed Police Batrider, Kingdom Grandprix"
+			text.de="Beliebte Spiele: Armed Police Batrider, Kingdom Grandprix"
+			text.es="Juegos populares: Armed Police Batrider, Kingdom Grandprix"
+			text.it="Giochi popolari: Armed Police Batrider, Kingdom Grandprix"/>
+
+		<text name="info5" extra="true"
+			text="Find all the Raizing Arcade Games."
+			text.fr="Retrouvez tous les Jeux d'Arcade Raizing."
+			text.de="Hier finden Sie alle Arcade-Spiele von Raizing."
+			text.es="Encuentra todos los juegos arcade de Raizing."
+			text.it="Trova tutti i giochi arcade Raizing."/>
+	</view>
+	
+	<view name="system, detailed, gameclip">
+		<image name="band1" extra="true" color="fdb813"/>
+		<image name="band2" extra="true" color="000000"/>
+		<image name="band3" extra="true" color="fff500"/>
+		<image name="band4" extra="true" color="ffffff"/>
+	</view>	
+</theme>
