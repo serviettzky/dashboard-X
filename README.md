@@ -6,7 +6,6 @@
 
 # V1.1
 - Add genres logos
-- 
 # V1.0
 - Add CRT views
 - Add Specific view for Handhelds systems
