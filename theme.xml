@@ -1,4 +1,4 @@
-<theme name="Dashboards-X" recalbox="9.2" version="1.0" compatibility="hdmi, crt, jamma" resolutions="fhd, hd, qvga, vga">
+<theme name="Dashboards-X" recalbox="9.2" version="1.1" compatibility="hdmi, crt, jamma" resolutions="fhd, hd, qvga, vga">
 	<formatVersion>5</formatVersion>
 	
 	<include if="hd | fhd">./theme-defaults.xml</include>
