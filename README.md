@@ -4,6 +4,8 @@
 
 * ### Compatible a partir de la version 9.2 / Compatible from version 9.2
 
+# V1.1
+- Add genres logos
 # V1.0
 - Add CRT views
 - Add Specific view for Handhelds systems
