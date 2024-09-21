@@ -4,24 +4,17 @@
 
 * ### Compatible a partir de la version 9.2 / Compatible from version 9.2
 
-# V1.1
-- Add genres logos
-# V1.0
-- Add CRT views
-- Add Specific view for Handhelds systems
-- Adjust gamelist on HD views
+# V1.2
+- Improve gamelist view
+- 2 gamelist view
 
 # Vue système / System View
 ![systemview1](https://github.com/serviettzky/dashboard-X/assets/83700961/d876cea5-bce5-4b18-bf88-e258ecc16792)
 
 # Vue Gamelist / Gamelist View
 
-![Vue gamelist](https://github.com/serviettzky/dashboard-X/assets/83700961/c62a3821-b61d-4ec6-983e-80eb60fc292c)
-
-# Vue Gamelist consoles portables / Handhelds Views
-
-![gamelistview2](https://github.com/serviettzky/dashboard-X/assets/83700961/ea54da16-998d-43e7-97b2-8bfac4bd9d80)
-![gamelistview3](https://github.com/serviettzky/dashboard-X/assets/83700961/bd7fb10e-ffa0-4f5c-b00c-33f2e8054d6c)
+![Vue gamelist 1](https://github.com/user-attachments/assets/f0e19945-fe49-4022-8511-f1d60cef9902)
+![Vue gamelist 2](https://github.com/user-attachments/assets/f6335459-c1df-4140-84b8-77c680898789)
 
 # Vue Menu / Menu view
 
