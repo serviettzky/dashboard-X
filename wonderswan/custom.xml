@@ -41,31 +41,18 @@
 			text.es="Sonido: 4 canales PCM, 32 muestras de 4 bits para cada canal"
 			text.it="Suono: 4 canali PCM, 32 campioni a 4 bit per ciascun canale"/>
 	</view>
+	
+	<view name="detailed">
+	
+		<image name="bezel" disabled="true"/>
+	
+	</view>
 
 	<view name="system, detailed, gameclip">
 		<image name="band1" color="8797A4"/>
 		<image name="band2" color="DBE0E1"/>
 		<image name="band3" color="E72835"/>
 		<image name="band4" color="282827"/>
-	</view>
-	
-	<view name="detailed">
-	
-	<image name="consolegame" extra="true" disabled="true"/>
-	<image name="bezel" extra="true" disabled="true"/>
-	
-	<video name="md_video" if="hd | fhd" pos="0.503 0.428" size="0.165 0.218" origin="0.5 0.5" zIndex="8"/>
-	<image name="md_image" if="hd | fhd" pos="0.858 0.810" maxSize="0.26 0.26" origin="0.5 0.5" zIndex="8"/>		
-	<image name="console" if="hd | fhd" extra="true" pos="0.5 0.5" maxSize="0.5 0.6" origin="0.5 0.5" path="./data/console.svg" zIndex="9"/>
-	
-	<video name="md_video" if="tate & not crt" pos="0.539 0.233" size="0.375 0.143" origin="0.5 0.5" zIndex="8"/>
-	<image name="md_image" if="tate & not crt" pos="0.737 0.845" maxSize="0.25 0.25" origin="0.5 0.5" zIndex="8"/>	
-	<image name="console" if="tate & not crt" extra="true" pos="0.5 0.25" maxSize="0.8 0.8" origin="0.5 0.5" path="./data/console.svg" zIndex="9"/>
-	
-	<video name="md_video" if="crt | jamma" pos="0.739 0.327" size="0.226 0.195" origin="0.49 0.49" zIndex="8"/>
-	<image name="md_image" if="crt | jamma" pos="0.739 0.75" maxSize="0.4 0.4" origin="0.5 0.5" zIndex="7"/>
-	<image name="console" if="crt | jamma" extra="true" pos="0.95 0.17" maxSize="0.45 0.45" origin="1 0" path="./data/console.svg" zIndex="9"/>
-	
 	</view>
 	
 </theme>

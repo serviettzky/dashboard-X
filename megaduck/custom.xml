@@ -49,6 +49,12 @@
 			text.it="Supporto: cartuccia ROM a 36 pin"/>
 	</view>
 
+	<view name="detailed">
+	
+		<image name="bezel" disabled="true"/>
+	
+	</view>
+	
 	<view name="system, detailed, gameclip">
 		<image name="band1" color="35b8c3"/>
 		<image name="band2" color="77a6b0"/>
@@ -56,10 +62,4 @@
 		<image name="band4" color="3f3f40"/>
 	</view>
 	
-	<view name="detailed">	
-
-	<image name="bezel" extra="true" disabled="true"/>
-	<video name="md_video" if="crt | jamma" pos="0.85 0.318" size="0.192 0.241" origin="0.5 0.5" zIndex="8"/>
-	
-	</view>
 </theme>

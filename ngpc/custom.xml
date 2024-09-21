@@ -53,30 +53,17 @@
 			text.it="Supporto: cartuccia ROM da 4 MB massimo"/>
 	</view>
 
+	<view name="detailed">
+	
+		<image name="bezel" disabled="true"/>
+	
+	</view>
+	
 	<view name="system, detailed, gameclip">
 		<image name="band1" color="E92A30"/>
 		<image name="band2" color="18A94E"/>
 		<image name="band3" color="1D9ED8"/>
 		<image name="band4" color="25374A"/>
-	</view>
-	
-	<view name="detailed">
-	
-	<image name="consolegame" extra="true" disabled="true"/>
-	<image name="bezel" extra="true" disabled="true"/>
-	
-	<video name="md_video" if="hd | fhd" pos="0.50 0.46" size="0.201 0.318" origin="0.5 0.5" zIndex="8"/>
-	<image name="md_image" if="hd | fhd" pos="0.858 0.810" maxSize="0.26 0.26" origin="0.5 0.5" zIndex="8"/>	
-	<image name="console" if="hd | fhd" extra="true" pos="0.5 0.5" maxSize="0.5 0.6" origin="0.5 0.5" path="./data/console.svg" zIndex="9"/>
-	
-	<video name="md_video" if="tate" pos="0.5 0.232" size="0.322 0.161" origin="0.5 0.5" zIndex="8"/>
-	<image name="md_image" if="tate" pos="0.737 0.845" maxSize="0.25 0.25" origin="0.5 0.5" zIndex="8"/>	
-	<image name="console" if="tate" extra="true" pos="0.5 0.25" maxSize="0.8 0.8" origin="0.5 0.5" path="./data/console.svg" zIndex="9"/>
-	
-	<video name="md_video" if="crt | jamma" pos="0.75 0.30" size="0.176 0.204" origin="0.5 0.5" zIndex="8"/>
-	<image name="md_image" if="crt | jamma" pos="0.95 0.9" maxSize="0.4 0.4" origin="1 1" zIndex="8"/>
-	<image name="console" if="crt | jamma" extra="true" pos="0.95 0.17" maxSize="0.4 0.5" origin="1 0" path="./data/console.svg" zIndex="9"/>
-	
 	</view>
 	
 </theme>

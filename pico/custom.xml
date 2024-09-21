@@ -26,6 +26,12 @@
 			text.it="Risoluzione: 320x224 pixel NTSC, 320x240 PAL"/>
 	</view>
 
+	<view name="detailed">
+	
+		<image name="bezel" disabled="true"/>
+	
+	</view>
+	
 	<view name="system, detailed, gameclip">
 		<image name="band1" color="6C378B"/>
 		<image name="band2" color="25BCC1"/>

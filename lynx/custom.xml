@@ -58,18 +58,17 @@
 			text.it="Suono: 4 canali, DAC a 8 bit"/>
 	</view>	
 
+	<view name="detailed">
+	
+		<image name="bezel" disabled="true"/>
+	
+	</view>
+	
 	<view name="system, detailed, gameclip">
 		<image name="band1" color="FD6420"/>
 		<image name="band2" color="404040"/>
 		<image name="band3" color="F38900"/>
 		<image name="band4" color="262626"/>	
-	</view>
-	
-	<view name="detailed">	
-
-	<image name="bezel" extra="true" disabled="true"/>
-	<video name="md_video" if="crt | jamma" pos="0.75 0.318" maxSize="0.3 0.3" origin="0.5 0.5" zIndex="8"/>
-	
 	</view>
 	
 </theme>

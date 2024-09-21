@@ -54,26 +54,18 @@
 			text.it="Dimensione cartuccia: 512 KB"/>
 
 	</view>
+	
+	<view name="detailed">
+	
+		<image name="bezel" disabled="true"/>
+	
+	</view>
+	
 	<view name="system, detailed, gameclip">
 		<image name="band1" color="FCE200"/>
 		<image name="band2" color="004F8A"/>
 		<image name="band3" color="999998"/>
 		<image name="band4" color="8C8C8C"/>
-	</view>
-	
-	<view name="detailed">
-	
-	<image name="consolegame" extra="true" disabled="true"/>
-	<image name="bezel" extra="true" disabled="true"/>
-	
-	<video name="md_video" if="hd | fhd" pos="0.5 0.4" size="0.140 0.172" origin="0.5 0.5" zIndex="8"/>
-	<image name="md_image" if="hd | fhd" pos="0.858 0.810" maxSize="0.26 0.26" origin="0.5 0.5" zIndex="8"/>	
-	<image name="console" if="hd | fhd" extra="true" pos="0.5 0.5" maxSize="0.5 0.6" origin="0.5 0.5" path="./data/console.svg" zIndex="9"/>
-	
-	<video name="md_video" if="crt | jamma" pos="0.812 0.322" size="0.143 0.133" origin="0.5 0.5" zIndex="8"/>
-	<image name="md_image" if="crt | jamma" pos="0.812 0.8" maxSize="0.25 0.25" origin="0.5 0.5" zIndex="7"/>
-	<image name="console" if="crt | jamma" extra="true" pos="0.95 0.17" maxSize="0.45 0.45" origin="1 0" path="./data/console.svg" zIndex="9"/>
-	
 	</view>
 	
 </theme>

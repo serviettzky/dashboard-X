@@ -54,6 +54,12 @@
 
 		<text name="info10" extra="true" text="Media : 4.7/8.54 GB DVD"/>
 	</view>
+	
+	<view name="detailed">
+	
+		<image name="bezel" disabled="true"/>
+	
+	</view>
 
 	<view name="system, detailed, gameclip">
 		<image name="band1" color="24A9E2"/>

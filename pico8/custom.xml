@@ -72,7 +72,13 @@
 			text.es="Sonido: blerps de chip de 4 canales"
 			text.it="Suono: chip blerp a 4 canali"/>
 	</view>
-
+	
+	<view name="detailed">
+	
+		<image name="bezel" disabled="true"/>
+	
+	</view>
+	
 	<view name="system, detailed, gameclip">
 		<image name="band1" color="ff004d"/>
 		<image name="band2" color="ffec27"/>

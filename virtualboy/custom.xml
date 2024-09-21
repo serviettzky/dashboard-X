@@ -65,16 +65,17 @@
 			text.it="Suono: stereo a 16 bit"/>
 	</view>
 
+	<view name="detailed">
+	
+		<image name="bezel" disabled="true"/>
+	
+	</view>
+	
 	<view name="system, detailed, gameclip">
 		<image name="band1" color="363636"/>
 		<image name="band2" color="FE0016"/>
 		<image name="band3" color="8A8C8E"/>
 		<image name="band4" color="232323"/>
 	</view>
-	
-	<view name="detailed">	
 
-	<image name="bezel" extra="true" disabled="true"/>
-		
-	</view>
 </theme>

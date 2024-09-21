@@ -73,17 +73,17 @@
 			text.it="considerata la mascotte della serie GW."/>
 	</view>
 
+	<view name="detailed">
+	
+	<image name="bezel" disabled="true"/>
+	
+	</view>
+	
 	<view name="system, detailed, gameclip">
 		<image name="band1" color="C4353D"/>
 		<image name="band2" color="C2904A"/>
 		<image name="band3" color="853641"/>
 		<image name="band4" color="4C301C"/>
-	</view>
-	
-	<view name="detailed">	
-	
-	<image name="bezel" extra="true" disabled="true"/>
-	
 	</view>
 	
 </theme>

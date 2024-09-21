@@ -53,26 +53,17 @@
 			text.it="Supporto: cartuccia ROM da 4 MB massimo"/>
 	</view>
 
+	<view name="detailed">
+	
+		<image name="bezel" disabled="true"/>
+	
+	</view>
+	
 	<view name="system, detailed, gameclip">
 		<image name="band1" color="B2B8BD"/>
 		<image name="band2" color="E92A30"/>
 		<image name="band3" color="25374A"/>
 		<image name="band4" color="0F1520"/>
-	</view>
-	
-	<view name="detailed">
-	
-	<image name="consolegame" extra="true" disabled="true"/>
-	<image name="bezel" extra="true" disabled="true"/>
-	
-	<video name="md_video" if="hd | fhd" pos="0.50 0.46" size="0.201 0.318" origin="0.5 0.5" zIndex="8"/>
-	<image name="md_image" if="hd | fhd" pos="0.858 0.810" maxSize="0.26 0.26" origin="0.5 0.5" zIndex="8"/>	
-	<image name="console" if="hd | fhd" extra="true" pos="0.5 0.5" maxSize="0.5 0.6" origin="0.5 0.5" path="./data/console.svg" zIndex="9"/>
-	
-	<video name="md_video" if="crt | jamma" pos="0.725 0.318" size="0.192 0.241" origin="0.5 0.5" zIndex="8"/>
-	<image name="md_image" if="crt | jamma" pos="0.725 0.78" maxSize="0.35 0.35" origin="0.5 0.5" zIndex="7"/>
-	<image name="console" if="crt | jamma" extra="true" pos="0.95 0.17" maxSize="0.45 0.45" origin="1 0" path="./data/console.svg" zIndex="9"/>
-	
 	</view>
 	
 </theme>
