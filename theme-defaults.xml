@@ -53,17 +53,14 @@
 	
 	<view name="detailed">
 	
-	<textlist name="gamelist" pos="0.035 0.15" size="0.20 0.75" fontPath="./data/fonts/Xbox Original Bold.ttf" fontSize="0.025"
-			selectorColor="ffffff" selectedColor="000000" selectorImagePath="./data/arts/xbox_tile.svg" primaryColor="8ca700" secondaryColor="ffffff" alignment="left" horizontalMargin="0.015" lineSpacing="5.5"/>
+	<textlist name="gamelist" fontPath="./data/fonts/SST Bold.ttf" selectorColor="ffffff" selectedColor="000000" selectorImagePath="./data/arts/xbox_tile.svg"
+			primaryColor="8ca700" secondaryColor="ffffff" alignment="left"/>
 	
 	<image name="logo" pos="0.699 0.166" origin="1 0" size="0.20 0.06" disabled="true"/>
 	
-	<image name="consolegame, arcadecab" extra="true" origin="0.5 0.5" pos="0.854 0.5" maxSize="0.228 0.316"/>
-	
-	<image name="xboxlistbg" extra="true" pos="0.002 0.098" size="0.242 0.821" path="./data/arts/xbox_listheader.svg" zIndex="6"/>
-	<image name="xboxtitleheader" extra="true" pos="0.288 0.05" maxSize="0.421 0.141" path="./data/arts/xbox_titleheader.svg" zIndex="6"/>		
-	<image name="xboxmediaheader" extra="true" pos="0.995 0.995" maxSize="0.255 0.324" origin="1 1" path="./data/arts/xbox_infosheader.svg" zIndex="6"/>
-	<image name="xboxdescheader" extra="true" pos="0.995 0.005" maxSize="0.255 0.324" origin="1 0" path="./data/arts/xbox_descheader.svg" zIndex="6"/>
+	<image name="xboxlistbg" extra="true" pos="0.002 0.098" size="0.242 0.821" path="./data/arts/xbox_listheader.svg" zIndex="6" color="ffffffaa"/>
+	<image name="xboxdescheader" extra="true" path="./data/arts/xbox_descheader.svg" zIndex="6" color="ffffffaa"/>
+	<image name="xboxinfoheader" extra="true" path="./data/arts/xbox_infosheader.svg" zIndex="6" color="ffffffaa"/>
 	
 	//metadatas	
 	
@@ -71,13 +68,13 @@
 	<image name="md_image" zIndex="8"/>	
 	<image name="bezel" path="./data/arts/bezel.png" zIndex="9"/>	
 	
-	<text name="md_systemname, md_lbl_gamelist, md_lbl_description, md_lbl_artwork, md_genre" extra="true" fontPath="./data/fonts/SST bold.ttf" color="8ca700"/>
+	<text name="md_systemname, md_lbl_gamelist, md_lbl_description, md_lbl_infos, md_genre" extra="true" fontPath="./data/fonts/SST bold.ttf" color="8ca700"/>
 	
 	<text name="md_systemname" extra="true" fontPath="./data/fonts/SST bold.ttf" color="8ca700" text="$fullname"/>	
 	
 	<text name="md_lbl_gamelist" extra="true" text="GAMELIST" text.fr="LISTE DE JEUX"/>	
 	<text name="md_lbl_description" extra="true" text="DESCRIPTION"/>
-	<text name="md_lbl_artwork" extra="true" text="ARTWORK"/>
+	<text name="md_lbl_infos" extra="true" text="INFOS"/>
 	
 	<text name="md_description" fontPath="./data/fonts/SST light.ttf" color="a8a8a8"/>	
 		

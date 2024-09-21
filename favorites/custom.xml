@@ -10,7 +10,13 @@
 			text.es="Encuentra todos tus juegos favoritos en un solo sistema."
 			text.it="Trova tutti i tuoi giochi preferiti in un unico sistema."/>		
 	</view>
-
+	
+	<view name="detailed">
+	
+	<image name="bezel" disabled="true"/>
+	
+	</view>
+	
 	<view name="system, detailed, gameclip">
 	<extras>
 		<image name="band1" color="F6DD08"/>

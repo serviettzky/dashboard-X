@@ -1,0 +1,59 @@
+<theme>
+	<formatVersion>5</formatVersion>
+	 
+	<view name="detailed">
+	
+	<textlist name="gamelist" pos="0.031 0.15" size="0.2 0.72" fontPath="./data/fonts/Xbox Original Bold.ttf" fontSize="0.022"
+			selectorColor="ffffff" selectedColor="000000" selectorImagePath="./data/arts/xbox_tile.svg" primaryColor="8ca700" secondaryColor="ffffff" alignment="left" horizontalMargin="0.008" lineSpacing="2"/>
+	
+	<image name="logo" pos="0.699 0.166" origin="1 0" Size="0.20 0.06" disabled="true"/>
+	
+	<image name="consolegame, arcadecab" extra="true" origin="0.5 0.5" pos="0.2 0.065" maxSize="0.08 0.08"/>
+	
+	<image name="xboxlistbg" extra="true" pos="0.002 0.098" size="0.242 0.821" path="./data/arts/xbox_listheader.svg" zIndex="6"/>
+	<image name="xboxinfoheader" extra="true" pos="0.995 0.005" maxSize="0.255 0.48" origin="1 0"/>
+	<image name="xboxdescheader" extra="true" pos="0.995 0.995" maxSize="0.255 0.48" origin="1 1"/>
+	
+	//metadatas	
+	
+	<video name="md_video" pos="0.5 0.7" maxSize="0.5 0.45" origin="0.5 0.5"/>
+	<image name="md_image" pos="0.5 0.22" maxSize="0.4 0.4" origin="0.5 0.5"/>	
+	<image name="bezel" extra="true" pos="0.5 0.7" maxSize="0.51 0.46" origin="0.5 0.5"/>	
+	
+	<text name="md_lbl_developer, md_lbl_publisher, md_lbl_players, md_lbl_playcount, md_lbl_releasedate, md_lbl_lastplayed" size="0.1 0.022" fontSize="0.02" forceUppercase="1" alignment="left"/>
+	<text name="md_lbl_description, md_lbl_gamelist, md_lbl_infos, md_systemname" extra="true" size="0.12 0.016" fontSize="0.015"/>
+	<text name="md_developer, md_publisher, md_players, md_playcount"  size="0.15 0.022" fontSize="0.02" alignment="left"/>	
+	
+	<text name="md_lbl_gamelist" extra="true" pos="0.144 0.138 " origin="1 1" alignment="right"/>		
+	<text name="md_lbl_infos" extra="true" pos="0.846 0.033"/>
+		
+	<text name="md_genre" pos="0.77 0.07" size="0.18 0.033" fontSize="0.03" alignment="center" forceUppercase="1"/>
+	
+	<text name="md_lbl_developer" pos="0.764 0.12"/>
+	<text name="md_developer" pos="0.764 0.14"/>
+	
+	<text name="md_lbl_publisher" pos="0.764 0.17"/>
+	<text name="md_publisher" pos="0.764 0.19"/>
+	
+	<text name="md_lbl_releasedate" pos="0.764 0.27"/>
+	<text name="md_lbl_lastplayed" pos="0.764 0.32"/>
+	
+	<text name="md_lbl_players" pos="0.764 0.22"/>
+	<text name="md_players" pos="0.764 0.24"/>
+	
+	<text name="md_lbl_playcount" pos="0.764 0.37"/>
+	<text name="md_playcount" pos="0.764 0.39"/>
+	
+	<text name="md_lbl_description" extra="true" pos="0.846 0.949"/>	
+	<text name="md_description" pos="0.764 0.53" size="0.182 0.4" fontSize="0.02" alignment="left" lineSpacing="1.1"/>
+		
+	<text name="md_systemname" extra="true" pos="0.012 0.27" size="0.08 0.016" fontSize="0.015" forceUppercase="1" rotation="-90" alignment="left"/>	
+	
+	<datetime name="md_releasedate" pos="0.764 0.29" size="0.15 0.022" fontSize="0.02" alignment="left"/>	
+	<datetime name="md_lastplayed" pos="0.764 0.34" size="0.8 0.022" fontSize="0.02" alignment="left"/>			
+	
+	<rating name="md_rating" pos="0.8 0.42" size="0.04 0.04"/>
+	
+	</view>
+	
+</theme>

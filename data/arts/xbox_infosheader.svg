@@ -1,1 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 490.89 351.3"><defs><style>.a44e5b0c-a339-4b3e-bfe6-dac395c0b726,.a4a6ab45-ac2b-4540-b2ff-af3b7e068e16{stroke:#638d29;stroke-miterlimit:10;stroke-width:0.5px;}.a4a6ab45-ac2b-4540-b2ff-af3b7e068e16{fill:url(#aab3962d-07ab-482f-b44a-462e81e78039);}.a44e5b0c-a339-4b3e-bfe6-dac395c0b726{fill:url(#bf488496-74ae-4972-8b81-37648f1e16fb);}</style><linearGradient id="aab3962d-07ab-482f-b44a-462e81e78039" x1="-179.97" y1="-942.47" x2="259.89" y2="-942.47" gradientTransform="translate(260.14 -789.38) rotate(180)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#0f3304"/><stop offset="1" stop-color="#051a00"/></linearGradient><linearGradient id="bf488496-74ae-4972-8b81-37648f1e16fb" x1="-230.5" y1="-1031.73" x2="73.76" y2="-1031.73" xlink:href="#aab3962d-07ab-482f-b44a-462e81e78039"/></defs><g id="a6ae8186-3368-4a68-959b-e7e0cd54773a" data-name="Calque 2"><g id="b01fb658-fc50-46c7-ab95-3f4fc2c8d048" data-name="Calque 1"><polygon class="a4a6ab45-ac2b-4540-b2ff-af3b7e068e16" points="440.11 8.15 439.9 265.26 411.55 294.43 185.56 294.43 176.93 305.94 40.52 305.94 0.25 259.51 0.25 48.31 44.1 0.63 432.71 0.25 440.11 8.15"/><polygon class="a44e5b0c-a339-4b3e-bfe6-dac395c0b726" points="190.7 298.95 413.19 298.95 445.45 265.81 445.45 136.86 455.1 133.78 460.44 133.78 490.64 169.52 490.64 317.85 463.11 346.41 311.7 346.41 306.36 350.93 287.37 323.61 200.76 323.4 186.38 304.91 190.7 298.95"/></g></g></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 490.9 527.2" style="enable-background:new 0 0 490.9 527.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);stroke:#638D29;stroke-width:0.5;stroke-miterlimit:10;}
+	.st1{fill:url(#SVGID_2_);stroke:#638D29;stroke-width:0.5;stroke-miterlimit:10;}
+</style>
+<g id="bc6db7cc-769f-4109-91e1-176c81ae2378">
+</g>
+<g id="Calque_1">
+	<g id="a6ae8186-3368-4a68-959b-e7e0cd54773a">
+		<g id="b01fb658-fc50-46c7-ab95-3f4fc2c8d048">
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="70.92" y1="1247.3676" x2="510.7812" y2="1247.3676" gradientTransform="matrix(-1 0 0 -1 511.0312 1536.7054)">
+				<stop  offset="0" style="stop-color:#0F3304"/>
+				<stop  offset="1" style="stop-color:#051A00"/>
+			</linearGradient>
+			<polygon class="st0" points="432.7,527 42,525.8 0.3,488.6 0.3,87 41.3,52.2 182.7,51.7 188.2,59.4 412.8,59.4 439.9,87.4 
+				440.1,514.5 			"/>
+			
+				<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="20.39" y1="1427.762" x2="324.65" y2="1427.762" gradientTransform="matrix(-1 0 0 -1 511.0312 1536.7054)">
+				<stop  offset="0" style="stop-color:#0F3304"/>
+				<stop  offset="1" style="stop-color:#051A00"/>
+			</linearGradient>
+			<polygon class="st1" points="186.4,46.4 200.8,27.9 287.4,27.7 306.4,0.4 311.7,4.9 463.1,4.9 490.6,33.4 490.6,181.8 
+				460.4,217.5 455.1,217.5 445.5,214.4 445.5,85.5 413.2,52.3 190.7,52.3 			"/>
+		</g>
+	</g>
+</g>
+</svg>
